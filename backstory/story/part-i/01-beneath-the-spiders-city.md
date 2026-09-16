@@ -14,77 +14,79 @@ To someone from the surface, Menzoberranzan might have seemed to exist in perpet
 
 To the drow, it was simply home.
 
-The city had been built in darkness, raised by people who had learned to live within it so completely that they no longer thought of it as an absence of light. Darkness concealed. Darkness protected. Darkness allowed secrets to survive. It was as natural to the drow as the stone beneath their feet.
+The city had been built in darkness, raised by people who had learned to live within it so completely that they no longer thought of it as an absence of light. Darkness concealed secrets, sheltered ambition, and gave the unwary somewhere to disappear. It was as natural to the drow as the stone beneath their feet.
 
 And yet there were things even darkness could not hide.
 
-A boy's eyes watched from the shadow of a doorway as a male servant knelt in the middle of one of House Freth's halls.
+A boy sat in the shadow of a doorway, watching a male servant kneel in the middle of one of House Freth's halls.
 
-The boy was young enough that his feet did not quite reach the floor when he sat on the low stone ledge beside the doorway. He had been sent there to wait. He had learned not to ask why.
+He was young enough that his feet did not quite reach the floor. He had been sent there to wait, and he had learned early that being told to wait was not an invitation to ask why.
 
 The servant had made some mistake.
 
-The boy did not know what it was. Perhaps the servant had carried a message to the wrong person. Perhaps he had spoken when he should have remained silent. Perhaps he had failed to anticipate what one of the household's priestesses expected of him.
+The boy did not know what it was. Perhaps he had carried a message to the wrong person. Perhaps he had spoken when silence was expected. Perhaps he had simply failed to anticipate what one of the household's priestesses wanted from him.
 
-It hardly mattered.
+The reason hardly mattered.
 
-A priestess stood before him, dressed in the dark finery of House Freth. She did not raise her voice. She did not need to.
+A priestess stood before him, dressed in the dark finery of House Freth. She was not angry in any way the boy could recognize. Her expression remained composed, almost bored, as though the kneeling servant were an inconvenience that had interrupted a more important thought.
 
 The servant kept his head bowed.
 
 A spider crawled slowly across the floor between them.
 
-It was not an unusual sight. Spiders were everywhere in Menzoberranzan, and within a noble house they were more than creatures. They were reminders. Symbols. Sacred things when kept and treated according to the will of Lolth.
+It was not an unusual sight. Spiders lived throughout Menzoberranzan, and within a noble house they were more than creatures. They were reminders of Lolth, symbols of her favor, and sometimes instruments of her displeasure.
 
-The servant's eyes followed the spider for half a heartbeat.
+The servant's gaze flickered toward it.
 
-The priestess noticed.
+Then, perhaps from fear, perhaps from simple instinct, his eyes rose.
 
-The boy noticed her noticing.
+For the briefest instant, he met the priestess's gaze.
 
-That was what happened in House Freth. People watched one another. The smallest movement could carry meaning, and the safest person in the room was often the one who noticed it first.
+The boy saw the change in her expression.
 
-The priestess said something too quietly for the boy to hear.
+Not anger.
 
-The servant answered.
+Decision.
 
-The priestess lifted one hand.
+The priestess raised one hand.
 
-The servant immediately lowered his head again.
+A pulse of violet light passed through the servant's body.
 
-No one intervened.
+He had time for a single, strangled breath before his flesh softened and collapsed inward. Skin blistered, darkened, and ran from bone. The smell reached the boy a moment later, sharp and sickening, but he did not move. He had been taught better than to react to a priestess's punishment.
+
+The servant's body slumped onto the stone floor, already more liquid than flesh.
+
+The priestess lowered her hand.
+
+For a heartbeat, the hall was silent.
+
+Then the household resumed its work.
+
+A servant carrying a tray stepped around the remains without spilling a drop. Another quietly fetched a cloth. A warrior passing through the corridor glanced once toward the floor and continued on his way.
 
 No one looked surprised.
 
-A few servants continued their work along the edges of the hall. One carried a tray. Another stood motionless with his eyes fixed on the floor. A pair of young noble females passed through an adjoining corridor and barely glanced toward the scene.
+The boy watched them, trying to understand what had just happened in the only way he knew how: by memorizing it.
 
-The boy watched them all.
+The priestess had not needed to explain the punishment.
 
-He watched the priestess.
+The servant had looked where he should not have looked.
 
-He watched the servant.
+That was enough.
 
-He watched the spider.
+The boy lowered his eyes.
 
-He watched the people pretending not to watch.
+He did not think the scene was cruel. He did not have another word for it. It was simply one of the things that happened in House Freth, and House Freth was the only home he had ever known.
 
-He did not think the scene was cruel.
+Later, he would learn that the newest slaves had arrived only recently, taken from a surface settlement and brought down into the city. They had not learned easily. Humans, the household had discovered, were poor slave material: too stubborn, too independent, too inclined to believe that defiance still meant something.
 
-He did not have another word for it.
+Still, they smelled better than goblins.
 
-It was simply something that happened.
+In Menzoberranzan, even such judgments could be practical matters.
 
-The servant was dismissed.
+The remains of the servant were cleaned away. The priestess continued on her way. The hall settled back into its usual rhythm, as though nothing worth remembering had happened there.
 
-He rose, bowed deeply, and disappeared through a side passage without looking at anyone.
-
-The priestess continued on her way.
-
-The spider disappeared beneath a piece of furniture.
-
-The hall returned to normal.
-
-The boy remained where he was for another few moments before climbing down from the ledge.
+The boy remained in the doorway for another few moments before climbing down from the ledge.
 
 He had learned something, although no one had taught him the lesson directly.
 
@@ -102,11 +104,7 @@ It could also close one forever.
 
 A house that appeared weak invited enemies. A house that grew too quickly attracted suspicion. A house that lost the favor of Lolth could discover how quickly its name became meaningless.
 
-So the houses watched one another.
-
-The priestesses watched the houses.
-
-The servants watched everyone.
+The houses watched one another, measuring weakness and opportunity in equal measure. Priestesses watched the houses. Servants carried what they learned from one chamber to another. Warriors listened when they were supposed to, and sometimes when they were not.
 
 And above them all stood Lolth.
 
@@ -122,7 +120,7 @@ A priestess was not simply a woman. She was an agent of the goddess.
 
 A noble was not simply a person. She represented a house.
 
-A servant was not simply someone who worked. A servant heard things.
+A servant was not simply someone who worked. A servant heard things, carried messages, and knew when to keep his mouth shut.
 
 And a male learned very early that there were rooms he should not enter, conversations he should not interrupt, and eyes he should never meet.
 
@@ -144,7 +142,15 @@ Servants carried messages from one chamber to another. Warriors trained behind c
 
 And among all of this lived a boy who had learned how to become almost invisible.
 
-He had learned it without instruction.
+Not unseen.
+
+The servants knew him. They moved aside when he passed, answered when he spoke, and brought him what he required. He was still a male of House Freth, and that placed him above them, however young he might be. But above him stood the noble males, and above them the females, and above the females the noble daughters and priestesses whose authority could silence a room.
+
+At the summit stood the Matron Mother.
+
+The boy understood the hierarchy without ever needing to recite it.
+
+He had learned it in the way people moved around one another.
 
 He knew which corridors were safe to cross and which ones should be avoided. He knew when a group of noble females approached, he should move aside before they reached him. He knew to lower his eyes when a priestess entered a room. He knew that a Matron Mother's attention was not something a male child sought.
 
@@ -158,29 +164,15 @@ There was always movement somewhere in House Freth, even during the quietest hou
 
 The house never truly slept.
 
-The boy opened his eyes and remained still.
+The boy opened his eyes and remained still for a moment, listening to the muted life beyond his room.
 
-His room was small compared with the chambers occupied by the noble females. The walls were plain dark stone. A faint violet glow entered through the doorway, barely strong enough to outline the furniture.
+His room was small compared with the chambers occupied by the noble females. The walls were plain dark stone, and a faint violet glow entered through the doorway, barely strong enough to outline the furniture.
 
-His bed.
-
-His chest.
-
-A small table.
-
-The doorway.
+His bed, his chest, a small table, the doorway.
 
 Nothing moved.
 
-He listened.
-
-Footsteps.
-
-Far away.
-
-He waited until they had passed.
-
-Then he rose.
+He listened until the footsteps outside had faded, then rose.
 
 He dressed himself carefully. No servant had been assigned to him, and he had never expected one. He fastened his clothing, checked the straps twice, and made sure everything was where it belonged before leaving the room.
 
@@ -198,19 +190,13 @@ The boy understood that much.
 
 He stepped into the corridor.
 
-Two servants approached from the opposite direction. He moved aside before they reached him. Neither acknowledged him. They had no reason to.
+Two servants approached from the opposite direction. They noticed him, moved aside, and lowered their eyes just enough to acknowledge the difference between them. One carried a stack of folded garments and nearly dropped them when he hurried to clear the passage.
 
-He was a male child of House Freth.
-
-That gave him a place.
-
-It did not give him importance.
+The boy did not comment.
 
 He continued toward the main chambers.
 
-The architecture of the house unfolded around him as he walked: smooth arches disappearing into darkness, narrow stairways leading to higher galleries, carved stonework depicting spiders and webs, weapons mounted along the walls. The house's insignia appeared everywhere.
-
-He had stopped noticing it.
+The architecture of the house unfolded around him as he walked: smooth arches disappearing into darkness, narrow stairways leading to higher galleries, carved stonework depicting spiders and webs, weapons mounted along the walls. The house's insignia appeared everywhere, familiar enough that he no longer paid attention to it.
 
 That was one of the strange things about growing up in Menzoberranzan. The things that might have seemed frightening or unnatural to an outsider became ordinary when they surrounded you from birth.
 
@@ -222,15 +208,11 @@ The spiders were ordinary.
 
 The whispered conversations were ordinary.
 
-So was the way everyone watched everyone else.
+So was the constant calculation of who could command whom.
 
-A priestess could enter a room without saying a word and change the behavior of everyone inside it.
+A priestess could enter a room without saying a word and change the behavior of everyone inside it. A noble daughter could dismiss a servant with a gesture. A male warrior could command respect from those beneath him while lowering his eyes before the women above him. Even a child of noble blood could expect obedience from a servant who would never have dared address a priestess in the same manner.
 
-A servant could know the fate of a noble house before the noble house itself did.
-
-A child could learn more from the way someone stood than from anything they said.
-
-The boy was good at watching.
+The boy was good at noticing these distinctions.
 
 It was one of the few things nobody had tried to take from him.
 
@@ -240,33 +222,23 @@ They were already awake, speaking quietly to one another.
 
 He stopped at the entrance.
 
-They noticed him.
+They noticed him, and the conversation ended so smoothly that he could not tell whether it had been interrupted or simply completed.
 
-The conversation ended.
+One sister looked at him briefly. The other continued arranging something on the table.
 
-One sister looked at him briefly.
-
-The other continued arranging something on the table.
-
-The boy lowered his eyes.
-
-He waited.
+The boy lowered his eyes and waited.
 
 Neither spoke to him.
 
-After a moment, he moved toward the table and sat down.
+After a moment, he moved toward the table and took his place.
 
-A servant brought food.
-
-He ate.
+A servant brought food and set it before him with a brief bow. The boy acknowledged him with a glance, and the servant withdrew immediately.
 
 His sisters resumed their conversation.
 
 They did not include him.
 
-They sometimes spoke about him. He knew that much. Whether they were doing so now, he could not tell.
-
-He had learned not to assume.
+They sometimes spoke about him. He knew that much. Whether they were doing so now, he could not tell, and he had learned not to assume.
 
 Silence could mean many things.
 
@@ -296,17 +268,11 @@ He had never known what a mother was supposed to be.
 
 To him, she was the Matron Mother of House Freth, a woman whose authority reached into every part of the household. That was enough. There was nothing missing because he had never been shown that anything else could exist.
 
-He finished eating and left when the others did.
+He finished his meal and rose when the others did.
 
 The day began.
 
-Lessons came first.
-
-Then training.
-
-Then more lessons.
-
-The children of the noble houses learned early that survival depended on understanding people, but not in the way a surface child might have been taught to understand them.
+Lessons came first, followed by training and then more lessons. The children of the noble houses learned early that survival depended on understanding people, but not in the way a surface child might have been taught to understand them.
 
 They were not encouraged to ask what another person felt.
 
@@ -326,21 +292,9 @@ And a male carried the expectations of a society that had already decided what h
 
 These lessons were rarely written down. They did not need to be.
 
-They were taught through a thousand small moments.
+They were taught through a thousand small moments: a male stepping aside before a priestess reached him, a servant waiting silently outside a noble chamber, a daughter speaking while her brother listened, a Matron Mother making a decision that required no explanation.
 
-A male stepped aside.
-
-A priestess walked through.
-
-A servant waited.
-
-A daughter spoke.
-
-A son listened.
-
-A Matron Mother decided.
-
-And the household moved.
+The household moved according to these distinctions so naturally that most of its inhabitants no longer thought of them as rules at all.
 
 The boy watched all of it.
 
@@ -354,17 +308,7 @@ The instructor gave the signal.
 
 The older boy attacked.
 
-The first strike came toward the boy's shoulder.
-
-He stepped aside.
-
-The second came faster.
-
-He caught it with his blade.
-
-The third struck his ribs.
-
-Pain flashed through him. He stumbled backward.
+The first strike came toward the boy's shoulder. He stepped aside, but the second came faster, forcing him to catch it with his blade. The third struck his ribs before he could recover, and pain flashed through him as he stumbled backward.
 
 The older boy smiled.
 
@@ -372,21 +316,9 @@ The instructor said nothing.
 
 The boy raised his blade again.
 
-He attacked.
+He attacked, not because he believed he would win, but because stopping was not an option.
 
-Not because he believed he would win.
-
-Because stopping was not an option.
-
-The older boy came at him again.
-
-This time, the boy watched his shoulders.
-
-Then his hands.
-
-Then his feet.
-
-He stopped watching the blade.
+The older boy came at him again. This time, the boy watched his shoulders, then his hands, then the position of his feet. He stopped watching the blade itself.
 
 The next strike came.
 
@@ -406,27 +338,13 @@ He did not yet understand why.
 
 When the lesson ended, the other student walked away without looking back. The boy remained in the chamber for a moment, holding the practice blade loosely at his side.
 
-He could still feel the ache in his ribs.
+He could still feel the ache in his ribs, and he could still remember the instructor's expression. It had lasted less than a second, but that was enough to tell him there had been something worth seeing.
 
-He could still remember the instructor's expression.
-
-It had lasted less than a second.
-
-That was enough.
-
-There were things worth watching for.
-
-He simply did not know yet which ones mattered.
+He simply did not know yet which things mattered.
 
 Beyond the training chamber, Menzoberranzan continued its endless life.
 
-A merchant argued over the price of a shipment.
-
-A priestess delivered a command.
-
-Two noble houses exchanged words whose meaning mattered far more than their polite tone suggested.
-
-A servant carried a message that might change someone's future.
+A merchant argued over the price of a shipment. A priestess delivered a command. Two noble houses exchanged words whose meaning mattered far more than their polite tone suggested. A servant carried a message that might change someone's future.
 
 Somewhere, a child was being taught to pray to Lolth.
 
