@@ -21,7 +21,7 @@
 - One particularly important form of torment involved the sisters summoning or obtaining **unnaturally large spiders** and placing them in Layn's bed.
 - They told young Layn that killing the spiders, driving them away, or otherwise interfering with them would be **blasphemy against Lolth**.
 - Layn therefore believed he had no choice but to lie still while the spiders crawled across his skin.
-- This was not merely unpleasant childhood teasing. It became a profound psychological trauma that Layn still carries into adulthood.
+- This became a profound psychological trauma that Layn still carries into adulthood.
 - Even years later, seeing a spider can trigger the memory and fear associated with what his sisters did to him.
 - His mother, the Matron Mother of House Freth, **ignored him altogether**. She never interacted with him and never even met his eyes.
 
@@ -52,48 +52,53 @@ That changes only later, when Layn's refusal to act during the House Freth confl
 
 ## 5. The House Freth attack — canon first
 
-The House Freth attack must be anchored to the published lore.
+The relevant pages of *Homeland* now available to us establish the canonical framework for the attack. The exact placement of Layn inside these events remains our story and must not overwrite the published outcome.
 
-- House Freth suffers an attack in the established history.
-- The battle does **not** simply result in the complete destruction of House Freth.
-- The canonical account includes **key nobles surviving** the attack.
-- The exact identities, actions, and chronology of those survivors must be verified against the relevant published material before we place Layn precisely within the event.
-- Layn's story must therefore be constructed around the canonical outcome rather than replacing it with a different outcome.
-
-For our narrative purposes, the battle can still be experienced by Layn as a catastrophic crisis, but we must not state that House Freth was destroyed, or that specific canonical characters died, unless the source establishes it.
+- House Freth is attacked by **House Teken'Duis**.
+- The attack devastates House Freth.
+- The published aftermath explicitly accounts for **three surviving young members of House Freth: two females and one male**.
+- Those surviving members are taken under the protection of **House Baenre**.
+- The attacking House Teken'Duis is subsequently targeted by Menzoberranzan's retaliation and is destroyed.
+- **Layn is not one of the three canonical survivors.** The three survivors in the published scene are other members of House Freth.
+- Layn instead survives the attack and **fakes his own death**, allowing him to disappear without changing the canonical group of survivors.
+- Layn's exact position and actions during the attack are our story and must be fitted around the published sequence.
 
 ## 6. The decisive moment in Layn's version of the battle
 
-The intended Layn-specific scene occurs during the critical fighting within House Freth, subject to verification against the canonical account.
+At the apex of the attack, Layn reaches the halls of the Matron Mother of House Freth.
 
-At the decisive moment:
+The Matron Mother of House Freth — **Martin Freth** in our current story terminology — is engaged in a desperate confrontation with **two powerful high priestesses from the opposing house**.
 
-- The Matron Mother of House Freth and a powerful priestess from the attacking side are engaged in a confrontation.
-- Their magical concentration / spellcasting is locked in a contest whose outcome is uncertain from Layn's perspective.
-- Layn is present at precisely this critical moment.
-- He has the ability to influence the confrontation.
+The eventual combat will be designed later as an actual D&D encounter. For the story outline, the only required facts are:
 
-Layn sees **three possible paths**.
+- The Matron Mother is vastly more powerful than Layn.
+- The two opposing priestesses are also vastly more powerful than Layn.
+- Layn nevertheless has a legitimate opportunity to affect the fight.
+- He is a trained drow soldier by this point, so he can plausibly exploit a brief tactical opening even as a level-1 character.
+- For example, he may have an opportunity to attack one priestess and potentially disrupt her concentration, or use another tactical option available to a trained drow warrior.
+- The exact spells, levels, battlefield, mechanics, and final magical clash are intentionally **left for later**.
 
-### 1. Break the enemy priestess's concentration
+The important narrative point is that Layn understands that he can influence the outcome.
 
-Layn can intervene against the attacking priestess and help his own house.
+## 7. Layn's three possible choices
+
+At the decisive moment, Layn can choose among three paths.
+
+### 1. Break an opposing priestess's concentration
+
+Layn can intervene against one of the attacking priestesses and help his own house.
 
 This would help House Freth, oppose the attacking side, and potentially advance Lolth's plan for that moment.
 
 This is the most straightforwardly drow response: recognize the opportunity, choose the side that benefits you, and act decisively.
 
-**This is a path Lolth could bless.**
-
 ### 2. Break the Matron Mother's concentration
 
-Layn can instead intervene against the Matron Mother and help destroy his own house.
+Layn can instead intervene against the Matron Mother and help bring about the fall of his own house.
 
 This would undermine House Freth, assist the attacking side, and potentially advance Lolth's plan if Lolth desires the fall of House Freth.
 
-This is the twisted, two-faced, treacherous option. It is the kind of opportunism that can flourish within drow society: Layn would betray his own house because the circumstances make that betrayal advantageous and because it serves Lolth's will.
-
-**This is also a path Lolth could bless.**
+This is the twisted, two-faced, treacherous option. It is the kind of opportunism that can flourish within drow society: betray your own house when circumstances make that betrayal advantageous.
 
 ### 3. Do nothing
 
@@ -101,18 +106,31 @@ Layn can simply refuse to intervene.
 
 This is fundamentally different from the first two choices.
 
-A drow is expected to recognize opportunities for advantage and act according to circumstance. Both of the first two options are active, self-interested, and morally corrupt in different ways. They are recognizably drow responses.
+A drow is expected to recognize opportunities for advantage and act according to circumstance. Both active choices are self-interested and recognizably drow responses.
 
 Layn instead chooses **inaction**.
 
 He does not save the Matron Mother.
-He does not attack the opposing priestess.
-He does not deliberately choose either house's victory.
-He refuses to seize the opportunity to do something evil merely because the opportunity is there.
+He does not attack the opposing priestesses.
+He does not deliberately choose either side's victory.
 
-His only direct influence on the battle is his refusal to act.
+His only direct influence on the battle is his refusal to act when he could have acted.
 
-## 7. Why Layn's inaction is the paradox
+## 8. The outcome of the priestess confrontation
+
+The exact combat will be balanced and resolved later using actual D&D mechanics.
+
+For the story outline, the required outcome is:
+
+- Layn does nothing.
+- The magical confrontation continues without his intervention.
+- The three priestesses ultimately die in the resulting clash.
+- **Martin Freth, the Matron Mother of House Freth, dies in the attack.**
+- Layn does not directly kill her and does not directly kill either opposing priestess.
+
+The exact mechanism — including spells, concentration checks, environmental effects, and the final clash of forces — remains deliberately unresolved until we design the encounter.
+
+## 9. Why Layn's inaction is the paradox
 
 The paradox is that **Layn follows a non-drow / non-Lolth path, and that refusal can nevertheless end up benefiting Lolth**.
 
@@ -125,17 +143,27 @@ The first two choices are opposite actions, but both follow the underlying logic
 
 Layn's third choice is unnatural by comparison. He does not seize the opportunity. He simply refuses to choose.
 
-And yet, if Lolth's plan succeeds anyway, his refusal has accidentally produced an outcome favorable to her.
+And yet his refusal can accidentally produce an outcome favorable to Lolth.
 
-That is what makes the situation so offensive to Lolth: Layn has achieved something that resembles obedience without actually obeying her.
-
-He has denied Lolth the satisfaction of having her will carried out through his choice.
+That is what makes the situation offensive to Lolth: Layn has achieved something that resembles obedience without actually obeying her.
 
 The same decision can therefore be both a rejection of Lolth's way and an accidental benefit to Lolth's plans.
 
 Lolth's response should preserve that contradiction rather than resolve it.
 
-## 8. Lolth finally notices Layn
+## 10. Layn fakes his death and flees
+
+After the House Freth battle, Layn deliberately makes it appear that he died in the destruction of the house.
+
+- The canonical three surviving Freth members remain the other members described in *Homeland*.
+- Layn is not added to or substituted into that canonical group.
+- Layn's apparent death allows him to disappear from the aftermath without altering the published sequence.
+- He follows a pre-planned escape route.
+- No friend, companion, or escape partner has been established for this part of the story.
+- No character named Zacharios, Clynto, Kleinto, or Glinz is part of the confirmed backstory.
+- Layn travels alone through the Underdark toward the surface.
+
+## 11. Lolth finally notices Layn
 
 Only after the House Freth conflict does Lolth truly take notice of Layn.
 
@@ -145,17 +173,13 @@ This is the moment when Layn becomes personally relevant to Lolth.
 
 Her response is deliberately contradictory: part punishment, part blessing.
 
-## 9. Lolth's punishment and blessing
-
-Lolth's response is deliberately both **curse and blessing**.
+## 12. Lolth's punishment and blessing
 
 ### The curse
 
 **1. Exile**
 
-Lolth ensures that Layn's separation from Menzoberranzan becomes more than a voluntary escape.
-
-Even if Layn chose to leave willingly, Lolth ensures that returning home is no longer something he can simply reclaim without consequence. His exile carries emotional and existential pain.
+Lolth ensures that Layn's separation from Menzoberranzan becomes more than a voluntary escape. Even if Layn chose to leave willingly, returning home is no longer something he can simply reclaim without consequence.
 
 **2. Transformation into an elf**
 
@@ -177,7 +201,7 @@ His pale/white appearance allows him to pass among surface peoples in a way that
 
 The punishment contains the means of survival, while the gift contains the punishment.
 
-## 10. The spider cocoon punishment
+## 13. The spider cocoon punishment
 
 Lolth's punishment is deliberately elaborate and cruel.
 
@@ -191,9 +215,9 @@ Lolth's punishment is deliberately elaborate and cruel.
 
 The spider imagery is especially cruel because of Layn's childhood trauma: the same creatures his sisters used to torment him now become the instrument of Lolth's punishment.
 
-The transformation should be described using magical language rather than modern biological terminology such as DNA.
+The transformation should be described using magical language rather than modern biological terminology.
 
-## 11. Layn's transformation
+## 14. Layn's transformation
 
 Over the months in the cocoon, Lolth's magic alters Layn's body.
 
@@ -206,7 +230,7 @@ Over the months in the cocoon, Lolth's magic alters Layn's body.
 
 The symbolism is deliberate: Lolth takes the thing that marks Layn as a drow and changes it into the appearance of the people his homeland regards as enemies.
 
-## 12. The cruel survival mechanism
+## 15. The cruel survival mechanism
 
 The transformation simultaneously solves and creates Layn's next problem.
 
@@ -218,7 +242,7 @@ Layn is now effectively cut off from Menzoberranzan and the normal drow world.
 
 Lolth has not simply banished Layn. She has constructed a trap in which **survival requires him to live as someone he is not**.
 
-## 13. The hidden final twist: the magic will shatter
+## 16. The hidden final twist: the magic will shatter
 
 There is a further layer to Lolth's punishment that **Layn does not know**.
 
@@ -237,7 +261,7 @@ Crucially, **Layn does not know this will happen**.
 
 He believes the transformation is his new reality. He will only understand its impermanence later, when the magic begins to fail.
 
-## 14. Why Lolth waits
+## 17. Why Lolth waits
 
 The timing of the curse is part of its cruelty.
 
@@ -256,7 +280,7 @@ Only **after** he has something to lose will the curse reveal its final conseque
 
 The transformation's failure therefore becomes a delayed weapon.
 
-## 15. Future reversal / reveal
+## 18. Future reversal / reveal
 
 At some future point, potentially during a major event in the Underdark, the magic sustaining Layn's transformed appearance will fail or be disrupted.
 
@@ -270,17 +294,7 @@ When that happens:
 
 This is future campaign material, not part of the backstory itself.
 
-## 16. Layn's escape through the Underdark
-
-After the canonical House Freth event, Layn survives and leaves the area using a pre-planned escape route.
-
-- The exact escape mechanism remains to be defined.
-- No friend, companion, or escape partner has been established for this part of the story.
-- No character named Zacharios, Clynto, Kleinto, or Glinz is part of the confirmed backstory.
-- Layn travels alone through the Underdark toward the surface.
-- The escape must be fitted around the published chronology and the known survivors of the House Freth attack rather than replacing them.
-
-## 17. The ending of the backstory
+## 19. The ending of the backstory
 
 **The backstory ends when Layn reaches the end of the Underdark tunnel.**
 
@@ -296,7 +310,7 @@ The backstory ends at that threshold, with Layn looking toward the light leading
 
 The later years on the surface, his relationships, and the eventual failure of Lolth's transformation belong to the campaign's future rather than to this origin story.
 
-## 18. Themes
+## 20. Themes
 
 The Layn storyline is built around several connected themes:
 
@@ -312,29 +326,32 @@ The Layn storyline is built around several connected themes:
 - **The hidden self:** Layn's true identity remains concealed beneath his altered appearance.
 - **The spider:** the creature used to torment him as a child becomes a recurring symbol of Lolth's control and cruelty.
 
-## 19. Open questions / to be developed later
+## 21. Open questions / to be developed later
 
 These are intentionally unresolved:
 
-1. What exactly does the canonical account say about the House Freth attack?
-2. Which key nobles survive, and what are their exact canonical roles?
+1. What exactly does the canonical account say about every stage of the House Freth attack?
+2. Which canonical Freth survivors are the three young drow described after the attack?
 3. Where exactly can Layn be placed inside the canonical sequence without changing it?
-4. What exactly does Lolth show Layn in the vision?
-5. What does Lolth say to him about his refusal to act?
-6. What exactly is the spider-like entity that captures him?
-7. How does the cocoon transform him in Forgotten Realms-compatible magical terms?
-8. What is the exact relationship between Lolth's divine magic and the transformed body?
-9. How can the weakening/shattering of the transformation under sunlight be made lore-compatible?
-10. What precisely causes the transformation to fail?
-11. How long does Layn remain in the cocoon?
-12. What is the exact escape mechanism?
-13. What happens immediately after Layn reaches Luskan?
-14. How does Layn initially learn to pass as a surface elf?
-15. What happens when his drow appearance returns?
-16. What is the exact chronology relative to Salvatore's books?
-17. What is the final form of the short story / prose version of Layn's backstory?
+4. What is the exact sequence leading Layn into the Matron Mother's halls?
+5. What are the exact levels, stat blocks, spell lists, and equipment of the three priestesses?
+6. What exact D&D mechanics create the final magical clash?
+7. What exact opportunities does level-1 Layn have to disrupt a priestess's concentration?
+8. What exactly does Lolth show Layn in the vision?
+9. What does Lolth say to him about his refusal to act?
+10. What exactly is the spider-like entity that captures him?
+11. How does the cocoon transform him in Forgotten Realms-compatible magical terms?
+12. What is the exact relationship between Lolth's divine magic and the transformed body?
+13. How can the weakening/shattering of the transformation under sunlight be made lore-compatible?
+14. What precisely causes the transformation to fail?
+15. How long does Layn remain in the cocoon?
+16. What is the exact escape mechanism Layn uses before the cocoon punishment?
+17. What happens immediately after Layn reaches the surface? This is outside the backstory and belongs to the campaign.
+18. What happens when his drow appearance eventually returns? This is future campaign material.
+19. What is the exact chronology relative to Salvatore's books?
+20. What is the final prose form of Layn's backstory?
 
-## 20. Canon verification rule
+## 22. Canon verification rule
 
 Before treating any setting detail as established Forgotten Realms canon, verify it against the relevant published source.
 
@@ -346,10 +363,10 @@ Use three labels in future notes:
 
 The goal is not to replace the published story. The goal is to place Layn's story inside the spaces where the published narrative does not specify every individual person's actions.
 
-## 21. Continuation marker
+## 23. Continuation marker
 
-**This is the end of Layn's backstory.**
+**This is still an outline, not the complete prose story.**
 
-The next stage is to verify the relevant published lore, especially the material in *Homeland*, against these notes. After that, unresolved details should be filled in one at a time.
+The next stage is to continue verifying the relevant published lore, especially the material in *Homeland*, against these notes. The priestess battle should be balanced and simulated later using actual D&D mechanics. Unresolved details should be filled in one at a time.
 
-The prose story itself should end with Layn seeing the light at the end of the tunnel leading out of the Underdark toward Luskan.
+The actual prose short story should be written only after the outline and canon placement are settled.
