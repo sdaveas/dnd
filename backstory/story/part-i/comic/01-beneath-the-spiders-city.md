@@ -2,103 +2,28 @@
 
 > **Status:** First comic adaptation draft.
 >
-> This document defines what the comic contains: pages, panels, composition, narration, dialogue, sound effects, and continuity. It is deliberately separate from future image-generation prompts.
+> This document defines the sequential-art content of I.1: pages, panels, composition, narration, dialogue, sound effects, and section-specific continuity. Global visual direction lives in `backstory/story/comic/style.md`.
 
 ---
 
-# 1. General Comic Style
-
-## Core Direction
-
-**Dark fantasy + cinematic Marvel-style comic energy.**
-
-The comic should feel like a premium modern fantasy graphic novel: dramatic, highly visual, atmospheric, character-driven, and occasionally spectacular. The Marvel influence is primarily in cinematic framing, dynamic composition, expressive characters, and visual impact—not in copying any specific artist or existing comic.
-
-### Visual rules
-
-- Dark, mature fantasy tone.
-- Cinematic compositions and strong visual silhouettes.
-- High-contrast lighting with large areas of shadow.
-- Predominantly black, charcoal, cold violet, muted blue, and restrained crimson tones.
-- Magical illumination should feel unnatural and precious inside the darkness.
-- Detailed, realistic environments and character anatomy.
-- Drow architecture should be elegant, gothic, alien, and unmistakably subterranean.
-- Menzoberranzan should feel enormous enough to dwarf the characters.
-- Use wide establishing panels for scale and tight close-ups for psychological moments.
-- Action should be dynamic and readable rather than visually chaotic.
-- Quiet scenes should use negative space and composition to communicate isolation.
-- Violence should feel consequential rather than gratuitous.
-- Avoid cartoonish presentation, bright heroic fantasy aesthetics, or generic medieval-fantasy imagery.
-
-## Storytelling Rules
-
-- The comic uses both **close character perspective** and an **omniscient narrator**.
-- Layn experiences the world as a child and does not understand everything he sees.
-- Narration may explain drow society, Menzoberranzan, religion, hierarchy, customs, and politics when useful.
-- Canon/worldbuilding should preferably be communicated through images and scenes rather than encyclopedic exposition.
-- Silence, posture, eye contact, and characters deliberately ignoring one another are important forms of dialogue.
-- The reader should gradually understand the world that shaped Layn without the story constantly telling Layn that his society is wrong.
-
----
-
-# 2. Visual Continuity Bible — I.1
-
-## Layn
-
-- Young male drow.
-- Dark skin, white hair, red eyes.
-- Slender, youthful build.
-- Noble-house clothing appropriate for a drow child; not miniature adult armor.
-- Usually controlled and observant.
-- Often watches before acting.
-- Vulnerability is generally communicated through small expressions rather than exaggerated emotion.
-
-## House Freth
-
-- Powerful noble drow house, but not the highest-ranking house.
-- Dark stone architecture with elegant arches and carved surfaces.
-- Spider motifs integrated into architecture rather than appearing as random decoration.
-- Weapons displayed in appropriate places.
-- Controlled magical lighting.
-- Wealth and status should be obvious without making the house look ostentatious by surface-world standards.
-
-## Menzoberranzan
-
-- Vast city inside a colossal underground cavern.
-- Towers, bridges, stalactites, stalagmites, carved stone structures, webs, magical lights, and distant movement.
-- Darkness is part of the city's visual identity.
-- The city should feel alive and politically tense even when no violence is occurring.
-- Individual characters should often appear small against the architecture.
-
-## Lolth
-
-- Do not depict Lolth herself in I.1.
-- Her presence is represented through spiders, symbols, religious spaces, priestesses, rituals, and the behavior of the drow.
-- I.1 ends with the idea that Lolth has **not noticed Layn in any meaningful way**.
-
----
-
-# 3. Page-by-Page Script
-
-## Page 1 — No Sky
+# Page 1 — No Sky
 
 ### Panel 1 — Full-page splash
 
 **Camera:** Extreme wide shot across the cavern.
 
-**Image:** Menzoberranzan fills a gigantic subterranean cavern. Towers rise from the floor and climb immense rock formations. Stalactites disappear into darkness above. Bridges span huge gaps. Tiny magical lights reveal only fragments of the city. Individual drow are almost impossible to distinguish.
+**Image:** Menzoberranzan fills a gigantic subterranean cavern. Towers rise from the floor and climb immense rock formations. Stalactites disappear into darkness above. Bridges span huge gaps. Tiny magical lights reveal fragments of the city. Individual drow are almost impossible to distinguish.
 
 **Narration:**
 > There was no sky above Menzoberranzan.
-
-**Narration 2:**
+>
 > There had never been one.
 
 **Purpose:** Establish scale, darkness, and the city as a character in its own right.
 
 ---
 
-## Page 2 — Home
+# Page 2 — Home
 
 ### Panel 1
 
@@ -136,7 +61,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 3 — The Houses
+# Page 3 — The Houses
 
 ### Panel 1
 
@@ -179,7 +104,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 4 — The Spider Queen
+# Page 4 — The Spider Queen
 
 ### Panel 1
 
@@ -224,7 +149,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 5 — Power
+# Page 5 — Power
 
 ### Panel 1
 
@@ -255,10 +180,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 **Layout:** Three narrow panels.
 
-**Images:**
-1. A male stepping aside.
-2. A servant waiting silently.
-3. A daughter speaking while a male remains silent.
+**Images:** A male stepping aside; a servant waiting silently; a daughter speaking while a male remains silent.
 
 **Narration:**
 > None of this was considered unusual.
@@ -272,7 +194,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 6 — House Freth
+# Page 6 — House Freth
 
 ### Panel 1
 
@@ -319,7 +241,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 7 — Layn
+# Page 7 — Layn
 
 ### Panel 1
 
@@ -364,7 +286,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 8 — The Boy Alone
+# Page 8 — The Boy Alone
 
 ### Panel 1
 
@@ -411,7 +333,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 9 — His Sisters
+# Page 9 — His Sisters
 
 ### Panel 1
 
@@ -463,7 +385,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 10 — The Matron Mother
+# Page 10 — The Matron Mother
 
 ### Panel 1
 
@@ -511,23 +433,18 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 **Narration:**
 > For a child, that kind of absence was difficult to understand.
-
-**Narration 2:**
+>
 > Layn eventually stopped trying.
 
 ---
 
-## Page 11 — A Normal Day
+# Page 11 — A Normal Day
 
 ### Panel 1
 
 **Layout:** Four small panels.
 
-**Images:**
-1. A lesson.
-2. Weapon training.
-3. A household meal.
-4. Prayer before a spider symbol.
+**Images:** A lesson; weapon training; a household meal; prayer before a spider symbol.
 
 **Narration:**
 > The day began as every day did.
@@ -573,7 +490,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 12 — The Warrior
+# Page 12 — The Warrior
 
 ### Panel 1
 
@@ -642,11 +559,9 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-# 4. Closing Sequence
+# Page 13 — The City Continues
 
-## Page 13 — The City Continues
-
-> **Note:** This page is intentionally quieter and functions as the final omniscient pull-back. If pacing later feels too slow, it can be merged into Page 12.
+> **Purpose:** Quiet omniscient pull-back. This page may later be merged into Page 12 if the opening needs tighter pacing.
 
 ### Panel 1
 
@@ -661,7 +576,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 **Camera:** City-level montage.
 
-**Images:** A merchant arguing; a priestess issuing a command; nobles exchanging careful words; a servant carrying a message.
+**Images:** A merchant arguing over a shipment; a priestess issuing a command; nobles exchanging careful words; a servant carrying a message.
 
 **Narration:**
 > A merchant argued over a shipment.
@@ -676,7 +591,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 **Camera:** Wide subterranean shot.
 
-**Image:** The city from afar, with distant tunnels disappearing into the darkness beyond it.
+**Image:** The city from afar, with distant tunnels disappearing into darkness beyond it.
 
 **Narration:**
 > Menzoberranzan did not pause for any of them.
@@ -694,7 +609,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-## Page 14 — Nothing Worth Noticing
+# Page 14 — Nothing Worth Noticing
 
 > **Purpose:** Final emotional beat. This should feel almost like a cinematic title-card ending rather than an exposition page.
 
@@ -721,7 +636,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 **Narration:**
 > A small piece in a city built from larger pieces.
 
-### Panel 4 — Final panel
+### Panel 4
 
 **Camera:** Extreme close-up / near-black composition. Layn is barely visible in darkness, with only his red eyes catching a faint glimmer.
 
@@ -730,7 +645,7 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ### Panel 5 — Final beat
 
-**Layout:** Black panel or almost entirely black panel.
+**Layout:** Black or almost entirely black panel.
 
 **Narration:**
 > **nothing worth noticing.**
@@ -739,10 +654,10 @@ The comic should feel like a premium modern fantasy graphic novel: dramatic, hig
 
 ---
 
-# 5. Production Notes
+# Production Notes
 
-- **Target length:** 12–14 pages for the first complete adaptation. Pages 13–14 are deliberately flexible and can be compressed if the final comic needs a tighter opening.
-- The prose draft should remain the source for the narrative content; this document translates it into sequential visual storytelling. fileciteturn28file0L2-L2
-- Do not generate final art from this document yet. First lock the panel script and visual continuity.
-- Once the panel script is approved, create separate image-generation prompts for each panel or page, reusing the visual continuity bible so Layn, House Freth, and Menzoberranzan remain visually consistent.
-- Later sections should inherit the global style while adding their own section-specific visual continuity where necessary.
+- **Target length:** 12–14 pages for the first complete adaptation.
+- Pages 13–14 are intentionally flexible and may be compressed during pacing review.
+- The prose section remains separate and defines the underlying narrative. The comic script translates that narrative into sequential visual storytelling.
+- Do not create final art directly from this document until the panel script and visual continuity have been reviewed.
+- Future image-generation prompts should inherit the global style from `backstory/story/comic/style.md` and should be stored separately from this script.
