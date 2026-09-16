@@ -15,14 +15,28 @@
 ## 2. Layn's family and childhood
 
 - Layn is **Laynlindr Freth**, a male drow of House Freth.
+- His father is **not part of the established story** and should not be introduced as an influence on Layn's upbringing or education unless explicitly added later.
 - His childhood was difficult and abusive within his family.
 - His sisters tormented him.
 - His mother, the Matron Mother of House Freth, did not treat him as a valued son and was willing to be rid of him.
-- Layn's eventual path toward the warriors' school should **not** be framed simply as his father deciding that he should attend because his father wanted him there.
-- The important underlying point is that Layn had already endured difficult years and was looking for a way out of the situation in which he had grown up.
-- His relationship with Lolth also became problematic/bad, contributing to the later tension between Layn, his house, and the goddess.
+- Layn's relationship with Lolth also became problematic/bad, contributing to the later tension between Layn, his house, and the goddess.
 
-## 3. The House Freth attack — overall structure
+## 3. Why Layn was sent to the warriors' school
+
+Layn's path toward the warriors' school was driven by his **sisters**, not by his father.
+
+The sisters had two connected reasons for wanting Layn directed toward the warriors' school rather than the mage school:
+
+- They were jealous and afraid of Layn's potential. They sensed that he might eventually become unusually powerful and possibly surpass them.
+- They had also sensed signs of Layn's **psionic potential**. The possibility of a male drow developing significant psionic abilities frightened them.
+
+The sisters did not want to risk Layn developing those powers in the mage school and potentially becoming powerful enough to outshine them — particularly because the priestesses of Lolth were understood as her chosen representatives / ambassadors within drow society.
+
+Therefore, the warriors' school was the safer path from their perspective: it gave Layn a controlled role while reducing the perceived risk that he would develop into a male drow whose extraordinary abilities could rival or overshadow Lolth's female priestesses.
+
+**Important:** This is an intentional part of Layn's original story and should not be reframed as his father deciding that the warriors' school was right for him.
+
+## 4. The House Freth attack — overall structure
 
 The battle is divided conceptually into three acts:
 
@@ -34,7 +48,7 @@ The attackers are acting under Lolth's will and are attempting to destroy House 
 
 The exact military/political reason for the conflict between the houses is deliberately not part of Layn's central story.
 
-## 4. The decisive moment in the central hall
+## 5. The decisive moment in the central hall
 
 At the climax of the battle, the central hall becomes the critical point of the conflict.
 
@@ -60,24 +74,6 @@ This is the defining way in which Layn affects the battle:
 - He deliberately leaves the decisive outcome to chance / Lolth's will rather than choosing a side through his own action.
 
 This distinction is essential: **Layn does not actively betray House Freth during the battle. He refuses to intervene.**
-
-## 5. Lolth's contradictory perspective on Layn
-
-This is the central theological paradox of the storyline.
-
-Lolth wanted House Freth destroyed. At the same time, Layn is a male drow whose actions place him in an unusual position relative to her authority.
-
-Because Layn does not save the Matron Mother, his inaction can be interpreted as serving Lolth's desired destruction of House Freth.
-
-However, Layn also refuses to actively attack or undermine his own house. He leaves the fate of House Freth to the outcome of the battle rather than deliberately fulfilling Lolth's will himself.
-
-Therefore his action occupies a middle point on a spectrum between **Lolth's favor** and **Lolth's wrath / perceived hubris**:
-
-- **Favor:** Layn did not act to save the Matron Mother when he could have done so.
-- **Hubris:** Layn did not actively do what Lolth wanted either. He left the outcome to fate rather than submitting himself completely to her will.
-- The same decision can therefore be read simultaneously as an act that serves Lolth's desired outcome and as an act of defiance toward Lolth.
-
-The important point is that Layn does not simply fall into one category. His choice is deliberately paradoxical.
 
 ## 6. Outcome of the battle
 
