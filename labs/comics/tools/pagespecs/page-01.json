@@ -1,0 +1,12 @@
+{
+  "page": 1,
+  "title": {"text": "No Sky", "rect": [2330, 120, 180, 80]},
+  "canvas": [2550, 3300],
+  "panels": [
+    {"id": "p1", "art": "characters/laynlindr-freth/backstory/chapter-1/comic/panels/page-01/panel-01.png", "rect": [110, 110, 2440, 3190]}
+  ],
+  "captions": [
+    {"id": "c1", "text": "There was no sky above Menzoberranzan.", "rect": [120, 120, 1000, 100]},
+    {"id": "c2", "text": "There had never been one.", "rect": [2050, 3080, 760, 100]}
+  ]
+}

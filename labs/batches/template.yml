@@ -1,0 +1,29 @@
+batch_id: replace-me
+title: Replace me
+status: planned
+source_revision: working-tree
+
+chapters:
+  - id: chapter-1
+    title: Replace me
+    sections:
+      - id: chapter-1-section-1
+        title: Replace me
+        novel: characters/laynlindr-freth/backstory/chapter-1/novel/section-1-replace-me.md
+        audio: characters/laynlindr-freth/backstory/chapter-1/novel/audio/section-1-replace-me-sonia.mp3
+        comic: characters/laynlindr-freth/backstory/chapter-1/comic/section-1-replace-me.md
+        status:
+          writing: planned
+          audiobook: planned
+          comics: planned
+
+teams:
+  writing: review-and-approve
+  audiobook: render-approved-sections
+  comics: adapt-approved-sections
+
+aggregation:
+  order: manifest
+  include: novel-audio-comic
+  output_directory: labs/batches/replace-me-output
+  keep_source_files_in_place: true

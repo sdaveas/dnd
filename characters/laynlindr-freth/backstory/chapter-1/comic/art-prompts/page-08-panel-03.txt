@@ -1,0 +1,7 @@
+You generated the reference comic panel earlier in this chat. Using that EXACT ink style (line weight, contrast, hatching, paper texture, tonality), create a NEW panel. Same style, different scene.
+
+PANEL 3 — PAGE 8
+Camera: Close-up on the boy watching.
+Scene: (derive from camera and context)
+Narration (for context only — do NOT draw any text, captions, or lettering into the image): The boy did not know what it was. Perhaps the servant had carried a message to the wrong person. Perhaps he had spoken when silence was expected. Perhaps he had failed to anticipate what the priestess wanted from him.
+Constraints: black-and-white ink only, no color, no text/lettering/speech balloons/watermarks, preserve drow identity (dark skin, white hair, pointed ears), gothic Menzoberranzan architecture, spider motifs only as carved architecture/religious imagery (never live spiders in the streets), strong silhouettes, high contrast.

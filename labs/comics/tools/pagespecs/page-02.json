@@ -1,0 +1,17 @@
+{
+  "page": 2,
+  "title": {"text": "LIVING DARKNESS", "rect": [2230, 120, 280, 100]},
+  "canvas": [2550, 3300],
+  "panels": [
+    {"id": "p1", "art": "characters/laynlindr-freth/backstory/chapter-1/comic/panels/page-02/panel-01.png", "rect": [110, 110, 2440, 1210]},
+    {"id": "p2", "art": "characters/laynlindr-freth/backstory/chapter-1/comic/panels/page-02/panel-02.png", "rect": [110, 1240, 1650, 1790]},
+    {"id": "p3", "art": "characters/laynlindr-freth/backstory/chapter-1/comic/panels/page-02/panel-03.png", "rect": [1680, 1240, 2440, 2290]},
+    {"id": "p4", "art": "characters/laynlindr-freth/backstory/chapter-1/comic/panels/page-02/panel-04.png", "rect": [110, 1820, 2440, 3190]}
+  ],
+  "captions": [
+    {"id": "c1", "text": "There was only stone, rising so far above the city that even the sharpest eyes could not find where the cavern ended and darkness began.", "rect": [120, 120, 1050, 150]},
+    {"id": "c2", "text": "Bridges and walkways crossed the empty spaces between them, joining towers carved directly from the living rock.", "rect": [120, 1250, 1430, 150]},
+    {"id": "c3", "text": "In places, magical lights burned with cold violet or blue radiance. Elsewhere, pale fungi clung to the cavern walls and gave off their own dim glow. The light was never enough to defeat the darkness. It only shaped it.", "rect": [1690, 1250, 680, 900]},
+    {"id": "c4", "text": "To someone from the surface, Menzoberranzan might have seemed to exist in perpetual night. To the drow, it was simply home.", "rect": [120, 1830, 1050, 320]}
+  ]
+}

@@ -1,16 +1,19 @@
 # D&D Battle Simulation — Layn
 
-This repository contains the complete rules, character data, inventory, companion data, and combat conventions needed to simulate battles involving **Laynlindr Freth (Layn)**.
+This repository contains the rules, character data, inventory, companion data, combat conventions, and narrative working files for **Laynlindr Freth (Layn)**.
 
 ## Scope
 
-This repository intentionally contains **no campaign history or narrative state**. It focuses on battle simulation.
+The battle simulator remains the authoritative home for combat data. The backstory and audio folders hold the separate narrative project and its generated media.
 
 The intended separation is:
 
 - `characters/` — Layn's persistent character data.
 - `companions/` — Baba and companion-specific mechanics.
 - `rules/` — generic combat and rules mechanics required by the simulator.
+- `characters/laynlindr-freth/backstory/` — story drafts, planning notes, and source material for Layn.
+- `characters/laynlindr-freth/backstory/chapter-1/novel/audio/` — Sonia voice renders, organized by chapter and section.
+- `labs/` — shared operating rules for the writing, audiobook, and comics teams.
 
 ## Authority and rule layers
 
