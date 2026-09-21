@@ -18,8 +18,8 @@ The backstory is organized by **character → backstory → chapter → format �
 
 ### Chapter 2 — The Web Within House Freth
 
-- **Section 1 — A Normal Day** — Layn at ten, the Matron Mother, his older cousins, the instructor, and the hidden conspiracy. [`novel/section-1-a-normal-day.md`](chapter-2/novel/section-1-a-normal-day.md)
-- **Section 2 — The Plan** — the cousins' post-spider conspiracy, the nine-year time skip, and the preparation for the hearing. [`novel/section-2-the-plan.md`](chapter-2/novel/section-2-the-plan.md)
+- **Section 1 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy. [`novel/section-1-a-normal-day.md`](chapter-2/novel/section-1-a-normal-day.md)
+- **Section 2 — The Plan** — the sisters' post-spider conspiracy, the nine-year time skip, and the preparation for the hearing. [`novel/section-2-the-plan.md`](chapter-2/novel/section-2-the-plan.md)
 - **Section 3 — The Hearing** — the coordinated mental attack, Matron Mother hearing, and academy decision. [`novel/section-3-the-hearing.md`](chapter-2/novel/section-3-the-hearing.md)
 
 ### Chapter 3 — The Academy
@@ -78,7 +78,7 @@ The story combines two lenses:
 - **Layn's perspective:** an intimate view of his life and development as a young drow. His understanding is limited by his age and circumstances; he should not think with the knowledge of an outside observer.
 - **Omniscient perspective:** a wider view of Menzoberranzan, drow society, politics, religion, customs, and history, including information Layn does not yet understand.
 
-A complete subsection may follow another character—especially one of Layn's older cousins—when that viewpoint reveals motives or actions Layn cannot see. Viewpoint changes should happen at subsection boundaries rather than through abrupt head-hopping.
+A complete subsection may follow another character—especially one of Layn's older sisters—when that viewpoint reveals motives or actions Layn cannot see. Viewpoint changes should happen at subsection boundaries rather than through abrupt head-hopping.
 
 Worldbuilding should be embedded in lived scenes wherever possible rather than presented as encyclopedia-style exposition.
 

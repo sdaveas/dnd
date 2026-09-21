@@ -1,0 +1,5 @@
+
+# comic prod
+*.af~lock~
+.DS_Store
+dnd-project.zip

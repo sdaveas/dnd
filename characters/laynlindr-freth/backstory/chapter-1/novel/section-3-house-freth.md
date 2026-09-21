@@ -6,9 +6,9 @@
 
 House Freth was one of the lower houses of Menzoberranzan, and it did not forget what that meant. A house was family and faction, fortress and store of knowledge, the name that opened a door—or closed one forever. A house that appeared weak invited enemies.
 
-House Freth had carved its halls into a broad rise of dark stone. Sweeping arches opened onto narrow balconies. Weapons hung where visitors could see them. The house insignia appeared on warriors' chests and bracers, worked into metal, and set above doorways: a phoenix rising from the ashes toward a dark-green moon.
+House Freth had carved its halls into a broad rise of dark stone. Sweeping arches opened onto narrow balconies. Weapons hung where visitors could see them. The house insignia appeared on warriors' chests and bracers, worked into metal, and set above doorways: two spiders facing one another.
 
-Carved spiders occupied every place where a reminder of Lolth seemed appropriate. The phoenix belonged to House Freth. The spider belonged to the goddess. No one within the house confused the two.
+Carved spiders occupied every place where a reminder of Lolth seemed appropriate. The goddess took one spider for her symbol. House Freth had taken two, facing one another, and no one within the house confused the one for the others.
 
 The house was alive with movement.
 

@@ -8,7 +8,7 @@ They arrived before the appointed hour. The Matron Mother was already seated on 
 
 Dreydre and Greyanna took their places below the dais.
 
-The cousins had rehearsed the attack for six nights.
+The sisters had rehearsed the attack for six nights.
 
 They would not touch his mind together at first. That might reveal a pattern. Dreydre would begin when he entered, just enough to make him doubt his own balance. Greyanna would follow when the Matron Mother asked her first question. Then they would press at the same time, one from either side, until his thoughts became too slow to defend themselves.
 
@@ -24,7 +24,7 @@ The fear of doing the wrong thing while someone else watched.
 
 The hearing would be the final version of the lesson they had begun in his bed: make him afraid of what happened inside his own mind, then call that fear proof that he was unfit for the arcane path.
 
-The method was dangerous because the contact had to remain subtle. If the Matron Mother recognized an attack, the cousins would be questioned. If Layn recognized it, he might resist. If he resisted too well, the hearing could produce the opposite result.
+The method was dangerous because the contact had to remain subtle. If the Matron Mother recognized an attack, the sisters would be questioned. If Layn recognized it, he might resist. If he resisted too well, the hearing could produce the opposite result.
 
 Dreydre looked toward the doors.
 
@@ -44,7 +44,7 @@ The doors opened.
 
 Layn entered alone.
 
-He had never been permitted past the outer gallery. The chamber was larger than it had ever seemed from behind the screen—a vault of black stone, warm with the breath of braziers below the dais. The doors shut behind him, panels carved with House Freth’s phoenix, and the spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
+He had never been permitted past the outer gallery. The chamber was larger than it had ever seemed from behind the screen—a vault of black stone, warm with the breath of braziers below the dais. The doors shut behind him, panels carved with House Freth’s paired spiders, and the spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
 He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty. He crossed the chamber with the measured pace of someone who had learned that haste drew attention.
 
@@ -146,7 +146,7 @@ The pressure should have made his thoughts scatter.
 
 Instead, Layn went still.
 
-It was Zilvrae’s discipline. He did it without deciding, the way he had crossed the bowl of water years ago and left it undisturbed—breath slowed, attention drawn inward, nothing in him moved for the pressure to push against. He was still even beneath the attack, and the stillness had become a wall.
+It was Zilvrae’s discipline. He did it without deciding, the way he had learned to stand through Zilvrae’s lessons—breath slowed, attention drawn inward, nothing in him moved for the pressure to push against. He was still even beneath the attack, and the stillness had become a wall.
 
 Dreydre felt the resistance’s texture and knew it.
 
@@ -166,7 +166,7 @@ Layn lifted his head.
 
 “There is something in the room,” he said.
 
-The cousins froze.
+The sisters froze.
 
 The Matron Mother’s gaze moved from him to the priestesses, then back again.
 
@@ -190,7 +190,7 @@ The word was calm.
 
 Too calm.
 
-Dreydre understood that he had not been broken. The attack had only shown him that his cousins were afraid of what he might become.
+Dreydre understood that he had not been broken. The attack had only shown him that his sisters were afraid of what he might become.
 
 She could not allow him to leave the chamber with that knowledge.
 
@@ -198,7 +198,7 @@ She drove the memory deeper.
 
 The bed returned.
 
-Black legs crossed his skin. A spider paused beneath his throat. The cousins stood in the doorway and told him that any movement would bring the goddess’s anger upon the house.
+Black legs crossed his skin. A spider paused beneath his throat. The sisters stood in the doorway and told him that any movement would bring the goddess’s anger upon the house.
 
 Layn’s face went white beneath his dark skin.
 
@@ -242,7 +242,7 @@ The Matron Mother looked at the fracture.
 
 Her gaze held on it a heartbeat longer than courtesy required, the way hands lingered on a blade to find a flaw in the steel. Then it moved away, the flaw judged too small to matter.
 
-Dreydre waited for her attention to turn toward the cousins. She prepared herself for the questions, the accusation, and the punishment that would follow if their deception had been seen.
+Dreydre waited for her attention to turn toward the sisters. She prepared herself for the questions, the accusation, and the punishment that would follow if their deception had been seen.
 
 Instead, the Matron Mother looked back at Layn.
 
@@ -252,7 +252,7 @@ Instead, the Matron Mother looked back at Layn.
 
 “And yet you believe you are suited for Sorcere?”
 
-Layn’s eyes moved to the cousins.
+Layn’s eyes moved to the sisters.
 
 It was the smallest glance.
 
@@ -272,7 +272,7 @@ For the first time, something like interest touched the Matron Mother’s face.
 
 Layn hesitated.
 
-The cousins did not attack again. They had already pushed too far. The chamber had seen enough.
+The sisters did not attack again. They had already pushed too far. The chamber had seen enough.
 
 “I do not know,” he said.
 
@@ -366,7 +366,7 @@ He did not know what had happened inside his mind. He knew only that the pressur
 
 The house would send him to Melee-Magthere when the next opening came. There, the older males would teach him weapons, discipline, and the proper uses of his body.
 
-The cousins believed they had chosen a smaller life for him.
+The sisters believed they had chosen a smaller life for him.
 
 They were wrong about that.
 

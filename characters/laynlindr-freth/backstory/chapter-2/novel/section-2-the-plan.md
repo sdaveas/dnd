@@ -4,9 +4,9 @@
 
 ### I.2.2 — The Plan
 
-The cousins did not go to their rooms after leaving Layn in his bed.
+The sisters did not go to their rooms after leaving Layn in his bed.
 
-They stopped in the passage beyond his door, where a carved spider cast a thin shadow across the floor. The spiders were still inside. Greyanna still held the black bead.
+They stopped in the passage beyond his door, where a carved spider cast a thin shadow across the floor. The spiders were still inside. Greyanna still held the silver pin.
 
 Dreydre looked toward the closed door and said nothing.
 
@@ -38,29 +38,23 @@ Dreydre’s voice flattened.
 
 Greyanna glanced toward the upper galleries.
 
-“Then we tell her first.”
+“Then we tell her.”
 
-“And tell her why we tested him?”
+“That the signs have come?”
 
-“We tested a foolish boy.”
+“That we have begun what she asked.”
 
-“You reached into his mind.”
+“She will ask how strong they are.”
 
-“I touched the edge of it.”
+“Strong enough.”
 
-“She will not care how far you reached.”
+“She will ask what we used.”
 
-Greyanna’s fingers closed around the bead.
-
-“She will ask when we noticed.”
-
-“Before tonight.”
-
-“And what we did after.”
+Greyanna’s fingers closed around the pin.
 
 Dreydre looked at the closed door.
 
-“Then she must not hear the question.”
+“Then she must not hear the answer.”
 
 “If he is only lucky?”
 
@@ -78,7 +72,7 @@ Greyanna looked toward the corridor.
 
 “Above us.”
 
-Dreydre’s hand tightened around the bead.
+Dreydre’s hand tightened around the pin.
 
 “Not above me.”
 
@@ -144,7 +138,7 @@ Greyanna’s smile returned.
 
 “And when the pressure comes?”
 
-Dreydre returned the bead to her.
+Dreydre returned the pin to her.
 
 “He will mistake it for another warning.”
 
@@ -152,7 +146,7 @@ Dreydre returned the bead to her.
 
 “Either way, he will close the door himself.”
 
-Greyanna slipped the bead into her sleeve.
+Greyanna slipped the pin into her sleeve.
 
 “If it does not work?”
 
@@ -182,7 +176,7 @@ Dreydre’s smile was thin.
 
 “As he will remain.”
 
-For a moment, neither cousin spoke.
+For a moment, neither sister spoke.
 
 Greyanna glanced toward the closed door.
 
@@ -194,15 +188,15 @@ Greyanna glanced toward the closed door.
 
 Nine years later, the spider incident had become routine.
 
-For years, spiders had appeared in Layn’s bed at irregular intervals. Sometimes there had been one. Sometimes there had been several. Their bodies had grown larger as he did, or perhaps he had simply become better at understanding how much room they occupied in the darkness. Each time, his cousins had offered the same lesson: they were sacred animals of Lolth, and any attempt to kill them, move them, or drive them away would bring the goddess’s anger upon House Freth.
+For years, spiders had appeared in Layn’s bed at irregular intervals. Sometimes there had been one. Sometimes there had been several. Their bodies had grown larger as he did, or perhaps he had simply become better at understanding how much room they occupied in the darkness. Each time, his sisters had offered the same lesson: they were sacred animals of Lolth, and any attempt to kill them, move them, or drive them away would bring the goddess’s anger upon House Freth.
 
 The routine had shaped him.
 
 Layn checked his bedding before he slept. He watched the corners of a room before he entered it. He slept lightly and woke often, listening for the dry scrape of legs against cloth. He could remain motionless for a long time, control his breathing when panic tightened his chest, and endure the presence of a spider without reaching for it.
 
-He had never understood what had caused the change in his cousins.
+He had never understood what had caused the change in his sisters.
 
-He remembered only a false accusation, a bead held up between two fingers, and answers that had arrived in him from nowhere. Before that day, their cruelty had been ordinary—even playful, by the standards of House Freth. Afterward, their hostility sharpened. They no longer treated him as a younger cousin who could be used for amusement. They began treating him as something that had to be contained.
+He remembered only a false accusation, a pin held up between two fingers, and answers that had arrived in him from nowhere. Before that day, their cruelty had been ordinary—even playful, by the standards of House Freth. Afterward, their hostility sharpened. They no longer treated him as a younger brother who could be used for amusement. They began treating him as something that had to be contained.
 
 Even for drow, it was a striking change.
 
@@ -210,7 +204,7 @@ What confused Layn most was not the cruelty in front of the Matron Mother, but i
 
 The Matron Mother never looked at him long enough to notice the performance.
 
-Layn did not know whether she failed to notice his cousins’ hostility elsewhere or simply found him too insignificant to question their behavior. He knew only that the cousins’ silence in her presence was as deliberate as their cruelty when she was gone.
+Layn did not know whether she failed to notice his sisters’ hostility elsewhere or simply found him too insignificant to question their behavior. He knew only that the sisters’ silence in her presence was as deliberate as their cruelty when she was gone.
 
 By then, Dreydre had stopped thinking of him as a child.
 
@@ -222,7 +216,7 @@ The house had grown around it.
 
 The carved spider above his doorway had been replaced after a servant cracked one of its legs. The training galleries had been repainted. Two of the older males had died in disputes that no one described as accidents. The Matron Mother had acquired more priestesses and fewer reasons to notice anything below the upper halls.
 
-Layn remained where his cousins had left him: useful enough to educate, unimportant enough to ignore.
+Layn remained where his sisters had left him: useful enough to educate, unimportant enough to ignore.
 
 Dreydre watched him from the gallery above the records room.
 
@@ -252,7 +246,7 @@ Layn’s face did not change.
 
 Dreydre could see the effort it took him to keep it that way.
 
-Zilvrae turned to the two cousins.
+Zilvrae turned to the two sisters.
 
 “The male has good memory and adequate discipline. His judgment is less reliable when he believes he has found a pattern.”
 
@@ -270,7 +264,7 @@ Zilvrae had seen Layn move before a thrown object left someone’s hand. She had
 
 She had called each incident cleverness.
 
-The cousins had not.
+The sisters had not.
 
 Greyanna waited until Zilvrae had left the room before speaking.
 
@@ -342,7 +336,7 @@ Dreydre watched him disappear behind an archway.
 
 The plan had held, or seemed to.
 
-For nine years, the cousins had watched for signs that fear was suppressing the gift. It had not erased the manifestations. It had made them rarer, less directed, and harder for Layn to trust. Whenever the pressure appeared, he treated it as a warning rather than a power.
+For nine years, the sisters had watched for signs that fear was suppressing the gift. It had not erased the manifestations. It had made them rarer, less directed, and harder for Layn to trust. Whenever the pressure appeared, he treated it as a warning rather than a power.
 
 The gift still surfaced when he was frightened, angry, or cornered. It never obeyed him for long. It did not make him strong in any ordinary way. It made him aware of things before they happened, and sometimes made the space around him answer when he wanted something to move away.
 
@@ -360,9 +354,9 @@ Greyanna had wanted to tell the Matron Mother once.
 
 Dreydre had stopped her.
 
-The decision had not been difficult. If the Matron Mother learned that they had concealed a possible talent from her for years, she might punish them before she decided what to do with Layn. The risk had been obvious.
+The order had been given once and never spoken of again. To bring their mother word now was to make the boy’s future hers to decide — and to put their failure on record if the remedy did not hold. The risk had been obvious.
 
-They had kept the secret anyway.
+They had kept it anyway.
 
 It was not kindness. It was not protection. They believed fear was the only restraint that had worked, and they did not want Layn to become powerful enough to stand above them. They also did not want the Matron Mother deciding his future before they could shape it themselves.
 
