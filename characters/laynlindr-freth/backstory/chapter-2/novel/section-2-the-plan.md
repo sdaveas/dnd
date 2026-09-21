@@ -196,7 +196,7 @@ Layn checked his bedding before he slept. He watched the corners of a room befor
 
 He had never understood what had caused the change in his sisters.
 
-He remembered only a false accusation, a pin held up between two fingers, and answers that had arrived in him from nowhere. Before that day, their cruelty had been ordinary—even playful, by the standards of House Freth. Afterward, their hostility sharpened. They no longer treated him as a younger brother who could be used for amusement. They began treating him as something that had to be contained.
+He remembered only a false accusation, a pin held up between two fingers, and answers that had arrived in him from nowhere. Before that day, their cruelty had been ordinary — even playful, by the standards of House Freth. Afterward, their hostility sharpened. They no longer treated him as a younger brother who could be used for amusement. They began treating him as something that had to be contained.
 
 Even for drow, it was a striking change.
 

@@ -4,372 +4,248 @@
 
 ### I.2.3 — The Hearing
 
-They arrived before the appointed hour. The Matron Mother was already seated on the raised platform at the far end of the chamber. Three priestesses stood behind her, silent and watchful. Mistress Zilvrae waited near the wall with her hands folded inside her sleeves.
+Layn had never been permitted past the outer gallery. The chamber was larger than it had ever seemed from behind the screen — a vault of black stone, warm with the breath of braziers below the dais. The doors shut behind him, panels carved with House Freth’s paired spiders, and the spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
-Dreydre and Greyanna took their places below the dais.
+He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty.
 
-The sisters had rehearsed the attack for six nights.
+The Matron Mother was already seated on the raised platform at the far end. Dreydre and Greyanna stood below the dais. Mistress Zilvrae waited near the wall with her hands folded inside her sleeves. Two guard females stood watch at the doors.
 
-They would not touch his mind together at first. That might reveal a pattern. Dreydre would begin when he entered, just enough to make him doubt his own balance. Greyanna would follow when the Matron Mother asked her first question. Then they would press at the same time, one from either side, until his thoughts became too slow to defend themselves.
+Layn stopped where the floor was worn pale and did not move again.
 
-They had chosen the memories carefully.
+They discussed him as though the chamber were empty except for themselves.
 
-The bed.
+Zilvrae reported his instruction first: a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the nine years of it. Greyanna noted that he learned faster than he should.
 
-The spiders.
+The Matron Mother listened.
 
-The helplessness.
+She did not need to dominate the conversation. The final decision belonged to her, and every female in the chamber spoke knowing it.
 
-The fear of doing the wrong thing while someone else watched.
+Layn said nothing.
 
-The hearing would be the final version of the lesson they had begun in his bed: make him afraid of what happened inside his own mind, then call that fear proof that he was unfit for the arcane path.
+No one asked him anything. His future moved back and forth across the chamber above his head while he stood beneath it, hands empty, deciding nothing.
 
-The method was dangerous because the contact had to remain subtle. If the Matron Mother recognized an attack, the sisters would be questioned. If Layn recognized it, he might resist. If he resisted too well, the hearing could produce the opposite result.
+In time the discussion reached the question that had hung over the house for years.
 
-Dreydre looked toward the doors.
+“Has he manifested anything?”
 
-“Do not lose control,” she murmured.
+The words came from the throne, and the chamber went still around them.
 
-Greyanna did not look at her.
+Dreydre answered with care. “There have been moments.”
 
-“I will not.”
+“Moments,” the Matron Mother said.
 
-“You always say that before you lose control.”
+“Nothing that held,” Greyanna said. “Nothing repeated on command.”
 
-“And you always say that because you want to be the one who decides when I have.”
+“When did the moments come?” the Matron Mother said.
 
-Dreydre’s mouth tightened.
+Dreydre told her. Greyanna told her — what he had been doing each time, and what had been done to him.
 
-The doors opened.
+“And fear?” the Matron Mother said. “Did fear help?”
 
-Layn entered alone.
+Both sisters nodded.
 
-He had never been permitted past the outer gallery. The chamber was larger than it had ever seemed from behind the screen—a vault of black stone, warm with the breath of braziers below the dais. The doors shut behind him, panels carved with House Freth’s paired spiders, and the spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
+She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
 
-He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty. He crossed the chamber with the measured pace of someone who had learned that haste drew attention.
+Somewhere behind Layn’s shoulder, while the chamber talked over him, the Matron Mother nodded once to a priestess standing at the platform’s edge, and she hurried out through the hall’s doors.
 
-Dreydre sent the first pressure toward him.
+Then the Matron Mother looked at Layn.
 
-Layn’s left hand closed slightly.
+For the first time in his life, her eyes met his.
 
-That was all.
+The chamber became quieter. He did not mistake the look for warmth. It was the look of the ruler of House Freth examining something that had been under observation for nineteen years — the way she might look at a blade brought before her for inspection, turning it once in the light.
 
-He continued forward.
+“Show me,” she said.
 
-“Approach,” said the Matron Mother.
+Two words. Her first words to him were a command.
 
-Layn stopped at the foot of the dais.
+As Layn was still trying to understand what that drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
 
-“You are the male of House Freth.”
+The sisters below the dais went still — and then not still at all. Greyanna’s hand found Dreydre’s sleeve. Dreydre’s eyes went to their mother and stayed there.
 
-“Yes, Matron Mother.”
+And behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rate bumped. Neither daughter had known the hearing would come to this.
 
-It was the first time he had ever spoken directly to her.
+The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the basements of the house, where the priestesses kept their laboratories. When the thick, stone doors opened briefly sometimes, along with the smell, there were screams coming out that were never spoken of afterward.
 
-Dreydre felt Greyanna’s excitement beside her. She had wanted to see this moment for years. The Matron Mother had ignored the boy’s existence so completely that even a command addressed to him seemed like a ceremony.
+He had learned what the black vessels of House Freth were for. Zilvrae had taught it in the day lessons, between the ranking of the houses and the heraldry: the house’s oldest craft, and the reason the rank still counted its name carefully. The vessels were made in pairs, and they were made to be used in pairs. The first amplified what a creature already was. It held for a few breaths only, and the lesson’s true subject was what came after — the body paid for every borrowed degree, and for beings of great power the price was final, because for them even a small amplification was too much. The second vessel did the opposite. It drained a creature’s channeling for those same few breaths, and left endurance behind when it ended — enough to keep the drained standing.
 
-The Matron Mother studied Layn.
+One raised. One lowered. Together they let a house weigh what a creature truly was.
 
-For the first time, her eyes met his.
+The first did not care whether the vessel could survive what was poured into it.
 
-Layn held the gaze for one breath before lowering his head.
+Layn did not understand yet. He did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
-Dreydre saw no emotion in the Matron Mother’s face. She saw no recognition. The Matron Mother looked at Layn as she might look at a blade brought before her for inspection.
+He took a step backward. Then another. His face stayed still and his heart did not, and he shook his head once, slowly. He did not want it. It was the nearest he had come to refusing anything in nineteen years.
 
-“You have been educated in the customs of the house?”
+“Mother,” said Dreydre, and her voice was neither calm nor steady. “No. Mother — are you certain?”
 
-“Yes, Matron Mother.”
+The Matron Mother looked at her daughters, and the look stopped the words where they stood.
 
-“You have studied the names and positions of the noble houses?”
+An evil smile showed at her mouth — small, unhurried, entirely certain of itself.
 
-“Yes, Matron Mother.”
+“My daughters,” she said. “You are not afraid, are you?”
 
-“You have received instruction in the arcane arts?”
+Her words were drowning in cruelty. There was amusement in them too. The vessel sat between the sisters and the throne, and she had placed it there herself.
 
-“Only the instruction given to every drow child.”
+Then she looked back at Layn.
 
-Zilvrae shifted near the wall.
+“Drink!”
 
-The Matron Mother glanced toward her.
+Her lips did not move. But the word sounded inside his skull louder than a scream.
 
-“Is that accurate?”
+It did not ask. It arrived inside him the way the order to breathe arrives, and his will bent around it and broke. His hand rose. His fingers closed on the stopper. Somewhere far away, the part of him that was still Layn watched his own body obey, and hated it, and could do nothing — could not even tremble on purpose.
 
-“The male has shown no reliable aptitude,” Zilvrae said. “He remembers information, but he does not build upon it. His focus becomes unreliable when the lesson moves beyond repetition.”
+He drank.
 
-Layn did not look at the instructor.
+The smoke went down like a swallowed coal. For one breath, nothing.
 
-Dreydre began the second part of the attack.
+Then the substance opened him.
 
-She allowed the pressure behind his eyes to grow.
+The chanting became stronger.
 
-Greyanna followed a heartbeat later.
+His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three entities in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body turned aerial. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — like blades out of virtually nothing, thin enough to cut steel; shields raised out of dust that would turn a battering ram.
 
-Layn’s breathing changed.
+Was this the absolute power?
 
-The Matron Mother noticed.
+A voice echoed faintly from somewhere very far away.
 
-“Are you unwell, male?”
+The Matron Mother turned to her daughters.
 
-“No, Matron Mother.”
+“Two drops each.”
 
-“Then stand properly.”
+The white vessel breathed a thin white smoke that had no smell and no taste.
 
-Layn straightened.
+Dreydre looked at the pale vessel a moment longer than pride allowed. Then she drank her two drops. Greyanna drank hers. They remained what they were — elder priestesses of House Freth, trained and dangerous — and they were deliberately, measurably less.
 
-Greyanna pressed harder.
+The sisters had understood their mother’s plan by then, and it showed on their faces.
 
-Dreydre sent the memory of the bed across the gap between them.
+The Matron Mother extended her hand. Greyanna carried the white vessel to the throne and gave it over. The Matron Mother shook it gently, once, and held it the way a person holds a drink.
 
-She did not create an image. She did not need to. She found the shape of the fear inside Layn and touched it.
+Whether she drank, the sisters were too concerned with the other matters unfolding in the room to see.
 
-The chamber remained unchanged, but Dreydre saw the effect in him. His eyes fixed on the carved spider in the floor. His fingers drew tight against his palms. His attention retreated somewhere far from the dais.
+The chanting rose to a peak.
 
-The Matron Mother followed his gaze.
+Layn felt it first in the floor. A black disc opened beneath the center of the chamber — not a shadow, not a stain. A hole in the world. It spread outward, consuming the stone tile by tile, and where it passed, the floor ceased to be floor. The darkness followed the walls upward, folding them into a cylinder with no ceiling that Layn could find. The braziers went out. The doors were gone.
 
-“Look at me.”
+The Matron Mother’s throne did not move. The world changed around it, and she sat precisely where she had been, robes settled, hands quiet, in an arena alien and enormous — and she sat in it the way she had sat in her chamber.
 
-Layn obeyed.
+The chanting was heard from outside the dark now, distant, and still loud enough to feel.
 
-It took him a moment too long.
+The cage was the ritual’s work. What it held was theirs.
 
-“Why?” the Matron Mother asked.
+Inside the dark, something reached into each of them, took hold of what was innermost, and made it stand.
 
-Layn’s jaw tightened.
+Layn’s came first. It rose out of him the way the pressure rose behind his eyes — a thin silhouette, upright and faint, warrior-shaped in the way a half-remembered thing is. Now and then it lost its shape, running like a liquid, and reformed. When it stood, it made a sound that was not a battle cry of anything living: a long, scraping shriek, like nails drawn across hard rock.
 
-“Why what, Matron Mother?”
+It had no training. It had no practice. It stood between him and his sisters because nothing else stood there.
 
-“Why should House Freth spend resources training you in the arcane arts?”
+The sisters answered what they saw. Their power rose, and they rose with it — they became the spirits. Two figures stood where Dreydre and Greyanna had been standing: tall, robed, crowned with eyes, robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
 
-Dreydre felt the question land inside him. She pressed again, carefully. Greyanna matched her.
+The sisters moved, and moved together.
 
-The pressure should have made his thoughts scatter.
+The figures struck from opposite sides, and they did not strike like fear. They struck like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and the silhouette staggered with him. He swung at a figure and his fist passed through shadow, and the shadow’s counterstrike put him on one knee.
 
-Instead, Layn went still.
+They were experienced priestesses, and they were coordinated. Spiritual combat was a discipline of their rank, drilled into them all their lives. Nine years of watching Layn had only told them exactly where he would be weak.
 
-It was Zilvrae’s discipline. He did it without deciding, the way he had learned to stand through Zilvrae’s lessons—breath slowed, attention drawn inward, nothing in him moved for the pressure to push against. He was still even beneath the attack, and the stillness had become a wall.
+The amplifier roared inside him, and none of it was the same as knowing what to do.
 
-Dreydre felt the resistance’s texture and knew it.
+Then, on the floor of the dark, something changed.
 
-It was orderly. Deliberate. Trained.
+It was not thought. Thought had nothing to do with it. The silhouette stopped reacting to the shades and began arriving where they were going to be — half a breath early, then a full breath early. The strikes that had been finding him started finding air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal does: all at once, with its teeth.
 
-The house had taught the boy to hold his footing when the room pressed in, and now that same lesson shielded the mind she was trying to break. Horror and irony met in her chest: every punishment that had made him still now armor.
+An animal discovering it has claws.
 
-And then something pushed back.
+He came up off the floor, and his spirit was larger than it had been.
 
-Dreydre’s breath caught.
+The sisters did not become fools.
 
-The contact changed. For an instant she no longer felt the outside of Layn’s mind. She felt the edge of her own thoughts reflected there, confused and incomplete, as though he had reached toward the pressure without knowing what he was touching.
+They saw the change, and they changed with it. They stopped pressing and started provoking — and they had nine years of material. The figures wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, because it had always worked.
 
-Greyanna recoiled.
+Layn fought wild. The silhouette swung too hard and reached too far, and the figures punished every surge of feeling. For a while, it was enough.
 
-Layn lifted his head.
+But not for long.
 
-“There is something in the room,” he said.
+The figures bore him down, again and again, and the last blows put him on the floor and kept him there. He folded small — knees to his chest, arms over his head — and the two spider-shapes stood over him, bearing down, again, the way they had always borne down.
 
-The sisters froze.
+And in the middle of it, Layn saw himself.
 
-The Matron Mother’s gaze moved from him to the priestesses, then back again.
+Countless nights. The same position in his bed — knees drawn up, blanket over his head, breathing small — and the two spiders slithering across the folds, slow and deliberate, waiting with him for the night to end.
 
-“There are many things in this room.”
+“No more,” he whispered.
 
-“Something is pressing against my thoughts.”
+If that could be called a whisper.
 
-Greyanna’s fear became a sharp spike.
+The blast came out of him and out of the floor at once. It took the two spider-shapes and threw them to opposite ends of the arena, and for a moment the dark between the three of them stood empty.
 
-Dreydre caught it and forced it down.
+Now Layn saw clearly.
 
-“You are imagining it,” she said.
+The shapeless form that had fought for him became fine. A silhouette — thin-limbed, upright, its aura steady where everything else in the arena was noise. Taller than it had been. Terrible. It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hand hung a blade of pale force, thin and exact, quiet the way the pressure behind his eyes was quiet.
 
-It was the first time she had spoken directly to him during the hearing.
+It had been shaped to give the two spiders that had haunted him for nine years their final blow.
 
-Layn turned toward her.
+The spiders regrouped.
 
-“Perhaps.”
+They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known the sleeve, and the thirty houses.
 
-The word was calm.
+His legs buckled. He jumped.
 
-Too calm.
+He rose high and fast enough that the spiders thought he had vanished from the arena. By the time he landed, it was his turn.
 
-Dreydre understood that he had not been broken. The attack had only shown him that his sisters were afraid of what he might become.
+The assault came at a speed nothing in the chamber had ever shown. The silhouette moved through both figures like a thrown blade, and around it, of its own will, a barrier of energy hardened — a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own — theirs cracking with explosive light where his was smooth.
 
-She could not allow him to leave the chamber with that knowledge.
+For the first time in his life, his sisters were afraid of him. Layn saw it in the figure’s face, and the figure’s face was Greyanna’s — no longer smiling, no longer flawless, no longer anything at all.
 
-She drove the memory deeper.
+All three siblings screamed — one cry out of three shapes, none of it made by living throats — and marched for the final clash.
 
-The bed returned.
-
-Black legs crossed his skin. A spider paused beneath his throat. The sisters stood in the doorway and told him that any movement would bring the goddess’s anger upon the house.
-
-Layn’s face went white beneath his dark skin.
-
-His breath stopped.
-
-Greyanna joined the attack, no longer careful enough. The two pressures struck together.
-
-The chamber’s lamps flickered.
-
-Layn’s head snapped toward the sound.
-
-For a moment, he seemed to see something that was not there. His right hand lifted, fingers spread, and the air beside him shivered.
-
-The carved spider beneath his feet cracked.
-
-Only a hairline fracture. Only a small sound.
-
-But every priestess in the chamber heard it.
-
-Dreydre cut the contact.
-
-Greyanna did not.
-
-“Stop,” Dreydre hissed.
-
-Greyanna released him a heartbeat later.
-
-Layn staggered.
+“Enough.”
 
 The Matron Mother stood.
 
-The movement silenced the room more completely than a shout.
+She had not moved from the beginning. She had sat through the arena, through the figures, through the awakening — a silent fixture the eye had stopped visiting.
 
-“What happened?” she asked.
+The word echoed louder than the loudest clashes in the darkness.
 
-Layn looked toward the cracked spider in the floor. His expression was bewildered. He lowered his hand.
+Her spirit manifested.
 
-“I do not know.”
+The isolated dark cage turned transparent — and Layn saw that it levitated in a void, as if it were the only structure in the universe. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands — a cylinder the size of a hall, held like a stolen thing. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. The sisters’ spirits were two candle flames inside the cage. The silhouette, which had been terrible a breath earlier, looked small. Looked young.
 
-The Matron Mother looked at the fracture.
+The three siblings stopped where they stood — Layn mid-stride, his sisters frozen inside their charge. Her power was not larger than theirs. It was of another kind entirely, the way the mountain is not larger than the stone at its foot.
 
-Her gaze held on it a heartbeat longer than courtesy required, the way hands lingered on a blade to find a flaw in the steel. Then it moved away, the flaw judged too small to matter.
+Layn resisted, but it did not matter.
 
-Dreydre waited for her attention to turn toward the sisters. She prepared herself for the questions, the accusation, and the punishment that would follow if their deception had been seen.
+One thought — laid the silhouette flat against the black floor, and Layn felt it in his own body, in his own ribs, in the floor of his mind. As he felt her pure cruelty in it.
 
-Instead, the Matron Mother looked back at Layn.
+The titanic creature shattered the cage as if it were glass. The space around the three siblings, who were lying senseless, immediately altered to become the familiar great halls of House Freth.
 
-“You do not know much.”
+And the house’s mighty Matron Mother stood in the throne emotionless.
 
-“No, Matron Mother.”
+The manifestations went out like lamps. The figures folded down into Dreydre and Greyanna. The silhouette came apart into the pressure behind his eyes and was gone. The broken dark ran downward like water finding a drain, the black disc shrank beneath the stone, and the chamber of House Freth assembled itself around them piece by piece, brazier by brazier, as though nothing had happened except to the bodies standing in it.
 
-“And yet you believe you are suited for Sorcere?”
+The chanting stopped.
 
-Layn’s eyes moved to the sisters.
+* * *
 
-It was the smallest glance.
+A few moments later, Dreydre was on her knees. She understood that her legs had failed.
 
-Dreydre felt it like a blade held against her throat.
+The other priestesses were already moving through the aftermath — tending Greyanna, whose hands would not stop shaking; steadying the two guard females, who had seen nothing from the doors and would be of no use to anyone while the battle of the Freth held.
 
-He looked back at the Matron Mother.
+Layn was worse.
 
-“I believe I could learn.”
+He lay where the ritual had dropped him, on the pale worn stones his feet had claimed at the beginning, and he did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it. He was breathing — shallow, uneven — and every breath said the same thing: this was not exhaustion. This was a body negotiating with death, and losing ground.
 
-The answer was not what Dreydre expected.
+Dreydre watched him from the floor. She could not stand, and she could not look away. She had spent nine years making sure this power stayed small. She had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
 
-It was neither defiant nor meek. It was simply true.
+The Matron Mother looked over the aftermath from her throne.
 
-For the first time, something like interest touched the Matron Mother’s face.
+She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. This was the second time he had nearly killed them. The first had lasted nine years, and never once raised a hand.
 
-“Could you?”
+“Melee-Magthere,” she said.
 
-Layn hesitated.
+Layn did not hear it. He was past hearing.
 
-The sisters did not attack again. They had already pushed too far. The chamber had seen enough.
+She rose. As she walked to the doors at the pace the household adjusted itself to, she stopped.
 
-“I do not know,” he said.
+Without turning, without explaining:
 
-The Matron Mother considered him.
+“Keep him alive.”
 
-“At least you understand the limits of your knowledge.”
-
-Zilvrae lowered her head.
-
-“The male lacks the discipline required for serious arcane study,” she said. “Under pressure, he becomes uncertain. He searches for patterns instead of obeying instruction.”
-
-The Matron Mother looked toward Dreydre.
-
-“And what does the house require of him?”
-
-Dreydre bowed.
-
-“A useful path, Matron Mother. Melee-Magthere would give him discipline and a purpose suited to his station.”
-
-Her voice did not shake.
-
-That was the only victory she allowed herself.
-
-The Matron Mother returned her attention to Layn.
-
-“You will attend Melee-Magthere at the next opening.”
-
-Layn bowed.
-
-“Yes, Matron Mother.”
-
-“You will train as a warrior.”
-
-“Yes, Matron Mother.”
-
-“If you fail, House Freth will not mourn the loss.”
-
-Layn remained bowed.
-
-“I understand.”
-
-The Matron Mother sat again.
-
-“Then leave.”
-
-Layn straightened. He looked at her once more, and Dreydre wondered whether he was searching her face for the mother he had never known.
-
-There was nothing there to find.
-
-He turned and walked toward the doors.
-
-No one stopped him.
-
-When the doors closed behind him, Greyanna let out the breath she had been holding.
-
-“He felt us.”
-
-Dreydre kept her eyes on the sealed doors.
-
-“He felt something.”
-
-“He said it in front of the Matron Mother.”
-
-“And she believed he was frightened.”
-
-“The crack—”
-
-“Was a weakness in the stone.”
-
-Greyanna stared at her.
-
-Dreydre turned at last.
-
-“That is what everyone saw.”
-
-The lie settled over the chamber.
-
-Greyanna had gone still again, her shoulders already light, the moment of fear already filed away. The priestesses had turned back to their stations, nothing left to examine. Zilvrae smoothed her sleeve and looked at the floor.
-
-Dreydre did not.
-
-The attack had not proved that Layn was powerful. It had proved that he could resist them while afraid, confused, and watched by the highest authority in the house.
-
-They had won the hearing.
-
-They had not solved the problem.
-
-Outside the chamber, Layn walked alone through the upper gallery.
-
-He did not know what had happened inside his mind. He knew only that the pressure had returned, that the spiders had been there without being there, and that his mother had finally looked at him.
-
-The house would send him to Melee-Magthere when the next opening came. There, the older males would teach him weapons, discipline, and the proper uses of his body.
-
-The sisters believed they had chosen a smaller life for him.
-
-They were wrong about that.
-
-She had not seen him.
-
-She had seen a decision.
+Then she was gone.

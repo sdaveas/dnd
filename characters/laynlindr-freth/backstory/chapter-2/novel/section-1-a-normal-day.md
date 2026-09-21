@@ -10,7 +10,7 @@ There was no sunlight beneath Menzoberranzan.
 
 It began when the house changed its lights.
 
-The dim violet glow in the sleeping corridors faded toward blue, and the magical lamps set into the walls brightened one by one. Servants moved through the passages carrying water, clothing, and messages. Somewhere above, a bell sounded once—not to mark morning, but to announce that the household had begun expecting things from its people.
+The dim violet glow in the sleeping corridors faded toward blue, and the magical lamps set into the walls brightened one by one. Servants moved through the passages carrying water, clothing, and messages. Somewhere above, a bell sounded once — not to mark morning, but to announce that the household had begun expecting things from its people.
 
 Layn woke before the second bell.
 
@@ -110,11 +110,11 @@ He set the five without a mistake.
 
 She shuffled them and added five more.
 
-The pin in Greyanna's fingers stopped moving. She was unsure whether she would have managed to outmatch her brother, were they to compete at that exercise at his age. The muscle beside her mouth tightened.
+The pin in Greyanna’s fingers stopped moving. She was unsure whether she would have managed to outmatch her brother, were they to compete at that exercise at his age. The muscle beside her mouth tightened.
 
 Layn ordered all ten emblems without a single mistake.
 
-The young priestesses saw the elder tutor's eyes go to her, as if they all held the same thought.
+The young priestesses saw the elder tutor’s eyes go to her, as if they all held the same thought.
 
 Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, and he was flawless every time.
 
@@ -124,7 +124,7 @@ Layn looked up at her.
 
 Her face closed. “You remember what you have been shown. That is not the same as understanding it.”
 
-When the drill ended, she gathered the emblems and began the day’s house lessons — how the rank had held in the city so far, and what each house was known for. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
+When the drill ended, she gathered the emblems and began the day’s house lessons — how the rank had held in the city so far, and what each house was known for. House Freth’s own craft was taught that day too: its substances. Venoms and alchemical preparations that drew out what a creature already carried, and did not care what it cost the vessel. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
 
 The tutor had many ways of teaching a child what not to expect.
 
@@ -138,7 +138,7 @@ Greyanna found him in the passage outside the records room. She planted herself 
 
 “It is not a rare talent,” she continued. “Do not look as though you expect praise.”
 
-Layn knew there was no right answer to his sister's rhetorical monologue.
+Layn knew there was no right answer to his sister’s rhetorical monologue.
 
 “My pin is gone,” she said after a few moments. The young male showed his confusion.
 
@@ -258,7 +258,7 @@ The order had come down years ago with no reason attached: the boy was to be giv
 
 Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, and they had tested, and the tests had told them little until tonight.
 
-The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy's stead, and did not live to see another dusk.
+The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead, and did not live to see another dusk.
 
 They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have, because a frightened mind hides its hand and a clear one shows it. And the hand had begun to show.
 
@@ -290,7 +290,7 @@ They were not the small creatures carved into the walls or the delicate things t
 
 Dreydre stood beside the bed.
 
-Greyanna sat on the windowsill, though there was no window beyond the dark opening—only a deep shaft crossed by a narrow bridge.
+Greyanna sat on the windowsill, though there was no window beyond the dark opening — only a deep shaft crossed by a narrow bridge.
 
 Layn’s throat tightened.
 
