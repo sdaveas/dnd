@@ -86,65 +86,63 @@ She was a narrow-faced female with white hair braided tightly against her scalp.
 
 The lesson was not private. Dreydre sat at the far table with the house’s correspondence. Greyanna sat in the window seat, turning a silver pin between her fingers.
 
-Zilvrae set five emblems on the black table — five houses of Menzoberranzan. The city kept a rank of houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
+Zilvrae set five emblems on the black table, in a line — five houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
 
-“Put them in order,” she said.
+“This is the order,” she said. “Look.”
 
 Layn studied the symbols. A silver blade. A broken chain. A spider above a crescent moon. A crown surrounded by nine points. All of them he knew from the household records he had been allowed to read.
 
-He arranged them in the order of their houses’ power.
+She swept the emblems up, shuffled them, and set them out again. “Now you.”
 
-Zilvrae examined the table. She gathered the emblems, shuffled them, and set them out again — ten this time.
+He set them in the order of their houses’ power.
 
-“Put them in order.”
+One was wrong. The broken chain lay where the silver blade belonged.
 
-He did.
+“You looked,” she said. “You did not see.”
 
-At the ten-emblem round, the pin in Greyanna’s fingers stopped moving. Zilvrae’s eyes went to the window seat for a heartbeat before they returned to the table.
+She gathered the five and laid them out in their order once more, one by one.
 
-She had run this drill longer than Layn had been alive. At ten emblems, she could not have matched him.
+This time Layn did not watch the emblems. He watched the order itself. When she swept them up, the order did not go with them. It stayed fixed behind his eyes, whole and silent, the way a shape stays after the light is gone.
 
-She shuffled the ten and added ten more. Then ten more. Twenty. Thirty. Layn set them in order every time, and he was flawless every time.
+“Again.”
 
-When the thirty stood ranked on the black table, Zilvrae looked down at them, and she could not help herself. Barely a whisper: “Good memory.”
+He set the five without a mistake.
 
-It was not a thing a tutor said to a male.
+She shuffled them and added five more.
+
+The pin in Greyanna's fingers stopped moving. She was unsure whether she would have managed to outmatch her brother, were they to compete at that exercise at his age. The muscle beside her mouth tightened.
+
+Layn ordered all ten emblems without a single mistake.
+
+The young priestesses saw the elder tutor's eyes go to her, as if they all held the same thought.
+
+Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, and he was flawless every time.
+
+When the thirty stood ranked on the black table, Zilvrae looked down at them, and she could not help herself. Barely a whisper to herself: “Good memory.”
 
 Layn looked up at her.
 
-Her face closed. “You remember what you have been told. That is not the same as understanding it.”
+Her face closed. “You remember what you have been shown. That is not the same as understanding it.”
 
-The lesson ran on for hours. “Again,” she said, and he set the emblems in order. “Again,” she said, and he set them in order again. He stood at the black table without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
+When the drill ended, she gathered the emblems and began the day’s house lessons — how the rank had held in the city so far, and what each house was known for. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
 
-The lesson continued until the lamps changed again.
+The tutor had many ways of teaching a child what not to expect.
+
+Layn would soon discover that his sisters had more.
 
 * * *
 
-“You remember too well,” Zilvrae said.
+Greyanna found him in the passage outside the records room. She planted herself in the middle of it and looked down at him.
 
-She had murmured as much herself, an hour before, and she had not meant to be heard.
+“You remember too well,” she said.
 
-“It is not a rare talent.”
+“It is not a rare talent,” she continued. “Do not look as though you expect praise.”
 
-“No, Mistress.”
+Layn knew there was no right answer to his sister's rhetorical monologue.
 
-“Then do not look as though you expect praise.”
+“My pin is gone,” she said after a few moments. The young male showed his confusion.
 
-He lowered his eyes.
-
-The household had many ways of teaching a child what not to expect.
-
-His sisters had more.
-
-After the lesson, Greyanna had found him in the passage outside the records room.
-
-She planted herself in the middle of it and looked down at him.
-
-The pin had lived in her fingers through the whole lesson. He had last seen it when it stopped, at the second round of the drill.
-
-“My pin is gone,” she said.
-
-“I have not seen your pin.”
+“I have not seen your pin,” he said, trying not to show any sign of uncertainty.
 
 “You were in the records room. You came out with your sleeves closed.”
 
@@ -156,7 +154,7 @@ Greyanna smiled and did not look at his hands.
 
 “So you accuse your tutor of theft.” Greyanna’s voice did not rise.
 
-“It was in my fingers all morning,” she said. “So were you.”
+“It was in my fingers all morning,” she said. “You were there the whole time.”
 
 He had seen servants punished for theft. None of them had been guilty either.
 
@@ -204,19 +202,21 @@ She held the pin up between two fingers, where the whole passage could see it.
 
 Then she let go. The pin did not fall. It hung in the air, turning slowly in the lamplight.
 
+A small spell — the luth, the first trick a daughter learned. It cast a thing a short distance, and it chose the where itself. Larger workings borrowed that randomness, so that even a spell the enemy knew by heart could still cause some form of surprise.
+
 Dreydre raised both hands beside it, fingers spread, and spoke while it hung there. “When it leaves the air, it will be in one of my hands. You will say which before it goes. If you are wrong, she will have her thief.”
 
 It came again, the pressure behind his eyes, and this time he knew it was not his. The thought arrived finished, the way it had when he named the sleeve. It moved from the pin to Dreydre, then toward him. He felt the direction of her attention before she spoke.
 
-“Right.”
+“Right,” said Layn.
 
-The pin still hung in the air. Neither hand had claimed it.
+The pin still hung in the air. Neither hand had claimed it yet.
 
-The pin vanished.
+And suddenly, the pin vanished.
 
-Dreydre opened the right.
+Layn pointed at her right hand.
 
-The pin was there.
+Dreydre looked at him and slowly opened her right, revealing the shiny silver pin.
 
 Neither sister spoke.
 
@@ -246,8 +246,6 @@ Dreydre closed her fingers around the pin.
 
 Layn went. Greyanna held his eyes until the archway took him, and the look she gave him made the passage feel narrower.
 
-* * *
-
 Dreydre looked at Greyanna.
 
 “Tonight,” she said.
@@ -260,7 +258,7 @@ The order had come down years ago with no reason attached: the boy was to be giv
 
 Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, and they had tested, and the tests had told them little until tonight.
 
-The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. Once, a lamp had cracked above a corridor after he had passed beneath it, four steps past and still walking. The house had blamed the glass.
+The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy's stead, and did not live to see another dusk.
 
 They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have, because a frightened mind hides its hand and a clear one shows it. And the hand had begun to show.
 
@@ -372,9 +370,11 @@ Layn pressed his hands flat against the blanket. The spider climbed across his a
 
 His heart beat so hard that he was certain his sisters could see it.
 
-He tried to remember the morning’s lesson. A room. A table. Emblems set in the order of their houses. He tried to think of the city above the house, of bridges and carved stone, of anything larger than the bed beneath him.
+His eyes burned. Tears slid from the corners into his hair, and he did not move to stop them.
 
-The pressure behind his eyes returned.
+He reached for the pressure behind his eyes, the way he had reached when he named the sleeve. Nothing answered. The fear stood where the quiet had been, and the quiet would not come.
+
+Then the pressure returned on its own.
 
 For one instant the room seemed to draw inward. The spider on his chest stopped moving. Its legs folded against its body as though it had struck an invisible barrier.
 
@@ -394,4 +394,4 @@ He lay beneath the sacred animals of Lolth and listened to the house move around
 
 He was ten years old.
 
-He did not sleep until the scraping stopped, and he did not move even then.
+He did not sleep. The scraping stopped, and he did not move even then.
