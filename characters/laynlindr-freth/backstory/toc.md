@@ -19,15 +19,17 @@ The backstory is organized by **character → backstory → chapter → format �
 ### Chapter 2 — The Web Within House Freth
 
 - **Section 1 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy. [`novel/section-1-a-normal-day.md`](chapter-2/novel/section-1-a-normal-day.md)
-- **Section 2 — The Plan** — the sisters' post-spider conspiracy, the nine-year time skip, and the preparation for the hearing. [`novel/section-2-the-plan.md`](chapter-2/novel/section-2-the-plan.md)
-- **Section 3 — The Hearing** — the coordinated mental attack, Matron Mother hearing, and academy decision. [`novel/section-3-the-hearing.md`](chapter-2/novel/section-3-the-hearing.md)
+- **Section 2 — The Small Corrections** — the nine-year bridge: the spider routine, the sanctioned education (weapons, birthright powers, secrecy craft), the phobia and the hallucinations, and the summons to the hearing. [`novel/section-2-the-plan.md`](chapter-2/novel/section-2-the-plan.md) *(filename retained from the scrapped draft "The Plan" for packet stability)*
+- **Section 3 — The Hearing** — the hearing becomes a supernatural trial: the amplifier, the handicapped sisters, the spirit arena, the Matron Mother's intervention, and the academy decision. [`novel/section-3-the-hearing.md`](chapter-2/novel/section-3-the-hearing.md)
 
 ### Chapter 3 — The Academy
 
+The academy is a 10-year course (canon, Homeland p.151); the four sections below span Layn's first four years (≈1315–1318 DR). Melee-Magthere's next opening falls in the year Layn turns 19. Drizzt Do'Urden enters in Layn's third year (≈1317 DR) — a name and a technique, never a friend.
+
 - **Section 1 — First Year** — the drow birthright of Dancing Lights, Darkness, and Faerie Fire
 - **Section 2 — Second Year** — weapons, athletics, daggers, Sneak Attack, Savage Attacker, and Elven Accuracy
-- **Section 3 — Third Year** — stealth, tools, perception, betrayal, spider trauma, and the first signs of Detect Magic
-- **Section 4 — Fourth Year** — Levitate, Dispel Magic, reliable Detect Magic, uncontrolled psionics, graduation, and return
+- **Section 3 — Third Year** — stealth, tools, perception, betrayal, spider trauma, and the first signs of Detect Magic. Drizzt Do'Urden arrives in the entering class — Layn hears of his technique and is amazed
+- **Section 4 — Fourth Year** — Levitate, Dispel Magic, reliable Detect Magic, uncontrolled psionics — and the recall home: the shadow of Teken'duis reaches the academy, and House Freth summons its son
 
 ### Part II — The House That Eats Its Own
 
@@ -88,4 +90,4 @@ The final prose should read naturally aloud: varied sentence length, clear parag
 
 ## Drafting Status
 
-**I.1 — Beneath the Spider's City** has been redrafted as the opening chapter. **I.2.1 — A Normal Day**, **I.2.2 — The Plan**, and **I.2.3 — The Hearing** are now drafted; I.2.2 continues from the first spider scene, then skips nine years before the hearing in I.2.3 sends Layn to Melee-Magthere. **I.3 — The Academy** is outlined for the next drafting pass; Part II and Part III remain unchanged.
+**I.1 — Beneath the Spider's City** has been redrafted as the opening chapter. **I.2.1 — A Normal Day**, **I.2.2 — The Small Corrections**, and **I.2.3 — The Hearing** are now drafted; I.2.2 carries the nine years between the first spider night and the hearing through five vignettes (the routine, the sanctioned education, the phobia and hallucinations, the records room), ending on the summons that opens I.2.3. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
