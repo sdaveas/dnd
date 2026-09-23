@@ -6,228 +6,622 @@
 
 The second time the door stood open, no one explained anything.
 
-There was nothing to explain. The spiders were sacred animals of Lolth. To kill them, to move them, to drive them from the bed — blasphemy, and the house would suffer for it. The lesson had arrived with the first spider, and it was repeated word for word, night after night, year after year, until Layn could have recited it from the inside.
+There was nothing to explain. The lesson had already been given: the spiders were sacred to Lolth, and to kill one, move one, or drive one from the bed was blasphemy. Layn had understood the words the first time. He understood them even better the second.
 
-He never did. The words did their work anyway. He never touched a spider. He never moved one. He lay beneath them and believed — because believing was the only place the fear could go.
+There were two spiders on the blanket.
 
-The third night came without ceremony, and the nights after that came at intervals no one named — two cycles, then six, then half a season. Sometimes one spider waited on the blanket. Sometimes several. The nights were never explained and never discussed, and the house kept no calendar for him that he could see.
+He stopped in the doorway.
 
-He kept one anyway, in the only place the house could not check.
+They were larger than any spider he had seen in the city courtyards, each broad enough that its legs reached across more than one fold of the cover. Their bodies were dark and glossy in the low light. One moved slightly, making the blanket tremble beneath it. The other remained still.
 
-The mechanics of a night never changed. The door stood open. The spiders were already on the bed when he entered, or they came out of his sisters' sleeves while he stood in the doorway. "Lie down, boy." He lay down. The long stillness. The sisters leaving with the lamps dimming, and the door closing, and the house forgetting him before he stopped being afraid.
+Behind him, the door stayed open.
 
-That was the lesson under the lesson. The house could put its worst on him, and he would lie there, and the house would forget him before he stopped being afraid.
+“Lie down, boy.”
 
-Some nights he counted. Four hundred breaths. Five hundred. The spiders did not move, and neither did he.
+He did.
 
-One night, the spiders stayed until the lamps dimmed twice. Greyanna fell asleep on the windowsill — actually asleep, her head against the stone — and Layn lay beneath the sacred animals of Lolth and watched his sister sleep. He did not move, and he did not wake her, and he understood that neither of those was mercy.
+He learned quickly that the worst part was not the sight of them. It was knowing that he could not look away without imagining where they had gone.
 
-He learned to check the bedding before he slept in it. He learned the corners of a room before its doors. He slept lightly and woke often, and told no one, because there was no one.
+The nights that followed did not come in any pattern he could recognize. Sometimes days passed. Sometimes longer. The ritual was always the same. A door opened. A lamp burned low. The bed waited. He checked the room before entering, then checked it again even though he knew the check was useless.
 
-The first nightmare came that winter. The bed, the legs, the weight. He woke with his heart going like a fist on a door and lay exactly as he had been, eyes open in the dark, until the sound of his own blood quieted.
+When the sisters were there, he did not look at them.
+
+When they left, he listened to their footsteps until he could no longer hear them.
+
+Then he waited.
+
+The waiting stripped the ritual of everything else. Threats became unnecessary. Smiles became unnecessary. Eventually even words became unnecessary. The fear had learned the shape of the room.
+
+Some nights he counted his breaths. Four hundred. Five hundred. More. His body discovered that it could remain still for a very long time if it had to.
+
+The first nightmare came that winter.
+
+He woke with his heart hammering and did not know whether he was awake. The room was dark. His hands were still. His breath was shallow. For several moments he could feel the old weight against the blanket as clearly as though it had been there a moment before.
 
 He did not move.
 
-After that he learned to wake without moving — coming awake with his breath held and his hands quiet, so that whatever was in the room with him learned nothing from his waking.
+After that he learned to wake without moving at all, coming out of sleep with his hands quiet and his breath controlled, giving nothing away to whatever his mind expected to find waiting in the dark.
 
 * * *
 
-The years settled into a shape, and the shape did not change.
+Years did not pass cleanly. They accumulated.
 
-The ritual stripped itself of everything as the cycles turned — the threats, the whispers, even Greyanna's smiles — until the waiting was worse than the spiders, and the waiting was all that remained. The nightmare came with variations, and the variations were the same: the bed, the legs, the weight. He learned the shape of its coming — a door somewhere below the corridor, a lamp changed in the passage, no reason attached — the way other children learned the approach of a storm.
+Layn was eleven, then twelve. The house changed around him in small ways: servants came and went, older males disappeared into assignments, lamps were replaced, corridors were repaired. His place did not change.
 
-He was eleven, and then he was twelve, and the shape held.
+At twelve, Zilvrae began his proper physical training.
 
-* * *
+The galleries were the same ones in which he had once counted blades. Now the weapons were wooden staves and blunted blades, and his own hands were expected to know what to do with them.
 
-At twelve, the training galleries.
+“Again.”
 
-They were the galleries where he had counted blades at ten, and now the blades were wooden, and blunted, and in his hands. Zilvrae stood him in the forms — stances, drills, the long repeats of the body — and her corrections endured as everything of hers was endured.
+He repeated the form.
 
-"Your weight sits on the wrong foot because you watch my blade," she said, moving through the sequence without hurrying. "The blade can lie. The hips cannot."
+“Your weight.”
 
-She was precise and joyless, and every drill had a purpose she did not share. He was good in a way that made her pause once, and then proceed. When she corrected his grip, she said:
+He adjusted it.
 
-"A blade stuck in a drow's heart does not care whether it came from a male's hand or a female's."
+“Again.”
 
-It was the closest thing to encouragement the house ever gave him.
+Layn was not naturally gifted at fighting. He was not faster than every boy his age, nor stronger, nor possessed of some instinct that turned every exchange in his favor. What he had was persistence. When another student would have accepted an imperfect movement because it was good enough, Layn repeated it until it was less imperfect.
 
-In the library above the galleries, she taught the birthright.
+Zilvrae noticed.
 
-"The lights. The fire. The dark." Her hands folded inside her sleeves. "Small. Steady. The lights dance one hand-span wide, no further."
+She did not praise him for it.
 
-He learned the metering before the magic. The fire was for marking, and only when the lesson asked for it — paint, and do not blaze. The dark was never wider than a cup. When the lights wavered past their span, she said the word she used for everything.
+“You stepped because you expected the strike,” she said one morning. “Do not expect. See.”
 
-"Again."
+He tried again.
 
-The magic was the house's property, and the house's property was the sisters' property, and what he was allowed was the using of it — small, supervised, beneath notice. It came to him without instruction, rising in his hands the way the spiders rose in his bed: without asking. Zilvrae did not care that it came. She cared what it did.
+This time he watched her shoulders, then her hips, then the space between them.
 
-He did not dream of becoming a mage. Mages were the sisters' kind, and the birthright felt like the sisters' world, wearing his blood.
+The strike came later than he thought.
 
-And once — once in all the years — she showed him what the forms were for.
+He moved.
 
-She stood in the center of the gallery, raised her empty hand, and a sword appeared in it. It had no color at all. It was thin as a thought, and the lamplight did not seem to land on it. She moved through a full sequence — the same forms he had been drilled in, grown lethal — and when the sword passed through the hanging practice screen at the end of the hall, the screen showed nothing. No cut. No tear. The blade had gone through and left the world unmarked.
+“Better.”
 
-"It does not wound where it can be seen," she said, and the sword was gone. "A wound that cannot be seen cannot be answered."
+The word was small, almost accidental. He carried it with him for the rest of the day.
 
-She did not teach it. She never showed it again.
+Zilvrae never made training comfortable. She made it predictable. Every correction had a reason, every standard remained the same tomorrow as it had been yesterday, and when she demanded something of him she demanded it because she intended him to be capable of doing it.
 
-He never forgot it.
+That difference mattered more than he yet understood.
 
-* * *
+One afternoon she asked him to choose a weapon for the next exercise. He tried a longer blade, then a heavier one. Both felt cumbersome in his hands.
 
-The day lessons carried the rest.
+He picked up a dagger.
 
-The lessons were never private. His sisters sat at the edges of them — Dreydre with the house's correspondence, Greyanna with the silver pin — and the edges of a lesson were where the house kept its eyes.
+“This is easier.”
 
-The rank of houses: fifty, and House Freth nineteenth among them. What each house was known for. The alliances that lasted as long as they were useful. House law: what a young male may enter, sign, witness, and never touch.
+“Why?”
 
-And the law beneath the rank, taught flat, in Zilvrae's ledger voice:
+“I am not good with long or heavy weapons,” he said after a moment. “These are easy to handle. And I can throw them.”
 
-"Strike, succeed utterly, and leave no witnesses. A failed attack is paid for with the house that made it."
+Zilvrae looked at the dagger, then at him.
 
-She named no example. The lessons did not need one. Every child of the city knew what had happened years ago, when House Do'Urden rose from the tenth house to the ninth in a single night — and the manner of it was not a lesson Zilvrae gave.
+“Then learn to use what you can control.”
 
-She taught the house's own craft in the same voice. The black vessels were made in pairs, she said, and used in pairs. The first amplified what a creature already was, for a few breaths only, and the body paid for every borrowed degree. The second did the opposite: it drained a creature's channeling for those same breaths, and left endurance behind when it ended — enough to keep the drained standing. The pair was the house's oldest craft, and the reason the rank still feared its name.
-
-His lessons covered the first vessel. The second was named, and never practiced.
-
-The nights became a season. Then a calendar.
+The lesson ended there.
 
 * * *
 
-At fourteen, the watcher's pair.
+Zilvrae's own weapon appeared without warning the way a thought appears before a word, except that Layn had seen the trick so many times that the appearance itself no longer surprised him.
 
-"Detect magic is a servant's tool," Zilvrae said. "You will see the workings that are laid on the house's things. You will undo what others have done carelessly. You will weave nothing."
+What surprised him was that he still wanted to watch it.
 
-He was careful with it. He was careful with everything now — the bedding before sleeping, the corners before entering, the three breaths before any door opened. He slept lightly and woke often, and had learned to come awake without betraying it, so that whatever was in the room with him learned nothing from his waking.
+Her hand was empty. Then a quarterstaff was there.
 
-She set exercises for the seeing-spell: a key hidden in the library, a working folded into a servant's lamp. He named the stone before she finished the sentence. He undid a careless ward on the records-room window that had kept the archives cold for a decade, and no one but him noticed the warmer air.
+It formed from the darkness around her palm, not erupting into being but resolving piece by piece: dark length, clean grain, smooth grip, weight distributed so evenly that the finished weapon seemed to have been balanced before it had ever existed. It looked plain until the eye lingered on it. Then every detail declared itself—the slight taper at either end, the worn places where her hands naturally settled, the absence of any ornament that did not serve the weapon.
 
-He was careful with the spell. He was careful with everything now.
+Layn had seen it countless times.
 
-That season, at the edge of the lamp's reach, the small carved spider above his doorway turned its head.
+He watched every time.
 
-He stood very still and watched it settle back into stone. When he blinked, it was a carving again, in the same pose it had held for years.
+Zilvrae could call forth almost any weapon. The quarterstaff was simply the one she favored.
 
-He did not tell anyone. There was no one to tell, and nothing that would have made it better.
+She moved through the same forms she had taught him, but transformed by experience. The staff became extension rather than object, striking, turning, hooking, and returning to guard in movements so economical that they seemed inevitable.
 
-After that, he did not trust the edges of rooms.
+At the end of the sequence she let it fall from her hand.
 
-The first time he cast the seeing-spell through the whole house, something in the upper halls looked back.
+Before Layn could catch it, the staff dissolved.
 
-He lowered his hand and did not cast again that day. The sisters' interest flickered — he could not have said how he knew — and the report that went up to the upper galleries grew one line longer.
+He looked at the place where it had been.
 
-No one asked him about it. No one in the house asked him anything that mattered.
+“It remains while I hold it,” Zilvrae said. “Release it, and there is nothing to hold.”
 
-* * *
+She did not explain how she had learned the technique. She did not teach it to him.
 
-The incidents blurred the way the stone did.
-
-Some mornings he could not be sure the night had happened at all: legs across his chest, a weight near his throat, the scrape — and no spiders anywhere, no mark on the bedding, no proof. In the first years his sisters had always been there, and their presence had been the proof. Later the proof stopped coming.
-
-They came less often than Layn believed. They kept placing the spiders regardless. But his own mind had learned to place the spiders itself, and by the later years the fear policed the nights without anyone in the room.
-
-Once a cycle, Zilvrae set exercises she never explained: he was to hold still inside the shadow of the gallery arches while she walked the floor below with a guard, and leave no trace of where he had been. Other exercises had no names either: the blind corner of any room, found in three heartbeats; the memory of every exit, every lantern, every line of sight; a hall entered late, unseen. She never called any of it stealth. She called it obedience of the body. The house never asked.
-
-He was learning how to disappear.
+He never forgot the weapon.
 
 * * *
 
-At sixteen, Zilvrae taught him the last of his birthright.
+Combat took half his working day.
 
-"Once," she said. "Under our eyes."
+The other half belonged to the birthright.
 
-Both sisters stood in the library while she spoke, and Layn did not wait for the lesson to end. The air beneath him softened before her hands had finished the gesture — a finger's width off the floor, his boots hanging over stone — and Dreydre and Greyanna exchanged the look, the one that did not travel to their faces.
+The first lesson was simple: his natural drow magic was neither remarkable nor optional. Every ability had to be controlled. None existed to make him special.
 
-Zilvrae corrected his landing. "A drow who cannot hold his own weight in the deep galleries embarrasses the stone," she said. "Again."
+He learned the first by learning to notice what ordinary sight could not: the traces of magic around an object, a person, or a place. It took him about a month before the perception became steady instead of appearing in flashes.
 
-It was the luth grown tall — the small trick a daughter learned first, the air asked to carry more than a pin.
+The second took longer. He learned to call small lights into the air and keep them moving exactly where he intended. Zilvrae allowed no excess. If the lights drifted beyond the narrow space she had permitted, she simply said:
 
-At a family meal that year, Layn knew before the servant's elbow touched it that the tray would fall. He kept his eyes on his cup. The tray went down, the servant was taken from the hall, and the meal continued. Layn said nothing, and the silence he kept about it was noticed by no one but his sisters.
+“Again.”
 
-That season the incidents found him at his best — twice, just as the sleep had started to hold. The spiders were larger than they had ever been, grown the way he had grown, as if they were being renewed to fit him. Always two. And twice, at the edge of vision, the carved spiders in the floor galleries drew their legs in.
+Then came the magic that outlined a creature or object in cold, colored radiance.
 
-The nightmares gained sound: a scraping that followed him out of the dream and into the dark, and did not stop when the room proved empty.
+Then darkness—not absence of light, but a thing he could place, shape, and contain.
+
+Then the ability to lift his own body from the ground.
+
+Last came the most exacting lesson: the ability to unravel another working without damaging what lay beneath it.
+
+He practiced several abilities at once, but mastery came in that order, each becoming reliable before the next was allowed to matter.
+
+The rules around them were made clear from the beginning. His birthright belonged to his blood, and therefore, in the language of the house, to the house. He was permitted to control it under supervision. He was not permitted to imagine that control meant ownership.
+
+He did not dream of becoming a mage.
+
+Magic was the world of the women who ruled the house, of priestesses and lessons that carried consequences for everyone below them. His own abilities felt less like a calling than another discipline he had been assigned.
+
+Still, he learned them.
+
+One evening, Zilvrae used the colored outlining light against him during a drill. Layn dispelled it a heartbeat after it formed.
+
+She looked at him.
+
+“Good.”
+
+That was all.
 
 * * *
 
-He had grown into his silence.
+By thirteen, the days had acquired a rhythm so complete that he sometimes reached the end of them before remembering that he had been tired at the beginning.
 
-The house had grown around it the way stone grows around a vein — corridors worn to his routes, lessons fitted to his hours, a boy-shaped quiet at the bottom of the rank that no joint in the masonry showed. The Matron Mother's guards still crossed the upper gallery on their rounds, and the whole house still grew still until she had passed. Layn was still before they came and still after they left. He had a great deal of practice.
+Weapon drills. Magical exercises. Lessons in the library. Chores. Reading. More drills.
 
-The years leaked in small moments the house never called anything. Two of the older males died in disputes that no one described as accidents. Lamps cracked above corridors after he passed beneath them, and the house blamed the glass. The doorway carving above his room was replaced once, after a servant cracked its leg.
+The house taught him its rules through repetition.
 
-The Matron Mother had never once overridden Zilvrae — not because she feared her, and not because she forgave anything, but because she counted her, the way a house counts a well that has never once run dry. The boy was her work. The boy's future was not her business.
+Zilvrae taught him something else through the same means.
 
-He was useful enough to educate, unimportant enough to ignore.
+“Fighting can make you remembered,” she told him during one lesson. “For glory, or for the manner of your death.”
 
-And adulthood was coming, the way the deep galleries come to the end of their stair. House law woke around a male as his childhood closed: the house would have to name a path, and the academies opened when they opened, and the house did not explain its timing. Layn knew none of the timetable. He knew only that the older males had begun to look at him the way drow look at weather that is about to change.
+She stood with her quarterstaff resting lightly against one shoulder.
+
+“Concealment can make you alive.”
+
+Then she disappeared.
+
+Layn blinked.
+
+She had not left the room. He knew that. He had watched the doors. Yet the gallery seemed empty.
+
+He searched the obvious places first.
+
+Nothing.
+
+Only when he stopped looking directly did he notice the difference in the shadows beside one of the pillars: not movement, merely the absence of movement where the eye expected some.
+
+Zilvrae stepped out.
+
+“The room told you where to look,” she said. “You obeyed.”
+
+After that, the exercises multiplied.
+
+He learned which stones made noise and which did not. He learned where a patrol's line of sight ended, where a lantern reflected off polished stone, where people naturally looked when entering a room. He learned to fold himself into a corner in the time it took a guard to cross a doorway.
+
+She called it obedience of the body.
+
+He learned to make his body obey.
 
 * * *
 
-At nineteen, he stood in the records room with a set of sealed messages and a list of names.
+By fourteen, the house had become large enough in his mind that he could navigate it without thinking.
 
-The records room was the house's sanctioned solitude — the one place a male could sit with the house's paper and be beneath notice. He had read there for years: the registers, the alliances, the names of houses that were no longer names. The quiet had never been a kindness. It had been an assignment, and he had done it well.
+He knew the fifty houses of the city, their ranks, the names they allowed themselves to be known by, the alliances they maintained for as long as those alliances remained useful.
 
-He sorted them by destination, urgency, and the rank of the person entitled to receive them. He had not opened a single seal.
+House Freth was nineteenth.
 
-He had not needed to. The message meant for the lower training gallery carried the oil of the weapon racks. The one bound for the temple held the faint mineral smell of incense ash. The third had been folded by a servant who pressed his left thumb into the corner of every page he touched.
+He learned what a young male of a noble house might enter, what he might sign, what he might witness, and what belonged entirely to priestesses.
 
-Layn placed the messages in three neat piles.
+Zilvrae explained the law as something more practical than doctrine.
 
-Zilvrae inspected them.
+“You do not need to believe a rule to survive under it,” she told him. “You need to know where it is.”
 
-"You were told to read the names," she said.
+One lesson went further.
 
-"The names were not difficult."
+“A male's place is not the same as a female's,” she said. “The difference is real because the house enforces it. A male may possess authority in the spaces assigned to him. He may fight, carry messages, witness matters, keep records, manage what the house places in his hands. He may also be ordered, displaced, or removed without appeal.”
 
-"Then do not look pleased with yourself."
+Layn listened.
 
-She checked the third pile twice. One message did not belong where the ledger had sent it — the temple seal sat above a rank that could not receive temple matters. Layn had separated it.
+“You think this means a male cannot matter.”
 
-"That one was wrong when it arrived," Zilvrae said. "Not your error."
+“I did not say that.”
 
-He looked up before he could stop himself. It was the only time anyone in the house had ever told him a fault was not his.
+“You did not have to.”
 
-Greyanna came down the gallery steps while he was setting the tray in order.
+Zilvrae regarded him for a moment.
 
-"The hearing is tonight," she said. "The Matron Mother will decide your path. You will answer carefully."
+“When a blade enters an opponent's heart,” she said, “the heart has no interest in the sex of the hand that placed it there.”
 
-"I always do."
+The statement contained no rebellion. It was simply the way she understood craft.
 
-Greyanna smiled without warmth. "That is why you are so difficult to improve."
+She continued teaching.
 
-Layn lifted the tray.
+She also taught him what happened to houses that failed.
 
-Dreydre stepped aside to let him pass.
+A fallen house was not merely defeated. It was erased. Its name became something that should not be carried. Survivors who found another roof could continue living, but the house itself had ceased to exist.
 
-As he went by her, she reached toward him with her mind.
+Layn asked what had happened to hers.
 
-The contact was no more than a fingertip against the edge of a thought.
+Zilvrae was silent long enough that he thought she might not answer.
+
+“No one speaks of fallen houses,” she said at last.
+
+“You came from one.”
+
+“Yes.”
+
+“That means you were—”
+
+“Absorbed.”
+
+Nothing in her voice invited pity.
+
+Later, when he asked why houses destroyed one another so often, she answered plainly.
+
+“Because rank is only safe until someone higher decides it is not.”
+
+She gave him one example. Around the time he had been a baby, House Do'Urden had risen from tenth to ninth in a single night.
+
+She did not name the house that had disappeared.
+
+She did not explain how.
+
+The omission was part of the lesson.
+
+* * *
+
+At fifteen, Layn discovered the laboratory.
+
+He saw his sisters first.
+
+They were ahead of him in one of the service corridors, moving toward the inner galleries. He stopped before they could turn. He had been practicing concealment long enough that the reaction came before the thought: shoulder against stone, weight settled, breath controlled, eyes fixed on a place no one would naturally search.
+
+A priestess came from the opposite direction and opened a heavy iron door.
+
+She hurried through.
+
+Layn waited.
+
+The door began to close.
+
+Curiosity won.
+
+He slipped inside.
+
+The room smelled wrong.
+
+Not merely of chemicals. Of metal, wet stone, bitter roots, something burned, and something living that should not have been alive in such a place.
+
+Tables lined the walls. Glass vessels stood beneath narrow lamps. Notes covered several work surfaces in precise hands, marked with measurements and times.
+
+A tiny creature sat inside one of the enclosures.
+
+A priestess placed a drop of black liquid before it.
+
+The creature consumed it.
+
+For several breaths nothing happened.
+
+Then it began to grow.
+
+Its body stretched unnaturally fast, skin pulling tight as its frame widened. Small limbs became thick with muscle. Its head distorted. The enclosure cracked.
+
+Three priestesses moved at once.
+
+One threw up a barrier. Another spoke a command he could not hear clearly. The third kept writing.
+
+The creature became enormous.
+
+It struck the barrier once.
+
+Twice.
+
+Then the growth stopped.
+
+The whole thing lasted only minutes.
+
+Its body shuddered, collapsed inward, and burst apart into a heap of lifeless flesh.
+
+The priestess with the notes continued writing.
+
+No one prayed.
+
+No one mourned.
+
+They recorded the result.
+
+Layn backed through the doorway and closed the iron door behind him.
+
+He told no one.
+
+The next day, he asked Zilvrae about the paired vessels he had seen.
+
+She brought a handwritten House Freth book from a locked shelf.
+
+“This is house craft,” she said.
+
+The page described two substances made as a pair. The darker one amplified what was already present in a creature, briefly and violently. The body paid for the increase, and in a sufficiently powerful subject the cost could be fatal.
+
+“The other?”
+
+“Drains channeling for the same few breaths,” Zilvrae said. “When it ends, endurance remains. Enough to keep the subject standing.”
+
+She closed the book.
+
+“You were not meant to see the laboratory.”
+
+Layn said nothing.
+
+“Nor were you meant to ask about it.”
+
+He waited.
+
+Then she returned the book to its shelf.
+
+She did not punish him.
+
+It was a small thing, but in House Freth small things were often the ones that mattered.
+
+* * *
+
+The spiders continued.
+
+When they appeared physically, there were always two.
+
+But by the later years Layn could no longer always tell whether the night had begun outside him or inside him.
+
+He checked the bedding.
+
+He checked the corners.
+
+He checked the space beneath the bed even though he knew what he was looking for could not be there.
+
+Sometimes he woke with his heart already racing and the certainty that something had crossed the blanket. He would lie still until the room became ordinary again.
+
+Sometimes it did not.
+
+One night, above his doorway, the carved spider seemed to turn its head toward him.
+
+He stared at it.
+
+The stone was still.
+
+He looked away.
+
+When he looked back, it was exactly where it had always been.
+
+Afterward he stopped trusting the edges of rooms.
+
+The sisters needed less from him as the years passed. Fear had learned to reproduce itself. The waiting no longer required a door opening or footsteps in the corridor. Sometimes the memory of the bed was enough.
+
+Yet the unusual moments became fewer, not more.
+
+A sensation. A thought that moved before he intended it. An impossible certainty that vanished when he reached for it.
+
+Nothing held.
+
+Nothing repeated on command.
+
+The house did not call those moments anything. The sisters watched them. They reported what they saw.
+
+The pressure inside Layn grew quieter.
+
+His discipline grew stronger.
+
+* * *
+
+There came a time when the sisters stopped putting the spiders in his bed as often.
+
+They did not stop because they felt sorry for him.
+
+Zilvrae had made a different argument.
+
+The discussion took place without Layn knowing about it.
+
+His lack of sleep was interfering with his training.
+
+That was the argument.
+
+Not kindness. Not forgiveness.
+
+Efficiency.
+
+“Fear can stop a hand,” Zilvrae told Dreydre and Greyanna. “Discipline can teach the hand when to stop.”
+
+Greyanna objected that fear had worked. The manifestations were weaker.
+
+Zilvrae did not dispute it.
+
+“How long can you keep doing this?” she asked. “He will not remain a boy.”
+
+The sisters said nothing.
+
+“The question is not whether you can frighten him,” Zilvrae continued. “It is whether you want a man who requires fear every night before he can be controlled the next morning.”
+
+The Matron Mother entered before the argument was finished.
+
+Zilvrae presented the matter directly. Her method was more sustainable. A disciplined adult would remain useful. A sleep-deprived one would not.
+
+The Matron Mother listened.
+
+Then she accepted the change.
+
+The sisters obeyed.
+
+After that, the physical visits to Layn's bed grew farther apart until, eventually, they stopped.
+
+The fear did not.
+
+Neither did the nightmares.
+
+* * *
+
+At nineteen, Layn was standing in an apparently empty room when Zilvrae entered.
+
+She was not alone. Another house servant followed her, carrying a slate and a bundle of sealed correspondence.
+
+“The lower gallery will need another lamp before the next lesson.”
+
+“It already has two.”
+
+“One is cracked.”
+
+“I'll have it replaced.”
+
+“The stores?”
+
+“Three staves, two practice blades, oil for the lamps.”
+
+“Take four staves. The western one is warped.”
+
+The exchange was so ordinary that Layn almost smiled.
+
+Then the other drow left.
+
+Zilvrae waited until the door closed.
+
+The room was empty.
+
+“You can come out now.”
+
+A shadow near the wall detached itself from the darkness.
+
+Layn stepped forward.
+
+Zilvrae looked at him once.
+
+“Better.”
+
+They faced one another.
+
+“Your final assessment,” she said.
+
+Layn drew his daggers.
+
+Zilvrae's quarterstaff appeared in her hand.
+
+He moved first.
+
+The opening exchange was clean and fast. Layn was competent, but Zilvrae remained better. Her staff controlled distance, forcing him back with short strikes rather than broad swings. He answered with angles rather than strength, using the daggers to threaten hands, wrists, and openings in her guard.
+
+She feinted.
+
+He did not bite.
+
+She changed direction.
+
+He shifted with her.
+
+A few steps later, colored radiance caught around his body.
+
+Zilvrae had marked him.
+
+His outline became unmistakable.
+
+She moved immediately.
+
+Layn did not try to run.
+
+He broke the working from himself.
+
+The glow vanished.
+
+Zilvrae nodded once and came in again.
+
+Layn answered by sending a cluster of small lights drifting across the gallery. They moved with enough precision to suggest bodies crossing the edge of vision.
+
+Zilvrae ignored the false targets.
+
+“Too obvious.”
+
+She stepped through them.
+
+Layn was already gone.
+
+Darkness swallowed the room.
+
+For an instant there was nothing but the sound of movement.
+
+Then Zilvrae broke the darkness apart.
+
+Light returned.
+
+Layn was no longer on the floor.
+
+He hung above her.
+
+Levitation had carried him to the ceiling before the darkness vanished. He released his upward hold and used the remaining momentum to drive himself down, one dagger aimed not at her body but at the opening beside her shoulder.
+
+Zilvrae turned.
+
+The quarterstaff caught his wrist.
+
+The impact stopped him inches from the floor.
+
+He twisted, brought his second dagger around, and Zilvrae let the staff go.
+
+It dissolved before it could strike.
+
+Her hand came up empty.
 
 Layn stopped.
 
-He did not turn around.
+So did she.
 
-* * *
+For several breaths neither moved.
 
-Dreydre withdrew at once.
+Then Zilvrae said, “Enough.”
 
-For one heartbeat, fear moved through her so sharply that she nearly showed it. He had felt her. Not understood her. Not identified what she had done. But he had felt the pressure and known it did not belong to him.
+Layn lowered the daggers.
 
-Greyanna had seen the stop from the gallery.
+He was breathing hard. Sweat ran along his temple. His body hurt in the honest way it had hurt after thousands of repetitions, and beneath that exhaustion was something he had rarely felt in the house.
 
-"He knows," she whispered.
+Completion.
 
-"He notices."
+Not victory.
 
-"That is the same thing."
+Completion.
 
-"No." Dreydre kept her eyes on the archway where he had gone. "It is the difference between a problem and a danger."
+Zilvrae regarded him.
 
-They stood in the records room a moment longer, in the smell of dust and sealed ink, and neither of them said the hearing's name again. It did not need saying. Nine years of small corrections had been leading to a room with a throne in it, and by morning it would have him.
+“You can control the six abilities,” she said. “Your forms are sound. Your concealment is reliable. Your judgment is improving.”
 
-That night, for the first time in nine years, no spiders came.
+Layn waited for more.
 
-The bed stood empty and ordinary. Layn lay on it the way he had lain beneath its visitors, eyes open, listening to a house that had stopped expecting anything from him — and did not sleep anyway.
+There was none.
+
+It was enough.
+
+Greyanna appeared at the doorway.
+
+“The hearing is tonight.”
+
+Layn turned toward her.
+
+“You will answer carefully.”
+
+“I always do.”
+
+Greyanna's expression did not soften.
+
+“That is why you are so difficult to improve.”
+
+Layn sheathed his daggers.
+
+Then he left the room.
+
+The corridors of House Freth opened before him, dark and familiar. For nine years the house had taught him how to stand still, how to fight, how to see magic, how to hide from the people who expected him to remain beneath their notice.
+
+Now it wanted an answer from him.
+
+He walked toward the hearing.
