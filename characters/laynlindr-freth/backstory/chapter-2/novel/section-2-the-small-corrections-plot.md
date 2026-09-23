@@ -41,13 +41,13 @@ Secondary irony (plant, never state): **everything they use to suppress him beco
 
 ---
 
-## 4. Zilvrae — the three author rules
+## 4. Zilvrae — the author rules
 
-1. **Neutrality on the path:** his future is the Matron Mother's and the family's concern, never hers. A craftsman, not a driver; at the hearing she reports facts and proposes nothing.
-2. **Strict but, in her own way, fair:** corrections carry their stated reasons ("You looked. You did not see."); standards never bend to mood; earned things given exactly and rarely. The sisters' cruelty is arbitrary; her discipline is lawful — the only predictable adult in Layn's childhood. Never warm; her fairness is the form her regard takes — character, never sentiment.
-3. **The automaton of craft:** neutral on Layn's FATE as well; no stake in what he becomes; **when she sees potential she pushes** — past the curriculum — because potential left unpulled offends her more than cruelty does. She stands above the gender distinctions of drow society — males not lesser than females, quality judged on quality alone — ALL implicit, never stated. Candidate doctrine line for the forms vignette: *a blade stuck in a drow's heart does not care whether it came from a male's hand or a female's.*
-
-She tutors Layn in EVERYTHING: history, law, the birthright powers, the blade, and the craft of secrecy — one tutor for the whole of a male's education.
+1. **Mentor figure:** very strict, and responsible for a student — especially one with potential. She owns his DEVELOPMENT, not his destiny: the boy is her work; his path is the family's business. Her relationship with the Matron Mother is **mutual respect, not obedience without voice** — the MM understands what Zilvrae is, understands her value to the house, and treats her with the only respect she can afford to show without appearing weak or forgiving: taking her assessments seriously, weighing her word. The MM may disagree with her — and when she does, Zilvrae's view loses to the MM's decision, not to dismissal. The MM never overrides her casually; "The Matron Mother had never once overridden her" describes Zilvrae's competence, not the MM's absence of will.
+2. **Neutrality on the path:** his future — Sorcere, Melee-Magthere, anything — is the Matron Mother's and the family's concern, never hers. A craftsman, not a driver; at the hearing she reports facts and proposes nothing.
+3. **Strict but, in her own way, fair:** corrections carry their stated reasons ("You looked. You did not see."); standards never bend to mood; earned things given exactly and rarely. The sisters' cruelty is arbitrary; her discipline is lawful — the only predictable adult in Layn's childhood. Never warm; her fairness is the form her regard takes — character, never sentiment.
+4. **The automaton of craft:** when she sees potential she pushes — past the curriculum — because potential left unpulled offends her more than cruelty does. Candidate doctrine line for the forms vignette: *a blade stuck in a drow's heart does not care whether it came from a male's hand or a female's.*
+5. **The progressive/anarchist core (ALL implicit, never stated):** she thinks progressively for drow society — almost an anarchist. She does not believe females are better than males. She does not believe in the religions or the ideology of the city — she is ABOVE them (if she were open about it she would be executed); she believes only in the order of things. She is above religions, above the gender hierarchy, above the society's justifications — and she functions perfectly within its order, because order is what she believes in. This is the engine of her fairness (rules apply to everyone), her gender-blind doctrine line, and her final act (Part III): she gives her life for a male student while standing above the religion whose name the sisters used against him. Fatal if spoken; therefore silent.
 
 ---
 
@@ -168,7 +168,14 @@ Layn born ~1296; I.2.1 (age 10) ≈ 1306; I.2.2 spans ≈ 1307–1315; I.2.3 hea
 
 ---
 
-## 14. Emotional progression
+## 14. Open questions (deliberately unanswered in I.2.2 — do not force answers into prose)
+
+- **Why House Freth does not kill Layn:** the surface answer is the order (the Matron Mother has not ordered it; a noble male has value to the house and to other houses). The DEEP why is UNKNOWN — the same mystery as "Keep him alive." Answers belong to Part III / the postscript.
+- **Why they do not train him to manifest:** the surface answers exist (the sisters' fear of a male with power; the order to suppress before it can speak). The DEEP why — why the Matron Mother wanted the gift suppressed rather than cultivated — is UNKNOWN. Answers belong to Part III / the postscript.
+
+---
+
+## 15. Emotional progression
 
 Routine begins
 ↓

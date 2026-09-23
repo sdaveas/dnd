@@ -19,7 +19,7 @@ The backstory is organized by **character → backstory → chapter → format �
 ### Chapter 2 — The Web Within House Freth
 
 - **Section 1 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy. [`novel/section-1-a-normal-day.md`](chapter-2/novel/section-1-a-normal-day.md)
-- **Section 2 — The Small Corrections** — the nine-year bridge: the spider routine, the sanctioned education (weapons, birthright powers, secrecy craft), the phobia and the hallucinations, and the summons to the hearing. [`novel/section-2-the-plan.md`](chapter-2/novel/section-2-the-plan.md) *(filename retained from the scrapped draft "The Plan" for packet stability)*
+- **Section 2 — The Small Corrections** — the nine-year bridge: the spider routine, the sanctioned education (weapons, birthright powers, secrecy craft), the phobia and the hallucinations, and the summons to the hearing. [`novel/section-2-the-small-corrections.md`](chapter-2/novel/section-2-the-small-corrections.md)
 - **Section 3 — The Hearing** — the hearing becomes a supernatural trial: the amplifier, the handicapped sisters, the spirit arena, the Matron Mother's intervention, and the academy decision. [`novel/section-3-the-hearing.md`](chapter-2/novel/section-3-the-hearing.md)
 
 ### Chapter 3 — The Academy

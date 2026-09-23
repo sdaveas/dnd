@@ -10,7 +10,7 @@ There was nothing to explain. The spiders were sacred animals of Lolth. To kill 
 
 He never did. The words did their work anyway. He never touched a spider. He never moved one. He lay beneath them and believed — because believing was the only place the fear could go.
 
-The third time there were three spiders. The fourth there was one, large enough that its legs reached the edges of the pillow. The nights came at intervals no one named — two cycles, then six, then half a season. The house kept no calendar for him that he could see.
+There were always two. Never one, never three — the same two sizes, the same deliberate legs, as if they had been chosen once, long ago, and never replaced. The nights came at intervals no one named — two cycles, then six, then half a season. The house kept no calendar for him that he could see.
 
 He kept one anyway, in the only place the house could not check.
 
@@ -31,6 +31,10 @@ The years settled into a shape, and the shape did not change.
 The lessons continued. House law: what a young male may enter, sign, witness, and never touch. The rank of the city: fifty houses, and House Freth nineteenth among them. The alliances that lasted as long as they were useful. And in the training galleries each cycle, Zilvrae stood with wooden staves and blunted blades and the same word for everything.
 
 "Again."
+
+Nine years she had drilled him. The house had handed him to her like a length of steel to be finished, and she had ground him the way she ground every edge she touched — patiently, exactly, to a purpose she did not share. The boy was her work. The boy's future was not her business.
+
+The Matron Mother had never once overridden her. Not because she feared Zilvrae, and not because she forgave anything — because she counted her, the way a house counts a well that has never once run dry.
 
 She was not kind, and she was not cruel. She was exact. When she corrected him, she said why.
 
@@ -122,7 +126,9 @@ Zilvrae corrected his landing. "A drow who cannot hold his own weight in the dee
 
 At a family meal that same year, Layn knew before the servant's elbow touched it that the tray would fall. He kept his eyes on his cup. The tray went down, the servant was taken from the hall, and the meal continued. Layn said nothing, and the silence he kept about it was noticed by no one but his sisters.
 
-That year the spiders came larger than they had ever been — one, heavy as a closed fist, unhurried, and it did not move until he did. The nightmares gained sound: a scraping that followed him out of the dream and into the dark, and did not stop when the room proved empty.
+That year the incidents found him at his best — twice, just as the sleep had started to hold, just as his hand had stopped hovering over the blanket before he entered a room. Always two spiders. Always the same. The nightmares gained sound: a scraping that followed him out of the dream and into the dark, and did not stop when the room proved empty.
+
+The spiders did not grow. What grew was the time it took him to come back from them.
 
 * * *
 
