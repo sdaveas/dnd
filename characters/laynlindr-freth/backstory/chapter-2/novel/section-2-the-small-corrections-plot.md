@@ -1,188 +1,641 @@
 # I.2.2 — The Small Corrections
 
-### FULL scene/beat specification — final. Not prose.
+### FULL scene/beat specification — final planning text
 
 Title alternates: "The Long Quiet", "Nine Years", "The Shaping".
-Replaces the old I.2.2 ("The Plan"); `section-2-the-plan.md` is scraped once this section is written. Target length ~3,000–3,400 words.
+
+Replaces the old I.2.2 ("The Plan"). The old file is no longer the working version. Target length for the finished prose: ~3,000–3,400 words.
 
 ---
 
 ## 1. Purpose
 
-This is the **bridge section**: it carries the reader from the night of the first bed incident (I.2.1, Layn at ten) to the morning of the hearing (I.2.3, Layn at nineteen) without a montage cliché. It must:
+This is the bridge section: it carries the reader from I.2.1 (Layn at ten, immediately after the first bed incident) to I.2.3 (Layn at nineteen, the hearing) without a montage cliché.
 
-1. Show the nine-year spider routine becoming routine — and what routine does to a mind.
-2. Build Layn's spider phobia fully: nightmares, hypervigilance, and the hallucinations in which carved spiders seem to move.
-3. Establish the sanctioned in-house education of a drow male: basic weapon training (Zilvrae-taught), the six inherent powers only (metered), house/city history and law, and Zilvrae's craft of secrecy.
-4. Show the suppression WORKING over years — manifestations rarer, smaller, less directed — while leaking in "moments" that the sisters report upward, feeding I.2.3's exchange ("There have been moments." / "Nothing that held." / "Nothing repeated on command.").
-5. Show the stillness becoming mastery: the phobia and the discipline are the same coin. The cage the sisters built is also the forge of his future edge.
-6. Keep the sisters as obedient executors of the Matron Mother's standing order — metered cruelty, regular reports upward — growing stronger across the years while the hierarchy never moves.
-7. Keep Zilvrae as the lifelong mentor: strict, fair in her own way, neutral on Layn's path, blind to the psionic gift.
-8. Explain why the hearing happens at nineteen: near-adulthood, house law, Melee-Magthere's next opening.
-9. Plant Layn's aversion to magic: the only magic he is allowed is the house's property, metered and owned by others — he does not dream of becoming a mage, and the birthright feels like the sisters' world wearing his blood. (Feeds I.2.3's assumptions.)
-10. End with the summons to the hearing — the bridge into I.2.3.
+It must:
+
+1. Bridge nine years through a handful of fully dramatized scenes rather than a single summary.
+2. Show the spider routine becoming routine — and what that routine does to Layn's mind.
+3. Establish the sanctioned in-house education of a noble drow male: basic weapon training, the six inherent drow powers, house/city history and law, and Zilvrae's craft of secrecy.
+4. Show suppression working over years: unusual manifestations become rarer, smaller, and less directed, while occasional "moments" still leak upward and feed I.2.3.
+5. Make stillness into mastery. The same discipline born from fear becomes the foundation of Layn's future edge.
+6. Keep Dreydre and Greyanna as obedient executors of the Matron Mother's standing order. Their cruelty is metered rather than escalating for spectacle.
+7. Establish Zilvrae as Layn's lifelong mentor: strict, fair by the standards she sets for herself, neutral about his future path, and unaware of the nature of his unusual latent gift.
+8. Explain why the hearing comes at nineteen: he is approaching adulthood, and Melee-Magthere's next opening makes the question of his future timely.
+9. Seed Layn's aversion to magic without making him hate his own ordinary drow birthright. Magic is the sisters' world in his mind; his own natural powers are something he learns because he is expected to.
+10. End with Greyanna's summons to the hearing so that I.2.3 can begin immediately afterward.
+
+The section should feel cumulative rather than episodic: the house fills his days with lawful education while the sisters shape his nights through fear.
 
 ---
 
 ## 2. Thematic core
 
-Chapter one's line *"The city taught its laws through such small corrections"* is the engine: nine years of small corrections. Nothing that happens to Layn in these years is dramatic on any single day. The horror is cumulative — **a childhood administered in doses**. The hearing in I.2.3 must feel like the completion of a process, not an intrusion.
+Chapter one's line — "The city taught its laws through such small corrections" — remains the engine.
 
-Secondary irony (plant, never state): **everything they use to suppress him becomes his future weapon** — the stillness, the hypervigilance, the hiding craft.
+Nine years of small corrections make a childhood administered in doses. Nothing needs to happen every day. The weight comes from repetition.
+
+Secondary irony, never stated directly: the house's methods of suppression become the source of Layn's future strengths. Stillness becomes control. Hypervigilance becomes awareness. Hiding becomes craft.
 
 ---
 
 ## 3. POV and structure
 
-- Single POV: **Layn close-third**, aging 10 → 19; age-appropriate understanding at each vignette; the narrator widens slightly as he grows.
-- One marked POV exception, mirroring I.2.3's aftermath: at the very end of V5, after Layn leaves, a short final beat shifts to the sisters (the kept "problem vs danger" exchange is sisters-only dialogue) — clearly separated, subsection-final.
-- **5 time-anchored vignettes** separated by `* * *`, each anchored by a concrete marker (an age, a spider, a weapon, a lesson), with one-paragraph sweeps compressing the years between.
-- Rhythm: the book's staccato beats, slightly slower and wider — years passing like long breaths.
+- Close-third on Layn throughout the section.
+- The narrator may widen briefly when the scale of drow law, house structure, or custom requires context, but do not enter the sisters' private POV.
+- Do not include a final Dreydre/Greyanna private conversation.
+- Structure the section as two larger parts with eight scenes, allowing short connective passages between scenes where needed.
+- The finished prose should use varied sentence length and breathe like a novel, not read like a checklist of beats.
+- Worldbuilding should emerge through lessons, rooms, behavior, and dialogue rather than detached exposition dumps.
 
 ---
 
-## 4. Zilvrae — the three author rules
+# PART I — THE BOY LEARNS TO STAND
 
-1. **Mentor figure:** very strict, and responsible for a student — especially one with potential. She owns his DEVELOPMENT, not his destiny: the boy is her work; his path is the family's business. Her relationship with the Matron Mother is **mutual respect, not obedience without voice** — the MM understands what Zilvrae is, understands her value to the house, and treats her with the only respect she can afford to show without appearing weak or forgiving: taking her assessments seriously, weighing her word. The MM may disagree with her — and when she does, Zilvrae's view loses to the MM's decision, not to dismissal. The MM never overrides her casually; "The Matron Mother had never once overridden her" describes Zilvrae's competence, not the MM's absence of will.
-2. **Neutrality on the path:** his future — Sorcere, Melee-Magthere, anything — is the Matron Mother's and the family's concern, never hers. A craftsman, not a driver; at the hearing she reports facts and proposes nothing.
-3. **Strict but, in her own way, fair:** corrections carry their stated reasons ("You looked. You did not see."); standards never bend to mood; earned things given exactly and rarely. The sisters' cruelty is arbitrary; her discipline is lawful — the only predictable adult in Layn's childhood. Never warm; her fairness is the form her regard takes — character, never sentiment.
-4. **The automaton of craft:** when she sees potential she pushes — past the curriculum — because potential left unpulled offends her more than cruelty does. Candidate doctrine line for the forms vignette: *a blade stuck in a drow's heart does not care whether it came from a male's hand or a female's.*
-5. **The progressive/anarchist core (ALL implicit, never stated):** she thinks progressively for drow society — almost an anarchist. She does not believe females are better than males. She does not believe in the religions or the ideology of the city — she is ABOVE them (if she were open about it she would be executed); she believes only in the order of things. She is above religions, above the gender hierarchy, above the society's justifications — and she functions perfectly within its order, because order is what she believes in. This is the engine of her fairness (rules apply to everyone), her gender-blind doctrine line, and her final act (Part III): she gives her life for a male student while standing above the religion whose name the sisters used against him. Fatal if spoken; therefore silent.
+## Scene 1 — Training Gallery
+### Age 12–13
 
-She tutors Layn in EVERYTHING: history, law, the birthright powers, the blade, and the craft of secrecy — one tutor for the whole of a male's education.
+Open on Layn in the training galleries several years after I.2.1.
 
----
+Zilvrae has begun giving him proper noble-house instruction in physical combat. She uses wooden staves and blunted blades. The work is repetitive: stance, distance, balance, recovery, guard, repeat.
 
-## 5. The curriculum
+Layn is not a naturally gifted fighter. He is ordinary by drow standards in raw physical talent. What distinguishes him is persistence. He will repeat something after another student would have stopped caring. He becomes competent because he refuses to leave a weakness unworked.
 
-### 5a. Weapon training — taught by Zilvrae herself
-- Wooden staves and blunted blades in the training galleries he counted blades in at ten. Forms, stances, drills; her corrections endured as always.
-- She is precise and joyless; every drill has a purpose she does not share. He is good in the way that makes her pause — fast reading of distance and intent (the hypervigilance wearing a practice uniform — do not say so).
-- **Her own blade (Soulknife lineage, author decision):** Zilvrae's preferred weapon is no physical weapon at all — she fights with a sword formed out of magic power, and its wounds do not show: no cut, no blood, nothing to answer or avenge. Stealth above all. She has no psionic gift — hers is MAGIC doing what his mind will one day do. She demonstrates it once, as the pinnacle of the forms (a cutting that leaves no mark), and does not teach it. Layn watches, and never forgets it. **These lessons are the inspiration for the Soulknife fighting style Layn develops in the campaign** — his version will come from the mind instead of magic, and his physical weapons of choice (melee and throwing daggers) are his OWN choice, seeded later; in I.2.2 he uses only regular physical training weapons.
-- Foundation for Melee-Magthere being "a useful path" in I.2.3 — the choice is the family's; she would have built the same groundwork for any boy.
-- Scope: basics only (forms, discipline, conditioning); dagger craft and signature techniques belong to the academy (Chapter 3).
+He is especially quick at reading distance and immediate intent, but this should not make him look supernaturally talented or unusually strong. His unusual mental gift remains suppressed.
 
-### 5b. Birthright spell training — the metered share
-The six inherent drow powers, sanctioned by the house, always supervised, always metered. Framing given once: the birthright is blood-property of the house; a male is allowed to control it, never to wield it.
-- The three cantrips — **dancing lights, faerie fire, darkness** — taught small, steady, and unremarkable (echoes I.1.1's birthright passage).
-- The watcher's pair — **detect magic and dispel magic** — framed as servants' tools: a male should see enchantments laid on the house's things and undo careless workings, never weave anything. (Zilvrae's inversion: they teach him to unravel magic they would never let him make.)
-- **Levitate** — the mature power, taught once in his last years, under both sisters' eyes, because a drow who cannot hold his own weight in the deep galleries is an embarrassment.
-- Scope guard: the academy (Chapter 3, Section 1) formally develops the same birthright; in-house training is control and restraint, deliberately incomplete.
-- **The counter-substance (seeded):** the vessels are made in pairs — one amplified, one drained — taught in the day lessons (Zilvrae's framing: the pair is the house's craft, and the reason the rank still fears its name). The second drains a creature's channeling for the same few breaths, and left endurance behind when it ended — enough to keep the drained standing. Layn's lessons cover the first; the second is demonstrated at the hearing (I.2.3).
+Zilvrae's corrections are precise and unemotional. She always has a reason.
 
-### 5c. History, law, and the records
-- Continuation of the day lessons: the rank of houses (fifty, Freth nineteenth), what each house was known for, the alliances that lasted as long as they were useful.
-- House law: what a young male may enter, sign, witness, and never touch.
-- **The Homeland touchpoint (touchpoint by absence):** the lessons teach the law of the city — *strike, succeed utterly, leave no witnesses* — and the canonical proof sits in the gap, not the text: House Do'Urden rose from the tenth house to the ninth in a single night, decades ago (1297 DR, canon-verified), and **the manner of it is not a lesson Zilvrae gives**. Fallen houses are erased; a named fall is taboo; a known surviving witness would unmake the victory outright. The reader who knows *Homeland* fills the gap; the city that doesn't sits on the secret. Alton DeVir's fate is UNKNOWN in-story — never referenced.
-- Reading in the records room — the sanctioned solitude (opens the kept beat, §6 V5).
+Examples of her teaching style:
 
-### 5d. The craft of secrecy — her true mastery
-- **Why she can teach it:** she survived the fall of her own house; a daughter of a fallen house outlives her name by being where no one looks. Her doctrine is survival; the house mistakes it for thoroughness.
-- **The exercises (framed as games and chores):** hold still inside a shadow while a patrol crosses; know which stone carries a hollow behind it; stand so a room's eyes slide off him; enter a hall late and be unseen; fold into the blind corner of any room in three heartbeats; the memory game of every exit, every lantern, every line of sight.
-- **The house's utility:** a male who can hide is useful for errands no one wants seen. What the house uses the skill for is not her concern; she teaches what she masters because a tutor teaches what she knows.
-- **The irony (plant, do not state):** the house is training its own future ghost. The "learning how to disappear" motif cut from I.2.1 returns here as a taught, practiced craft — earned now, paid for later.
-- Scope guard: in-house = unorthodox foundations disguised as exercises; the academy's formal stealth training completes the craft. She never calls it stealth; she calls it obedience of the body.
+- "You stepped because you expected the strike. Do not expect. See."
+- "Again."
+- "Again."
+- "If the stance fails when you are tired, the stance was never yours."
+
+This is the beginning of the quality that later makes her uniquely important to him: her rules are predictable. Her sisters' cruelty is not.
+
+Seed the idea that Zilvrae is teaching him to become a useful noble male, not deciding what he will become later.
 
 ---
 
-## 5e. The sisters' growth (hierarchy untouched)
+## Scene 2 — The Quarterstaff
 
-Across the years both sisters grow stronger — deeper spellcraft, more assured command, the practiced edges that will make them credible in I.2.3's arena and real combatants in the 1319 attack. But the hierarchy never moves: the Matron Mother's position stays absolute, D&G remain beneath her exactly as the order requires, and the Matron Mother herself presides at the hearing. Dreydre's rise is personal mastery, not rank.
+Zilvrae casually materializes her preferred weapon: a quarterstaff.
 
----
+Layn has seen her do this countless times, so the appearance is not a surprise. It still produces the same quiet awe in him.
 
-## 6. The routine, the phobia, the hallucinations
+The materialization should be described in rich detail because the weapon is an intentional seed for Layn's later Soulknife fighting style.
 
-- **Escalation by rule:** the incidents come at irregular intervals — sometimes one spider, sometimes several; they grow larger as he does. Never explained, never discussed. The blasphemy lesson is repeated word for word over the years until he can recite it from the inside.
-- **The mechanics of a night:** the door open, the spiders placed, "Lie down, boy," the long stillness, the sisters leaving with the lamps dimming. Over the years the ritual strip-mines variation until the *waiting* is worse than the spiders.
-- **The phobia, built in behavior:** he checks bedding before sleeping; corners before entering; sleeps lightly and wakes often. The stillness becomes total: motionless for hours, breathing controlled under panic.
-- **Nightmares:** the same dream with variations — the bed, the legs, the weight. He learns to wake silently: coming awake without moving, the skill that will matter most later.
-- **The hallucinations (author-specified):** carved spiders seem to move — the carving above his doorway turning its head; the floor-spiders' legs drawing in at the edge of vision; temple spiders appearing to breathe. AMBIGUOUS — the reader must not be sure whether the gift feeds his sight or the fear does. He stops trusting the edges of rooms. Never resolved, never the same image twice.
-- **The blurring (author decision):** the incidents and the hallucinations merge — some mornings Layn cannot be sure the night happened at all (legs, weight, scrape — and no spiders, no mark, no proof). In the first years the sisters' presence was the proof; later the proof stops coming, because **his own mind has learned to place the spiders itself** — the conditioning's final form, self-sustaining, needing the sisters less and less. The suppression's end-state: the fear polices the mind without anyone in the room. The sisters kept placing them regardless — but by the later years they did not need to come as often as Layn believed.
+The staff should feel real and perfectly usable: precise weight, balance, reach, grip, and ideal workmanship. Zilvrae can manifest almost any weapon she wants, but the quarterstaff is the weapon she favors.
 
----
+Important rule of the manifested weapon:
 
-## 7. The vignettes (proposed)
+- As long as Zilvrae holds it, it remains.
+- If she releases or throws it, it dissolves before Layn can catch it.
+- Therefore she cannot use manifested weapons as conventional ranged projectiles.
 
-**V1 — "The second time" (age 10–11).** The routine begins: the second and third spider nights arrive without ceremony, no explanation ever given. The blasphemy lesson repeated. Ends on the first nightmare — he wakes and does not move.
+This distinction matters later: Layn's own future mental blades can be thrown and disappear only after leaving his hand.
 
-**V2 — "The forms" (age 12–13).** The training galleries, Zilvrae's drills; the library lessons continue; the first birthright lesson — the three cantrips taught small and steady, metered: "Again." — the same word she uses for everything; the lights dance exactly one hand-span wide. The candidate doctrine line (the blade in a drow's heart) if it fits. In the history lesson: the law of the city, and the Do'Urden gap — tenth house to ninth in a single night, years ago, and the manner of it is not a lesson Zilvrae gives.
+Zilvrae does not teach Layn how to perform her manifestation. She simply demonstrates what mastery of a weapon looks like. Layn watches closely and never forgets the image.
 
-**V3 — "The moving stone" (age 14–15).** The first clear hallucination — the carving above his doorway turning its head, or the floor-spiders' legs drawing in when he looks directly. He stops trusting the edges of rooms. The watcher's pair (detect magic / dispel magic) is taught — and in practice he catches something in the house he was never supposed to see (keep unspecified). The sisters' interest flickers; the report upward grows one line longer.
-
-**V4 — "Levitate" (age 16–17).** The mature power, taught once, under both sisters' eyes. Something in him reaches for it *before* the lesson — the sisters exchange the look (a moment they will not report). A larger spider than ever. The nightmares now have sound. One concrete "moment" beat lands here too: at a family meal he knows — before it happens — that a servant will drop the tray, and the silence he keeps about it is noticed by no one but the sisters.
-
-**V5 — "The records room" (age 18–19) — KEPT from the old I.2.2, re-anchored.** The sealed-messages scene: he sorts them by destination, urgency, and rank without opening a single seal — by smell, fold, and the habits of the sender's hands. Zilvrae's exchange ("You were told to read the names." / "The names were not difficult." / "Then do not look pleased with yourself.") — her blindness intact. NOTE: her fuller assessment ("good memory and adequate discipline; judgment less reliable when he believes he has found a pattern") DELIBERATELY MOVES to the hearing (I.2.3 line 17) — do not re-deliver it here. KEEP the mind-touch trigger: as Layn leaves, Dreydre reaches toward him with her mind — a fingertip against the edge of a thought — Layn stops, does not turn around, and she withdraws; one heartbeat of fear. Then the kept exchange, delivered in a final marked POV shift to the sisters after Layn is gone: "He knows." / "He notices." / "That is the same thing." / "No. It is the difference between a problem and a danger." — Dreydre and Greyanna watching from the gallery. The summons lands before Layn leaves: Greyanna delivers it — "The hearing is tonight." / "You will answer carefully." / "I always do." / "That is why you are so difficult to improve." — flowing directly into I.2.3's opening.
+Keep the physical weapon training grounded. Layn still prefers ordinary daggers for his own eventual weapon choice.
 
 ---
 
-## 8. The Zilvrae seed for the final act
+## Scene 3 — Two Halves of the Day
 
-**Author decision (Part III):** Zilvrae dies in the 1319 attack, sacrificing herself to save Layn. I.2.2 must plant the ledger this act pays into — no warmth, no foreshadow speeches: **one small moment where her fairness visibly exceeds the house's** (a correction explained that no other adult would have bothered explaining, or a rule applied when skipping it cost nothing — and she applies it anyway). One beat. The act belongs to the Part III plot. Her death also explains her absence from canon's reestablished-Freth member lists.
+Make it clear that combat and magic receive roughly equal importance in Layn's in-house education.
 
----
+The six inherent drow powers are standard birthright abilities. Layn is not special for having them, and learning them does not make him a candidate for Sorcere. They are simply part of what a drow born with the gift is expected to control.
 
-## 9. Scraped from the old I.2.2
+Do not name the spells in the prose itself. Describe them so a D&D reader can recognize them.
 
-- The sisters' conspiracy dialogue that same night (redundant: the order and suppression method are established in I.2.1's interlude and I.2.3's plot).
-- The "* * *" nine-year skip as a single cut (replaced by vignettes).
-- The summary paragraphs about the routine ("For years, spiders had appeared...") — dissolved into the vignettes.
-- The concealment-motive block ("Greyanna had wanted to tell the Matron Mother once...") — superseded by the order design.
+Teach and master them in this order:
 
-## 10. Kept from the old I.2.2
+1. The sight that reveals active magic — mastered in roughly a month.
+2. The ability to shape small floating lights — mastered in roughly four months.
+3. The power that outlines creatures or objects in colored radiance — mastered after that.
+4. The ability to create a sphere of magical darkness — next.
+5. The power to lift the body free of the ground — later.
+6. The power to unravel another magical working — last.
 
-- The records-room scene (V5) with Zilvrae's honest-blind assessment and the "problem vs danger" exchange.
-- The psychological-shaping inventory (checked bedding, corners, light sleep, motionless hours, controlled breathing) — dissolved into vignettes, not stated.
-- "He had grown into his silence."; the house-grown-around-it texture; "Useful enough to educate, unimportant enough to ignore."
+He may practice several at once, but each is introduced and mastered in roughly that sequence.
 
----
+The lessons should emphasize restraint and control: the house allows him to use these abilities because they are blood-born drow powers, but they remain tightly supervised.
 
-## 11. Must NOT happen
-
-- **TOP RULE: never name "psionic"/"psionics" anywhere in the prose.**
-- The Matron Mother must not: acknowledge Layn during these nine years; interfere with Zilvrae's curriculum; rescind the standing order.
-- The phobia must not: become comic; become explicit trauma narration — it stays in behavior.
-- The hallucinations must not: be confirmed real or unreal; repeat the same image twice (one image per vignette maximum).
-- Fallen houses must not be named in the lessons (erasure); Alton DeVir must not be referenced (his fate is unknown in-story).
-- The section must not: montage-cliché; duplicate Chapter 3's academy content; contradict I.2.3's spec (MM has received reports for years; the sisters answer carefully; Zilvrae's report); mention any DR year.
+This is also where Layn's relationship with magic should be established. He does not dream of becoming a mage. Magic feels like the world inhabited by his sisters and the priestesses who rule the house. His own birthright is simply another discipline he is expected to master.
 
 ---
 
-## 12. D&D grounding (light)
+## Scene 4 — Evening
 
-The six inherent powers are the drow birthright — recognizable to a D&D reader as dancing lights, faerie fire, darkness, detect magic, dispel magic, levitate. The in-house framing (blood-property; control, never wield) is OUR STORY metering, not a rules statement. Weapon basics prefigure the academy's formal training. Melee-Magthere's "next opening" grounds the hearing's timing (intake normally at 20 — the year's variance is normal and unstated).
+After a full day of physical drills, magical practice, lessons, and chores, Layn is exhausted in a way that almost feels good.
+
+For a brief moment he feels complete. The day had shape. Every task had a beginning and an end. His body hurts honestly. He is tired enough to want only sleep.
+
+Then he remembers his bedroom.
+
+Do not re-stage the original spider scene from I.2.1. Refer to it as something that has happened before and will happen again. Whenever spiders physically appear in his bed, there are exactly two.
+
+Show fear through behavior:
+
+- his pace slows before the door;
+- he looks at the bed without approaching it;
+- he checks corners before undressing;
+- he waits for his breathing to settle;
+- he knows that lying down does not mean sleeping.
+
+The key emotional turn is that the day has finally given him a few hours in which his body felt safe and useful — and the house still owns the night.
+
+End with him entering the room despite knowing what the bed means.
 
 ---
 
-## 13. Timeline (do not put DR years in prose)
+# PART II — THE HOUSE TEACHES HIM ITS SHAPE
 
-Layn born ~1296; I.2.1 (age 10) ≈ 1306; I.2.2 spans ≈ 1307–1315; I.2.3 hearing (age 19) ≈ 1315 — Melee-Magthere's next opening falls that year (intake normally 20; a year's variance is normal, unstated); the academy is a 10-year course (1315–1325) — Layn never completes it; the Teken'duis threat recalls him home in 1319 (year five) and the canon attack catches him there. Drizzt Do'Urden enters the academy in 1317 (Layn's Year 3) — name and technique only. Canon survivors of the 1319 attack: Dreydre and Greyanna (the two females, per author decision) plus an unnamed male, taken into House Baenre; Layn vanishes separately, believed dead.
+## Scene 1 — The House Has Rules
+### Age ~13 onward
+
+Zilvrae gives Layn a coherent lesson on noble society, rank, obligations, and the legal place of a male.
+
+This should not read like a trivia lecture. She is explaining how the house actually functions and what behavior allows someone to survive inside it.
+
+Topics can include:
+
+- the hierarchy of houses;
+- House Freth's place among the city's fifty noble houses;
+- what rank actually changes in daily life;
+- what a noble male may own, enter, sign, witness, or be ordered to do;
+- what decisions belong to priestesses and which responsibilities remain with males;
+- why a useful servant can survive where a proud one cannot.
+
+Use this lesson to seed Layn's eventual dagger preference naturally.
+
+He has already tried longer or heavier weapons under Zilvrae. When asked what he finds practical, he can eventually explain, in his own words, that he is not good with long or heavy weapons, while daggers are easy to handle and can also be thrown.
+
+The point is not to make him a prodigy with daggers. It is simply the first conscious weapon preference that belongs to him.
 
 ---
 
-## 14. Open questions (deliberately unanswered in I.2.2 — do not force answers into prose)
+## Scene 2 — A Male's Place
 
-- **Why House Freth does not kill Layn:** the surface answer is the order (the Matron Mother has not ordered it; a noble male has value to the house and to other houses). The DEEP why is UNKNOWN — the same mystery as "Keep him alive." Answers belong to Part III / the postscript.
-- **Why they do not train him to manifest:** the surface answers exist (the sisters' fear of a male with power; the order to suppress before it can speak). The DEEP why — why the Matron Mother wanted the gift suppressed rather than cultivated — is UNKNOWN. Answers belong to Part III / the postscript.
+A separate Zilvrae monologue goes deeper into the lawful position of a drow male.
+
+Her point is not that males are worthless. They have defined functions, recognized responsibilities, and legal limits. The house expects competence within those limits.
+
+She explains the system calmly and without ideological enthusiasm. Layn hears the structure without being asked to admire it.
+
+The lesson should end with the idea that once violence becomes physical, the distinction between male and female matters less to the weapon than the people holding it.
+
+Candidate final wording to polish in prose:
+
+> "When a blade enters an opponent's heart, the heart has no interest in the sex of the hand that placed it there."
+
+This line is characteristic of Zilvrae's worldview, but she does not explain that worldview. She simply teaches what she believes is useful.
 
 ---
 
-## 15. Emotional progression
+## Scene 3 — The Fallen House
 
-Routine begins
+Layn asks what happened to Zilvrae's original house.
+
+Zilvrae tells him that no one speaks of fallen houses.
+
+She explains enough for him to understand that a house can be erased so completely that even its name becomes dangerous to preserve. A surviving member can enter another house, but the old house itself is treated as dead.
+
+She reveals that she was absorbed into House Freth after her own house fell, but does not turn the answer into a sentimental confession.
+
+Layn asks why houses turn against one another.
+
+She tells him that they do so often. The most recent example she is willing to mention is from around the time Layn was a baby: House Do'Urden destroyed a house above it and rose in rank in a single night.
+
+She does not name the destroyed house. She does not explain how it happened. In her telling, the omission is itself part of the lesson.
+
+This should quietly prepare the reader for House Freth's own future.
+
+---
+
+## Scene 4 — The Only Reliable Path
+
+Zilvrae teaches that fighting can lead to glory, heroism, or death. Concealment can lead to survival.
+
+She does not speak like a philosopher. She is describing a craftsman's calculation.
+
+She demonstrates her own ability to disappear in seemingly plain sight. She can stand in a room, place herself where everyone looks, and still become effectively invisible because no one's attention settles on the correct shape.
+
+Then she teaches Layn to reproduce the effect.
+
+His training lasts years:
+
+- holding completely still while patrols cross;
+- knowing where sightlines begin and end;
+- folding into blind corners;
+- entering rooms without announcing arrival;
+- using darkness and architecture as concealment;
+- memorizing exits, lantern positions, and places where attention naturally drifts.
+
+She calls it discipline of the body, not "stealth."
+
+This becomes one of his most deeply practiced skills.
+
+---
+
+## Scene 5 — The Iron Door
+
+Young Layn notices his sisters ahead in a corridor and immediately wants to avoid them.
+
+He is already using the concealment exercises Zilvrae has taught him. He folds himself into the architecture and lets them pass.
+
+A priestess comes through the corridor and opens a heavy iron door. She rushes out without noticing Layn.
+
+Curiosity defeats caution.
+
+Layn enters.
+
+The room is one of House Freth's laboratories, where priestesses experiment with substances and living specimens to develop elixirs. Do not give him an abstract overview. Keep the scene immediate and sensory.
+
+He witnesses one experiment:
+
+- a tiny creature is made to consume the black elixir;
+- within moments it swells into a huge, violent monster;
+- several priestesses have to contain it;
+- another priestess records observations rather than reacting emotionally;
+- after a few minutes the effect fades;
+- the creature dies or collapses inward, potentially imploding into itself.
+
+The priestesses keep their notes afterward.
+
+The important character impression is cold experimentation: observe, record, adjust, repeat.
+
+Layn leaves without being seen and tells no one what he found.
+
+This is the first time he sees the black substance that will matter at the hearing.
+
+---
+
+## Scene 6 — Two Spiders
+
+Across the later years, the physical spider incidents become less reliable as something he can distinguish from his own fear.
+
+Physical spiders, whenever they actually appear in the bed, are always exactly two.
+
+The sisters do not need to be physically present for this scene.
+
+Show the accumulated phobia through behavior, nightmares, and panic:
+
+- he checks the bedding;
+- he wakes at small sounds;
+- he can become unable to move even when the room is empty;
+- he learns to wake silently, sometimes without changing his breathing.
+
+Hallucinations become part of the problem.
+
+Use one concrete image in the scene and leave it ambiguous. For example, a carved spider above a doorway seems to turn its head when he looks away.
+
+Do not confirm whether it really moved.
+
+The fear eventually becomes self-sustaining. Some mornings he cannot be certain whether the previous night's spiders were real, imagined, or both. The reader should feel the same uncertainty.
+
+The point is not to announce "trauma." The point is to show what nine years of conditioning has done.
+
+---
+
+## Scene 7 — The Method
+
+This conversation happens without Layn.
+
+Zilvrae meets with Dreydre and Greyanna.
+
+She does not order them to stop the spider cruelty directly. She understands their pride too well. Instead she argues from the logic they already accept.
+
+Her case:
+
+- Layn's lack of sleep is slowing his development.
+- Fear can stop an action, but it does not build a durable discipline.
+- She will not accept a weak student.
+- A disciplined boy can function indefinitely under rules; a frightened boy eventually becomes less predictable.
+- How long can they keep putting spiders in his bed when he will soon cease to be a child?
+
+Candidate line:
+
+> "Fear can stop a hand. Discipline can teach the hand when to stop."
+
+The sisters push back. They point out that fear works and that his manifestations have become weaker.
+
+Zilvrae does not deny that. She argues that her method will work longer.
+
+The Matron Mother enters while the argument is underway.
+
+Zilvrae makes the case directly to her: discipline is more sustainable and leaves the house with a more capable adult male.
+
+The Matron Mother considers it and accepts the method.
+
+The sisters obey because the Matron Mother has decided, not because they have become compassionate.
+
+After this, the physical placement of spiders progressively stops.
+
+The fear does not stop.
+
+---
+
+## Scene 8 — The Last Day
+### Age 19
+
+Years later, Layn's physical spider incidents have stopped.
+
+The nightmares, hallucinations, and panic have not.
+
+He has mastered all six ordinary drow birthright abilities and become a competent, properly trained young drow fighter. He is not elite, and his unusual hidden gift has not become a reliable weapon.
+
+### Opening image: the empty room
+
+Begin with an apparently empty room.
+
+Zilvrae enters with another drow and they conduct a mundane House Freth staff conversation: messages, training schedules, supplies, some other ordinary business of the house.
+
+The other drow leaves.
+
+The room is explicitly empty.
+
+Zilvrae says:
+
+> "You can come out now."
+
+Layn steps from the shadows.
+
+This is the payoff of years of concealment training. Nothing mystical needs to happen. He was simply there, placed perfectly.
+
+### Final spar
+
+Zilvrae and Layn perform a final assessment spar.
+
+It should feel like a real fight and a complete examination of everything she taught him.
+
+#### Physical combat
+- Layn fights with daggers because they suit his build and preferences.
+- His mechanics are competent, persistent, and disciplined rather than extraordinary.
+- Zilvrae uses her preferred manifested quarterstaff.
+- Her quarterstaff should behave according to the established manifestation rules: real while held, dissolving when released.
+
+#### Magic woven into movement
+Use the six birthright abilities naturally and without naming the spell names in the prose:
+
+1. **Detect magic:** Layn recognizes a magical working rather than merely noticing that something happened.
+2. **Dancing lights:** he uses controlled lights as visual misdirection or to alter what Zilvrae can see.
+3. **Faerie Fire:** Zilvrae casts the outlining magic directly onto Layn, forcing his position to become obvious.
+4. **Dispel Magic:** Layn recognizes the effect and dispels it from himself, demonstrating that the final and most difficult of the birthright powers is now reliable.
+5. **Darkness:** Layn creates magical darkness to take the battlefield away from normal sight.
+6. **Dispel / counterplay:** Zilvrae dispels the darkness, showing that the student cannot rely on one trick against the master.
+7. **Levitate:** by the time Zilvrae removes the darkness, Layn has already repositioned. He is above her, using levitation against the ceiling.
+8. He uses gravity and momentum to turn that impossible-looking position into an attack.
+
+The Faerie Fire/Dispel exchange must be explicit: Zilvrae marks Layn, and Layn immediately breaks the effect. This is one of the clearest demonstrations that he has genuinely completed the curriculum.
+
+Do not make the fight a raw-power reveal. The unusual manifestations remain absent or minimal. The point is combination, discipline, timing, and control.
+
+The final spar should also echo Zilvrae's quarterstaff lesson and the earlier secrecy lessons. Layn survives the assessment because he can combine things he learned separately.
+
+When the spar ends, Zilvrae gives him the closest thing she ever gives to praise: a factual assessment that his preparation is complete.
+
+### Summons
+
+Greyanna delivers the summons afterward.
+
+No private Dreydre/Greyanna conversation follows.
+
+Dialogue:
+
+> "The hearing is tonight."
+>
+> "You will answer carefully."
+>
+> "I always do."
+>
+> "That is why you are so difficult to improve."
+
+Layn then goes to the hearing.
+
+I.2.3 begins immediately after this section.
+
+---
+
+# 4. Zilvrae — fixed characterization rules
+
+1. She is a strict mentor responsible for Layn's development, not his destiny.
+2. The Matron Mother takes her assessments seriously. Zilvrae can disagree with the Matron Mother, but the Matron Mother's decisions ultimately control.
+3. She is neutral about whether Layn eventually goes to Sorcere, Melee-Magthere, or another path. At the hearing she reports facts and proposes nothing.
+4. She is strict but fair by her own standards: stated reasons, stable rules, earned results.
+5. She does not cultivate or investigate Layn's mysterious latent gift. She is teaching him to become a proper noble drow male.
+6. Her deeper progressive/anarchic beliefs remain implicit. She does not openly challenge drow gender hierarchy or religion.
+7. Her worldview appears through behavior and doctrine rather than speeches about ideology.
+8. One small moment in I.2.2 should visibly demonstrate that her fairness exceeds the house's cruelty — a rule applied when no one would have cared if she had skipped it, or a correction explained when no other adult would bother. No sentimental scene.
+9. Her later death saving a male student in Part III should feel earned by this established character, not foreshadowed with an overt speech.
+
+Candidate doctrine remains:
+
+> "When a blade enters an opponent's heart, the heart has no interest in the sex of the hand that placed it there."
+
+---
+
+# 5. The six birthright powers
+
+These are ordinary drow abilities. Layn is not special for possessing them.
+
+For the finished prose, avoid naming the spells directly. Use recognizable descriptions.
+
+Order of mastery:
+
+1. Detect Magic — about one month.
+2. Dancing Lights — about four months.
+3. Faerie Fire.
+4. Darkness.
+5. Levitate.
+6. Dispel Magic.
+
+They can be practiced in parallel, but mastery is tracked in this order.
+
+The training is equal in importance to combat. Neither half of the education is optional.
+
+---
+
+# 6. The counter-substance / laboratory seed
+
+House Freth possesses handwritten material describing its experimental elixirs.
+
+After Layn's laboratory discovery in Scene 5, he asks Zilvrae about the paired black and white vessels on the following day.
+
+She explains from a handwritten House Freth book:
+
+- the black substance amplifies what is already naturally present in the drinker;
+- the amplification lasts only a few breaths;
+- the body pays for the increase and the dose can be fatal;
+- the paired white substance suppresses channeling for the same few breaths;
+- when the suppressing effect ends, the drinker is left with enough physical endurance to remain standing.
+
+The lesson is presented as House Freth craft, not as a mystical revelation.
+
+This directly prepares I.2.3, where the black amplifier is used on Layn and the white suppressor is drunk by Dreydre and Greyanna.
+
+The Matron Mother does not drink the white substance.
+
+---
+
+# 7. The spiders and phobia
+
+When spiders physically appear in Layn's bed, there are always exactly two.
+
+Do not vary the number.
+
+The sisters' original lesson from I.2.1 remains unchanged: killing or driving away the spiders is treated as blasphemy against Lolth.
+
+Over the years the fear becomes self-policing:
+
+- bedding checked before sleep;
+- corners checked before entering;
+- controlled breathing;
+- waking without moving;
+- remaining motionless for long periods;
+- difficulty distinguishing memory, nightmare, and present sensation.
+
+Hallucinations stay ambiguous. Never confirm that an apparent carved spider movement is real.
+
+Do not write the phobia as explicit trauma narration. Let behavior carry it.
+
+---
+
+# 8. Suppression and the hidden gift
+
+Across the nine years the unusual manifestations become:
+
+- rarer;
+- smaller;
+- less directed;
+- harder to reproduce;
+- easier for the family to dismiss as isolated moments.
+
+The sisters continue to notice occasional incidents and report them upward.
+
+The hearing must retain the exchange:
+
+> "There have been moments."
+>
+> "Nothing that held."
+>
+> "Nothing repeated on command."
+
+I.2.2 should seed those moments but never explain the deeper reason the Matron Mother chose suppression over cultivation.
+
+Never make Layn consciously understand the nature of the gift during these years.
+
+---
+
+# 9. Sisters
+
+Dreydre and Greyanna remain beneath the Matron Mother throughout the section.
+
+Across the years:
+
+- their spellcraft becomes deeper;
+- their command becomes more assured;
+- their confidence in executing the order becomes more practiced;
+- their rank does not change.
+
+Their cruelty becomes more measured after Zilvrae's argument, but the motivation remains control and obedience, not compassion.
+
+Do not give them a private "problem versus danger" discussion in I.2.2.
+
+---
+
+# 10. House Freth / canon guardrails
+
+- House Freth remains the nineteenth house during this period.
+- Fallen houses are erased and their names are not casually spoken.
+- The Do'Urden rise is referenced only as the canonical example: a higher-ranking house was eliminated and House Do'Urden rose one place in a single night.
+- Do not name the destroyed house.
+- Do not mention Alton DeVir.
+- Do not put DR years in the prose.
+- Layn is not one of the three canonical young Freth survivors in the 1319 attack.
+- Layn will fake his death and flee separately.
+- The three surviving Freth youths protected by House Baenre remain separate from Layn's story.
+
+---
+
+# 11. Must NOT happen
+
+- Never name "psionic" or "psionics" in the finished prose.
+- Never mention Layn's father.
+- Never invent friends or companions for Layn.
+- The Matron Mother does not directly acknowledge Layn during these nine years.
+- The Matron Mother does not interfere with Zilvrae's ordinary curriculum or rescind the standing suppression order.
+- Zilvrae does not investigate, awaken, or cultivate the hidden gift.
+- Layn's six ordinary drow powers do not make him special.
+- Do not duplicate Chapter 3's formal academy training.
+- Do not make Layn an elite fighter before the academy.
+- Do not make the spider scenes comic.
+- Do not confirm hallucinations as real or unreal.
+- When spiders physically appear in the bed, there are exactly two.
+- Do not name fallen houses.
+- Do not mention future Luskan life here.
+- Do not explain why the Matron Mother ultimately keeps Layn alive.
+- Do not explain the deeper reason the hidden gift was suppressed.
+- Do not add a final private Dreydre/Greyanna conversation after Greyanna's summons.
+
+---
+
+# 12. Timeline guardrails
+
+- Layn is ten in I.2.1.
+- I.2.2 spans the following nine years and ends at age nineteen.
+- The hearing in I.2.3 occurs immediately after the final day and before the next academy opening.
+- Layn later enters Melee-Magthere.
+- The academy is interrupted before he completes it.
+- The House Teken'Duis attack occurs later, in the established Chapter 2/Part III timeline.
+- Layn's disappearance during the attack remains separate from the canonical three Freth survivors.
+
+Do not put calendar years into the prose.
+
+---
+
+# 13. Emotional progression
+
+Routine begins.
+
 ↓
-The house's curriculum fills the days
+
+The house's curriculum fills the days.
+
 ↓
-The spiders become a season, then a calendar
+
+Layn learns to fight, control ordinary drow magic, understand the law, and disappear in plain sight.
+
 ↓
-The phobia grows roots (nightmares, hypervigilance)
+
+The spiders become a season, then a calendar.
+
 ↓
-The hallucinations blur stone and flesh
+
+The fear becomes internal enough that the sisters no longer need to provide all of it.
+
 ↓
-The stillness becomes mastery (the irony planted)
+
+The laboratory reveals another side of House Freth: controlled experimentation without compassion.
+
 ↓
-The body grows into the silence
+
+The physical cruelty finally stops because Zilvrae convinces the house that discipline is more sustainable.
+
 ↓
-Adulthood nears; house law wakes
+
+The fear remains, but stillness has become a skill.
+
 ↓
-The summons — and an empty bed he cannot sleep in anyway
+
+At nineteen, the student combines everything Zilvrae taught him in the final spar.
+
+↓
+
+Greyanna summons him.
+
+↓
+
+The hearing begins.
