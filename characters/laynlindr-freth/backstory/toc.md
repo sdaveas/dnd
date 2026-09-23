@@ -90,4 +90,4 @@ The final prose should read naturally aloud: varied sentence length, clear parag
 
 ## Drafting Status
 
-**I.1 — Beneath the Spider's City**, **I.2.1 — A Normal Day**, and **I.2.3 — The Hearing** remain drafted. **I.2.2 — The Small Corrections** has a completed prior prose draft retained as a voice/continuity reference, but its structure is being rewritten against the latest eight-scene plan in `novel/section-2-the-small-corrections-plot.md`; the newer plan is authoritative wherever the old prose conflicts with it. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
+**I.1 — Beneath the Spider's City**, **I.2.1 — A Normal Day**, **I.2.2 — The Small Corrections**, and **I.2.3 — The Hearing** are now drafted. I.2.2 has been revised against the final eight-scene plan while preserving the strongest material from the previous prose version; the current prose is the active version. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
