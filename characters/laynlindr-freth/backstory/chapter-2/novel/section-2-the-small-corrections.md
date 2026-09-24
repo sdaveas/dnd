@@ -504,11 +504,7 @@ She glanced toward the practice gallery beyond the doorway.
 
 She turned back to him.
 
-"Remember the same thing about houses."
-
-Layn watched her.
-
-"The city is full of names that once believed themselves permanent. Then a rank changes. A rival disappears. A leader dies. A house falls. Its servants find another roof, its records are altered, and the city continues as though the stone had never carried another name."
+"Learn this. Strong houses emerge from conscientious drow. Arrogant drow build houses that fall."
 
 She closed the book.
 
