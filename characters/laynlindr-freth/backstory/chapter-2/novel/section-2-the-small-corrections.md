@@ -1344,79 +1344,23 @@ The fall was immediate.
 
 He turned in the air and brought one dagger down toward the opening beside her shoulder.
 
-Zilvrae twisted aside.
+Zilvrae heard the whistle of the blade at the last possible second and quickly twisted aside.
 
 The blade struck the quarterstaff with a hard metallic crack.
 
 The impact turned Layn sideways.
 
-He used it.
+He landed, rolled, and came up with his second dagger already in hand.
 
-His second dagger came from the opposite angle before his feet touched the floor.
+Zilvrae pressed forward.
 
-She caught that one as well.
+Layn gave ground, then cut across her line and slipped toward the edge of the gallery. He found an opening and took it.
 
-Her staff drove toward his forearm.
-
-He withdrew just in time.
-
-He landed badly, rolled, and came up on one knee.
-
-The staff struck stone where his head had been.
-
-He rose.
-
-Zilvrae advanced.
-
-Layn retreated.
-
-She denied the distance.
-
-He tried to create it again.
-
-She cut it away.
-
-He vanished into a blind corner.
-
-She turned before he emerged.
+She closed it.
 
 He changed direction.
 
-She was waiting there too.
-
-The next exchange was faster.
-
-Layn attacked high, changed low, turned past her shoulder, and tried to exploit the quarterstaff's reach against its wielder.
-
-Zilvrae read the attempt.
-
-The staff caught his wrist.
-
-He rotated with it instead of fighting the grip, freeing himself with the movement.
-
-She changed direction.
-
-He ducked.
-
-The staff passed over him.
-
-He drove forward.
-
-She stepped back.
-
-He followed.
-
-A fraction of an opening appeared.
-
-Layn took it.
-
-Then Zilvrae closed it.
-
-She was still teaching him.
-
-She was still finding the mistake.
-
-And he was still learning from it.
+She was waiting.
 
 Layn recognized the magical structure around the quarterstaff as he moved past it. He could feel the faint distinction between ordinary steel and a thing that existed only because Zilvrae continued to hold it in the world.
 
@@ -1426,65 +1370,43 @@ He did not need to dismantle it.
 
 The thought lasted less than a heartbeat.
 
-The quarterstaff swept low.
-
-Layn jumped.
-
-Zilvrae turned with him.
-
-They separated.
-
-He came in again.
-
-She let him.
-
 Then her free hand moved.
 
-Pale flames spread across Layn's body.
+Pale flames spread across Layn's body, clinging to his outline and making every edge of him visible. There was nowhere to hide inside the glow.
 
-They were harmless, but they clung to his outline and made every edge of him visible: shoulders, arms, feet, the angle of each dagger. There was nowhere to hide inside the glow.
+Zilvrae advanced.
 
-Zilvrae stepped in.
+Layn broke the spell.
 
-The marked position gave her the certainty she needed. Her next combination came faster than Layn expected: a strike that forced his upper guard high, a turn of the staff against his wrist, then a second blow cutting toward his ribs.
+The pale fire vanished, and at the same instant he moved.
 
-Layn barely twisted away.
+He crossed the gallery, turned past her shoulder, and came in low.
 
-The edge of the quarterstaff caught him hard enough to steal his breath.
+For a heartbeat, he thought he had found the opening.
 
-He broke the spell.
+He drove forward.
 
-The pale fire disappeared.
+Zilvrae let him.
 
-At the same instant he moved.
+Then the quarterstaff disappeared.
 
-He crossed the gallery.
+Layn's defensive dagger cut through empty air where the weapon had been.
 
-Zilvrae followed.
+The staff reappeared almost instantly in Zilvrae's hands.
 
-He turned.
+The movement was so quick that Layn barely understood what had happened before the staff struck his jaw.
 
-She struck.
+The impact snapped his head sideways.
 
-He caught the staff with one dagger and redirected it.
+His knees buckled.
 
-Her second motion came from a direction he had not expected.
+Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
-He recoiled.
+Layn froze.
 
-She stepped with him.
+Not from fear.
 
-He threw one blade.
-
-She knocked it aside.
-
-He closed with the other.
-
-She turned his wrist.
-
-He recovered.
-
-They moved through the room without a reset, without a pause long enough to call an exchange finished.
+By choice.
 
 The years were all there.
 
