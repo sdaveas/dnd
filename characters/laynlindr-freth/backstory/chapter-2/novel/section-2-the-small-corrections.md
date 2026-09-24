@@ -596,28 +596,6 @@ He heard the boundary in it and did not cross it.
 
 She closed the record.
 
-"Houses turn against one another. It is not rare."
-
-"Why?"
-
-"Power. Rank. Grievances. Opportunity."
-
-She opened another record.
-
-"Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient."
-
-Layn glanced at the page.
-
-"The last major change occurred when you were very young. House Do'Urden rose because a house higher in rank ceased to exist."
-
-"How?"
-
-Zilvrae's gaze settled on him.
-
-"That is not a story the city tells."
-
-She closed the record.
-
 "Remember the law."
 
 That was all.
