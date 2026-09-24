@@ -1402,11 +1402,11 @@ His knees buckled.
 
 Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
-Layn froze.
+Layn's mind raced.
 
-Not from fear.
+For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used. He had thought he knew every movement she could make with it.
 
-By choice.
+He had never anticipated that one.
 
 The years were all there.
 
