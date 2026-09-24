@@ -986,6 +986,168 @@ And the years passed.
 
 ---
 
+The conversation that changed the method was held without him.
+
+Dreydre and Greyanna stood with Zilvrae in one of the smaller chambers of House Freth.
+
+"He is becoming quieter," Greyanna said.
+
+"That was the intention," Zilvrae replied.
+
+"The manifestations are weaker."
+
+"Yes."
+
+Dreydre frowned.
+
+"He used to reach."
+
+"And now he doesn't."
+
+The sisters exchanged a look.
+
+"He is still having episodes," Greyanna said.
+
+Zilvrae nodded.
+
+"Then he is still not sleeping properly."
+
+Dreydre's mouth curved.
+
+"If a few spiders are enough to keep him awake, perhaps he deserves the exhaustion."
+
+Zilvrae's expression did not change.
+
+"It has slowed him from completing his training."
+
+"That has never stopped him from completing his lessons."
+
+"It has slowed him."
+
+Greyanna crossed her arms.
+
+"Fear works."
+
+"I have not said that it doesn't."
+
+"Then why are you arguing with us?"
+
+Zilvrae remained calm.
+
+"I am arguing for the continued development of my student."
+
+The sisters bristled at the word.
+
+Zilvrae continued before either could answer.
+
+"A frightened boy will freeze when frightened. That is useful."
+
+She paused.
+
+"But a disciplined boy can freeze when he chooses to."
+
+Dreydre's expression hardened.
+
+"You want us to stop."
+
+"No."
+
+The answer caught them.
+
+Zilvrae folded her hands behind her back.
+
+"I want you to understand that I do not want a weak student."
+
+"Fear does not make him weak."
+
+"Loss of sleep does."
+
+Greyanna opened her mouth.
+
+Zilvrae continued.
+
+"You have achieved the immediate result. He no longer reaches for what frightened him. There are no visible manifestations now. Good."
+
+She looked directly at them.
+
+"But fear is a poor long-term teacher."
+
+Dreydre was silent.
+
+"How long," Zilvrae asked, "do you intend to continue putting spiders in a boy's bed?"
+
+Neither answered.
+
+"He will stop being a boy."
+
+Her voice remained level.
+
+"You cannot frighten childhood out of him forever. Eventually the same fear you use to control him will be carried into adulthood, where it will become exhaustion, distraction, poor judgment."
+
+Greyanna's expression tightened.
+
+"Discipline is not the same as fear."
+
+"No."
+
+Zilvrae nodded.
+
+"That is precisely my point."
+
+She stepped toward the table.
+
+"One can live with discipline."
+
+Her eyes moved between them.
+
+"One cannot live indefinitely in expectation of pain without the expectation changing the person."
+
+Zilvrae drew a slow breath.
+
+"I have better uses for my time than spending the next decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—"
+
+The door opened.
+
+The Matron Mother entered.
+
+The sisters straightened immediately.
+
+Zilvrae bowed her head.
+
+The Matron Mother said nothing.
+
+She listened.
+
+Zilvrae repeated her argument, this time without addressing the sisters directly.
+
+"The boy's progress is slowing. He completes every task, but his rest is poor. The fear is no longer necessary to maintain his restraint. I can teach him to control himself."
+
+The Matron Mother considered her.
+
+"And you believe that is more effective?"
+
+"In the long term."
+
+A silence followed.
+
+The Matron Mother looked at Dreydre.
+
+Then Greyanna.
+
+Neither challenged Zilvrae.
+
+The decision was made.
+
+The spiders would no longer be necessary.
+
+Not because House Freth had grown merciful.
+
+Because discipline was sustainable.
+
+The fear had done its work.
+
+---
+
 By nineteen, the last day of his instruction arrived without ceremony.
 
 The room was empty when Zilvrae entered.
