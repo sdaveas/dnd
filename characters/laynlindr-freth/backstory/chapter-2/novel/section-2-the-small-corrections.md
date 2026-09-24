@@ -152,7 +152,7 @@ She stood in the center of the gallery with empty hands.
 
 That did not make it ordinary.
 
-She stood in the center of the gallery with empty hands. Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled.
+Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled.
 
 A shaft emerged.
 
