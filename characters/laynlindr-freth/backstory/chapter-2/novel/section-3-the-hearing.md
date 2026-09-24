@@ -36,10 +36,6 @@ Dreydre answered with care. “There have been moments.”
 
 “Nothing that held,” Greyanna said. “Nothing repeated on command.”
 
-“When did the moments come?” the Matron Mother said.
-
-Dreydre told her. Greyanna told her — what he had been doing each time, and what had been done to him.
-
 “She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
 
 Somewhere behind Layn’s shoulder, while the chamber talked over him, the Matron Mother nodded once to a priestess standing at the platform’s edge, and she hurried out through the hall’s doors.
@@ -62,11 +58,9 @@ And behind the priestess, at the chamber’s edge, two more priestesses had alre
 
 The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the basements of the house, where the priestesses kept their laboratories. When the thick, stone doors opened briefly sometimes, along with the smell, there were screams coming out that were never spoken of afterward.
 
-He knew what the black vessel was. He had seen it used in the lower laboratories and later read the House Freth account of it. The black preparation did not create what was absent; it amplified what was already present. It was not meant for strong subjects. The stronger the subject, the faster the effect burned through the body; at sufficient strength, ingestion meant immediate death. Weak creatures could endure longer, long enough for the transformation to become unmistakable. The paired white preparation did the opposite, suppressing channeling for the same few breaths while leaving physical endurance behind.
+He recognized the vessels from Zilvrae's lessons.
 
-One raised. One lowered. Together they let a house weigh what a creature truly was.
-
-The first did not care whether the drinker could survive what was poured into it.
+The knowledge was already in him. He did not need to think about what either preparation did.
 
 Layn did not understand yet. He did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
