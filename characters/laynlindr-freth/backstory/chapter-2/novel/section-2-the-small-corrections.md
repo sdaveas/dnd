@@ -246,17 +246,11 @@ He got to his feet.
 
 The lesson continued.
 
-He would remember the demonstration for years, but the lesson was not about making impossible weapons.
+Layn looked down at his own daggers. They were embarrassingly inelegant compared to the great staff.
 
-It was about understanding what a weapon could and could not do.
+He lifted his shoulders slightly.
 
-Zilvrae could create almost any weapon.
-
-She could not give it a life of its own.
-
-Once released, it ceased to exist.
-
-Layn understood the usefulness of that limitation only much later.
+"At least I can throw them," he thought to himself.
 
 Concealment belonged to the same part of the day as weapons.
 
