@@ -8,13 +8,13 @@ Layn had never been permitted past the outer gallery. The chamber was larger tha
 
 He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty.
 
-The Matron Mother was already seated on the raised platform at the far end. Dreydre and Greyanna stood below the dais. Mistress Zilvrae waited near the wall with her hands folded inside her sleeves. Two guard females stood watch at the doors.
+The Matron Mother was already seated on the raised platform at the far end. Dreydre and Greyanna stood below the dais. Two guard females stood watch at the doors.
 
 Layn stopped where the floor was worn pale and did not move again.
 
 They discussed him as though the chamber were empty except for themselves.
 
-Zilvrae reported his instruction first: a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the nine years of it. Greyanna noted that he learned faster than he should.
+a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the nine years of it. Greyanna noted that he learned faster than he should.
 
 The Matron Mother listened.
 
@@ -58,19 +58,19 @@ The chamber became quieter. He did not mistake the look for warmth. It was the l
 
 Two words. Her first words to him were a command.
 
-As Layn was still trying to understand what that drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
+As Layn tried to understand what the drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
 
 The sisters below the dais went still — and then not still at all. Greyanna’s hand found Dreydre’s sleeve. Dreydre’s eyes went to their mother and stayed there.
 
-And behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rate bumped. Neither daughter had known the hearing would come to this.
+And behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rates quickened. Neither daughter had known the hearing would come to this.
 
 The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the basements of the house, where the priestesses kept their laboratories. When the thick, stone doors opened briefly sometimes, along with the smell, there were screams coming out that were never spoken of afterward.
 
-He had learned what the black vessels of House Freth were for. Zilvrae had taught it in the day lessons, between the ranking of the houses and the heraldry: the house’s oldest craft, and the reason the rank still counted its name carefully. The vessels were made in pairs, and they were made to be used in pairs. The first amplified what a creature already was. It held for a few breaths only, and the lesson’s true subject was what came after — the body paid for every borrowed degree, and for beings of great power the price was final, because for them even a small amplification was too much. The second vessel did the opposite. It drained a creature’s channeling for those same few breaths, and left endurance behind when it ended — enough to keep the drained standing.
+He knew what the black vessel was. He had seen it used in the lower laboratories and later read the House Freth account of it. The black preparation did not create what was absent; it amplified what was already present. It was not meant for strong subjects. The stronger the subject, the faster the effect burned through the body; at sufficient strength, ingestion meant immediate death. Weak creatures could endure longer, long enough for the transformation to become unmistakable. The paired white preparation did the opposite, suppressing channeling for the same few breaths while leaving physical endurance behind.
 
 One raised. One lowered. Together they let a house weigh what a creature truly was.
 
-The first did not care whether the vessel could survive what was poured into it.
+The first did not care whether the drinker could survive what was poured into it.
 
 Layn did not understand yet. He did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
@@ -102,7 +102,7 @@ Then the substance opened him.
 
 The chanting became stronger.
 
-His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three entities in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body turned aerial. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — like blades out of virtually nothing, thin enough to cut steel; shields raised out of dust that would turn a battering ram.
+His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — like blades out of virtually nothing, thin enough to cut steel; shields raised out of dust that would turn a battering ram.
 
 Was this the absolute power?
 
@@ -120,7 +120,7 @@ The sisters had understood their mother’s plan by then, and it showed on their
 
 The Matron Mother extended her hand. Greyanna carried the white vessel to the throne and gave it over. The Matron Mother shook it gently, once, and held it the way a person holds a drink.
 
-Whether she drank, the sisters were too concerned with the other matters unfolding in the room to see.
+She did not drink it.
 
 The chanting rose to a peak.
 
