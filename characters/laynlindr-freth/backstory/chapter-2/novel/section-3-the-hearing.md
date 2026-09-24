@@ -78,9 +78,9 @@ Her words were drowning in cruelty. There was amusement in them too. The vessel 
 
 Then she looked back at Layn.
 
-“Drink!”
-
 Her lips did not move. But the word sounded inside his skull louder than a scream.
+
+“Drink!”
 
 It did not ask. It arrived inside him the way the order to breathe arrives, and his will bent around it and broke. His hand rose. His fingers closed on the stopper. Somewhere far away, the part of him that was still Layn watched his own body obey, and hated it, and could do nothing — could not even tremble on purpose.
 
