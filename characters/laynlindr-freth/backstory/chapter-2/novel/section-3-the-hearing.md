@@ -4,7 +4,7 @@
 
 ### I.2.3 — The Hearing
 
-Layn had never been permitted past the outer gallery. The chamber was larger than it had ever seemed from behind the screen — a vault of black stone, warm with the breath of braziers below the dais. The doors shut behind him, panels carved with House Freth’s paired spiders, and the spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
+The chamber was larger than it had ever seemed from the outer gallery — a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
 He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty.
 
@@ -60,11 +60,9 @@ The sisters below the dais went still — and then not still at all. Greyanna’
 
 And behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rates quickened. Neither daughter had known the hearing would come to this.
 
-The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the basements of the house, where the priestesses kept their laboratories. When the thick, stone doors opened briefly sometimes, along with the smell, there were screams coming out that were never spoken of afterward.
+The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the dungeons, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
 
-He recognized the vessels from Zilvrae's lessons.
-
-The knowledge was already in him. He did not need to think about what either preparation did.
+He recognized the vessels from that experiment, and from Zilvrae's lessons. The knowledge was already in him. He did not need to think about what either preparation did.
 
 Layn did not understand yet. He did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
