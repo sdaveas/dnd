@@ -30,6 +30,10 @@ In time the discussion reached the question that had hung over the house for yea
 
 The words came from the throne, and the chamber went still around them.
 
+Manifested what?
+
+The question made no sense to Layn. He searched the last ten years in his memory — the training, the lessons, the things he had been taught to do. There was nothing he could name as a manifestation.
+
 Dreydre answered with care. “There have been moments.”
 
 “Moments,” the Matron Mother said.
