@@ -130,7 +130,7 @@ Layn’s came first. It rose out of him the way the pressure rose behind his eye
 
 The training he had received was of no use here. This was not a fight of staves, blades, or spells he had practiced. Whatever had been pulled out of him had its own instincts, and Layn had never been taught how to use them.
 
-The sisters answered what they saw. They did not summon the spirits; they became them. Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
+The sisters answered what they saw. Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
 
 The sisters moved, and moved together.
 
