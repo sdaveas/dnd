@@ -1060,7 +1060,6 @@ Zilvrae folded her hands behind her back.
 
 "Fear does not make him weak."
 
-"Loss of sleep does."
 
 Greyanna opened her mouth.
 
@@ -1106,7 +1105,7 @@ Zilvrae drew a slow breath.
 
 "I have better uses for my time than spending the next decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—"
 
-The door opened.
+The door opened with a faint squeak.
 
 The Matron Mother entered.
 
@@ -1118,7 +1117,6 @@ The Matron Mother said nothing.
 
 She listened.
 
-Zilvrae repeated her argument, this time without addressing the sisters directly.
 
 "The boy's progress is slowing. He completes every task, but his rest is poor. The fear is no longer necessary to maintain his restraint. I can teach him to control himself."
 
