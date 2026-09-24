@@ -134,7 +134,7 @@ The sisters moved, and moved together.
 
 The figures struck from opposite sides, and they did not strike like fear. They struck like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and the silhouette staggered with him. He swung at a figure and his fist passed through shadow, and the shadow’s counterstrike put him on one knee.
 
-They were experienced priestesses, and they were coordinated. Spiritual combat was a discipline of their rank, drilled into them all their lives. Nine years of watching Layn had only told them exactly where he would be weak.
+They were experienced priestesses, and they were coordinated. Spiritual combat was a discipline of their rank, drilled into them all their lives. Ten years of watching Layn had only told them exactly where he would be weak.
 
 The amplifier roared inside him, and none of it was the same as knowing what to do.
 
