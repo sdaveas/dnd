@@ -104,8 +104,6 @@ Whatever came next, he would not embarrass her work.
 
 ---
 
-His choice of weapon settled before Zilvrae showed him the weapon she preferred.
-
 One afternoon she placed several practice weapons on the floor between them.
 
 "Choose."
