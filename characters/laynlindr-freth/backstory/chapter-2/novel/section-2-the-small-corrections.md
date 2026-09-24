@@ -444,7 +444,7 @@ He was tired because he had been taught.
 
 ---
 
-One evening, after the day's first two lessons were finished, Zilvrae closed a book before him.
+One evening, after the day's first two lessons were finished, Zilvrae placed an open book before him.
 
 "Menzoberranzan contains fifty noble houses."
 
@@ -452,7 +452,7 @@ Layn waited.
 
 "House Freth is nineteenth."
 
-Her hand rested flat on the cover.
+Her finger rested on the page.
 
 "You will eventually understand what that means. Not merely that nineteenth is above some houses and beneath others, but what rank permits, what it demands, and what obligations follow from it."
 
@@ -466,7 +466,7 @@ She taught him the difference between an order and a request, between an obligat
 
 "You are a noble male of House Freth," she said. "You have value. That does not mean the house will give you the same authority it gives a daughter. It means that you are expected to understand where your authority begins and where it ends."
 
-Layn looked down at the closed book.
+Layn looked down at the page.
 
 "And if I don't?"
 
@@ -480,7 +480,7 @@ There was nothing warm in the offer.
 
 That made it more valuable.
 
-Zilvrae opened the book again.
+Zilvrae studied him for a moment before closing the book.
 
 "There is another mistake young males make. They confuse survival with submission."
 
@@ -494,7 +494,7 @@ Then she added, "Do not mistake a law for a kindness merely because you happen t
 
 Layn said nothing.
 
-Zilvrae lifted the book from the table and stood.
+Zilvrae rested one hand on the closed book.
 
 "Remember this as well. A weapon does not become less deadly because the hand holding it is considered lesser."
 
@@ -506,29 +506,29 @@ She turned back to him.
 
 "Learn this. Strong houses emerge from conscientious drow. Arrogant drow build houses that fall."
 
-She closed the book.
+She left the book closed.
 
 "That is what rank means here. It is power, but it is also permission to remain."
 
-Then she put the book back in front of him.
+Layn looked at the closed cover but did not touch it.
 
 "Now read."
 
-Layn did.
+Zilvrae opened the book again.
 
----
+"Now we return to the record."
 
-Zilvrae had been explaining records and rank when Layn noticed that several numbers did not fit the sequence.
+Her finger moved down the page.
+
+Layn noticed that several numbers did not fit the sequence.
 
 "What happened to the missing houses?"
 
-Zilvrae's finger stopped on the page.
+Zilvrae looked at him.
 
-"Missing?"
+"The ones that aren't there?"
 
-"The ones that aren't there."
-
-She understood.
+"Yes."
 
 "Fallen houses are rarely discussed."
 
@@ -536,31 +536,15 @@ She understood.
 
 "Because there is little advantage in remembering them."
 
-Layn looked at her.
+She turned one page.
 
-"You came from one."
-
-For a moment she did not answer.
-
-Then:
-
-"My name is Zilvrae Freth."
-
-Layn waited.
-
-"There is no other name you need to know."
-
-He heard the boundary in it and did not cross it.
-
-But later, when she returned to the subject, she gave him what she considered useful.
-
-"Houses turn against one another," she said. "It is not rare."
+"Houses turn against one another. It is not rare."
 
 "Why?"
 
 "Power. Rank. Grievances. Opportunity."
 
-She closed one record and opened another.
+Her finger continued down the column of names.
 
 "Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient."
 
@@ -574,13 +558,15 @@ Zilvrae's gaze settled on him.
 
 "That is not a story the city tells."
 
-She closed the record.
+She turned another page.
 
 "Understand this carefully. A house does not need to announce that it intends to destroy another house. By the time such an announcement would be useful, the matter is usually already decided."
 
-Layn said nothing for a moment.
+Layn read the names again.
 
-Then his eyes returned to the page.
+Several were crossed out.
+
+Then he looked at her.
 
 "What happened to your house?"
 
