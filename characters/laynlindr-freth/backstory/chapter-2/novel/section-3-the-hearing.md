@@ -14,7 +14,7 @@ Layn stopped where the floor was worn pale and did not move again.
 
 They discussed him as though the chamber were empty except for themselves.
 
-a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the nine years of it. Greyanna noted that he learned faster than he should.
+a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the ten years of it. Greyanna noted that he learned faster than he should.
 
 The Matron Mother listened.
 
@@ -40,11 +40,7 @@ Dreydre answered with care. “There have been moments.”
 
 Dreydre told her. Greyanna told her — what he had been doing each time, and what had been done to him.
 
-“And fear?” the Matron Mother said. “Did fear help?”
-
-Both sisters nodded.
-
-She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
+“She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
 
 Somewhere behind Layn’s shoulder, while the chamber talked over him, the Matron Mother nodded once to a priestess standing at the platform’s edge, and she hurried out through the hall’s doors.
 
@@ -136,9 +132,9 @@ Inside the dark, something reached into each of them, took hold of what was inne
 
 Layn’s came first. It rose out of him the way the pressure rose behind his eyes — a thin silhouette, upright and faint, warrior-shaped in the way a half-remembered thing is. Now and then it lost its shape, running like a liquid, and reformed. When it stood, it made a sound that was not a battle cry of anything living: a long, scraping shriek, like nails drawn across hard rock.
 
-It had no training. It had no practice. It stood between him and his sisters because nothing else stood there.
+The training he had received was of no use here. This was not a fight of staves, blades, or spells he had practiced. Whatever had been pulled out of him had its own instincts, and Layn had never been taught how to use them.
 
-The sisters answered what they saw. Their power rose, and they rose with it — they became the spirits. Two figures stood where Dreydre and Greyanna had been standing: tall, robed, crowned with eyes, robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
+The sisters answered what they saw. They did not summon the spirits; they became them. Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
 
 The sisters moved, and moved together.
 
@@ -158,7 +154,7 @@ He came up off the floor, and his spirit was larger than it had been.
 
 The sisters did not become fools.
 
-They saw the change, and they changed with it. They stopped pressing and started provoking — and they had nine years of material. The figures wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, because it had always worked.
+They saw the change, and they changed with it. They stopped pressing and started provoking — and they had ten years of material. The figures wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, because it had always worked.
 
 Layn fought wild. The silhouette swung too hard and reached too far, and the figures punished every surge of feeling. For a while, it was enough.
 
@@ -180,11 +176,11 @@ Now Layn saw clearly.
 
 The shapeless form that had fought for him became fine. A silhouette — thin-limbed, upright, its aura steady where everything else in the arena was noise. Taller than it had been. Terrible. It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hand hung a blade of pale force, thin and exact, quiet the way the pressure behind his eyes was quiet.
 
-It had been shaped to give the two spiders that had haunted him for nine years their final blow.
+It had been shaped to give the two spiders that had haunted him for ten years their final blow.
 
 The spiders regrouped.
 
-They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known the sleeve, and the thirty houses.
+They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known the silver pin, and the thirty houses more than ten years ago.
 
 His legs buckled. He jumped.
 
@@ -232,11 +228,11 @@ Layn was worse.
 
 He lay where the ritual had dropped him, on the pale worn stones his feet had claimed at the beginning, and he did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it. He was breathing — shallow, uneven — and every breath said the same thing: this was not exhaustion. This was a body negotiating with death, and losing ground.
 
-Dreydre watched him from the floor. She could not stand, and she could not look away. She had spent nine years making sure this power stayed small. She had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
+Dreydre watched him from the floor. She could not stand, and she could not look away. She had spent ten years making sure this power stayed small. She had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
 
 The Matron Mother looked over the aftermath from her throne.
 
-She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. This was the second time he had nearly killed them. The first had lasted nine years, and never once raised a hand.
+She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. This was the second time he had nearly killed them. The first had lasted ten years, and never once raised a hand.
 
 “Melee-Magthere,” she said.
 
