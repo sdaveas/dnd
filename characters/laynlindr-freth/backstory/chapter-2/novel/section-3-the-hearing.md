@@ -224,7 +224,7 @@ The other priestesses were already moving through the aftermath — tending Grey
 
 Layn was worse.
 
-He lay where the ritual had dropped him, on the pale worn stones his feet had claimed at the beginning, and he did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it. He was breathing — shallow, uneven — and every breath said the same thing: this was not exhaustion. This was a body negotiating with death, and losing ground.
+He lay where the ritual had dropped him, on the pale worn stones his feet had claimed at the beginning, breathing heavily. His eyes were completely white. Thin black smoke curled from the corners of his mouth with every breath, and the features of his face seemed drawn inward, as though something had sucked them toward the bone of his skull. He did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it.
 
 Dreydre watched him from the floor. She could not stand, and she could not look away. She had spent ten years making sure this power stayed small. She had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
 
