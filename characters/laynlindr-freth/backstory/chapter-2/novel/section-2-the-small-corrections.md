@@ -146,9 +146,33 @@ It was practical. It was modest. It did not require him to pretend he possessed 
 
 He liked it for that reason.
 
----
+Layn turned one of the daggers over, studying the practice blade before looking back at Zilvrae.
 
-A few weeks later, Zilvrae showed him her preferred weapon properly.
+"What's your favorite weapon?"
+
+Zilvrae glanced at the weapons scattered across the floor.
+
+"You have seen it."
+
+Layn looked toward the racks.
+
+"The staff?"
+
+"Yes."
+
+"Why?"
+
+Zilvrae's expression changed by so little that Layn might have missed it if he had not spent years learning to watch her carefully.
+
+"Because it does what I ask."
+
+She stepped away from the rack.
+
+"Come here."
+
+Layn followed.
+
+She stood in the center of the gallery with empty hands.
 
 Layn had already seen her create weapons many times.
 
@@ -259,8 +283,6 @@ She could not give it a life of its own.
 Once released, it ceased to exist.
 
 Layn understood the usefulness of that limitation only much later.
-
----
 
 Concealment belonged to the same part of the day as weapons.
 
