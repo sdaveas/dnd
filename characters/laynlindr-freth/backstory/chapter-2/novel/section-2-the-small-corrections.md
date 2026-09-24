@@ -518,8 +518,6 @@ Layn did.
 
 ---
 
-The next lesson concerned houses that no longer existed.
-
 Zilvrae had been explaining records and rank when Layn noticed that several numbers did not fit the sequence.
 
 "What happened to the missing houses?"
@@ -580,15 +578,49 @@ She closed the record.
 
 "Understand this carefully. A house does not need to announce that it intends to destroy another house. By the time such an announcement would be useful, the matter is usually already decided."
 
-Layn said nothing.
+Layn said nothing for a moment.
 
-Zilvrae stood.
+Then his eyes returned to the page.
+
+"What happened to your house?"
+
+For a moment, Zilvrae did not answer.
+
+"My name is Zilvrae Freth."
+
+Layn waited.
+
+"There is no other name you need to know."
+
+He heard the boundary in it and did not cross it.
+
+She closed the record.
+
+"Houses turn against one another. It is not rare."
+
+"Why?"
+
+"Power. Rank. Grievances. Opportunity."
+
+She opened another record.
+
+"Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient."
+
+Layn glanced at the page.
+
+"The last major change occurred when you were very young. House Do'Urden rose because a house higher in rank ceased to exist."
+
+"How?"
+
+Zilvrae's gaze settled on him.
+
+"That is not a story the city tells."
+
+She closed the record.
 
 "Remember the law."
 
 That was all.
-
-The subject ended there.
 
 ---
 
