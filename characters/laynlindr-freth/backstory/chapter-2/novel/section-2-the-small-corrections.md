@@ -148,31 +148,7 @@ Layn turned one of the daggers over, studying the practice blade before looking 
 
 "What's your favorite weapon?"
 
-Zilvrae glanced at the weapons scattered across the floor.
-
-"You have seen it."
-
-Layn looked toward the racks.
-
-"The staff?"
-
-"Yes."
-
-"Why?"
-
-Zilvrae's expression changed by so little that Layn might have missed it if he had not spent years learning to watch her carefully.
-
-"Because it does what I ask."
-
-She stepped away from the rack.
-
-"Come here."
-
-Layn followed.
-
 She stood in the center of the gallery with empty hands.
-
-Layn had already seen her create weapons many times.
 
 That did not make it ordinary.
 
