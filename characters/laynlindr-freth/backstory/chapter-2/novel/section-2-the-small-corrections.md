@@ -1162,7 +1162,7 @@ Zilvrae placed the slate on a table.
 
 "Replace the damaged seal before they do."
 
-They discussed a broken inventory marker, missing lamp oil, and the condition of the practice weapons. It was ordinary House Freth business, and that ordinariness seemed strange to Layn. Ten years of training had made him accustomed to measuring days in corrections. Now the room sounded as though none of that had ever mattered.
+They discussed a broken inventory marker, missing lamp oil, and the condition of the practice weapons. It was ordinary House Freth business, the sort of conversation that could happen in any room where the house's daily affairs were handled.
 
 The other drow left.
 
