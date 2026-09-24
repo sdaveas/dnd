@@ -170,9 +170,11 @@ The blast came out of him and out of the floor at once. It took the two spider-s
 
 Now Layn saw clearly.
 
-The shapeless form that had fought for him became fine. A silhouette — thin-limbed, upright, its aura steady where everything else in the arena was noise. Taller than it had been. Terrible. It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hand hung a blade of pale force, thin and exact, quiet the way the pressure behind his eyes was quiet.
+The shapeless form that had fought for him became fine. A silhouette — thin-limbed, upright, its aura steady where everything else in the arena was noise. Taller than it had been. Terrible. It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hands, two blades of pale force formed, one in each. They were thin and exact, quiet the way the pressure behind his eyes was quiet. They were not copies of the weapons he had trained with. They were the weapons his mind reached for first.
 
-It had been shaped to give the two spiders that had haunted him for ten years their final blow.
+They were daggers.
+
+They had been shaped to give the two spiders that had haunted him for ten years their final blow.
 
 The spiders regrouped.
 
