@@ -770,23 +770,51 @@ The illustrations were worse than Layn expected.
 
 They showed bodies enlarged beyond ordinary proportion, limbs changed into unfamiliar shapes, mouths opened too widely, muscles swollen until anatomy became difficult to recognize. Some drawings were clinical and precise. Others looked almost like diagrams made from nightmares.
 
-The accompanying text was remarkably calm.
+Layn turned to the written page.
 
-The black preparation, the book stated, did not generate a capacity absent in the subject. It increased the expression of a pre-existing capability for a short interval. Duration varied with the subject. Physical expenditure increased accordingly.
+The text was remarkably calm.
 
-The white preparation produced the opposite effect. It interfered with a subject's ability to channel the relevant capability for a comparable interval. Physical endurance remained after the interruption.
+> "The black preparation does not create a capacity absent in the subject. It increases the expression of a capability already present."
 
-No promise was made.
+He read the next line.
 
-No moral judgment appeared.
+> "The preparation is not suitable for strong subjects. A subject possessing sufficient physical strength or resilience will perish upon ingestion."
 
-Only observations.
+Layn's eyes moved downward.
 
-Layn looked from the illustration to the text.
+> "The stronger the subject, the shorter the period of effect. In sufficiently strong subjects, death is immediate."
+
+He paused.
+
+Below it, another line continued the entry.
+
+> "In weak subjects, the preparation may persist considerably longer. The visible enlargement and alteration of the subject may therefore be observed for a greater duration."
+
+Layn looked back at the illustrations.
+
+The drawings suddenly made more sense.
+
+He continued reading.
+
+> "Duration varies according to the subject. Physical expenditure increases with the magnitude and duration of the transformation."
+
+He turned the page.
+
+The writing continued in the same detached hand.
+
+> "The white preparation produces the opposite effect. It interferes with the subject's ability to channel the relevant capability for a comparable interval. Physical endurance remains after the interruption."
+
+There was no warning beyond the observations.
+
+No moral judgment.
+
+Only records.
+
+Layn looked from the page to the illustrations.
 
 "So one raises what is already there."
 
-"For a brief time."
+"For a brief time," Zilvrae said.
 
 "And the other lowers it."
 
@@ -796,15 +824,25 @@ Layn looked from the illustration to the text.
 
 "No."
 
-He looked at the images again.
+Layn looked at the black preparation entry again.
+
+He remembered the creature in the laboratory.
+
+"Then the weaker the subject..."
+
+Zilvrae's gaze settled on him.
+
+"The longer you may observe the result."
+
+Layn said nothing.
 
 Zilvrae closed the book.
 
 "That is enough."
 
-Layn opened his mouth.
+He opened his mouth.
 
-She had already put the volume aside.
+She set the volume aside.
 
 "We continue."
 
