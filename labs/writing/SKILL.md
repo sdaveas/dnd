@@ -60,6 +60,21 @@ These rules capture the high-level effects we want from Salvatore's drow materia
 - **Make moral meaning emerge from behavior.** Do not label a character cruel, brave, or corrupted when a gesture, choice, or consequence can prove it. Let the reader feel the gap between what drow society calls virtue and what Layn experiences as monstrous.
 - **Use contrast as a signature tool.** Pair ritual with gore, tenderness with danger, beauty with decay, or calm speech with irreversible violence. The contrast should expose the culture and the character at the same time.
 
+
+## Dialogue execution standard
+
+The following rules refine the dialogue principles above and apply during drafting and revision.
+
+- **Physically inhabit dialogue.** Whenever practical, dialogue should occur through a character's actions, posture, expression, movement, tone, or reaction rather than existing as a sequence of detached quotations. The reader should experience the conversation as something happening between physical people in a physical space.
+- **Communicate three things at once.** Important dialogue should make clear what is being said, who is saying it, and how that person is behaving while saying it. Use action beats, attribution, or surrounding context to achieve this without making the prose mechanical.
+- **Use action beats for meaning, not decoration.** A gesture or movement should reveal character, hierarchy, tension, restraint, emotion, subtext, or a change in the physical situation. Do not add a mannerism merely because a quotation needs something attached to it.
+- **Do not ban simple dialogue tags.** “Said,” “asked,” and “replied” are useful when they are the clearest and least distracting option. The goal is not to eliminate dialogue tags, but to avoid repetitive chains of quotation + attribution when behavior can carry the scene more naturally.
+- **Avoid stage-play dialogue.** Several consecutive quotations with no physical, emotional, or environmental response should be treated as a signal to inspect the passage. Add behavior only where it contributes meaning; do not mechanically attach an action to every line.
+- **Let manner reflect character.** The same situation should produce different physical and verbal behavior from different characters. A restrained character may reveal pressure through stillness, a change of grip, a pause, or a precise movement rather than an explicit emotional declaration.
+- **Let behavior carry subtext.** When a character's action contradicts, qualifies, or deepens their words, prefer that tension over explaining the contradiction to the reader.
+- **Preserve readability aloud.** In fast exchanges, action beats and attribution should clarify speaker changes without interrupting momentum. If a conversation becomes difficult to follow when read aloud, fix attribution and physical orientation before adding more description.
+- **Do not over-choreograph.** Characters do not need to move, gesture, or emote continuously. Stillness, silence, and the absence of a reaction are deliberate forms of behavior and can be more powerful than constant motion.
+
 ## Vivid, graphic, eloquent execution
 
 Use these as craft targets for the prose. They describe the desired effect, not a request to reproduce Salvatore's exact voice.
