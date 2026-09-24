@@ -986,7 +986,7 @@ And the years passed.
 
 ---
 
-The conversation that changed the method was held without him.
+A few years earlier, the conversation that changed the method was held without him.
 
 Dreydre and Greyanna stood with Zilvrae in one of the smaller chambers of House Freth.
 
