@@ -1288,7 +1288,11 @@ He moved away from the place where she had last seen him.
 
 He crossed low, found the first dagger by touch, then the second. The weapons were back in his hands before he heard Zilvrae move.
 
-The darkness vanished.
+Zilvrae broke the darkness with a dispelling gesture.
+
+By then Layn had already found both daggers and returned them to his hands.
+
+The gallery was visible again.
 
 He was gone.
 
