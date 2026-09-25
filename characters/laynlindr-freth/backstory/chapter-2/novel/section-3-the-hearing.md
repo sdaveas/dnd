@@ -30,11 +30,11 @@ Manifested what?
 
 The question made no sense to Layn. He searched the last ten years in his memory — the training, the lessons, the things he had been taught to do. There was nothing he could name as a manifestation.
 
-Dreydre answered with care. “There have been moments.”
+Dreydre kept her eyes lowered. “There have been moments.”
 
-“Moments,” the Matron Mother said.
+The Matron Mother let the answer hang for a breath. “Moments?”
 
-“Nothing that held,” Greyanna said. “Nothing repeated on command.”
+Greyanna answered quickly, eager to contain what her sister had admitted. “Nothing that held. Nothing repeated on command.”
 
 She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
 
@@ -44,13 +44,13 @@ Then the Matron Mother looked at Layn.
 
 For the first time in his life, her eyes met his.
 
-The chamber became quieter. He did not mistake the look for warmth. It was the look of the ruler of House Freth examining something that had been under observation for almost twenty years — the way she might look at a blade brought before her for inspection, turning it once in the light.
+The chamber became quieter. Layn did not mistake the look for warmth. She was examining him as the ruler of House Freth might examine a blade brought before her for inspection, turning it once in the light and deciding whether it was fit to be used.
 
-“Show me,” she said.
+Her gaze remained on him. “Show me.”
 
-Two words. Her first words to him were a command.
+Her first words to him were a command.
 
-As Layn tried to understand what this drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
+Layn was still trying to understand what the drow who was his mother wanted from him when the doors opened again. The same priestess returned carrying two vessels, one filled with a white liquid and the other with black.
 
 The sisters below the dais went still. Greyanna’s hand found Dreydre’s sleeve. Dreydre’s eyes went to their mother and stayed there.
 
@@ -60,13 +60,17 @@ The black vessel smoked, though nothing burned. The smoke did not rise; it crawl
 
 He recognized both the elixer's smell from that basement experiments, and its looks from Zilvrae's lessons. The knowledge was already in him. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
-He took a step backward. Then another. He glanced desperately at the hall's guarded door. His face stayed still and his heart did not, and he shook his head once, slowly. He did not want it. It was the nearest he had come to refusing anything in twenty years.
+He took a step backward. Then another. His eyes flicked desperately toward the guarded door. His face stayed still and his heart did not. He shook his head once, slowly.
 
-“Mother,” said Dreydre, and her voice was neither calm nor steady. “No. Mother — are you certain?”
+He did not want it.
 
-The Matron Mother looked at her daughters, and the look stopped the words where they stood.
+It was the nearest he had come to refusing anything in nineteen years.
 
-An evil smile showed at her mouth — small, unhurried, entirely certain of itself.
+Dreydre's hand tightened around the edge of her sleeve. “Mother…” Her voice almost failed her. “No. Mother—are you certain?”
+
+The Matron Mother turned her eyes on her daughters, and Dreydre's next word died before it was spoken.
+
+The corner of the Matron Mother's mouth lifted. There was no haste in the expression, only the quiet pleasure of someone who already knew the answer.
 
 “My daughters,” she said. “You are not afraid, are you?”
 
@@ -74,7 +78,7 @@ Her words were drowning in cruelty. There was amusement in them too. The vessel 
 
 Then she looked back at Layn.
 
-Her lips did not move. But the word sounded inside his skull louder than a scream.
+Her lips never moved. The command struck inside his skull, louder than a scream.
 
 “Drink!”
 
@@ -94,11 +98,11 @@ Was this the absolute power?
 
 A voice echoed faintly from somewhere very far away.
 
-The Matron Mother turned to her daughters.
+The Matron Mother turned to her daughters, watching them closely as though she expected resistance.
 
 “Two drops each.”
 
-The white vessel breathed a thin white smoke that had no smell and no taste.
+The white vessel breathed a thin, white smoke that had no smell and no taste.
 
 Dreydre looked at the pale vessel a moment longer than pride allowed. Then she drank her two drops. Greyanna drank hers. They remained what they were — elder priestesses of House Freth, trained and dangerous — and they were deliberately, measurably less.
 
@@ -152,9 +156,11 @@ And in the middle of it, Layn saw himself.
 
 Countless nights. The same position in his bed — knees drawn up, blanket over his head, breathing small — and the two spiders slithering across the folds, slow and deliberate, waiting with him for the night to end.
 
+Layn stared through the pain and gathered himself around the only certainty he could still control.
+
 “No more,” he whispered.
 
-If that could be called a whisper.
+The words were barely audible, but they were his.
 
 The blast came out of him and out of the floor at once. It took the two spider-shapes and threw them to opposite ends of the arena, and for a moment the dark between the three of them stood empty.
 
@@ -182,9 +188,11 @@ All three siblings screamed — one cry out of three shapes, none of it made by 
 
 The Matron Mother stood.
 
-She had not moved from the beginning. She had sat through the arena, through the figures, through the awakening — a silent fixture the eye had stopped visiting.
+She had not moved until that instant. She had watched the arena, the figures, and the awakening without giving the others anything to read.
 
-The word echoed louder than the loudest clashes in the darkness.
+“Enough.”
+
+The word struck through the darkness louder than the clashes.
 
 The three siblings stopped where they stood — Layn mid-stride, his sisters frozen inside their charge. 
 
@@ -216,18 +224,18 @@ He lay where the ritual had dropped him, on the pale worn stones his feet had cl
 
 Dreydre watched him from the floor. She could not stand, and she could not look away. She had spent ten years making sure this power stayed small. She had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
 
-The Matron Mother looked over the aftermath from her throne.
+From her throne, the Matron Mother surveyed the aftermath.
 
-She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. 
+She did not consult anyone. She did not ask for an assessment. Her daughters lay defeated, and there was nothing in her face that suggested she needed confirmation.
 
-“Melee-Magthere,” she said.
+“Melee-Magthere,” she said, giving the decision its name.
 
 Layn did not hear it. He was past hearing.
 
 She rose. As she walked to the doors at the pace the household adjusted itself to, she stopped.
 
-Without turning, without explaining:
+She stopped at the doors without turning toward them.
 
 “Keep him alive.”
 
-Then she was gone.
+She offered no explanation and waited for no response. Then she was gone.
