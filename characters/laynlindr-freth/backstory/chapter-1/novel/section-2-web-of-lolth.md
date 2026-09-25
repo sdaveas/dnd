@@ -4,151 +4,65 @@
 
 ### I.1.2 — The Web
 
-Two male drow stood beneath an arch of black stone while the city moved around them.
+Two male drow stood beside a merchant's stall, arguing over an alchemical shipment.
 
-Neither had any reason to be standing there. That was part of the pleasure.
+The taller of the two wore a silver clasp at his throat: an eight-legged spider, each leg bearing a different weapon, with two tiny letters worked beneath its body.
 
-The first wore a narrow silver clasp at his throat. A spider was worked into it, its eight legs extended outward, each tipped with a different weapon. Beneath the body, two small letters had been etched so finely that they could only be seen at close range.
+The other wore the insignia of two spiders facing one another.
 
-The other wore no cloak heavy enough to conceal the emblem at his shoulder: two spiders facing one another, their bodies carved in dark metal.
+"The reagent was late."
 
-They had been speaking for several minutes.
+"It arrived before the cargo was unloaded."
 
-"The second shipment was lighter than the manifest."
+"After the agreed hour."
 
-The male with the armed spider glanced at him.
+"Then I suppose the hour has become more important than the cargo."
 
-"Then your scales have finally learned to lie."
+"Only when the cargo is yours."
 
-"They have always lied. I have merely learned to weigh around them."
+The Freth male studied him for a moment.
 
-"How fortunate. I had assumed the missing material had been lost."
+"Three samples survived the last trial."
 
-"The material was not lost."
-
-"No?"
-
-"No. It was removed."
-
-The first male's expression remained composed.
-
-"By whom?"
-
-"If I knew, I would not be discussing it with you."
-
-"Of course not. You would be discussing it with someone you trusted."
-
-The other smiled.
-
-"Trust is an expensive habit."
-
-"Then it is fortunate neither of us has developed it."
-
-They continued walking slowly through the traffic, neither yielding more than was required when other drow passed. Servants stepped around them. A pair of warriors recognized the emblems and altered their course without being asked.
-
-"The latest preparation remains unstable," said the male from the House of the two spiders.
-
-"Yet you requested another sample."
-
-"Because instability is information."
-
-"That is one interpretation."
-
-"It is the useful one."
-
-"And the other?"
-
-"The other is that your House has spent too much time selling us ingredients it does not understand."
-
-The armed spider turned his head just enough to look at him.
-
-"We provide what you request."
-
-"You provide what you can obtain."
-
-"Those are the same thing when the people who request it lack the connections to obtain it themselves."
-
-The other male gave a quiet laugh.
-
-"Careful."
-
-"Was that a threat?"
-
-"An observation."
-
-"A poor one."
-
-"I will remember that the next time you ask for another vial."
-
-The Freth male looked toward him.
-
-"You will send it."
-
-"I might."
-
-"You will."
-
-The smile disappeared from the other man's face.
-
-"One day," he said, "your certainty will become expensive."
-
-"Everything becomes expensive eventually."
-
-They stopped beside a vendor's stall where sealed ceramic containers were stacked in careful rows. Neither man touched them.
-
-"How much of the new reagent remains?" asked the Freth male.
-
-"Enough for three more attempts."
-
-"Four."
+"Two."
 
 "Three."
 
-"You sent us enough for four."
+"One produced the intended reaction."
 
-"Three were usable."
+"The others produced reactions."
 
-"Then your definition of usable has changed."
+"That is a generous definition of success."
 
-"Your definition of success has."
+"It is an accurate one."
 
-For the first time, the Freth male smiled.
+The other male smiled without warmth.
 
-"That is why you continue to supply us."
+"I had heard Freth valued precision."
 
-The reply was immediate.
+"We do. That is why we keep asking Do'Urden for better material."
 
-"Perhaps I simply enjoy watching you fail."
+"A dangerous habit."
 
-Before the other could answer, the street ahead began to change.
+"So is supplying inferior material."
 
-It happened gradually.
+Neither man raised his voice. A nearby servant passed without looking at them.
 
-A servant carrying a basket stopped.
+The Do'Urden male adjusted his cuff.
 
-A merchant stepped backward from his stall.
+"I can have another batch delivered."
 
-Two warriors moved closer to the wall.
+"You can."
 
-The conversations around them thinned, then broke apart altogether.
+"I said I can."
 
-Neither male had been looking toward the disturbance.
+"I heard you."
 
-They did not need to.
+Their eyes met.
 
-The Freth male's smile vanished.
+Neither smiled this time.
 
-The other lowered his eyes.
-
-"Don't," he said quietly.
-
-"I wasn't going to."
-
-"You were."
-
-"Perhaps."
-
-Neither man moved.
+Then the street changed.
 
 A procession entered the street.
 
