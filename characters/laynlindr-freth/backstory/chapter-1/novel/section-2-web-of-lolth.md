@@ -6,23 +6,21 @@ One wore the insignia of an armed spider, each of its eight legs gripping a diff
 
 They had stopped to settle the delivery of a small alchemical consignment.
 
-"The third vessel arrived with sediment."
+The soldier with the armed spider inspected the vessel before handing it back. “The third arrived with sediment. Four measures are due.”
 
-"It left sealed."
+The other soldier kept his gaze on the seal. “It left my stores intact. Three.”
 
-"It did not remain so."
+The first soldier's thumb paused against the vessel's rim. “Then someone opened it between our stores.”
 
-"Then your handlers altered the preparation."
+“Name the handler,” the second replied, his tone cool.
 
-"We examined it before storage. Four measures are due."
+“We examined it before storage. Four.”
 
-The soldier with the armed spider gave a slight nod.
-
-"Very well."
+The soldier with the two-spider insignia gave a slight nod. “Very well. Have the next consignment arrive clean.”
 
 They moved on.
 
-The exchange had contained neither warmth nor anger. It had been the sort of conversation drow soldiers of noble Houses conducted every day: formal enough to remain respectable, sharp enough to remind the other that mistakes were remembered. Neither man had needed to raise his voice. Neither had expected courtesy to mean trust.
+Neither soldier raised his voice. There was no need. Each had tested the other's claim, neither willing to absorb the cost, and the matter had ended only when one decided the argument was no longer worth continuing. Courtesy had served its purpose without becoming trust.
 
 The street was busy with the ordinary business of the city. Merchants called to customers. Slaves carried crates between stalls. Soldiers moved through the traffic in the colors of their Houses. Then, gradually, the noise began to change.
 
@@ -62,13 +60,11 @@ The street understood.
 
 The procession continued into older passages beneath the noble quarter. The markets thinned behind them. The walls narrowed, the light weakened, and spiders appeared more frequently in the stone. The two soldiers followed far enough behind that none of the priestesses needed to acknowledge them.
 
-"The charge?" asked the soldier with the armed spider.
+The soldier with the armed spider kept his eyes on the procession. “The charge?”
 
-"Blasphemy," said the other.
+The other soldier glanced once toward the Teken'duis banner. “Blasphemy.”
 
-The soldier with the two-spider insignia looked toward the Teken'duis banner.
-
-Neither spoke again.
+Neither man asked the question that would have mattered more. The answer was already moving toward the chamber.
 
 The passage opened into a circular chamber cut from the rock.
 
@@ -102,23 +98,21 @@ That was preferable for everyone involved.
 
 A condemned male who shouted accusations through the streets, begged for his life, or named those who had arranged his fall could humiliate his House before the entire city. Teken'duis would not permit that.
 
-The high priestess raised one hand.
+The high priestess raised one hand, and the chamber fell silent.
 
-The chamber became silent.
+When she spoke, her voice carried beyond the altar and into the chamber where every witness could hear it.
 
-She spoke a prayer.
+“Spider Queen, judge the unworthy. Take what has failed us. Strengthen those who remain. Let every eye remember what becomes of those who turn from your web.”
 
-"Spider Queen, judge the unworthy. Take what has failed us. Strengthen those who remain. Let every eye remember what becomes of those who turn from your web."
-
-The priestesses repeated the final words.
+The lesser priestesses repeated the final words together, their voices turning the prayer into a warning that belonged to everyone in the room.
 
 The Matron of Teken'duis lowered her head.
 
-The charge was spoken.
+The charge was pronounced by a priestess at the altar.
 
-"Blasphemy."
+“Blasphemy.”
 
-The word was enough.
+The single word gave the punishment its lawful shape.
 
 Lolth's worship was not separate from the law of the city. Her priestesses were not merely keepers of shrines. They were the authorities through whom the goddess's order was enforced, and a drow accused of blasphemy could be placed beneath their judgment regardless of rank.
 
@@ -238,17 +232,13 @@ Enough cruelty to satisfy the goddess.
 
 Enough law to make the cruelty acceptable.
 
-The priestesses began to sing.
+The priestesses began to sing, their voices rising around the platform in measured praise of Lolth's strength and judgment.
 
-Their voices rose around the platform, repeating the old praises of Lolth's strength and judgment.
-
-"Spider Queen, judge the unworthy."
+“Spider Queen, judge the unworthy,” the high priestess intoned.
 
 The subject cried out.
 
-The chant continued.
-
-"Take what has failed us."
+“Take what has failed us,” the priestesses answered, their voices steady even as his broke against them.
 
 The high priestess lifted a ceremonial blade.
 
@@ -282,7 +272,7 @@ The high priestesses of House Baerne had to attent more important matters. She g
 
 This reminded the soldier with the two-spider that he also had to hurry.
 
-He left without another word.
+He left without offering a word of farewell. There was nothing to say that mattered enough to delay him.
 
 He moved quickly through the old tunnels, passed back into the busier streets, and hurried toward the district where his House stood.
 
