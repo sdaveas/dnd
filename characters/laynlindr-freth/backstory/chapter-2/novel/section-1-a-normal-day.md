@@ -46,9 +46,7 @@ The Matron Mother crossed the hall surrounded by two armed females of her guard.
 
 Layn rose with everyone else.
 
-The Matron Mother stopped beside Dreydre.
-
-The Matron Mother stopped beside Dreydre. Her gaze settled on her elder daughter with the calm expectation of someone who had already decided what would happen.
+The Matron Mother stopped beside Dreydre, her gaze settling on her elder daughter with the calm expectation of someone who had already decided what would happen.
 
 “The eastern gallery will receive the visitors,” she said. “You will be present.”
 
