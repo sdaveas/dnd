@@ -48,13 +48,15 @@ Layn rose with everyone else.
 
 The Matron Mother stopped beside Dreydre.
 
+The Matron Mother stopped beside Dreydre. Her gaze settled on her elder daughter with the calm expectation of someone who had already decided what would happen.
+
 “The eastern gallery will receive the visitors,” she said. “You will be present.”
 
-“Yes, Matron Mother.”
+Dreydre inclined her head. “Yes, Matron Mother.”
 
-“And you will not let your sister speak for you.”
+The Matron Mother's eyes remained on her. “And you will not let your sister speak for you.”
 
-Dreydre bowed her head. “Of course.”
+Dreydre lowered her gaze, accepting the correction without testing its limits. “Of course.”
 
 The Matron Mother moved on.
 
@@ -84,23 +86,23 @@ The lesson was not private. Dreydre sat at the far table with the house’s corr
 
 Zilvrae set five emblems on the black table, in a line — five houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
 
-“This is the order,” she said. “Look.”
+Zilvrae tapped the first emblem with one finger and watched Layn's eyes settle on it. “This is the order. Look.”
 
 Layn studied the symbols. A silver blade. A broken chain. A spider above a crescent moon. A crown surrounded by nine points. All of them he knew from the household records he had been allowed to read.
 
-She swept the emblems up, shuffled them, and set them out again. “Now you.”
+She swept the emblems up, shuffled them, and set them out again. Without looking away from him, she said, “Now you.”
 
 He set them in the order of their houses’ power.
 
 The order was wrong. The broken chain lay where the silver blade belonged and vise versa.
 
-“You looked,” she said. “You did not see.”
+Zilvrae touched the misplaced emblem with the end of one finger. “You looked,” she said, her voice patient but unsparing. “You did not see.”
 
 She gathered the five and laid them out in their order once more, one by one.
 
 This time Layn did not watch the emblems. He watched the order itself. When she swept them up, the order did not go with them. It stayed fixed behind his eyes, whole and silent, the way a shape stays after the light is gone.
 
-“Again.”
+She gathered the emblems without further explanation. “Again.”
 
 He set the five without a mistake.
 
@@ -114,11 +116,11 @@ The young priestesses saw the elder tutor’s eyes go to her, as if they all hel
 
 Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, and he was flawless every time.
 
-When the thirty stood ranked on the black table, Zilvrae looked down at them, and she could not help herself. Barely a whisper: “Good memory.”
+When the thirty stood ranked on the black table, Zilvrae looked down at them, and despite herself something like approval escaped her. Barely a whisper, almost an admission she had not meant to make aloud: “Good memory.”
 
 Layn looked up at her.
 
-Her face closed. “You remember what you have been shown. That is not the same as understanding it.”
+Her expression closed again, the concession already withdrawn. “You remember what you have been shown. That is not the same as understanding it.”
 
 When the drill ended, she gathered the emblems and began the day’s house lessons — how the rank had held in the city so far, and what each house was known for. House Freth’s own craft was taught that day too: its substances. Venoms and alchemical preparations that drew out what a creature already carried, and did not care what it cost the vessel. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
 
@@ -130,17 +132,19 @@ Layn would soon discover that his sisters had more.
 
 Greyanna found him in the passage outside the records room. She planted herself in the middle of it and looked down at him.
 
-“You remember too well,” she said.
+Greyanna studied him for a moment, then smiled as though she had found an opening. “You remember too well.”
 
-“It is not a rare talent,” she continued. “Do not look as though you expect praise.”
+Layn said nothing.
 
-Layn knew there was no right answer to his sister’s rhetorical monologue.
+Her smile thinned. “It is not a rare talent. Do not look as though you expect praise.”
 
-“My pin is gone,” she said after a few moments. The young male showed his confusion.
+Layn knew there was no right answer.
 
-“I have not seen your pin,” he said, trying not to show any sign of uncertainty.
+Greyanna let the silence stretch before adding, “My pin is gone.” The young male could not hide his confusion.
 
-“You were in the records room. You came out with your sleeves closed.”
+Layn answered quickly, anxious to keep the accusation from settling on him. “I have not seen your pin.”
+
+Greyanna stepped closer, watching his face instead of his hands. “You were in the records room. You came out with your sleeves closed.”
 
 Layn opened them. They were empty.
 
@@ -148,9 +152,9 @@ Greyanna smiled and did not look at his hands.
 
 “Mistress Zilvrae was with me,” Layn said.
 
-“So you accuse your tutor of theft.” Greyanna’s voice did not rise.
+Greyanna's voice remained level, almost mild. “So you would have me believe your tutor stole it?”
 
-“It was in my fingers all morning,” she said. “You were there the whole time.”
+Greyanna lifted one shoulder, feigning disappointment. “It was in my fingers all morning. You were there the whole time.”
 
 He had seen servants punished for theft. None of them had been guilty either.
 
@@ -162,9 +166,7 @@ And in the quiet it left, something pressed lightly behind his eyes.
 
 It was not pain. He knew where the pin was. Not because he had seen it hidden, not because he had reasoned it out. The knowledge was simply there, finished and certain, like a thought that belonged to someone else.
 
-He said it half to test whether it was true.
-
-“In your right sleeve.”
+He said it partly to test whether the strange certainty was real. “In your right sleeve.”
 
 Greyanna wore the look of someone about to be proven right. It lasted until he finished speaking. Then it was surprise, and she did not manage to hide it.
 
@@ -174,13 +176,13 @@ Dreydre stood behind her, half-hidden by the archway. For a moment, her expressi
 
 Then it was gone.
 
-“I put it there myself,” Greyanna said. “To see what you would say.”
+Greyanna's surprise vanished behind a smile. She drew the pin free and held it between them. “I put it there myself. To see what you would say.”
 
-“Then you already knew what I would say.”
+Layn watched her carefully. “Then you already knew what I would say.”
 
 Greyanna stepped close enough that Layn could smell the bitter oil in her hair.
 
-“Do not become clever with me, boy.”
+Greyanna stepped close enough that Layn could smell the bitter oil in her hair. “Do not become clever with me, boy.” Her voice was quiet, but the warning in it was unmistakable.
 
 Dreydre lifted one finger.
 
@@ -188,11 +190,11 @@ Greyanna fell silent.
 
 The older sister took the pin from Greyanna’s fingers and turned it once in the lamplight.
 
-“You saw where this one fell,” Dreydre said.
+Dreydre took the pin from Greyanna and studied Layn over its edge. “You saw where this one fell.”
 
-“I did not.”
+Layn shook his head. “I did not.”
 
-“Then know where it is now.”
+Her eyes narrowed slightly. “Then know where it is now.”
 
 She held the pin up between two fingers, where the whole passage could see it.
 
@@ -204,7 +206,7 @@ Dreydre raised both hands beside it, fingers spread, and spoke while it hung the
 
 It came again, the pressure behind his eyes, and this time he knew it was not his. The thought arrived finished, the way it had when he named the sleeve. It moved from the pin to Dreydre, then toward him. He felt the direction of her attention before she spoke.
 
-“Right,” said Layn.
+Layn's answer came without hesitation. “Right.”
 
 The pin still hung in the air. Neither hand had claimed it yet.
 
@@ -218,35 +220,33 @@ Neither sister spoke.
 
 The pressure behind Layn’s eyes faded. He looked from the pin to Dreydre’s face.
 
-“How did you—” Greyanna began.
+Greyanna stared at him, her certainty cracking. “How did you—”
 
-Dreydre cut her off with a glance.
+Dreydre cut her off with a single glance. She closed her fingers around the pin before Greyanna could say more.
 
-“A lucky guess,” Dreydre said, and her voice was flat.
+“A lucky guess,” Dreydre said flatly.
 
 Layn had not guessed, but he was wise enough not to say so.
 
 Dreydre closed her fingers around the pin.
 
-“You will not mention this.”
+Dreydre's fingers tightened around the pin. “You will not mention this.”
 
-“Mention what?”
+Layn watched her face. “Mention what?”
 
-“Tonight.”
+Her gaze hardened. “Tonight.”
 
-“It was only a guess.”
+He understood the warning and tested it anyway. “It was only a guess.”
 
-“Then there is no reason to mention it.”
+“That is exactly why there is no reason to mention it,” Dreydre replied.
 
-“Leave,” Dreydre said.
+She turned toward the doorway. “Leave.”
 
 Layn went. Greyanna held his eyes until the archway took him, and the look she gave him made the passage feel narrower.
 
-Dreydre looked at Greyanna.
+Dreydre waited until Layn was beyond the archway before looking at Greyanna. “Tonight.”
 
-“Tonight,” she said.
-
-Greyanna nodded.
+Greyanna's earlier confidence was gone. She nodded.
 
 * * *
 
@@ -290,15 +290,15 @@ Greyanna sat on the windowsill, though there was no window beyond the dark openi
 
 Layn’s throat tightened.
 
-“Remove them,” he said.
+Layn stared at the bed, fighting the urge to step backward. “Remove them,” he said.
 
 Greyanna smiled.
 
-“You know better than that.”
+Greyanna smiled at his fear. “You know better than that.”
 
-“They are in my bed.”
+Layn kept his voice low, as though saying it too loudly might make the room worse. “They are in my bed.”
 
-“They are sacred animals of Lolth.”
+Greyanna glanced at the spiders, then back at him. “They are sacred animals of Lolth.”
 
 One of the spiders lifted its front legs and placed them on the folded blanket. Its body shifted with a faint, dry scrape.
 
@@ -306,17 +306,17 @@ Layn did not move.
 
 Dreydre looked at him.
 
-“If you kill them, the Spider Queen will know.”
+Dreydre watched his hands rather than his face. “If you kill them, the Spider Queen will know.”
 
-“They are not temple spiders.”
+Layn swallowed and forced himself to look at the spider nearest him. “They are not temple spiders.”
 
-“You would question what is sacred?”
+Greyanna's smile sharpened. “You would question what is sacred?”
 
-“I only want them out.”
+Layn's eyes stayed on the bed. “I only want them out.”
 
-“Drive them away, then,” Greyanna said. “Put them in the corridor. Let them wander into the servants’ quarters. Let them crawl into someone else’s bed.”
+Greyanna leaned against the wall and watched him calculate the alternatives. “Drive them away, then. Put them in the corridor. Let them wander into the servants' quarters. Let them crawl into someone else's bed.”
 
-Her smile widened.
+She let the suggestion hang for a moment, then smiled wider.
 
 “When the house suffers for your blasphemy, we will tell the Matron Mother who caused it.”
 
@@ -324,33 +324,27 @@ Layn looked toward the corridor.
 
 No servant had come. No priestess had passed. His sisters had chosen a time when the room belonged to them.
 
-“Does the Matron Mother know they are here?” he asked.
+Layn glanced toward the upper galleries before asking the question, as though the walls themselves might carry the answer. “Does the Matron Mother know they are here?”
 
 Dreydre’s expression hardened.
 
-“The Matron Mother does not concern herself with a male child’s bedding.”
+Dreydre's expression remained composed. “The Matron Mother does not concern herself with a male child's bedding.”
 
-“Then why would she care if I moved them?”
+Layn studied her face. “Then why would she care if I moved them?”
 
-“Because she would care about the consequences.”
-
-The answer was delivered too quickly.
+The answer came too quickly. “Because she would care about the consequences.”
 
 Layn looked at his sisters. Neither of them looked toward the upper galleries where the Matron Mother’s chambers lay.
 
 He understood only that he was being watched.
 
-“Lie down,” Dreydre said.
+Dreydre opened the door wider and pointed toward the bed. “Lie down.”
 
-“I do not want to.”
+Layn's voice tightened. “I do not want to.”
 
-Greyanna slid from the sill.
+Greyanna slid from the sill, her expression hardening as his refusal lasted. “You are a male in House Freth. Wanting is not a reason.”
 
-“You are a male in House Freth. Wanting is not a reason.”
-
-Dreydre opened the door wider.
-
-“Lie down, boy.”
+Dreydre waited until he looked at her. “Lie down, boy.”
 
 Layn stepped into the room.
 
@@ -358,7 +352,7 @@ He removed his boots and climbed onto the bed without taking his eyes from the s
 
 He flinched.
 
-“Still,” Dreydre said.
+Dreydre watched his trembling hands. “Still.”
 
 The word carried no anger. That made it worse.
 
