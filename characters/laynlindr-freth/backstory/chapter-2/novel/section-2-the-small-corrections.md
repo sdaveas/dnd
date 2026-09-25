@@ -322,15 +322,13 @@ He was tired because he had been taught.
 
 One evening, after the day's first two lessons were finished, Zilvrae placed an open book before him.
 
-"Menzoberranzan contains fifty noble houses."
+Zilvrae's finger rested on the first line. “Menzoberranzan contains fifty noble houses.”
 
 Layn waited.
 
-"House Freth is nineteenth."
+She moved her finger down the page. “House Freth is nineteenth.”
 
-Her finger rested on the page.
-
-"You will eventually understand what that means. Not merely that nineteenth is above some houses and beneath others, but what rank permits, what it demands, and what obligations follow from it."
+She watched him for a reaction before continuing. “You will eventually understand what that means. Not merely that nineteenth is above some houses and beneath others, but what rank permits, what it demands, and what obligations follow from it.”
 
 She spoke without drama.
 
@@ -340,17 +338,15 @@ She explained how authority moved inside a house, how rank determined access and
 
 She taught him the difference between an order and a request, between an obligation and a favor, between something a male could lawfully do and something he could do only because a superior chose to permit it.
 
-"You are a noble male of House Freth," she said. "You have value. That does not mean the house will give you the same authority it gives a daughter. It means that you are expected to understand where your authority begins and where it ends."
+Zilvrae tapped the page once. “You are a noble male of House Freth. You have value. That does not mean the house will give you the same authority it gives a daughter. It means you are expected to understand where your authority begins and where it ends.”
 
-Layn looked down at the page.
+Layn looked down at the page, then back at her. “And if I don't?”
 
-"And if I don't?"
-
-"Eventually someone will teach you by making you pay for the mistake."
+Zilvrae held his gaze. “Eventually someone will teach you by making you pay for the mistake.”
 
 The room went quiet.
 
-"Learn from me instead."
+Then she added, more quietly, “Learn from me instead.”
 
 There was nothing warm in the offer.
 
@@ -358,85 +354,73 @@ That made it more valuable.
 
 Zilvrae studied him for a moment before closing the book.
 
-"There is another mistake young males make. They confuse survival with submission."
+Zilvrae closed the book halfway, keeping one finger between its pages. “There is another mistake young males make. They confuse survival with submission.”
 
 Layn raised his eyes.
 
-"Submission is what happens when someone else controls you," she said. "Survival is what happens when you understand enough to keep yourself alive."
+“Submission is what happens when someone else controls you,” she said. “Survival is what happens when you understand enough to keep yourself alive.”
 
-She let that settle.
+She watched him absorb the distinction.
 
-Then she added, "Do not mistake a law for a kindness merely because you happen to benefit from obeying it."
+“Do not mistake a law for a kindness merely because you happen to benefit from obeying it.”
 
 Layn said nothing.
 
-Zilvrae rested one hand on the closed book.
+Zilvrae rested one hand on the closed book and studied him for a moment. “Remember this as well. A weapon does not become less deadly because the hand holding it is considered lesser.”
 
-"Remember this as well. A weapon does not become less deadly because the hand holding it is considered lesser."
+Her gaze moved toward the practice gallery. “When a blade enters an opponent's heart, the heart has no interest in the sex of the hand that placed it there.”
 
-She glanced toward the practice gallery beyond the doorway.
-
-"When a blade enters an opponent's heart, the heart has no interest in the sex of the hand that placed it there."
-
-She turned back to him.
-
-"Strong houses emerge from conscientious drow. Arrogant drow build houses that fall."
+She turned back to him. “Strong houses emerge from conscientious drow. Arrogant drow build houses that fall.”
 
 She left the book closed.
 
-"That is what rank means here. It is power, but it is also permission to remain."
+“That is what rank means here. It is power, but it is also permission to remain.”
 
 Layn looked at the closed cover but did not touch it.
 
-"Now read."
+Zilvrae opened the book again and pushed it toward him. “Now read.”
 
-Zilvrae opened the book again.
+Layn bent over the page.
 
-"Now we return to the record."
+After a moment she tapped the margin. “Now we return to the record.”
 
 Her finger moved down the page.
 
 Layn noticed that several numbers did not fit the sequence.
 
-"What happened to the missing houses?"
+Layn traced the crossed-out names with one finger. “What happened to the missing houses?”
 
-Zilvrae looked at him.
+Zilvrae looked at him. “The ones that aren't there?”
 
-"The ones that aren't there?"
+“Yes.”
 
-"Yes."
+She closed the book a fraction. “Fallen houses are rarely discussed.”
 
-"Fallen houses are rarely discussed."
+“Why?” Layn asked, more quietly this time.
 
-"Why?"
-
-"Because there is little advantage in remembering them."
+“Because there is little advantage in remembering them.”
 
 She turned one page.
 
-"Houses turn against one another. It is not rare."
+Zilvrae's finger continued down the column of names. “Houses turn against one another. It is not rare.”
 
-"Why?"
+Layn frowned at the crossed-out names. “Why?”
 
-"Power. Rank. Grievances. Opportunity."
+“Power. Rank. Grievances. Opportunity.” She said each word without emphasis, as though giving him the categories mattered more than the examples.
 
-Her finger continued down the column of names.
-
-"Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient."
+Her finger moved to the next entry. “Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient.”
 
 Layn glanced at the page.
 
-"The last major change occurred when you were very young. House Do'Urden rose because a house higher in rank ceased to exist."
+“The last major change occurred when you were very young,” Zilvrae said. “House Do'Urden rose because a house higher in rank ceased to exist.”
 
-"How?"
+Layn looked up sharply. “How?”
 
-Zilvrae's gaze settled on him.
-
-"That is not a story the city tells."
+Zilvrae met his eyes, then turned the page. “That is not a story the city tells.”
 
 She turned another page.
 
-"Understand this carefully. A house does not need to announce that it intends to destroy another house. By the time such an announcement would be useful, the matter is usually already decided."
+Zilvrae kept her finger on the page. “Understand this carefully. A house does not need to announce that it intends to destroy another house. By the time such an announcement would be useful, the matter is usually already decided.”
 
 Layn read the names again.
 
@@ -444,15 +428,15 @@ Several were crossed out.
 
 Then he looked at her.
 
-"What happened to your house?"
+Layn looked at her for a long moment. “What happened to your house?”
 
-For a moment, Zilvrae did not answer.
+Zilvrae did not answer immediately. Her fingers rested on the closed record.
 
-"My name is Zilvrae Freth."
+“My name is Zilvrae Freth.”
 
 Layn waited.
 
-"There is no other name you need to know."
+Her expression did not change. “There is no other name you need to know.”
 
 He heard the boundary in it and did not cross it.
 
@@ -813,25 +797,21 @@ Not anyone.
 
 Weeks later, during the theory portion of the day, Layn asked a question he had been carrying since the laboratory.
 
-"Can a substance amplify something that is already present?"
+Layn kept his eyes on the page. “Can a substance amplify something that is already present?”
 
 Zilvrae's pen stopped.
 
-"Why?"
+She looked at him over the edge of the page. “Why?”
 
-Layn hesitated.
+Layn hesitated. “I was wondering.”
 
-"I was wondering."
+Her eyes narrowed slightly. “That is rarely a sufficient reason.”
 
-Her eyes narrowed slightly.
+He expected the question to be dismissed.
 
-"That is rarely a sufficient reason."
+Instead she rose, crossed the room, and returned with a recently written House Freth volume.
 
-He expected her to dismiss the question.
-
-Instead she stood, crossed the room, and returned carrying a recently written House Freth volume.
-
-"I have no expertise in such things," she said. "But the house keeps records."
+“I have no expertise in such things,” she said, setting the book before him. “But the house keeps records.”
 
 She opened the book.
 
@@ -881,27 +861,21 @@ Only records.
 
 Layn looked from the page to the illustrations.
 
-"So one raises what is already there."
+Layn looked from one entry to the other. “So one raises what is already there.”
 
-"For a brief time," Zilvrae said.
+“For a brief time,” Zilvrae said, watching his face.
 
-"And the other lowers it."
+“And the other lowers it.”
 
-"Yes."
+“Yes.”
 
-"It doesn't create anything."
+“It doesn't create anything?”
 
-"No."
+“No.”
 
-Layn looked at the black preparation entry again.
+Layn returned to the black preparation entry, now understanding why the laboratory record had frightened him. “Then the weaker the subject…”
 
-He remembered the creature in the laboratory.
-
-"Then the weaker the subject..."
-
-Zilvrae's gaze settled on him.
-
-"The longer you may observe the result."
+Zilvrae held his gaze. “The longer you may observe the result.”
 
 Layn said nothing.
 
