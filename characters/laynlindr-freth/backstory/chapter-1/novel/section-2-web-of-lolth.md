@@ -4,9 +4,9 @@
 
 ### I.1.2 — The Web
 
-Two male drow stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them.
+Two male soldiers stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them.
 
-One wore the insignia of an armed spider, each of its eight legs gripping a different weapon, the letters beneath it nearly invisible in the dim light. The other wore two spiders facing one another, worked into a dark metal clasp at his shoulder.
+One wore the insignia of an armed spider, each of its eight legs gripping a different weapon. The other wore two spiders facing one another, worked into a dark metal clasp at his shoulder.
 
 They had stopped beside a merchant's stall to settle a delivery.
 
@@ -14,163 +14,85 @@ They had stopped beside a merchant's stall to settle a delivery.
 
 "It was sealed when it left the lower galleries."
 
-"It arrived with sediment."
+"It arrived with sediment, and the reaction was unstable."
 
-"Then the sediment formed after delivery."
+"Then your handling altered the compound."
 
-"It did not."
+"We examined it before storage."
 
-The male with the armed spider considered him.
+"Then the defect was present before delivery."
 
-"The material was examined by your people before it entered the stores."
+"Your next consignment will be held to a higher standard."
 
-"Then your people examined it incorrectly."
+"Then your order should specify one."
 
-"My people prepared it according to your specification."
+"Four measures."
 
-"Your specification was incomplete."
-
-"Then the omission was yours to discover."
-
-Neither raised his voice. A servant approached with a ledger, placed it on the stall, and withdrew.
-
-The male with the two spiders opened it.
-
-"Six measures."
-
-"Six."
-
-"Five were usable."
+"Three."
 
 "Four."
 
-"Four were usable."
+The last word settled the matter. Neither man needed to press it further.
 
-"Then the remaining two were not."
+They moved on.
 
-"Not by your standards."
+For a few paces they discussed the preparation itself: its stability, the purity of the latest reagent, and a reaction that had become stronger in some subjects while failing altogether in others.
 
-"By the standards written in the order."
+The exchange was interrupted by the changing sound of the street.
 
-The other male glanced at the seal on the ledger.
+A merchant lowered his voice.
 
-"Your clerk has become ambitious."
+A servant stepped against a wall.
 
-"Then I suggest you concern yourself with the people who report to you."
-
-"I do."
-
-"I have noticed."
-
-They continued walking.
-
-For several paces they discussed the preparation itself: its stability, the purity of the last reagent, and the fact that the reaction had become stronger in some subjects while failing altogether in others.
-
-"The effect should not collapse before the interval ends," said the Freth male.
-
-"Then your formulation is incomplete."
-
-"The ingredient was supplied in the stated purity."
-
-"That is what the seal says."
-
-"It is also what the analysis showed."
-
-"Then you have found an interesting problem."
-
-"We have."
-
-"I hope you solve it before you require another consignment."
-
-"We will require another consignment."
-
-The Do'Urden male regarded him.
-
-"I expected as much."
-
-The exchange might have continued.
-
-Then the street ahead began to change.
-
-A conversation stopped.
-
-Then another.
-
-A servant drew close to a wall.
-
-Two warriors moved aside.
-
-Neither of the men had to ask why.
+Two soldiers moved aside.
 
 The priestesses were coming.
 
-They appeared first at the far end of the street, moving slowly beneath the violet lights. Their robes were marked with spiders. Some carried ritual vessels. Others carried banners.
+They appeared at the far end of the street beneath the violet lights, moving slowly through the traffic. They did not force a passage. The street opened before them.
 
-The first banner bore an enormous spider wrought in black and silver.
+Merchants withdrew their goods. Servants lowered their eyes. Soldiers cleared the way. Noble drow stepped aside without protest.
 
-The next carried the emblem of Teken'duis.
+The priestesses wore the symbols of Lolth openly. Some carried ritual vessels. Others carried banners, and those banners were enough to make the silence deeper.
 
-The two males lowered their eyes.
+One bore the insignia of House Baenre.
 
-The procession came on.
+Another carried the emblem of Teken'duis.
 
-No command was given. None was required.
+The two soldiers lowered their eyes.
 
-The street opened before the priestesses. Merchants withdrew their goods. Servants stopped where they stood and made themselves smaller. Warriors stepped out of the path. Even noble drow moved aside without protest.
+Behind the priestesses came attendants and noble females.
 
-The priestesses walked through the empty space at the center of the road as though it had always belonged to them.
+Then Yvonnel Baenre passed beneath her House standard.
 
-Behind them came attendants.
+The Matron Mother of Teken'duis followed close behind.
 
-Then Yvonnel Baenre.
+No one in the street needed to announce either of them.
 
-She wore no expression that suggested the importance of the occasion. She did not need one. The Baenre banner above her said enough.
+Their banners, attendants, and the space given to them said enough.
 
-The Matron of Teken'duis followed beneath her own standard.
+The two soldiers remained still until the procession had passed.
 
-The two males remained motionless until both women had passed.
-
-Only then did the Freth male raise his eyes.
+Only then did the soldier with the armed spider speak.
 
 "The Test."
 
-The Do'Urden male looked toward the procession.
+"Yes."
 
-"There is a charge?"
+"The charge?"
 
 "Blasphemy."
 
-"A convenient charge."
+"And the reason?"
 
-"An effective one."
+"That will become clear."
 
-They began to follow at a respectful distance.
+They followed at a respectful distance.
 
-The streets narrowed as the procession left the market districts behind. The city grew quieter. The stone was older here, darker and less decorated, except for the spiders carved into almost every surface.
-
-The Do'Urden male spoke without looking at his companion.
-
-"Teken'duis has been making smaller offerings."
-
-"Yes."
-
-"Fewer appearances at the shrines."
-
-"Yes."
-
-"Then they have noticed."
-
-The Freth male looked ahead.
-
-"They have noticed that Lolth has noticed."
-
-The Do'Urden male said nothing.
+The streets narrowed as the procession left the market districts behind. The city grew quieter. The stone became older and darker, and spiders appeared with increasing frequency along the walls.
 
 The procession descended into a broad ritual chamber.
 
-The two males remained near the entrance, far enough back that no priestess would need to acknowledge them.
-
-From where they stood, they could see the entire chamber.
+The two soldiers stopped near the entrance. From where they stood, they could see the entire chamber.
 
 At its center stood a low stone altar raised on a circular platform. Black candles burned around it. Behind the altar rose a dark carving of Lolth, beautiful from the waist upward and monstrous below, her many legs spreading across the wall.
 
@@ -184,197 +106,109 @@ The subject was brought into the chamber last.
 
 He was a male drow dressed in the formal clothing of Teken'duis. His wrists were bound. Two priestesses walked beside him, though he did not resist.
 
-The Do'Urden male watched him approach the altar.
-
-"The charge is blasphemy," he said.
-
-"So they have declared."
-
-"But they did not bring him here for blasphemy."
-
-The Freth male's eyes remained on the platform.
-
-"No."
-
-"Then for what?"
-
-The Freth male answered as though discussing an entry in a ledger.
-
-"To be tested."
-
-The subject was brought onto the platform.
+The soldiers watched as he was brought to the altar.
 
 The priestesses began to chant.
 
-The words were old. The two males knew enough of them to understand the shape of the prayer: Lolth's strength, Lolth's judgment, the unworthy cast down, the worthy favored.
+The words were old. The soldiers knew their shape even when they could not distinguish every verse: praise to Lolth, acknowledgment of her judgment, and a request that she cast down the unworthy and favor those who proved themselves.
 
-The singing continued.
+The Matron Mothers knelt.
 
-The subject stood alone beneath the statue.
+The banners remained upright.
 
-No one spoke to him.
+The subject stood alone on the platform.
 
-The Do'Urden male watched the Matron of Teken'duis.
+There was no appeal.
 
-"She brought him herself."
+There was no advocate.
 
-"Yes."
+The accusation had already served its purpose.
 
-"That is deliberate."
+Blasphemy was enough to place a drow beneath the authority of Lolth's priestesses. What happened afterward belonged to the goddess.
 
-"Everything concerning a House of that rank is deliberate."
+The Test was not an ordinary punishment.
 
-The Do'Urden male's eyes returned to the platform.
+It was a judgment reserved for drow whose strength, ambition, or position made them worthy of Lolth's attention. A warrior could survive years of combat and still be judged insufficient. A noble could rise through the ranks and still find that success itself had brought another demand.
 
-"If he fails?"
+To be noticed by Lolth was never simply to be honored.
 
-The Freth male looked at him.
+It was to be measured.
 
-"You know what follows."
-
-"I know what follows when Lolth is displeased."
-
-The Freth male said nothing.
-
-The prayer continued.
+The chanting continued.
 
 A priestess raised a shallow black bowl.
 
-Another brought a ceremonial blade.
+Another carried a ceremonial blade.
 
-The subject looked toward the women surrounding him.
+The subject lowered himself to his knees before the altar.
 
-No one looked away.
+From the entrance, the soldiers could see only fragments of what followed. The priestesses closed around the platform until their bodies formed a living wall between the ritual and the chamber.
 
-The Do'Urden male's voice dropped.
-
-"They will not kill him."
-
-"Not unless she chooses it."
-
-"And if she does not?"
-
-The Freth male watched the altar.
-
-"Then he will live."
-
-The Do'Urden male was silent.
-
-The Freth male continued.
-
-"That is the punishment."
-
-For the first time, the Do'Urden male looked at him.
-
-"A lifetime."
-
-"A lifetime."
-
-"In that form."
-
-"Under her judgment."
-
-Neither man spoke for several breaths.
-
-The chanting grew louder.
-
-The priestesses knelt.
-
-The Matron Mothers lowered their heads.
-
-The House banners remained upright above them.
-
-The Freth male watched the Teken'duis standard.
-
-"One of their males," he said.
-
-"Yes."
-
-"Given willingly."
-
-"Yes."
-
-"Then it is an offering."
-
-The Do'Urden male looked once more toward the Matron of Teken'duis.
-
-"To restore favor."
-
-The Freth male gave the smallest inclination of his head.
-
-The priestesses began another verse.
-
-The subject was made to kneel before the altar.
-
-The two males could see the first preparations, but not the ritual itself. The priests and priestesses formed a living wall around the platform. Their bodies blocked the details.
-
-The singing continued.
+The singing did not stop.
 
 Something struck stone.
 
 The subject cried out.
 
-The sound died beneath the chanting.
-
-Neither male moved.
-
-The Do'Urden male's fingers tightened once around his sleeve.
-
-Then relaxed.
-
-The Freth male watched without expression.
-
-Around them, the chamber remained perfectly ordered.
-
-No one shouted.
+No one moved.
 
 No one protested.
 
-No one offered assistance.
+The Matron of Teken'duis remained on her knees.
 
-A servant stood at the edge of the chamber with his head bowed, waiting for instructions. A young priestess watched the altar intently, memorizing every movement. One of the attendants adjusted the Teken'duis banner when its lower edge shifted against the stone.
+The Baenre Matron watched from behind the priestesses.
 
-The ceremony continued.
+The attendants stood perfectly still.
 
-The cruelty remained behind the wall of priestesses.
+The chamber itself seemed to hold its breath, not from pity, but from attention.
 
-The two males did not see what happened.
+The ritual continued beyond the wall of priestesses.
 
-They heard enough.
+The soldiers heard enough to understand its purpose.
 
-At last, the chanting stopped.
+Teken'duis had brought one of its males before Lolth.
 
-The priestesses lowered their heads.
+The accusation of blasphemy gave the ceremony its justification.
 
-A long silence followed.
+The sacrifice gave it its value.
 
-Then the living wall parted.
+For a House whose confidence in the Spider Queen had begun to waver, a life could be offered more loudly than a prayer.
 
-Something moved behind it.
+And a living punishment could endure far longer than a corpse.
 
-The Do'Urden male stared.
+Death ended.
 
-The male who had entered the chamber had not come out.
+A drider remained.
 
-Something else had.
+That was the terror every drow understood.
+
+The chanting reached its final verse.
+
+Silence followed.
+
+The priestesses parted.
+
+Something moved behind them.
+
+The male who had entered the chamber did not return.
 
 A drider stepped down from the altar.
 
-The upper body was still drow.
+Its upper body remained drow.
 
-Everything below it belonged to a spider.
+Beneath it stretched the pale body of a monstrous spider.
 
-The creature was led toward a dark passage at the side of the chamber.
+For a moment the chamber was completely still.
 
-No one touched it except those ordered to move it.
+Then a priestess gave an order.
+
+The drider was led away into the darkness.
 
 No one called its name.
 
-The Matron of Teken'duis watched it leave.
+No one approached it.
 
-Her face showed nothing.
-
-Then she turned toward the priestesses.
+The Matron of Teken'duis watched without expression.
 
 The banners were taken down.
 
@@ -382,32 +216,34 @@ The candles were extinguished.
 
 The chamber began to empty.
 
-The two males remained where they were until the Matron Mothers had gone.
+The two soldiers stayed where they were until the Matron Mothers had gone.
 
-Only then did the noise of Menzoberranzan begin to return beyond the passage.
+Only then did the sound of Menzoberranzan return beyond the chamber: footsteps, voices, carts, merchants calling to one another.
 
-The Do'Urden male looked toward his companion.
+The soldier with the armed spider looked toward the corridor.
 
-"The consignment."
+"The shipment."
 
-The Freth male nodded.
+The soldier with the two spiders nodded.
 
-"It will be delivered tomorrow."
+"Tomorrow."
 
-They left the chamber.
+They left.
 
-Neither mentioned the drider again.
+Neither man mentioned what they had witnessed.
 
 They did not need to.
 
-In Menzoberranzan, Lolth did not need to appear in every street to govern the drow.
+In Menzoberranzan, Lolth did not need to stand in every street to govern the drow.
 
 Her priestesses carried her authority.
 
-The Houses carried her laws.
+The Houses carried the hierarchy.
 
-The fear of her judgment carried the rest.
+Fear carried the rest.
 
-And beneath that order, every drow understood the same thing:
+A drow could scheme, compete, bargain, and threaten within the boundaries of the web.
 
-The web held because everyone knew what waited beyond it.
+But the web remained.
+
+And every drow knew what waited beyond it.
