@@ -939,119 +939,91 @@ A few years earlier, the conversation that changed the method was held without h
 
 Dreydre and Greyanna stood with Zilvrae in one of the smaller chambers of House Freth.
 
-"He is becoming quieter," Greyanna said.
+Greyanna watched Zilvrae carefully. “He is becoming quieter.”
 
-"That was the intention," Zilvrae replied.
+“That was the intention,” Zilvrae replied.
 
-"The manifestations are weaker."
+Greyanna's eyes narrowed. “The manifestations are weaker.”
 
-"Yes."
+“Yes.”
 
-Dreydre frowned.
+Dreydre frowned. “He used to reach.”
 
-"He used to reach."
-
-"And now he doesn't."
+“And now he doesn't,” Zilvrae said.
 
 The sisters exchanged a look.
 
-"He is still having episodes," Greyanna said.
+Greyanna broke the silence. “He is still having episodes.”
 
-Zilvrae nodded.
+Zilvrae gave a small nod. “Then he is still not sleeping properly.”
 
-"Then he is still not sleeping properly."
-
-Dreydre's mouth curved.
-
-"If a few spiders are enough to keep him awake, perhaps he deserves the exhaustion."
+Dreydre's mouth curved. “If a few spiders are enough to keep him awake, perhaps he deserves the exhaustion.”
 
 Zilvrae's expression did not change.
 
-"It has slowed him from completing his training."
+Zilvrae's gaze remained on Dreydre. “It has slowed him from completing his training.”
 
-"That has never stopped him from completing his lessons."
+“That has never stopped him from completing his lessons,” Dreydre replied.
 
-"It has slowed him."
+“It has slowed him.”
 
-Greyanna crossed her arms.
+Greyanna crossed her arms. “Fear works.”
 
-"Fear works."
+“I have not said that it doesn't.”
 
-"I have not said that it doesn't."
+“Then why are you arguing with us?”
 
-"Then why are you arguing with us?"
-
-Zilvrae remained calm.
-
-"I am arguing for the continued development of my student."
+Zilvrae remained calm. “I am arguing for the continued development of my student.”
 
 The sisters bristled at the word.
 
 Zilvrae continued before either could answer.
 
-"A frightened boy will freeze when frightened. That is useful."
+Zilvrae folded her hands behind her back. “A frightened boy will freeze when frightened. That is useful.”
 
-She paused.
+She let the silence that followed become uncomfortable before continuing. “But a disciplined boy can freeze when he chooses to.”
 
-"But a disciplined boy can freeze when he chooses to."
+Dreydre's expression hardened. “You want us to stop.”
 
-Dreydre's expression hardened.
+“No.”
 
-"You want us to stop."
+The answer caught them both.
 
-"No."
+Zilvrae kept her hands behind her back. “I want you to understand that I do not want a weak student.”
 
-The answer caught them.
+“Fear does not make him weak,” Dreydre said.
 
-Zilvrae folded her hands behind her back.
+Greyanna opened her mouth, but Zilvrae spoke first.
 
-"I want you to understand that I do not want a weak student."
-
-"Fear does not make him weak."
-
-Greyanna opened her mouth.
-
-Zilvrae continued.
-
-"You have achieved the immediate result. He no longer reaches for what frightened him. There are no visible manifestations now. Good."
+“You have achieved the immediate result. He no longer reaches for what frightened him. There are no visible manifestations now. Good.”
 
 She looked directly at them.
 
-"But fear is a poor long-term teacher."
+Zilvrae held Dreydre's gaze. “But fear is a poor long-term teacher.”
 
-Dreydre was silent.
+Dreydre said nothing.
 
-"How long," Zilvrae asked, "do you intend to continue putting spiders in a boy's bed?"
+After a moment, Zilvrae asked, “How long do you intend to continue putting spiders in a boy's bed?”
 
-Neither answered.
+Neither sister answered.
 
-"He will stop being a boy."
+“He will stop being a boy.”
 
 Her voice remained level.
 
-"You cannot frighten childhood out of him forever. Eventually the same fear you use to control him will be carried into adulthood, where it will become exhaustion, distraction, poor judgment."
+“You cannot frighten childhood out of him forever,” Zilvrae continued. “Eventually the same fear you use to control him will be carried into adulthood, where it will become exhaustion, distraction, poor judgment.”
 
-Greyanna's expression tightened.
+Greyanna's expression tightened. “Discipline is not the same as fear.”
 
-"Discipline is not the same as fear."
+“No.” Zilvrae's answer came without hesitation. She nodded once. “That is precisely my point.”
 
-"No."
+She stepped toward the table. “One can live with discipline.”
 
-Zilvrae nodded.
-
-"That is precisely my point."
-
-She stepped toward the table.
-
-"One can live with discipline."
-
-Her eyes moved between them.
-
-"One cannot live indefinitely in expectation of pain without the expectation changing the person."
+Her eyes moved between them. “One cannot live indefinitely in expectation of pain without the expectation changing the person.”
 
 Zilvrae drew a slow breath.
 
-"I have better uses for my time than spending a decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—"
+Zilvrae drew a slow breath. “I have better uses for my time than spending a decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—”
 
 The door opened with a faint squeak.
 
@@ -1065,13 +1037,11 @@ The Matron Mother said nothing.
 
 She listened.
 
-"The boy's progress is slowing. He completes every task, but his rest is poor. The fear is no longer necessary to maintain his restraint. I can teach him to control himself."
+Zilvrae addressed the Matron Mother without lowering her eyes. “The boy's progress is slowing. He completes every task, but his rest is poor. The fear is no longer necessary to maintain his restraint. I can teach him to control himself.”
 
-The Matron Mother considered her.
+The Matron Mother considered her in silence. “And you believe that is more effective?”
 
-"And you believe that is more effective?"
-
-"In the long term."
+“In the long term.”
 
 A silence followed.
 
@@ -1099,15 +1069,13 @@ The room was empty when Zilvrae entered.
 
 Another drow from the household came with her, carrying a slate and speaking in the distracted tone of someone discussing a problem too small to deserve anyone's full attention.
 
-"The shipment from the lower galleries is delayed."
+The other drow shifted the slate under one arm. “The shipment from the lower galleries is delayed.”
 
-"Then the stores will complain."
+“Then the stores will complain,” Zilvrae said, taking the slate from him.
 
-"They already have."
+“They already have.”
 
-Zilvrae placed the slate on a table.
-
-"Replace the damaged seal before they do."
+She set it on the table. “Replace the damaged seal before they do.”
 
 They discussed a broken inventory marker, missing lamp oil, and the condition of the practice weapons. It was ordinary House Freth business, the sort of conversation that could happen in any room where the house's daily affairs were handled.
 
@@ -1119,7 +1087,7 @@ The room was empty.
 
 Zilvrae waited.
 
-"You can come out now."
+Zilvrae did not look toward the weapons rack. “You can come out now.”
 
 Nothing happened.
 
@@ -1131,11 +1099,11 @@ His clothing blended with the dark stone and the hanging practice gear. He had c
 
 Zilvrae regarded him.
 
-"Acceptable."
+“Acceptable,” Zilvrae said, examining his hiding place rather than him.
 
-"I thought so."
+“I thought so,” Layn replied, letting a small smile escape.
 
-"That was not praise."
+Her expression remained unchanged. “That was not praise.”
 
 Layn allowed himself the smallest smile.
 
@@ -1157,11 +1125,9 @@ He had seen the weapon appear more times than he could count.
 
 He still watched it.
 
-"Last time?" he asked.
+Layn looked at the manifested quarterstaff. “Last time?” he asked, already knowing the answer.
 
-"Last time."
-
-She adjusted her grip.
+“Last time,” Zilvrae replied, adjusting her grip.
 
 They began.
 
@@ -1193,9 +1159,9 @@ His foot slipped.
 
 The staff touched his ribs.
 
-"Again."
+The staff touched his ribs. “Again.”
 
-He did not reset.
+Layn did not reset.
 
 He moved.
 
@@ -1391,31 +1357,29 @@ They remained there for a moment.
 
 Zilvrae lowered the weapon and released him.
 
-"Nice trick!" Layn said holding his jaw.
+Layn rubbed his jaw and gave her a crooked smile. “Nice trick.”
 
-"The combat work is sufficient."
+Zilvrae lowered the quarterstaff. “The combat work is sufficient.”
 
 Layn lowered his dagger.
 
-"Sufficient?"
+Layn looked at her, rubbing the ache from his jaw. “Sufficient?”
 
-"You are not a great fighter."
+“You are not a great fighter,” Zilvrae said.
 
-He accepted that.
+He accepted the judgment without flinching.
 
-"But you are no longer an easy one."
+“But you are no longer an easy one.”
 
-Zilvrae's gaze moved from the daggers to the place where the pale flames had vanished.
+Her gaze moved from the daggers to the place where the pale flames had vanished. “You know your weapons. You know the powers given to you. You know how to hide. You know when to wait.”
 
-"You know your weapons. You know the powers given to you. You know how to hide. You know when to wait."
+She paused, allowing the final distinction to settle.
 
-She paused.
-
-"And you know when to move."
+“And you know when to move.”
 
 Layn stood quietly.
 
-"You learned."
+Zilvrae studied him for a moment. “You learned.”
 
 The words landed differently from praise.
 
@@ -1423,7 +1387,7 @@ Perhaps because Zilvrae did not intend them as praise.
 
 She looked toward the place where he had first emerged at the beginning of the lesson.
 
-"The training is complete."
+Zilvrae lowered the quarterstaff. “The training is complete.”
 
 She said nothing about the future.
 
@@ -1435,25 +1399,21 @@ Layn turned.
 
 Greyanna stood outside.
 
-"The hearing is tonight."
+Greyanna remained in the doorway. “The hearing is tonight.”
 
-Layn looked at her.
+Layn looked at her, trying to read the answer before he asked for it. “Are you going to be there?”
 
-"Are you going to be there?"
-
-The answer was immediate.
-
-"My work is finished. From here, you are in the hands of your family."
+“No,” Greyanna said immediately. Her eyes moved briefly toward Zilvrae. “My work is finished. From here, you are in the hands of your family.”
 
 Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
 
-"You are going to be decent" Zilvrae
+Zilvrae's expression softened by the smallest degree. “You are going to be decent.”
 
-"I always am," Layn smiled.
+“I always am,” Layn said with a faint smile.
 
 Greyanna stepped aside.
 
-He avoided to look at Zilvrae. She gave him the same measured look she had given him for years.
+Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years.
 
 The door closed behind them.
 
@@ -1493,4 +1453,4 @@ For the first time in ten years, there was no student waiting for her instructio
 
 Zilvrae looked toward the closed door.
 
-"Endure, Laynlindr Freth."
+Zilvrae looked toward the closed door. “Endure, Laynlindr Freth.”
