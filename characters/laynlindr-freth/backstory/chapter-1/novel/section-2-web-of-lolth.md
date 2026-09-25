@@ -4,358 +4,421 @@
 
 ### I.1.2 — The Web
 
-Two male drow stood beside a merchant's stall, arguing over an alchemical shipment.
+Two male drow stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them.
 
-The taller of the two wore a silver clasp at his throat: an eight-legged spider, each leg bearing a different weapon, with two tiny letters worked beneath its body.
+One wore the insignia of an armed spider, each of its eight legs gripping a different weapon, the letters beneath it nearly invisible in the dim light. The other wore two spiders facing one another, worked into a dark metal clasp at his shoulder.
 
-The other wore the insignia of two spiders facing one another.
+They had stopped beside a merchant's stall to settle the delivery of an alchemical preparation.
 
-"The reagent was late."
+"The third vessel was not sealed to the agreed standard."
 
-"It arrived before the cargo was unloaded."
+"It was sealed when it left the lower galleries."
 
-"After the agreed hour."
+"It arrived with sediment."
 
-"Then I suppose the hour has become more important than the cargo."
+"Then the sediment formed after delivery."
 
-"Only when the cargo is yours."
+"It did not."
 
-The Freth male studied him for a moment.
+The Do'Urden male regarded him without expression.
 
-"Three samples survived the last trial."
+"The material was examined by your people before it entered the stores."
 
-"Two."
+"Then your people examined it incorrectly."
+
+"My people prepared it according to your specification."
+
+"Your specification was incomplete."
+
+"Then the omission was yours to discover."
+
+Neither raised his voice.
+
+A servant approached with a ledger, placed it on the stall, and withdrew.
+
+The Freth male opened it.
+
+"Six measures."
+
+"Six."
+
+"Five were usable."
+
+"Four were usable."
+
+The Freth male closed the ledger.
+
+"Then four were insufficient."
+
+"I can provide three more."
+
+"Four."
 
 "Three."
 
-"One produced the intended reaction."
+"Four, and the next consignment will remain here."
 
-"The others produced reactions."
+The Do'Urden male's eyes settled briefly on the two-spider emblem.
 
-"That is a generous definition of success."
+"That would be an expensive inconvenience."
 
-"It is an accurate one."
-
-The other male smiled without warmth.
-
-"I had heard Freth valued precision."
-
-"We do. That is why we keep asking Do'Urden for better material."
-
-"A dangerous habit."
-
-"So is supplying inferior material."
-
-Neither man raised his voice. A nearby servant passed without looking at them.
-
-The Do'Urden male adjusted his cuff.
-
-"I can have another batch delivered."
-
-"You can."
-
-"I said I can."
-
-"I heard you."
-
-Their eyes met.
-
-Neither smiled this time.
-
-Then the street changed.
-
-A procession entered the street.
-
-Priestesses came first, walking with a measured calm that made their pace seem slower than everyone else's. They did not push through the crowd. They had no need to. Drow moved aside before they approached, making a path wide enough for the women to pass without contact.
-
-Their robes carried the colors and symbols of Lolth. Some wore spider-shaped ornaments. Others carried ritual objects in both hands. None looked hurried.
-
-Behind them came several Matron Mothers.
-
-The first was Yvonnel Baenre.
-
-Neither man needed to be told who she was.
-
-K'yorl Odran followed, her presence no less unmistakable to anyone who understood the city's hierarchy. Then came Malice Do'Urden.
-
-The two males lowered their eyes.
-
-The Do'Urden male's jaw tightened for the briefest moment when his own Matron passed. He gave no sign of recognition beyond that.
-
-The procession continued.
-
-The presence of the Matron Mothers changed its meaning. This was not a private devotional rite. The women of some of Menzoberranzan's most powerful Houses had come to witness it.
-
-Nobody asked questions.
-
-Nobody tried to follow too closely.
-
-Nobody complained that the procession had blocked the street.
-
-The city made room.
-
-At the end of the street, the procession turned toward a passage that led deeper beneath the noble districts.
-
-The two males waited until the last attendants had passed.
-
-"Do you know what this is?" the Do'Urden male asked.
-
-The Freth male kept his eyes on the floor.
-
-"Yes."
+"For you."
 
 A pause.
 
+"Four," the Do'Urden male said.
+
+The Freth male inclined his head.
+
+They resumed walking.
+
+For a few moments the conversation turned to the preparation itself. The latest formulation had produced the desired effect in weak subjects, but not consistently. In some, the response had been stronger than expected. In others, the change had begun and then collapsed before the preparation had finished working.
+
+"The interval remains too short," said the Freth male.
+
+"Then your containers are not holding the preparation."
+
+"The containers are sound."
+
+"The preparation is not."
+
+"That is what I am paying you to correct."
+
+The Do'Urden male looked at him.
+
+"You are paying for ingredients."
+
+"Do not confuse the two."
+
+The corner of the Do'Urden male's mouth moved.
+
+"Neither of us would make that mistake."
+
+They passed beneath another arch.
+
+Then the street began to quiet.
+
+A merchant lowered his voice.
+
+A servant stepped away from the center of the road.
+
+Two armed males moved aside without looking at one another.
+
+The Do'Urden male stopped speaking.
+
+The Freth male's hand left the ledger.
+
+A procession was approaching.
+
+Priestesses came first, moving slowly through the crowded street.
+
+They did not push.
+
+They did not need to.
+
+Drow made room before they reached them. Conversations ended. Servants pressed themselves against walls. Warriors lowered their eyes. Even those who had been standing in the center of the road found some reason to move.
+
+The priestesses wore the symbols of Lolth openly. Spider motifs adorned their robes, their collars, their ritual objects. Some carried banners.
+
+The first great banner bore the black insignia of House Baenre.
+
+The next was Teken'duis.
+
+The two males knew both.
+
+Behind the priestesses came noble females and attendants.
+
+Then came Yvonnel Baenre.
+
+She walked without haste, and the street seemed to bend around her.
+
+The Matron Mother of Teken'duis followed beneath her own banner.
+
+The two men lowered their eyes.
+
+Neither needed to see the other to know that the conversation was over.
+
+The procession passed.
+
+The noise of the street did not return.
+
+Not yet.
+
+The Freth male looked toward the passage where the women were turning.
+
+"There is a male."
+
+The Do'Urden male did not lift his head.
+
+"From Teken'duis."
+
+"Yes."
+
+"What was the accusation?"
+
+"Blasphemy."
+
+The Freth male was silent for a moment.
+
+"That is the charge."
+
+"Not the reason."
+
+"No."
+
+The Do'Urden male watched the procession disappear into the deeper passage.
+
+"Then why him?"
+
+The Freth male answered quietly.
+
+"Because Teken'duis has begun to doubt how Lolth regards them."
+
+The Do'Urden male's eyes remained lowered.
+
+"And this is meant to correct it."
+
+"Among other things."
+
+The last attendants disappeared.
+
+Only then did the two males begin walking again, keeping well behind the procession.
+
+They followed through older passages where the city's traffic thinned and the walls narrowed.
+
+"You expect him to die?" asked the Do'Urden male.
+
+"That would be the simpler outcome."
+
+"And they have chosen something less simple."
+
+"They have chosen something more useful."
+
+The Do'Urden male considered that.
+
 "The Test."
 
-They followed at a distance.
+"The Test."
 
-The passage led away from the traffic and into older stone. The walls narrowed. The violet lights grew fewer. Spider carvings appeared more frequently, their legs stretching across the walls in patterns that seemed to join one another.
+They walked several paces in silence.
 
-At the end stood a broad set of doors.
+"Strength and loyalty," said the Do'Urden male.
 
-The priestesses entered first.
+"And devotion."
 
-The Matron Mothers followed.
+"Failure means death."
 
-The male came between them.
+"Sometimes."
+
+The Freth male glanced at him.
+
+"If he fails and survives, Lolth changes him."
+
+The Do'Urden male's expression hardened.
+
+"Into a drider."
+
+"Yes."
+
+The word was enough.
+
+The passage seemed darker.
+
+A drider was not merely a dead drow. It was a drow forced to continue living in a form that marked the failure forever: the upper body retained the shape of a drow, while beneath it grew the body of a monstrous spider. The transformation was said to be agonizing. Those who survived it were cast out, no longer belonging to the House that had once claimed them.
+
+The Do'Urden male spoke again.
+
+"And Teken'duis calls that an offering."
+
+"It is an expensive one."
+
+"Why?"
+
+"Because death ends."
+
+The Freth male's voice remained level.
+
+"A drider does not."
+
+The Do'Urden male was quiet.
+
+"A lifetime in the darkness," he said.
+
+"A lifetime carrying Lolth's judgment."
+
+"And the House?"
+
+"The House survives the humiliation of the failure. The House gains the favor of the goddess for offering what cannot be easily replaced."
+
+The Do'Urden male looked ahead.
+
+"One of their own males."
+
+"One of their own."
+
+They reached the ritual chamber.
+
+The doors stood open.
+
+Priestesses entered first.
+
+The two Matron Mothers followed.
+
+The male was brought between them.
+
+He was dressed as a noble warrior, though his wrists were bound.
 
 He did not struggle.
 
-He did not call out.
+The procession passed through the doors.
 
-He walked with his head bowed.
+The men remained outside.
 
-Then the doors closed.
+From within came the sound of chanting.
 
-The two observers stopped outside.
+At first it was quiet enough that the words could not be distinguished. Then more voices joined. The chant deepened, became rhythm, and filled the stone.
 
-The armed spider stared at the stone.
+The Do'Urden male listened.
 
-"The Test."
+"They will pray first."
 
-The Freth male nodded.
+"They will praise her."
 
-The words seemed to make the corridor colder.
+"They will ask her to judge him."
 
-The Test of Lolth was not offered to every drow. It was something the goddess demanded of those whose strength, ambition, or position made them worthy of judgment.
+The Freth male looked toward the chamber.
 
-Strength alone was never enough.
+"They have already asked."
 
-A drow could possess skill and still fail.
+The Do'Urden male understood.
 
-A drow could survive every battlefield and still be found wanting.
+A priestess emerged briefly carrying a shallow black bowl.
 
-Lolth did not merely ask whether one was strong.
+She passed them without looking.
 
-She asked whether one was worthy.
+Both men stepped aside.
 
-The priestesses inside began to sing.
+The bowl disappeared through the doors.
 
-The sound passed through the stone.
+The chanting continued.
 
-At first it was low and almost gentle, a rhythm rather than a melody. Then more voices joined it, layering one over another until the words became difficult to separate.
+Inside, the women sang to Lolth.
 
-The two males listened.
+The voices rose and fell together, praising the Spider Queen and asking her to accept the unworthy. The Matron Mothers knelt among the priestesses. The banners remained standing behind them.
 
-Neither understood all of the verses.
+House Teken'duis had brought its emblem.
 
-They did not need to.
+House Baenre had brought its authority.
 
-The prayers spoke of the Spider Queen, of obedience, of strength, of the unworthy being cast down.
+The male had brought his body.
 
-The Freth male swallowed.
+Nothing else was required.
 
-"Does his House know?"
+The Do'Urden male lowered his voice.
 
-The other gave him a brief look.
+"Was there really blasphemy?"
 
-"They are here."
+The Freth male looked toward the closed chamber.
 
-"That wasn't what I meant."
+"It was sufficient for the priests."
 
-"It is what matters."
+"Meaning?"
 
-The singing grew louder.
+"Meaning the reason does not matter once Lolth has been invoked."
 
-Inside, the women knelt.
+The chanting became louder.
 
-The ritual belonged to them.
+The Freth male listened for a few breaths.
 
-The male was its subject, its object, its sacrifice.
+"Teken'duis has been careful for months."
 
-Lolth's priestesses were not asking whether he wished to be there.
+"Careful?"
 
-They were asking whether he deserved to leave.
-
-That was the difference.
-
-No one outside the chamber offered sympathy.
-
-A servant carrying wine passed the corridor entrance, heard the chanting, and immediately turned away.
-
-A young warrior stopped at the far end, glanced toward the doors, then lowered his gaze and continued walking.
-
-The city knew what happened here.
-
-It did not need to watch.
-
-The armed spider folded his hands behind his back.
-
-"How many have failed?"
-
-The Freth male considered the question.
-
-"Enough."
-
-"That's not a number."
-
-"It isn't meant to be."
-
-The singing stopped.
-
-Silence filled the corridor.
-
-For a moment neither man moved.
-
-Then something struck the other side of the doors.
-
-Once.
-
-A second time.
-
-Neither looked at the other.
-
-A cry followed, abruptly cut short.
-
-The Freth male closed his eyes.
-
-Not in prayer.
-
-In calculation.
-
-The armed spider spoke without turning his head.
-
-"You were worried about the reagent."
-
-"I was."
+"Too careful. Fewer celebrations. Smaller offerings. Fewer public displays. Their confidence has changed."
 
 "And now?"
 
-The answer came after a pause.
+"Now they have brought something Lolth cannot fail to notice."
 
-"I am no longer worried about the reagent."
+The Do'Urden male said nothing.
 
-"Good."
+A heavy sound came from beyond the doors.
+
+Then another.
+
+The singing continued.
+
+Neither male moved.
+
+There was no shouting in the corridor. No one ran. Servants passed at the far end with their heads lowered. A young warrior approached, saw the banners, and immediately turned back.
+
+The city knew what was happening.
+
+That was enough.
+
+After a long while, the chanting stopped.
+
+Silence followed.
 
 The doors opened.
 
-The women emerged first.
+The priestesses emerged first.
 
-The priestesses looked exactly as they had before.
+Yvonnel Baenre came behind them.
 
-The Matron Mothers followed, their expressions controlled.
+The Matron Mother of Teken'duis followed.
 
-Then the space behind them moved.
+Her expression had not changed.
 
-Something came through the doorway on too many legs.
+Then something else moved through the doorway.
 
-The two males did not step backward.
+The two males saw it.
 
-They wanted to.
+Neither spoke.
 
-Their bodies did it anyway.
+The creature had once been a drow.
 
-The creature that had been a drow no longer had the shape of one.
-
-Its upper body was still unmistakably drow, but below it stretched the body of a monstrous spider, pale limbs scraping against the stone.
+Now pale spider legs unfolded beneath its torso, each one scraping softly against the stone as it was led away.
 
 A drider.
 
-Nobody spoke.
+The creature passed between the banners.
 
-One of the priestesses raised a hand.
+No one reached for it.
 
-The creature was led away.
+No one called its name.
 
-Not escorted.
+No one offered comfort.
 
-Not comforted.
+The priestesses turned toward the city.
 
-Led.
+The Matron Mothers followed.
 
-The Matron Mothers turned and began speaking quietly among themselves.
+The attendants gathered the banners.
 
-A servant appeared with a cloth and began cleaning the floor.
+The ritual was finished.
 
-The young warrior who had stopped at the far end never looked toward the creature again.
+A servant entered the chamber with a cloth.
 
-The city began to breathe.
-
-Voices returned beyond the corridor.
+Somewhere beyond the passage, a merchant called for a delayed cargo.
 
 Footsteps resumed.
 
-A merchant somewhere above complained about a delayed shipment.
+The city began to move again.
 
-The two males remained silent until the procession had disappeared.
+The Do'Urden male watched the drider disappear into the darkness.
 
-At last, the armed spider looked toward the Freth male.
+"The preparation," he said at last.
 
-"The fourth attempt."
+The Freth male looked at him.
 
-The Freth male stared at him.
+"You were discussing it."
 
-"You were counting?"
+"Yes."
 
-"I was listening."
+"The preparation can wait."
 
-A faint smile returned to the first man's face.
+The two men turned back toward the city.
 
-"Then you know more than I do."
+The web had closed around another drow.
 
-"Perhaps."
-
-They turned back toward the city.
-
-Neither mentioned the drider again.
-
-They did not need to.
-
-Everyone in Menzoberranzan knew what had happened.
-
-That was how Lolth ruled.
-
-Not by standing in every street.
-
-Not by speaking through every priestess.
-
-By making certain that every drow knew what waited beyond the boundaries of obedience.
-
-The city was a hierarchy because Lolth demanded one.
-
-The hierarchy endured because everyone beneath it understood what happened when they challenged it.
-
-The Houses could compete.
-
-They could scheme.
-
-They could poison one another, steal from one another, undermine one another, and destroy one another when opportunity allowed.
-
-But the competition had limits.
-
-Above every House stood the priestesses.
-
-Above every priestess stood Lolth.
-
-And above every ambition stood the possibility of judgment.
-
-The web did not prevent the drow from struggling.
-
-It gave their struggle a shape.
-
-That was how a goddess of chaos had given order to a city.
-
-The rules did not make the drow peaceful.
-
-They made their cruelty useful.
