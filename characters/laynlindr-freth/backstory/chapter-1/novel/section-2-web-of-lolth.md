@@ -1,8 +1,4 @@
-# Part I — The Child of House Freth
-
-## I.1 — Beneath the Spider’s City
-
-### I.1.2 — The Web
+# 1.2 — The Web
 
 Two male drow soldiers stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them.
 

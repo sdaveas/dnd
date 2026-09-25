@@ -1,8 +1,4 @@
-# Part I — The Child of House Freth
-
-## I.2 — The Web Within House Freth
-
-### I.2.3 — The Hearing
+# 2.3 — The Hearing
 
 The chamber was larger than it had ever seemed from the outer gallery — a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
@@ -40,7 +36,7 @@ Dreydre answered with care. “There have been moments.”
 
 “Nothing that held,” Greyanna said. “Nothing repeated on command.”
 
-“She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
+She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
 
 Somewhere behind Layn’s shoulder, while the chamber talked over him, the Matron Mother nodded once to a priestess standing at the platform’s edge, and she hurried out through the hall’s doors.
 
@@ -48,25 +44,23 @@ Then the Matron Mother looked at Layn.
 
 For the first time in his life, her eyes met his.
 
-The chamber became quieter. He did not mistake the look for warmth. It was the look of the ruler of House Freth examining something that had been under observation for nineteen years — the way she might look at a blade brought before her for inspection, turning it once in the light.
+The chamber became quieter. He did not mistake the look for warmth. It was the look of the ruler of House Freth examining something that had been under observation for almost twenty years — the way she might look at a blade brought before her for inspection, turning it once in the light.
 
 “Show me,” she said.
 
 Two words. Her first words to him were a command.
 
-As Layn tried to understand what the drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
+As Layn tried to understand what this drow who was his mother meant, the doors opened again, and the same priestess came back in carrying two vessels. One with a white, and one with a black liquid.
 
-The sisters below the dais went still — and then not still at all. Greyanna’s hand found Dreydre’s sleeve. Dreydre’s eyes went to their mother and stayed there.
+The sisters below the dais went still. Greyanna’s hand found Dreydre’s sleeve. Dreydre’s eyes went to their mother and stayed there.
 
 And behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rates quickened. Neither daughter had known the hearing would come to this.
 
 The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the dungeons, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
 
-He recognized the vessels from that experiment, and from Zilvrae's lessons. The knowledge was already in him. He did not need to think about what either preparation did.
+He recognized both the elixer's smell from that basement experiments, and its looks from Zilvrae's lessons. The knowledge was already in him. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
-Layn did not understand yet. He did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
-
-He took a step backward. Then another. His face stayed still and his heart did not, and he shook his head once, slowly. He did not want it. It was the nearest he had come to refusing anything in nineteen years.
+He took a step backward. Then another. He glanced desperately at the hall's guarded door. His face stayed still and his heart did not, and he shook his head once, slowly. He did not want it. It was the nearest he had come to refusing anything in twenty years.
 
 “Mother,” said Dreydre, and her voice was neither calm nor steady. “No. Mother — are you certain?”
 
@@ -94,7 +88,7 @@ Then the substance opened him.
 
 The chanting became stronger.
 
-His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — like blades out of virtually nothing, thin enough to cut steel; shields raised out of dust that would turn a battering ram.
+His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — form blades out of virtually nothing, thin enough to cut steel; raise shields out of dust that would turn a battering ram.
 
 Was this the absolute power?
 
@@ -112,11 +106,9 @@ The sisters had understood their mother’s plan by then, and it showed on their
 
 The Matron Mother extended her hand. Greyanna carried the white vessel to the throne and gave it over. The Matron Mother shook it gently, once, and held it the way a person holds a drink.
 
-She did not drink it.
-
 The chanting rose to a peak.
 
-Layn felt it first in the floor. A black disc opened beneath the center of the chamber — not a shadow, not a stain. A hole in the world. It spread outward, consuming the stone tile by tile, and where it passed, the floor ceased to be floor. The darkness followed the walls upward, folding them into a cylinder with no ceiling that Layn could find. The braziers went out. The doors were gone.
+A black disc opened beneath the center of the chamber — not a shadow, not a stain. A hole in the world. It spread outward, consuming the stone tile by tile, and where it passed, the floor ceased to be floor. The darkness followed the walls upward, folding them into a cylinder with no ceiling that Layn could find. The braziers went out. The doors were gone.
 
 The Matron Mother’s throne did not move. The world changed around it, and she sat precisely where she had been, robes settled, hands quiet, in an arena alien and enormous — and she sat in it the way she had sat in her chamber.
 
@@ -136,15 +128,13 @@ The sisters moved, and moved together.
 
 The figures struck from opposite sides, and they did not strike like fear. They struck like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and the silhouette staggered with him. He swung at a figure and his fist passed through shadow, and the shadow’s counterstrike put him on one knee.
 
-They were experienced priestesses, and they were coordinated. Spiritual combat was a discipline of their rank, drilled into them all their lives. Ten years of watching Layn had only told them exactly where he would be weak.
+They were experienced priestesses, and they were coordinated. Spiritual combat was a discipline of their rank, drilled into them all their lives. The last ten years they were watching Layn had only told them exactly where he would be weak.
 
 The amplifier roared inside him, and none of it was the same as knowing what to do.
 
 Then, on the floor of the dark, something changed.
 
-It was not thought. Thought had nothing to do with it. The silhouette stopped reacting to the shades and began arriving where they were going to be — half a breath early, then a full breath early. The strikes that had been finding him started finding air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal does: all at once, with its teeth.
-
-An animal discovering it has claws.
+It was not thought. Thought had nothing to do with it. The silhouette stopped reacting to the shades and began arriving where they were going to be — half a breath early, then a full breath early. The strikes that had been finding him started finding air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal discovering it has claws.
 
 He came up off the floor, and his spirit was larger than it had been.
 
@@ -172,13 +162,11 @@ Now Layn saw clearly.
 
 The shapeless form that had fought for him became fine. A silhouette — thin-limbed, upright, its aura steady where everything else in the arena was noise. Taller than it had been. Terrible. It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hands, two blades of pale force formed, one in each. They were thin and exact, quiet the way the pressure behind his eyes was quiet. They were not copies of the weapons he had trained with. They were the weapons his mind reached for first.
 
-They were daggers.
-
 They had been shaped to give the two spiders that had haunted him for ten years their final blow.
 
 The spiders regrouped.
 
-They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known the silver pin, and the thirty houses more than ten years ago.
+They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known where the silver pin was, and the order of the thirty houses emblems more than ten years ago.
 
 His legs buckled. He jumped.
 
@@ -186,7 +174,7 @@ He rose high and fast enough that the spiders thought he had vanished from the a
 
 The assault came at a speed nothing in the chamber had ever shown. The silhouette moved through both figures like a thrown blade, and around it, of its own will, a barrier of energy hardened — a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own — theirs cracking with explosive light where his was smooth.
 
-For the first time in his life, his sisters were afraid of him. Layn saw it in the figure’s face, and the figure’s face was Greyanna’s — no longer smiling, no longer flawless, no longer anything at all.
+For the first time in his life, his sisters were afraid of him. Layn sensed it in the figures faces — no longer smiling, no longer flawless, no longer supperior.
 
 All three siblings screamed — one cry out of three shapes, none of it made by living throats — and marched for the final clash.
 
@@ -198,11 +186,11 @@ She had not moved from the beginning. She had sat through the arena, through the
 
 The word echoed louder than the loudest clashes in the darkness.
 
-Her spirit manifested.
+The three siblings stopped where they stood — Layn mid-stride, his sisters frozen inside their charge. 
 
-The isolated dark cage turned transparent — and Layn saw that it levitated in a void, as if it were the only structure in the universe. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands — a cylinder the size of a hall, held like a stolen thing. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. The sisters’ spirits were two candle flames inside the cage. The silhouette, which had been terrible a breath earlier, looked small. Looked young.
+The isolated dark cage started turning transparent — and Layn saw that a silhouette levitated in a void, as if it were the only structure in the universe. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands — a cylinder the size of a hall, held like a stolen thing. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. The sisters’ spirits were two candle flames inside the cage. The silhouettes, which had been terrible a breath earlier, looked small. Looked young.
 
-The three siblings stopped where they stood — Layn mid-stride, his sisters frozen inside their charge. Her power was not larger than theirs. It was of another kind entirely, the way the mountain is not larger than the stone at its foot.
+Her power was not larger than theirs. It was of another kind entirely, the way the mountain is not larger than the stone at its foot.
 
 Layn resisted, but it did not matter.
 
@@ -210,11 +198,11 @@ One thought — laid the silhouette flat against the black floor, and Layn felt 
 
 The titanic creature shattered the cage as if it were glass. The space around the three siblings, who were lying senseless, immediately altered to become the familiar great halls of House Freth.
 
-And the house’s mighty Matron Mother stood in the throne emotionless.
+And the house’s mighty Matron Mother stood in her throne emotionless.
 
 The manifestations went out like lamps. The figures folded down into Dreydre and Greyanna. The silhouette came apart into the pressure behind his eyes and was gone. The broken dark ran downward like water finding a drain, the black disc shrank beneath the stone, and the chamber of House Freth assembled itself around them piece by piece, brazier by brazier, as though nothing had happened except to the bodies standing in it.
 
-The chanting stopped.
+The chanting had stopped.
 
 * * *
 
@@ -230,7 +218,7 @@ Dreydre watched him from the floor. She could not stand, and she could not look 
 
 The Matron Mother looked over the aftermath from her throne.
 
-She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. This was the second time he had nearly killed them. The first had lasted ten years, and never once raised a hand.
+She did not consult. She did not ask. She did not look at her daughters, who had fought their brother under a deliberate handicap and lost. 
 
 “Melee-Magthere,” she said.
 

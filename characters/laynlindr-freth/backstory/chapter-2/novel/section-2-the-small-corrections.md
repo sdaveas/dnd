@@ -1,4 +1,4 @@
-# I.2.2 — The Long Quiet
+# 2.2 — The Long Quiet
 
 By twelve, Layn had learned that the training gallery was the only room in House Freth where a mistake was allowed to have a reason.
 
@@ -252,112 +252,6 @@ He lifted his shoulders slightly.
 
 "At least I can throw them," he thought to himself.
 
-Concealment belonged to the same part of the day as weapons.
-
-"Fighting can make you powerful," Zilvrae told him one morning as they stood in an empty corridor. "It can make you feared. It can even make you admired."
-
-She looked down the length of the passage.
-
-"It can also get you killed."
-
-She stopped beneath one of the violet lamps.
-
-"Concealment offers something less impressive."
-
-Layn waited.
-
-"Survival."
-
-She stepped away from the center of the corridor.
-
-At first he could see her perfectly.
-
-Then servants passed.
-
-They moved around the place where she stood without looking directly at her.
-
-A priestess crossed the adjoining passage.
-
-Her eyes slid past Zilvrae.
-
-Layn frowned.
-
-He knew exactly where she was. He was looking straight at her.
-
-The priestess did not see her.
-
-Zilvrae had not vanished.
-
-She had simply become irrelevant to the attention passing through the corridor.
-
-A servant stopped and turned toward Layn.
-
-Instinctively, he looked away from Zilvrae.
-
-When he looked back, she was gone.
-
-He checked the corridor.
-
-Nothing.
-
-The doorway.
-
-Nothing.
-
-The pillar behind him.
-
-Nothing.
-
-"Where—"
-
-"Do not ask."
-
-Her voice came from close enough to make him turn.
-
-She stood beside the same pillar he had already inspected.
-
-The trick had not been invisibility.
-
-It had been attention.
-
-"Again," she said.
-
-This time Layn understood before she explained.
-
-He looked around the corridor.
-
-Then he smiled despite himself.
-
-"Again."
-
-Zilvrae's expression barely changed.
-
-"Good."
-
-From that day forward, concealment became part of the physical education.
-
-She taught him where the eye naturally rested and where it tended to slide away, how to stand without presenting a shape that demanded attention, how to cross a room during the instant when someone else's attention was already occupied, how to move without letting the stone announce his weight.
-
-He learned the difference between hiding and being overlooked.
-
-The first required a place to hide.
-
-The second required understanding the person who might be looking.
-
-He practiced both.
-
-At first he was terrible.
-
-Then merely bad.
-
-Then tolerable.
-
-Years later, someone could walk past him at arm's length and fail to notice him if they had no reason to expect him there.
-
-The progress was not dramatic.
-
-It was earned one correction at a time.
-
 ---
 
 The middle of the day belonged to magic.
@@ -504,7 +398,7 @@ She glanced toward the practice gallery beyond the doorway.
 
 She turned back to him.
 
-"Learn this. Strong houses emerge from conscientious drow. Arrogant drow build houses that fall."
+"Strong houses emerge from conscientious drow. Arrogant drow build houses that fall."
 
 She left the book closed.
 
@@ -580,45 +474,242 @@ Layn waited.
 
 He heard the boundary in it and did not cross it.
 
-She closed the record.
+---
 
-"Remember the law."
+The spiders continued.
 
-That was all.
+Always two.
+
+At first they still appeared in his bed often enough that he could almost measure his fear by the calendar.
+
+Then less often.
+
+Then not at all.
+
+The sisters did not become kinder.
+
+They simply stopped needing to come so close.
+
+The physical visits disappeared.
+
+The fear did not.
+
+Layn would lie down and remember the last night in which two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it.
+
+Some nights he would wake convinced he had felt movement beside his leg.
+
+Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds before dawn deciding whether the room was real.
+
+Once he woke certain that the carved spider above his doorway had turned to look at him.
+
+He remained still.
+
+He watched it.
+
+Nothing moved.
+
+His breathing slowed.
+
+The carving became only stone again.
+
+He never decided whether it had moved at all.
+
+There were other episodes.
+
+The certainty that someone had entered a room before the door opened.
+
+A shape at the edge of his vision disappearing the instant he turned toward it.
+
+The scrape of something against stone sending a pulse through his body so sudden that his hands were shaking before he understood why.
+
+At first he fought the sensation.
+
+That made it worse.
+
+Then he remembered Zilvrae.
+
+Do not react to the first movement.
+
+So he stopped.
+
+He sat still.
+
+He breathed slowly enough to feel each breath reach the bottom of his lungs.
+
+He looked at the room one object at a time.
+
+Bed.
+
+Table.
+
+Door.
+
+Carving.
+
+Nothing else.
+
+He waited for his heartbeat to stop trying to outrun him.
+
+Sometimes the panic faded in a few breaths.
+
+Sometimes it took much longer.
+
+He learned not to measure the victory by how quickly it disappeared.
+
+The victory was that it disappeared without making the decision for him.
+
+Years earlier, when his sisters had first put two spiders in his bed, fear had frozen him because he had nowhere to put it.
+
+Now he had somewhere to put it.
+
+He could stand still.
+
+He could breathe.
+
+He could wait.
+
+He could let the body spend its first answer before choosing his own.
+
+During the day, something else changed as well.
+
+The strange pressure behind his eyes became less frequent.
+
+The certainty of movement became weaker.
+
+The moments in which something seemed to answer him became brief and indistinct.
+
+Whatever had once reached outward had become smaller.
+
+Quieter.
+
+Harder to summon.
+
+Sometimes he noticed it.
+
+Sometimes he thought he noticed it.
+
+More often, there was simply nothing.
+
+Layn stopped trying to call for it.
+
+He focused on what he could learn by ordinary means.
+
+The house had given him enough work without mysteries.
+
+The sisters remained watchful.
+
+The house remained itself.
+
+And the years passed.
 
 ---
 
-The three lessons gradually became one education.
 
-Combat taught Layn what his body could do.
+Concealment belonged to the same part of the day as weapons.
 
-Magic taught him what his blood could do.
+"Fighting can make you powerful," Zilvrae told him one morning as they stood in an empty corridor. "It can make you feared. It can even make you admired."
 
-House law taught him what he was allowed to do.
+She looked down the length of the passage.
 
-Some evenings, when the final lamp in his room had burned low, Layn would sit on the edge of his bed and consider how strange the distinction was.
+"It can also get you killed."
 
-The house had begun by teaching him what not to touch.
+She stopped beneath one of the violet lamps.
 
-Now it was teaching him how to survive touching everything else.
+"Concealment offers something less impressive."
 
-He checked the room before lying down.
+Layn waited.
 
-He checked the bedding.
+"Survival."
 
-He listened.
+She stepped away from the center of the corridor.
+
+At first he could see her perfectly.
+
+Then servants passed.
+
+They moved around the place where she stood without looking directly at her.
+
+A priestess crossed the adjoining passage.
+
+Her eyes slid past Zilvrae.
+
+Layn frowned.
+
+He knew exactly where she was. He was looking straight at her.
+
+The priestess did not see her.
+
+Zilvrae had not vanished.
+
+She had simply become irrelevant to the attention passing through the corridor.
+
+A servant stopped and turned toward Layn.
+
+Instinctively, he looked away from Zilvrae.
+
+When he looked back, she was gone.
+
+He checked the corridor.
 
 Nothing.
 
-The quiet did not reassure him. Not completely.
+The doorway.
 
-He had learned too young that silence could simply mean that something had not started yet.
+Nothing.
 
-Still, he learned to lie down.
+The pillar behind him.
 
-He learned to sleep.
+Nothing.
 
-At least, sometimes.
+"Where—"
+
+"Do not ask."
+
+Her voice came from close enough to make him turn.
+
+She stood beside the same pillar he had already inspected.
+
+The trick had not been invisibility.
+
+It had been attention.
+
+"Again," she said.
+
+This time Layn understood before she explained.
+
+He looked around the corridor.
+
+Then he smiled despite himself.
+
+"Again."
+
+Zilvrae's expression barely changed.
+
+"Good."
+
+From that day forward, concealment became part of the physical education.
+
+She taught him where the eye naturally rested and where it tended to slide away, how to stand without presenting a shape that demanded attention, how to cross a room during the instant when someone else's attention was already occupied, how to move without letting the stone announce his weight.
+
+He learned the difference between hiding and being overlooked.
+
+The first required a place to hide.
+
+The second required understanding the person who might be looking.
+
+He practiced both.
+
+At first he was terrible.
+
+Then merely bad.
+
+Then tolerable.
+
+Years later, someone could walk past him at arm's length and fail to notice him if they had no reason to expect him there.
+
+The progress was not dramatic.
+
+It was earned one correction at a time.
 
 ---
 
@@ -762,7 +853,7 @@ He expected her to dismiss the question.
 
 Instead she stood, crossed the room, and returned carrying a recently written House Freth volume.
 
-"I am not the one who experiments with such things," she said. "But the house keeps records."
+"I have no expertise in such things," she said. "But the house keeps records."
 
 She opened the book.
 
@@ -856,133 +947,39 @@ She did not ask.
 
 ---
 
-The spiders continued.
+Over the years, the three lessons gradually became one education.
 
-Always two.
+Combat taught Layn what his body could do.
 
-At first they still appeared in his bed often enough that he could almost measure his fear by the calendar.
+Magic taught him what his blood could do.
 
-Then less often.
+House law taught him what he was allowed to do.
 
-Then not at all.
+Some evenings, when the final lamp in his room had burned low, Layn would sit on the edge of his bed and consider how strange the distinction was.
 
-The sisters did not become kinder.
+The house had begun by teaching him what not to touch.
 
-They simply stopped needing to come so close.
+Now it was teaching him how to survive touching everything else.
 
-The physical visits disappeared.
+He checked the room before lying down.
 
-The fear did not.
+He checked the bedding.
 
-Layn would lie down and remember the last night in which two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it.
+He listened.
 
-Some nights he would wake convinced he had felt movement beside his leg.
+Nothing.
 
-Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds before dawn deciding whether the room was real.
+The quiet did not reassure him. Not completely.
 
-Once he woke certain that the carved spider above his doorway had turned to look at him.
+He had learned too young that silence could simply mean that something had not started yet.
 
-He remained still.
+Still, he learned to lie down.
 
-He watched it.
+He learned to sleep.
 
-Nothing moved.
+At least, sometimes.
 
-His breathing slowed.
-
-The carving became only stone again.
-
-He never decided whether it had moved at all.
-
-There were other episodes.
-
-A pressure behind his eyes.
-
-The certainty that someone had entered a room before the door opened.
-
-A shape at the edge of his vision disappearing the instant he turned toward it.
-
-The scrape of something against stone sending a pulse through his body so sudden that his hands were shaking before he understood why.
-
-At first he fought the sensation.
-
-That made it worse.
-
-Then he remembered Zilvrae.
-
-Do not react to the first movement.
-
-So he stopped.
-
-He sat still.
-
-He breathed slowly enough to feel each breath reach the bottom of his lungs.
-
-He looked at the room one object at a time.
-
-Bed.
-
-Table.
-
-Door.
-
-Carving.
-
-Nothing else.
-
-He waited for his heartbeat to stop trying to outrun him.
-
-Sometimes the panic faded in a few breaths.
-
-Sometimes it took much longer.
-
-He learned not to measure the victory by how quickly it disappeared.
-
-The victory was that it disappeared without making the decision for him.
-
-Years earlier, when his sisters had first put two spiders in his bed, fear had frozen him because he had nowhere to put it.
-
-Now he had somewhere to put it.
-
-He could stand still.
-
-He could breathe.
-
-He could wait.
-
-He could let the body spend its first answer before choosing his own.
-
-During the day, something else changed as well.
-
-The strange pressure behind his eyes became less frequent.
-
-The certainty of movement became weaker.
-
-The moments in which something seemed to answer him became brief and indistinct.
-
-Whatever had once reached outward had become smaller.
-
-Quieter.
-
-Harder to summon.
-
-Sometimes he noticed it.
-
-Sometimes he thought he noticed it.
-
-More often, there was simply nothing.
-
-Layn stopped trying to call for it.
-
-He focused on what he could learn by ordinary means.
-
-The house had given him enough work without mysteries.
-
-The sisters remained watchful.
-
-The house remained itself.
-
-And the years passed.
+He didn't remember when was the last spider incident. Only the nightmares left.
 
 ---
 
@@ -1060,7 +1057,6 @@ Zilvrae folded her hands behind her back.
 
 "Fear does not make him weak."
 
-
 Greyanna opened her mouth.
 
 Zilvrae continued.
@@ -1103,7 +1099,7 @@ Her eyes moved between them.
 
 Zilvrae drew a slow breath.
 
-"I have better uses for my time than spending the next decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—"
+"I have better uses for my time than spending a decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—"
 
 The door opened with a faint squeak.
 
@@ -1116,7 +1112,6 @@ Zilvrae bowed her head.
 The Matron Mother said nothing.
 
 She listened.
-
 
 "The boy's progress is slowing. He completes every task, but his rest is poor. The fear is no longer necessary to maintain his restraint. I can teach him to control himself."
 
@@ -1282,43 +1277,29 @@ Darkness swallowed the gallery.
 
 Zilvrae stopped.
 
-Layn moved.
-
-He moved away from the place where she had last seen him.
-
-He crossed low, found the first dagger by touch, then the second. The weapons were back in his hands before he heard Zilvrae move.
-
 Zilvrae broke the darkness with a dispelling gesture.
 
-By then Layn had already found both daggers and returned them to his hands.
+By then, Layn had found both daggers by touch, and returned them to his hands. 
 
 The gallery was visible again.
 
-He was gone.
+He had already moved from the position Zilvrae last saw him.
 
 Zilvrae looked toward the places where a fighter might naturally hide: behind the pillars, beneath the arches, near the weapon racks.
 
 Nothing.
+
+A shadow crossed from the opposite side.
+
+Zilvrae watched for half a heartbeat, and then she saw the error.
+
+The shadow did not change with the shape of a body. For anyone less experienced, it would have looked like the moving shadow of a hiding threat.
 
 Then several small lights appeared.
 
 They drifted across the gallery, crossing and separating, each one controlled with enough precision to suggest bodies moving at different distances.
 
 One bright patch swept across the far wall.
-
-A shadow followed it.
-
-Another light crossed from the opposite side.
-
-For anyone less experienced, it might have looked like movement.
-
-Zilvrae watched for half a heartbeat.
-
-Then she saw the error.
-
-The shadow did not change with the shape of a body.
-
-It detached from the light by a fraction too neatly.
 
 A smile touched one corner of her mouth.
 
@@ -1380,9 +1361,9 @@ Pale flames spread across Layn's body, clinging to his outline and making every 
 
 Zilvrae advanced.
 
-Layn broke the spell.
+Layn consentrated to brake the spell. "Astux!," he shouted from the bottom of his lunggs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved that.
 
-The pale fire vanished, and at the same instant he moved.
+All Layn cared about that moment was that it worked. The pale fire vanished, and at the same instant he moved.
 
 He crossed the gallery, turned past her shoulder, and came in low.
 
@@ -1458,6 +1439,8 @@ They remained there for a moment.
 
 Zilvrae lowered the weapon and released him.
 
+"Nice trick!" Layn said holding his jaw.
+
 "The combat work is sufficient."
 
 Layn lowered his dagger.
@@ -1494,7 +1477,7 @@ She said nothing about the future.
 
 That was not hers to decide.
 
-A knock sounded at the door.
+The sound of the openning door interrupted her thoughts.
 
 Layn turned.
 
@@ -1506,31 +1489,21 @@ Layn looked at her.
 
 "Are you going to be there?"
 
-"No."
-
 The answer was immediate.
 
 "My work is finished. From here, you are in the hands of your family."
 
 Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
 
-"Then be careful what you say."
+"You are going to be decent" Zilvrae
 
-Layn sheathed his daggers.
-
-"I always am."
+"I always am," Layn smiled.
 
 Greyanna stepped aside.
 
-He looked once at Zilvrae.
+He avoided to look at Zilvrae. She gave him the same measured look she had given him for years.
 
-She gave him the same measured look she had given him for years.
-
-Nothing more.
-
-He left.
-
-The door closed behind him.
+The door closed behind them.
 
 Zilvrae remained still.
 
@@ -1552,11 +1525,9 @@ Zilvrae turned toward the weapon racks.
 
 She began putting the room in order.
 
-The daggers would not be there tomorrow.
+These daggers would not be used again tomorrow.
 
-The practice staffs would be used by someone else.
-
-The marks in the floor would remain.
+Only the marks in the floor would remain.
 
 She adjusted one of the racks, then adjusted it again even though it had been straight the first time.
 
@@ -1566,10 +1537,8 @@ Her hands did not hurry.
 
 When the room was finally in order, she stood alone in the center of it.
 
-For the first time in ten years, there was no student waiting for instruction.
+For the first time in ten years, there was no student waiting for her instruction.
 
 Zilvrae looked toward the closed door.
 
 "Endure, Laynlindr Freth."
-
-Then she returned to the work.

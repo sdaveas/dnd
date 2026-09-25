@@ -1,8 +1,4 @@
-# Part I — The Child of House Freth
-
-## I.2 — The Web Within House Freth
-
-### I.2.1 — A Normal Day
+# 2.1 — A Normal Day
 
 At ten years old, Layn had learned that a day in House Freth did not begin with sunlight.
 
@@ -18,7 +14,7 @@ He had learned to do that because being woken by someone else usually meant that
 
 His room was a narrow chamber set below the better apartments of the noble females. It was not a servant’s room. The walls were faced with smooth black stone, the bedding was clean, and a small carved spider watched from above the doorway. But the room was plain, and its plainness made the distinction clear. He was noble by blood. He was young, male, and unimportant by every other measure that mattered in House Freth.
 
-He dressed in the clothes laid across the foot of his bed and folded the blanket before leaving. No one had asked him to do either thing. He had simply learned that the servants were asked about everything, and that their answers traveled upward.
+He dressed in the clothes laid across the foot of his bed and folded the blanket before leaving.
 
 The corridor outside was empty except for a single female servant carrying a tray.
 
@@ -78,7 +74,7 @@ It was how a family was arranged. The house stood at the top, his mother carried
 
 The first lesson began after the meal.
 
-House Freth educated its children inside the house whenever possible. The daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline. The alliances lasted as long as they were useful. The males learned enough of those matters to avoid interfering with them.
+House Freth educated its children inside the house until their 20th year. The daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline. The alliances lasted as long as they were useful. The males learned enough of those matters to avoid interfering with them.
 
 Mistress Zilvrae taught Layn in the house’s library, above the training galleries.
 
@@ -96,7 +92,7 @@ She swept the emblems up, shuffled them, and set them out again. “Now you.”
 
 He set them in the order of their houses’ power.
 
-One was wrong. The broken chain lay where the silver blade belonged.
+The order was wrong. The broken chain lay where the silver blade belonged and vise versa.
 
 “You looked,” she said. “You did not see.”
 
@@ -118,7 +114,7 @@ The young priestesses saw the elder tutor’s eyes go to her, as if they all hel
 
 Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, and he was flawless every time.
 
-When the thirty stood ranked on the black table, Zilvrae looked down at them, and she could not help herself. Barely a whisper to herself: “Good memory.”
+When the thirty stood ranked on the black table, Zilvrae looked down at them, and she could not help herself. Barely a whisper: “Good memory.”
 
 Layn looked up at her.
 

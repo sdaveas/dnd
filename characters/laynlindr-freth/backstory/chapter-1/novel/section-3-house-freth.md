@@ -1,8 +1,4 @@
-# Part I — The Child of House Freth
-
-## I.1 — Beneath the Spider’s City
-
-### I.1.3 — House Freth
+# 1.3 — House Freth
 
 House Freth was one of the lower houses of Menzoberranzan, and it did not forget what that meant. A house was family and faction, fortress and store of knowledge, the name that opened a door—or closed one forever. A house that appeared weak invited enemies.
 
@@ -123,5 +119,3 @@ Nothing that demanded the attention of a goddess.
 And yet he had a name, the way everything in this house had a name that carried its use in front of it.
 
 His name was Laynlindr Freth.
-
-Layn.

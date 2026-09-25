@@ -1,8 +1,4 @@
-# Part I — The Child of House Freth
-
-## I.1 — Beneath the Spider’s City
-
-### I.1.1 — Menzoberranzan
+# 1.1 — Menzoberranzan
 
 There was no sky above Menzoberranzan.
 
