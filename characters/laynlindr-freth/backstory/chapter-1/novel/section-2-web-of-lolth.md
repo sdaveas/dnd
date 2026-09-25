@@ -334,13 +334,7 @@ The two soldiers waited until the chamber began to empty.
 
 Then they turned back toward Menzoberranzan.
 
-They walked in silence for a short distance before the business of the day returned to its proper place.
-
-"The consignment," said the Freth soldier.
-
-"Tomorrow," answered the other.
-
-They separated at the next crossing.
+They walked in silence for a short distance before separating at the next crossing.
 
 The Freth soldier quickened his pace toward the House district.
 
