@@ -58,7 +58,7 @@ And behind the priestess, at the chamber’s edge, two more priestesses had alre
 
 The black vessel smoked, though nothing burned. The smoke did not rise; it crawled, hugging the glass like something slow and alive, and the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the dungeons, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
 
-He recognized both the elixer's smell from that basement experiments, and its looks from Zilvrae's lessons. The knowledge was already in him. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
+He recognized both elixirs from those basement experiments, and their appearance from Zilvrae's lessons. The knowledge was already in him. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
 He took a step backward. Then another. His eyes flicked desperately toward the guarded door. His face stayed still and his heart did not. He shook his head once, slowly.
 
@@ -172,7 +172,7 @@ They had been shaped to give the two spiders that had haunted him for ten years 
 
 The spiders regrouped.
 
-They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known where the silver pin was, and the order of the thirty houses emblems more than ten years ago.
+They came together at the center of the dark, legs coiling, weight settling, the tension of a battery gathering in their limbs — a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known where the silver pin was, and the order of the thirty house emblems more than ten years ago.
 
 His legs buckled. He jumped.
 
@@ -180,7 +180,7 @@ He rose high and fast enough that the spiders thought he had vanished from the a
 
 The assault came at a speed nothing in the chamber had ever shown. The silhouette moved through both figures like a thrown blade, and around it, of its own will, a barrier of energy hardened — a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own — theirs cracking with explosive light where his was smooth.
 
-For the first time in his life, his sisters were afraid of him. Layn sensed it in the figures faces — no longer smiling, no longer flawless, no longer supperior.
+For the first time in his life, his sisters were afraid of him. Layn sensed it in the figures' faces — no longer smiling, no longer flawless, no longer superior.
 
 All three siblings screamed — one cry out of three shapes, none of it made by living throats — and marched for the final clash.
 
@@ -189,8 +189,6 @@ All three siblings screamed — one cry out of three shapes, none of it made by 
 The Matron Mother stood.
 
 She had not moved until that instant. She had watched the arena, the figures, and the awakening without giving the others anything to read.
-
-“Enough.”
 
 The word struck through the darkness louder than the clashes.
 
