@@ -70,43 +70,21 @@ Priestesses came first, walking with a measured calm that made their pace seem s
 
 Their robes carried the colors and symbols of Lolth. Some wore spider-shaped ornaments. Others carried ritual objects in both hands. None looked hurried.
 
-Behind them came more women.
+Behind them came several Matron Mothers.
 
-Noble females.
+The first was Yvonnel Baenre.
 
-Several wore House emblems large enough to be seen from across the street.
+Neither man needed to be told who she was.
 
-The two males recognized them.
+K'yorl Odran followed, her presence no less unmistakable to anyone who understood the city's hierarchy. Then came Malice Do'Urden.
 
-The first recognized one House and then another.
+The two males lowered their eyes.
 
-The second did the same.
-
-Neither spoke.
-
-A Matron Mother passed within a few strides of them.
-
-The man wearing the armed spider lowered his head until the priestess had gone by.
-
-Only then did he breathe again.
-
-"Who is it?" he whispered.
-
-The other did not answer.
-
-"You know."
-
-"I know what it is."
-
-"That was not my question."
-
-"No."
+The Do'Urden male's jaw tightened for the briefest moment when his own Matron passed. He gave no sign of recognition beyond that.
 
 The procession continued.
 
-More Matron Mothers appeared among the priestesses, each surrounded by attendants who kept their distance. Their presence changed the meaning of the procession. This was not a small devotional ceremony. Too many powerful Houses were represented.
-
-The crowd understood that as well.
+The presence of the Matron Mothers changed its meaning. This was not a private devotional rite. The women of some of Menzoberranzan's most powerful Houses had come to witness it.
 
 Nobody asked questions.
 
@@ -118,31 +96,19 @@ The city made room.
 
 At the end of the street, the procession turned toward a passage that led deeper beneath the noble districts.
 
-The two males remained where they were.
+The two males waited until the last attendants had passed.
 
-The armed spider finally spoke.
+"Do you know what this is?" the Do'Urden male asked.
 
-"They chose a male."
+The Freth male kept his eyes on the floor.
 
-The other male's eyes remained down.
+"Yes."
 
-"That is what they always choose when they want the lesson remembered."
+A pause.
 
-Neither spoke for several breaths.
-
-Around them, the street remained unnaturally quiet.
-
-The Freth male looked at the disappearing procession.
-
-"You think he failed?"
-
-The answer came softly.
-
-"I think we are about to find out."
+"The Test."
 
 They followed at a distance.
-
-Neither admitted that he was following.
 
 The passage led away from the traffic and into older stone. The walls narrowed. The violet lights grew fewer. Spider carvings appeared more frequently, their legs stretching across the walls in patterns that seemed to join one another.
 
