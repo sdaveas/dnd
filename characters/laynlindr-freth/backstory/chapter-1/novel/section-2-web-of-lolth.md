@@ -4,258 +4,478 @@
 
 ### I.1.2 — The Web
 
-There was no separate place in Menzoberranzan for religion and life.
+Two male drow stood beneath an arch of black stone while the city moved around them.
 
-The same rules that governed a prayer governed a House. The same goddess whose name was spoken before an altar stood behind the authority of a Matron Mother, the punishment of a servant, and the ambitions of a noble daughter.
+Neither had any reason to be standing there. That was part of the pleasure.
 
-A child learned all of this through posture before prayer.
+The first wore a narrow silver clasp at his throat. A spider was worked into it, its eight legs extended outward, each tipped with a different weapon. Beneath the body, two small letters had been etched so finely that they could only be seen at close range.
 
-Before a child could recite the goddess's name, the child knew when to kneel, where to stand, and which direction to turn the eyes.
+The other wore no cloak heavy enough to conceal the emblem at his shoulder: two spiders facing one another, their bodies carved in dark metal.
 
-In the noble houses, children were brought to shrines cut into the stone. They watched adults lower themselves before carved images of their goddess. They watched priestesses raise their hands and offerings disappear into dark places. They listened as prayers were spoken in voices careful not to sound uncertain.
+They had been speaking for several minutes.
 
-The children learned the gestures before they understood the words.
+"The second shipment was lighter than the manifest."
 
-If one of them looked around during the prayer, a female hand closed on the back of the neck and drove the child's head down until the child's neck trembled against the grip.
+The male with the armed spider glanced at him.
 
-"Eyes down."
+"Then your scales have finally learned to lie."
 
-The voice did not need to be loud. The correction carried its own explanation.
+"They have always lied. I have merely learned to weigh around them."
 
-The hand let go, and the child found the floor again. The others had gone still, their shoulders raised, their own gazes fixed on the stone. The priestess had already turned back to her prayer.
+"How fortunate. I had assumed the missing material had been lost."
 
-They learned that the goddess watched.
+"The material was not lost."
 
-Not as an idea.
+"No?"
 
-As a fact.
+"No. It was removed."
 
-Her priestesses spoke with her authority. To disobey one was not merely to disobey another drow. It was to place oneself against the goddess who stood behind her.
+The first male's expression remained composed.
 
-The goddess rewarded strength and cunning. She exposed weakness. She favored those who understood the struggle for power and destroyed those who mistook mercy for safety. Ambition was not something a drow had to hide behind polite words. It could be presented as devotion when it served the right purpose.
+"By whom?"
 
-Betrayal could be a weapon.
+"If I knew, I would not be discussing it with you."
 
-Cunning could be a virtue.
+"Of course not. You would be discussing it with someone you trusted."
 
-Survival could be proof.
+The other smiled.
 
-The city taught its children that every person around them might be part of the struggle.
+"Trust is an expensive habit."
 
-A sister might compete with a sister.
+"Then it is fortunate neither of us has developed it."
 
-A House might smile at another House while waiting for an opportunity to weaken it.
+They continued walking slowly through the traffic, neither yielding more than was required when other drow passed. Servants stepped around them. A pair of warriors recognized the emblems and altered their course without being asked.
 
-A servant might carry information that was worth more than a weapon.
+"The latest preparation remains unstable," said the male from the House of the two spiders.
 
-A priestess might praise a drow one day and condemn her the next.
+"Yet you requested another sample."
 
-Trust was never simply trust.
+"Because instability is information."
 
-It was a risk.
+"That is one interpretation."
 
-The greatest difference was not that drow lacked rules.
+"It is the useful one."
 
-They had many.
+"And the other?"
 
-It was that the rules were designed to keep power moving.
+"The other is that your House has spent too much time selling us ingredients it does not understand."
 
-The noble houses stood beneath the priestesses, each with its own divisions of rank, privilege, blood, and usefulness. A House was more than a family. It was a political faction, a military force, a store of wealth and knowledge, and a name whose fortunes could rise or disappear.
+The armed spider turned his head just enough to look at him.
 
-The strongest houses occupied the highest positions in the city's hierarchy.
+"We provide what you request."
 
-The most powerful among them held seats on the Ruling Council.
+"You provide what you can obtain."
 
-The others watched.
+"Those are the same thing when the people who request it lack the connections to obtain it themselves."
 
-Every house knew where it stood.
+The other male gave a quiet laugh.
 
-Every house also knew which house stood above it.
+"Careful."
 
-And every house understood that the position could change.
+"Was that a threat?"
 
-A house might gain rank through strength, marriage, influence, or the failure of a rival. A weaker house could be absorbed. A disgraced house could lose everything. A family that survived for centuries could vanish in a single night, leaving only its name carved somewhere that nobody bothered to remove.
+"An observation."
 
-The city remembered its dead even when it had already replaced them.
+"A poor one."
 
-House rivalries were therefore never merely arguments between families.
+"I will remember that the next time you ask for another vial."
 
-They could become wars.
+The Freth male looked toward him.
 
-Poison.
+"You will send it."
 
-Assassination.
+"I might."
 
-Espionage.
+"You will."
 
-The theft of knowledge or wealth.
+The smile disappeared from the other man's face.
 
-A strike against an enemy's guards.
+"One day," he said, "your certainty will become expensive."
 
-The disappearance of a person whose absence changed the balance of a house.
+"Everything becomes expensive eventually."
 
-Such things were not always treated as crimes in the way surface folk understood crime. Among the noble houses, the difference between forbidden violence and useful violence was often measured by who had committed it, against whom, and whether the evidence could be made to survive.
+They stopped beside a vendor's stall where sealed ceramic containers were stacked in careful rows. Neither man touched them.
 
-The drow did not believe peace made them strong.
+"How much of the new reagent remains?" asked the Freth male.
 
-Peace gave an enemy time to become strong.
+"Enough for three more attempts."
 
-Competition did.
+"Four."
 
-It kept a noble daughter watching her sisters.
+"Three."
 
-It kept a Matron Mother watching neighboring houses.
+"You sent us enough for four."
 
-It kept a warrior improving because another warrior might someday be asked to replace him.
+"Three were usable."
 
-It kept a merchant careful about what she promised.
+"Then your definition of usable has changed."
 
-It kept servants quiet.
+"Your definition of success has."
 
-Even success carried danger.
+For the first time, the Freth male smiled.
 
-A drow who became too visible might attract envy. A House that grew too powerful might provoke fear. A person who appeared indispensable had made an invitation for someone else to prove that she was not.
+"That is why you continue to supply us."
 
-The city could be cruel without being chaotic.
+The reply was immediate.
 
-It had structure.
+"Perhaps I simply enjoy watching you fail."
 
-That was the point.
+Before the other could answer, the street ahead began to change.
 
-At the top of that structure stood the females.
+It happened gradually.
 
-The females ran the noble houses. Priestesses commanded religious life and possessed authority that reached far beyond the shrine. Matron Mothers ruled their families and guarded the position of those beneath them. Noble daughters were raised with the expectation that they would one day inherit authority, compete for it, or destroy one another trying.
+A servant carrying a basket stopped.
 
-Males could possess skill, wealth, noble blood, even extraordinary power.
+A merchant stepped backward from his stall.
 
-It changed their place less than they would have liked.
+Two warriors moved closer to the wall.
 
-A male noble might command servants and soldiers. A male wizard might become powerful enough that other drow feared him. A warrior could earn a reputation that reached across the city.
+The conversations around them thinned, then broke apart altogether.
 
-But when a priestess entered the room, the hierarchy reasserted itself.
+Neither male had been looking toward the disturbance.
 
-A male learned when to move aside.
+They did not need to.
 
-He learned when not to speak.
+The Freth male's smile vanished.
 
-He learned which disputes were his to settle and which belonged to women who would never ask his permission.
+The other lowered his eyes.
 
-The lesson was repeated so often that it became instinct.
+"Don't," he said quietly.
 
-The city had little need to announce who ruled it.
+"I wasn't going to."
 
-Everyone already knew.
+"You were."
 
-Above the houses, above the warriors and wizards, above the merchants and servants, stood the priestesses of Lolth.
+"Perhaps."
 
-And beyond them stood the goddess herself.
+Neither man moved.
 
-Lolth was not represented merely as a distant creator who had once chosen her people.
+A procession entered the street.
 
-She was present in the symbols they carried, the spiders they left unharmed, the sacrifices they offered, and the fear that followed every failure.
+Priestesses came first, walking with a measured calm that made their pace seem slower than everyone else's. They did not push through the crowd. They had no need to. Drow moved aside before they approached, making a path wide enough for the women to pass without contact.
 
-Her image appeared wherever the drow wanted to remind themselves of the order of things: a beautiful female form intertwined with the shape of a monstrous spider, both halves impossible to separate.
+Their robes carried the colors and symbols of Lolth. Some wore spider-shaped ornaments. Others carried ritual objects in both hands. None looked hurried.
 
-The spider was not an ornament.
+Behind them came more women.
 
-It was a lesson.
+Noble females.
 
-A web caught what moved carelessly.
+Several wore House emblems large enough to be seen from across the street.
 
-It rewarded patience.
+The two males recognized them.
 
-It punished struggle.
+The first recognized one House and then another.
 
-It connected everything without making any part of it equal.
+The second did the same.
 
-Drow children learned to recognize the meaning long before they understood the theology behind it.
+Neither spoke.
 
-The stories told in their houses went further back than any living drow.
+A Matron Mother passed within a few strides of them.
 
-They spoke of the elves before the descent, of Lolth's conflict with the powers of the elven pantheon, and of the exile that brought her followers into the deep. Every telling changed slightly with the teller. Priestesses emphasized betrayal, divine purpose, and the wickedness of those who had cast the drow away. The lesson remained the same: the drow had endured because they had survived what others could not.
+The man wearing the armed spider lowered his head until the priestess had gone by.
 
-Their suffering was remembered as proof.
+Only then did he breathe again.
 
-Their darkness was remembered as inheritance.
+"Who is it?" he whispered.
 
-And the surface elves remained enemies.
+The other did not answer.
 
-For generations, drow children were taught to regard the peoples above as descendants of those who had rejected them. The hatred was older than any individual grudge. It required no personal wound.
+"You know."
 
-The history had become part of the bloodline.
+"I know what it is."
 
-The city carried that history into its institutions.
+"That was not my question."
 
-Nowhere was that clearer than Tier Breche, where the Academy rose above the city.
+"No."
 
-Three great schools divided the education of young drow.
+The procession continued.
 
-Arach-Tinilith trained priestesses of Lolth.
+More Matron Mothers appeared among the priestesses, each surrounded by attendants who kept their distance. Their presence changed the meaning of the procession. This was not a small devotional ceremony. Too many powerful Houses were represented.
 
-Sorcere trained those who pursued arcane magic.
+The crowd understood that as well.
 
-Melee-Magthere trained male warriors.
+Nobody asked questions.
 
-The paths were different, but none stood outside the same society. Education prepared a drow for a place within the hierarchy and taught the customs that kept the hierarchy alive.
+Nobody tried to follow too closely.
 
-A child did not merely go to school to learn a skill.
+Nobody complained that the procession had blocked the street.
 
-The child went to learn what kind of drow she was allowed to become.
+The city made room.
 
-The Academy's buildings could be seen from many parts of the city, and their presence was enough to remind parents that childhood was temporary.
+At the end of the street, the procession turned toward a passage that led deeper beneath the noble districts.
 
-Eventually every noble child would have to prove usefulness.
+The two males remained where they were.
 
-Eventually every child would be measured.
+The armed spider finally spoke.
 
-Eventually the House would decide what that child was for.
+"They chose a male."
 
-Those who succeeded were rewarded with greater responsibility and status.
+The other male's eyes remained down.
 
-Those who failed could lose far more than a place at school.
+"That is what they always choose when they want the lesson remembered."
 
-The punishment for displeasing Lolth was not merely social.
+Neither spoke for several breaths.
 
-Her chosen were said to have the power to call the goddess's judgment upon the unworthy. The worst failures could become something that every drow knew by sight: a drider, part drow and part spider, cast into the darkness as a living warning.
+Around them, the street remained unnaturally quiet.
 
-Whether a child had ever seen such a creature hardly mattered.
+The Freth male looked at the disappearing procession.
 
-The possibility was enough.
+"You think he failed?"
 
-The drow did not need to believe that Lolth watched every moment.
+The answer came softly.
 
-They needed only to believe that she might.
+"I think we are about to find out."
 
-And in Menzoberranzan, that possibility was enough to make people watch one another for her.
+They followed at a distance.
 
-The city taught its lessons through behavior rather than explanation.
+Neither admitted that he was following.
 
-A noble female could speak while a room waited.
+The passage led away from the traffic and into older stone. The walls narrowed. The violet lights grew fewer. Spider carvings appeared more frequently, their legs stretching across the walls in patterns that seemed to join one another.
 
-A priestess could enter without saying a word and change the posture of everyone inside.
+At the end stood a broad set of doors.
 
-A servant could carry information farther than a warrior could carry a sword.
+The priestesses entered first.
 
-A male could possess noble blood and still be expected to move aside when a woman approached.
+The Matron Mothers followed.
 
-A House could greet another House with courtesy while quietly measuring its defenses.
+The male came between them.
 
-A child could be taught that kindness was dangerous before understanding what kindness meant.
+He did not struggle.
 
-Power did not always announce itself.
+He did not call out.
 
-Sometimes it was a command.
+He walked with his head bowed.
 
-Sometimes it was a threat.
+Then the doors closed.
 
-Sometimes it was simply a person being allowed to speak while everyone else remained silent.
+The two observers stopped outside.
 
-Children learned to watch for the difference.
+The armed spider stared at the stone.
 
-The goddess who watched over all of it, who sat above every house and every priestess and every claim in the dark—she had a name.
+"The Test."
 
-One not spoken carelessly.
+The Freth male nodded.
 
-Lolth.
+The words seemed to make the corridor colder.
 
-The Spider Queen.
+The Test of Lolth was not offered to every drow. It was something the goddess demanded of those whose strength, ambition, or position made them worthy of judgment.
+
+Strength alone was never enough.
+
+A drow could possess skill and still fail.
+
+A drow could survive every battlefield and still be found wanting.
+
+Lolth did not merely ask whether one was strong.
+
+She asked whether one was worthy.
+
+The priestesses inside began to sing.
+
+The sound passed through the stone.
+
+At first it was low and almost gentle, a rhythm rather than a melody. Then more voices joined it, layering one over another until the words became difficult to separate.
+
+The two males listened.
+
+Neither understood all of the verses.
+
+They did not need to.
+
+The prayers spoke of the Spider Queen, of obedience, of strength, of the unworthy being cast down.
+
+The Freth male swallowed.
+
+"Does his House know?"
+
+The other gave him a brief look.
+
+"They are here."
+
+"That wasn't what I meant."
+
+"It is what matters."
+
+The singing grew louder.
+
+Inside, the women knelt.
+
+The ritual belonged to them.
+
+The male was its subject, its object, its sacrifice.
+
+Lolth's priestesses were not asking whether he wished to be there.
+
+They were asking whether he deserved to leave.
+
+That was the difference.
+
+No one outside the chamber offered sympathy.
+
+A servant carrying wine passed the corridor entrance, heard the chanting, and immediately turned away.
+
+A young warrior stopped at the far end, glanced toward the doors, then lowered his gaze and continued walking.
+
+The city knew what happened here.
+
+It did not need to watch.
+
+The armed spider folded his hands behind his back.
+
+"How many have failed?"
+
+The Freth male considered the question.
+
+"Enough."
+
+"That's not a number."
+
+"It isn't meant to be."
+
+The singing stopped.
+
+Silence filled the corridor.
+
+For a moment neither man moved.
+
+Then something struck the other side of the doors.
+
+Once.
+
+A second time.
+
+Neither looked at the other.
+
+A cry followed, abruptly cut short.
+
+The Freth male closed his eyes.
+
+Not in prayer.
+
+In calculation.
+
+The armed spider spoke without turning his head.
+
+"You were worried about the reagent."
+
+"I was."
+
+"And now?"
+
+The answer came after a pause.
+
+"I am no longer worried about the reagent."
+
+"Good."
+
+The doors opened.
+
+The women emerged first.
+
+The priestesses looked exactly as they had before.
+
+The Matron Mothers followed, their expressions controlled.
+
+Then the space behind them moved.
+
+Something came through the doorway on too many legs.
+
+The two males did not step backward.
+
+They wanted to.
+
+Their bodies did it anyway.
+
+The creature that had been a drow no longer had the shape of one.
+
+Its upper body was still unmistakably drow, but below it stretched the body of a monstrous spider, pale limbs scraping against the stone.
+
+A drider.
+
+Nobody spoke.
+
+One of the priestesses raised a hand.
+
+The creature was led away.
+
+Not escorted.
+
+Not comforted.
+
+Led.
+
+The Matron Mothers turned and began speaking quietly among themselves.
+
+A servant appeared with a cloth and began cleaning the floor.
+
+The young warrior who had stopped at the far end never looked toward the creature again.
+
+The city began to breathe.
+
+Voices returned beyond the corridor.
+
+Footsteps resumed.
+
+A merchant somewhere above complained about a delayed shipment.
+
+The two males remained silent until the procession had disappeared.
+
+At last, the armed spider looked toward the Freth male.
+
+"The fourth attempt."
+
+The Freth male stared at him.
+
+"You were counting?"
+
+"I was listening."
+
+A faint smile returned to the first man's face.
+
+"Then you know more than I do."
+
+"Perhaps."
+
+They turned back toward the city.
+
+Neither mentioned the drider again.
+
+They did not need to.
+
+Everyone in Menzoberranzan knew what had happened.
+
+That was how Lolth ruled.
+
+Not by standing in every street.
+
+Not by speaking through every priestess.
+
+By making certain that every drow knew what waited beyond the boundaries of obedience.
+
+The city was a hierarchy because Lolth demanded one.
+
+The hierarchy endured because everyone beneath it understood what happened when they challenged it.
+
+The Houses could compete.
+
+They could scheme.
+
+They could poison one another, steal from one another, undermine one another, and destroy one another when opportunity allowed.
+
+But the competition had limits.
+
+Above every House stood the priestesses.
+
+Above every priestess stood Lolth.
+
+And above every ambition stood the possibility of judgment.
+
+The web did not prevent the drow from struggling.
+
+It gave their struggle a shape.
+
+That was how a goddess of chaos had given order to a city.
+
+The rules did not make the drow peaceful.
+
+They made their cruelty useful.
