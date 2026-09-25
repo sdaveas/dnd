@@ -24,17 +24,15 @@ When Zilvrae corrected the same mistake for the fourth time, he made the correct
 
 Zilvrae did not care how many repetitions it took.
 
-"Again."
+“Again,” Zilvrae said.
 
 Layn reset his feet.
 
-His left shoulder was too tense.
+She watched the tension in his left shoulder before pointing it out. “Relax it.”
 
-"Relax it."
+He loosened the shoulder.
 
-He did.
-
-"Again."
+Zilvrae gave him no time to settle into the correction. “Again.”
 
 The staff came forward.
 
@@ -44,35 +42,29 @@ It changed direction. He followed.
 
 Zilvrae stepped around his guard and touched his wrist with the end of her staff.
 
-"You are watching the weapon."
+“You are watching the weapon,” Zilvrae said, and tapped his wrist with the staff.
 
-"I am watching your hand."
+“I am watching your hand.”
 
-She stopped, lowered the staff, and looked at him.
+She stopped and lowered the staff, studying him rather than the weapon. “Then you are watching the wrong hand.”
 
-"Then you are watching the wrong hand."
+Layn frowned, unwilling to concede the point.
 
-Layn frowned.
-
-"The weapon tells you what has already happened," she said. "The body tells you what is about to happen."
+“The weapon tells you what has already happened,” she said. “The body tells you what is about to happen.”
 
 She demonstrated the movement slowly. The change was so slight that Layn almost missed it: a shift in weight, a turn of the shoulder, the smallest adjustment in the angle of her feet.
 
-"Again."
+“Again.” Zilvrae raised the staff once more.
 
-He tried.
+Layn tried.
 
 Wrong.
 
-Again.
+Zilvrae corrected his stance. “Again.”
 
 Closer.
 
-Again.
-
-The staff touched his shoulder.
-
-"Better."
+She struck his shoulder again, but this time the contact was lighter. “Better.”
 
 Layn swallowed his irritation.
 
@@ -106,7 +98,7 @@ Whatever came next, he would not embarrass her work.
 
 One afternoon she placed several practice weapons on the floor between them.
 
-"Choose."
+Zilvrae stepped back from the weapons and gestured toward the rack. “Choose.”
 
 Layn looked over them.
 
@@ -120,23 +112,19 @@ They settled into his hands as though they belonged there.
 
 Zilvrae watched him turn one over, test its balance, then change his grip.
 
-"Why?"
+Zilvrae watched his hands settle around the daggers. “Why?”
 
-"I'm not good with long or heavy weapons."
+Layn tested the weight of the first blade and answered without embarrassment. “I'm not good with long or heavy weapons.”
 
-He glanced toward the practice targets.
+He glanced toward the practice targets. “These are easier to handle.”
 
-"These are easier to handle."
-
-The second dagger rolled between his fingers.
-
-"And I can throw them."
+He rolled the second dagger between his fingers, considering what else it gave him. “And I can throw them.”
 
 Zilvrae's eyes moved to the target rack.
 
-"Then learn to throw them properly."
+Zilvrae's eyes moved to the target rack. “Then learn to throw them properly.”
 
-Layn nodded.
+Layn nodded, accepting the correction without argument.
 
 The choice remained his.
 
@@ -146,9 +134,9 @@ He liked it for that reason.
 
 Layn turned one of the daggers over, studying the practice blade before looking back at Zilvrae.
 
-"What's your favorite weapon?"
+Layn looked at her empty hands, then at the weapon rack. “What's your favorite weapon?”
 
-She stood in the center of the gallery with empty hands.
+Zilvrae stood in the center of the gallery with empty hands.
 
 That did not make it ordinary.
 
@@ -176,21 +164,19 @@ Layn had seen the sequence before.
 
 He watched anyway.
 
-"What makes that different from a real weapon?" he asked.
+Layn watched the weapon as though he might find the answer in its construction. “What makes that different from a real weapon?”
 
-"Nothing you need to concern yourself with."
+Zilvrae's mouth tightened almost imperceptibly. “Nothing you need to concern yourself with.”
 
-She tapped the butt of the staff against the stone.
-
-"It has weight. It has reach. It breaks things when I tell it to."
+She tapped the butt of the staff against the stone. “It has weight. It has reach. It breaks things when I tell it to.”
 
 Layn looked at it again.
 
-"How long does it stay?"
+“How long does it stay?” Layn asked, still watching the impossible weapon.
 
-"As long as I hold it."
+“As long as I hold it,” Zilvrae replied.
 
-She opened the fingers of one hand.
+She opened the fingers of one hand, waiting for him to notice what did not happen.
 
 The staff remained because her other hand still held it.
 
@@ -200,17 +186,13 @@ The weapon disappeared before it could fall.
 
 Layn blinked.
 
-"Can you make any weapon?"
+Layn studied the staff for another moment. “Can you make any weapon?”
 
-"Most."
+“Most,” Zilvrae said.
 
-He considered the answer.
+He considered that answer, then glanced toward the targets. “Can you throw them?”
 
-"Can you throw them?"
-
-Zilvrae looked at him for a moment.
-
-"Not usefully."
+Zilvrae looked at him long enough to make him reconsider the question. “Not usefully.”
 
 Layn was about to ask why.
 
@@ -234,13 +216,13 @@ Silence.
 
 Then Zilvrae said, in the same tone she might have used to correct his footwork:
 
-"Cunning disengagement, Master Laynlindr."
+Zilvrae's face remained perfectly composed. “Cunning disengagement, Master Laynlindr.”
 
 Layn pushed himself upright, red-faced.
 
 She had already formed the quarterstaff again.
 
-"And now," she said, "again."
+Zilvrae had already formed the quarterstaff again. “And now—again.”
 
 He got to his feet.
 
@@ -607,19 +589,17 @@ And the years passed.
 
 Concealment belonged to the same part of the day as weapons.
 
-"Fighting can make you powerful," Zilvrae told him one morning as they stood in an empty corridor. "It can make you feared. It can even make you admired."
+One morning, in an empty corridor, Zilvrae watched him study the length of the passage before speaking. “Fighting can make you powerful. It can make you feared. It can even make you admired.”
 
-She looked down the length of the passage.
+She let the thought settle before adding, “It can also get you killed.”
 
-"It can also get you killed."
-
-She stopped beneath one of the violet lamps.
-
-"Concealment offers something less impressive."
+She stopped beneath one of the violet lamps and moved deliberately out of the center of the corridor. “Concealment offers something less impressive.”
 
 Layn waited.
 
-"Survival."
+Layn waited for the rest.
+
+“Survival,” Zilvrae said.
 
 She stepped away from the center of the corridor.
 
@@ -661,11 +641,9 @@ The pillar behind him.
 
 Nothing.
 
-"Where—"
+Layn stared at the empty corridor. “Where—”
 
-"Do not ask."
-
-Her voice came from close enough to make him turn.
+“Do not ask,” Zilvrae said from close enough beside him to make him turn.
 
 She stood beside the same pillar he had already inspected.
 
