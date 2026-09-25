@@ -1279,7 +1279,7 @@ Pale flames spread across Layn's body, clinging to his outline and making every 
 
 Zilvrae advanced.
 
-Layn consentrated to brake the spell. "Astux!," he shouted from the bottom of his lunggs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved that.
+Layn concentrated to break the spell. "Astux!" he shouted from the bottom of his lungs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved of it.
 
 All Layn cared about that moment was that it worked. The pale fire vanished, and at the same instant he moved.
 
@@ -1393,7 +1393,7 @@ She said nothing about the future.
 
 That was not hers to decide.
 
-The sound of the openning door interrupted her thoughts.
+The sound of the opening door interrupted her thoughts.
 
 Layn turned.
 
