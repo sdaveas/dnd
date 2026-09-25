@@ -32,13 +32,13 @@ They had stopped beside a merchant's stall to settle a delivery.
 
 "Four."
 
-The last word settled the matter. Neither man needed to press it further.
+The last word settled the matter.
 
 They moved on.
 
-For a few paces they discussed the preparation itself: its stability, the purity of the latest reagent, and a reaction that had become stronger in some subjects while failing altogether in others.
+For a few steps they continued over the preparation itself: the latest reagent, its purity, and a reaction that had strengthened in some test subjects while collapsing in others. Neither soldier needed to raise his voice. Their disagreement had the measured precision of men accustomed to representing more than themselves.
 
-The exchange was interrupted by the changing sound of the street.
+Then the street began to quiet.
 
 A merchant lowered his voice.
 
@@ -52,198 +52,250 @@ They appeared at the far end of the street beneath the violet lights, moving slo
 
 Merchants withdrew their goods. Servants lowered their eyes. Soldiers cleared the way. Noble drow stepped aside without protest.
 
-The priestesses wore the symbols of Lolth openly. Some carried ritual vessels. Others carried banners, and those banners were enough to make the silence deeper.
+The priestesses wore the symbols of Lolth openly. Some carried ritual vessels. Others carried banners.
 
-One bore the insignia of House Baenre.
+The first banner bore the spider of House Baenre.
 
-Another carried the emblem of Teken'duis.
+Another carried the emblem of House Teken'duis.
 
 The two soldiers lowered their eyes.
 
-Behind the priestesses came attendants and noble females.
+The procession continued.
 
-Then Yvonnel Baenre passed beneath her House standard.
+At its center walked a high priestess of Baenre beneath the House standard, carrying Lolth's authority into the lower streets. She was not the Matron Mother. She did not need to be. Baenre possessed enough priestesses of rank that the House could send its authority where the Matron herself would have had more important matters to attend.
 
-The Matron Mother of Teken'duis followed close behind.
+Beside and behind her came the Matron of Teken'duis with several of her House's priestesses and attendants.
 
-No one in the street needed to announce either of them.
+The distinction was visible even to those who knew nothing of their names.
 
-Their banners, attendants, and the space given to them said enough.
+Baenre did not need to explain its place in the city.
 
-The two soldiers remained still until the procession had passed.
+Teken'duis did not need to explain its concern.
 
-Only then did the soldier with the armed spider speak.
+The city itself made the difference.
 
-"The Test."
+The procession passed through the market districts and into older passages beneath the noble quarter. The crowds thinned. The stone darkened. Spider carvings multiplied along the walls, until the goddess seemed to watch from every surface.
 
-"Yes."
+The two soldiers followed at a distance.
 
-"The charge?"
+Neither spoke until the ritual chamber came into view.
 
-"Blasphemy."
+It was broad and circular, cut directly into the rock.
 
-"And the reason?"
+They stopped near the entrance.
 
-"That will become clear."
+From there they could see the entire floor.
 
-They followed at a respectful distance.
+At the center stood a low stone altar on a raised circular platform. Black candles surrounded it. Behind it rose a great carving of Lolth: the graceful upper body of a female drow flowing into the body of a monstrous spider, her legs spreading across the wall.
 
-The streets narrowed as the procession left the market districts behind. The city grew quieter. The stone became older and darker, and spiders appeared with increasing frequency along the walls.
+The banners of Baenre and Teken'duis stood on either side of the platform.
 
-The procession descended into a broad ritual chamber.
+The high priestess took her place before the altar.
 
-The two soldiers stopped near the entrance. From where they stood, they could see the entire chamber.
+The Matron of Teken'duis knelt behind her.
 
-At its center stood a low stone altar raised on a circular platform. Black candles burned around it. Behind the altar rose a dark carving of Lolth, beautiful from the waist upward and monstrous below, her many legs spreading across the wall.
+Other priestesses formed a circle around the platform.
 
-The banners of Baenre and Teken'duis stood on either side.
+Then the subject was brought forward.
 
-Priestesses arranged themselves around the platform.
+He was a male drow of Teken'duis, dressed in formal House clothing with his wrists bound.
 
-The Matron Mothers took their places behind them.
+The high priestess raised one hand.
 
-The subject was brought into the chamber last.
+The chamber fell silent.
 
-He was a male drow dressed in the formal clothing of Teken'duis. His wrists were bound. Two priestesses walked beside him, though he did not resist.
+The charge was spoken.
 
-The soldiers watched as he was brought to the altar.
+Blasphemy.
 
-The priestesses began to chant.
+Nothing more was required.
 
-The words were old. The soldiers knew their shape even when they could not distinguish every verse: praise to Lolth, acknowledgment of her judgment, and a request that she cast down the unworthy and favor those who proved themselves.
+A drow accused of blasphemy had placed himself beyond the protection normally granted by rank, House, or reputation. Lolth's priestesses needed no appeal from the accused, and no noble House could shelter a member once the goddess's judgment had been invoked against him.
 
-The Matron Mothers knelt.
+But the accusation was only the surface of the matter.
 
-The banners remained upright.
+The soldiers understood that.
 
-The subject stood alone on the platform.
+The House of Teken'duis had become cautious.
 
-There was no appeal.
+Its offerings had become smaller. Its appearances at the temples less conspicuous. Its fortunes had not yet collapsed, but in Menzoberranzan that was not the measure that mattered.
 
-There was no advocate.
+The measure was whether Lolth still looked upon the House with favor.
 
-The accusation had already served its purpose.
+A House could survive poverty.
 
-Blasphemy was enough to place a drow beneath the authority of Lolth's priestesses. What happened afterward belonged to the goddess.
+It could survive humiliation.
 
-The Test was not an ordinary punishment.
+It could even survive the loss of a battle.
 
-It was a judgment reserved for drow whose strength, ambition, or position made them worthy of Lolth's attention. A warrior could survive years of combat and still be judged insufficient. A noble could rise through the ranks and still find that success itself had brought another demand.
+What it could not safely survive was the suspicion that the Spider Queen had withdrawn her blessing.
 
-To be noticed by Lolth was never simply to be honored.
+The great Houses understood this better than anyone.
 
-It was to be measured.
+They did not rule merely because they possessed soldiers, wealth, slaves, or fortified compounds. Their position rested upon the belief that Lolth approved of their place. Her priestesses gave that belief a voice, and the strength of the higher Houses gave it a visible form.
 
-The chanting continued.
+House Baenre stood above all the others.
 
-A priestess raised a shallow black bowl.
+Its power was not only military or political. Its greatest strength was its clerical authority. Baenre possessed the city's most prominent priestesses, and its representatives could stand before another House in the name of Lolth.
 
-Another carried a ceremonial blade.
+That was why the high priestess stood before the altar.
 
-The subject lowered himself to his knees before the altar.
+That was why the Matron of Teken'duis knelt behind her.
 
-From the entrance, the soldiers could see only fragments of what followed. The priestesses closed around the platform until their bodies formed a living wall between the ritual and the chamber.
+One represented the authority of the most favored House.
 
-The singing did not stop.
+The other had brought a sacrifice.
 
-Something struck stone.
+The priestesses began to sing.
 
-The subject cried out.
+Their voices filled the chamber in measured layers. The words praised Lolth's strength and judgment, condemned weakness, and called upon the Spider Queen to accept what was placed before her.
 
-No one moved.
+The Matron of Teken'duis remained motionless.
 
-No one protested.
+Her House had brought one of its own males.
 
-The Matron of Teken'duis remained on her knees.
+The sacrifice was not intended to test whether Teken'duis might regain Lolth's favor.
 
-The Baenre Matron watched from behind the priestesses.
+They had already decided that it must.
 
-The attendants stood perfectly still.
+The question was what they were willing to surrender to prove it.
 
-The chamber itself seemed to hold its breath, not from pity, but from attention.
+A male drow's usefulness was measured by what he could contribute to the House. A soldier could fight. A wizard could provide magic. A craftsman could provide knowledge. A noble son could strengthen the House through his service.
 
-The ritual continued beyond the wall of priestesses.
+But a sacrifice to Lolth was different.
 
-The soldiers heard enough to understand its purpose.
+It was not useful because the House needed the male alive.
 
-Teken'duis had brought one of its males before Lolth.
+It was useful because the House was willing to give him away.
 
-The accusation of blasphemy gave the ceremony its justification.
+The priestesses continued their prayers.
 
-The sacrifice gave it its value.
+The subject was brought onto the platform.
 
-For a House whose confidence in the Spider Queen had begun to waver, a life could be offered more loudly than a prayer.
+No one spoke to him.
 
-And a living punishment could endure far longer than a corpse.
+No one asked whether he accepted the charge.
 
-Death ended.
+The ritual was already beyond such questions.
 
-A drider remained.
+The high priestess raised a shallow black bowl.
 
-That was the terror every drow understood.
+Another priestess carried a ceremonial blade.
+
+From where the soldiers stood, they could see the altar clearly.
+
+They could not see everything that happened upon it.
+
+The priestesses moved around the platform, forming a living barrier between the witnesses and the sacrifice.
+
+The singing continued.
+
+A sound came from within the circle.
+
+A sharp cry followed.
+
+The chant did not break.
+
+No one rushed forward.
+
+No soldier reached for a weapon.
+
+No servant fled.
+
+The Matron of Teken'duis did not move.
+
+The Baenre priestesses continued to sing.
+
+The chamber had become a place where compassion had no authority.
+
+This was Lolth's order.
+
+She did not promise her followers safety.
+
+She promised that those who proved worthy could rise, that those who failed could fall, and that every drow beneath them would have reason to fear the same judgment.
+
+That was how her chaos became order.
+
+Every House struggled against every other.
+
+Every noble drow guarded position and reputation.
+
+Every male knew the limits placed upon him.
+
+Every priestess knew that her authority came from a goddess who demanded obedience.
+
+And every drow knew that the place occupied today could be lost tomorrow.
+
+The web held because its strands were not equal.
+
+They were ranked.
 
 The chanting reached its final verse.
 
 Silence followed.
 
-The priestesses parted.
+The priestesses slowly stepped away from the platform.
 
-Something moved behind them.
+The altar remained.
 
-The male who had entered the chamber did not return.
+The candles continued burning.
 
-A drider stepped down from the altar.
+Then something moved behind the circle.
 
-Its upper body remained drow.
+The soldiers saw the shape before they understood it.
 
-Beneath it stretched the pale body of a monstrous spider.
+The upper body was drow.
 
-For a moment the chamber was completely still.
+The lower body was spider.
 
-Then a priestess gave an order.
+A drider.
 
-The drider was led away into the darkness.
+The creature was not shown to them as a spectacle.
 
-No one called its name.
+It was simply the result.
 
-No one approached it.
+The high priestess turned away first.
 
-The Matron of Teken'duis watched without expression.
+The Matron of Teken'duis bowed her head.
 
-The banners were taken down.
+Two priestesses led the drider toward a dark passage.
+
+No one called after it.
+
+No one comforted it.
+
+No one spoke the name it had carried into the chamber.
+
+The banners were gathered.
 
 The candles were extinguished.
 
-The chamber began to empty.
+The ritual was over.
 
-The two soldiers stayed where they were until the Matron Mothers had gone.
+The soldiers remained at the entrance until the chamber had begun to empty.
 
-Only then did the sound of Menzoberranzan return beyond the chamber: footsteps, voices, carts, merchants calling to one another.
+Then they turned back toward the city.
 
-The soldier with the armed spider looked toward the corridor.
+"The consignment," said the soldier bearing the two spiders.
 
-"The shipment."
-
-The soldier with the two spiders nodded.
-
-"Tomorrow."
+"Tomorrow," answered the soldier beneath the armed spider.
 
 They left.
 
-Neither man mentioned what they had witnessed.
+The streets of Menzoberranzan were already returning to their ordinary rhythm.
 
-They did not need to.
+Merchants resumed their arguments.
 
-In Menzoberranzan, Lolth did not need to stand in every street to govern the drow.
+Servants carried messages.
+
+Soldiers resumed their patrols.
+
+Somewhere above them, Narbondel continued its slow cycle.
+
+Lolth did not need to appear in every street to rule the city.
 
 Her priestesses carried her authority.
 
-The Houses carried the hierarchy.
+Her Houses competed for her favor.
 
-Fear carried the rest.
-
-A drow could scheme, compete, bargain, and threaten within the boundaries of the web.
-
-But the web remained.
-
-And every drow knew what waited beyond it.
+And every drow learned, sooner or later, what it cost to lose it.
