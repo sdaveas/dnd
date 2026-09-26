@@ -10,7 +10,7 @@ Layn stopped where the floor was worn pale and remained there.
 
 They discussed him as though the chamber were empty except for themselves, weighing his memory, discipline, and judgment without once addressing him.
 
-a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the ten years of it. Greyanna noted that he learned faster than he should.
+a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the ten years of it. Greyanna noted that he learned slower than he should.
 
 The Matron Mother listened without needing to dominate the conversation. The final decision belonged to her, and every female in the chamber spoke knowing it.
 
