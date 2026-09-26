@@ -6,23 +6,23 @@ This directory contains the prose version of Layn's backstory, developed separat
 
 The [character cheatsheet](cast.md) is the continuity reference for names, relationships, motives, voices, and status labels across the novel, audio, and comic adaptations.
 
-The backstory is organized by **character → backstory → chapter → format → section**. Each novel section has its audio render beside it, while comic scripts live in the chapter's `comic/` directory. Individual titles and scene boundaries may evolve as the prose is written.
+The backstory is organized by **character → backstory → chapter**. Each chapter is a standalone prose file; audio renders and comic scripts remain in their respective production directories. Individual titles and scene boundaries may evolve as the prose is written.
 
 ## Story Structure
 
-### Chapter 1 — Beneath the Spider's City
+## Chapters 1–9
 
-- **Section 1 — Menzoberranzan** — the city and its living architecture; the origins and nature of the drow (corrupted surface elves, centuries-long lifespans, darkvision and birthright magic, the surface elves their deadliest foes). [`novel/section-1-menzoberranzan.md`](chapter-1/novel/section-1-menzoberranzan.md)
-- **Section 2 — The Web** — religion, rank, gender, and daily behavior; the hierarchy chain and the ways of the goddess, ending on a name deliberately withheld until now. [`novel/section-2-web-of-lolth.md`](chapter-1/novel/section-2-web-of-lolth.md)
-- **Section 3 — House Freth** — house law, hierarchy, and the boy's final reveal. [`novel/section-3-house-freth.md`](chapter-1/novel/section-3-house-freth.md)
+- **Chapter 1 — Menzoberranzan** — the city and its living architecture; the origins and nature of the drow.
+- **Chapter 2 — The Web** — religion, rank, gender, and daily behavior.
+- **Chapter 3 — House Freth** — house law, hierarchy, and the boy's final reveal.
+- **Chapter 4 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy.
+- **Chapter 5 — The Small Corrections** — the nine-year bridge: the spider routine, sanctioned education, secrecy craft, phobia, hallucinations, and the path toward the hearing.
+- **Chapter 6 — The Three Lessons** — the house-law lessons and the discoveries that reshape Layn's understanding of his place.
+- **Chapter 7 — The Long Quiet** — the long middle period of training, fear, concealment, and change.
+- **Chapter 8 — The Last Lesson** — the final assessment and spar with Zilvrae.
+- **Chapter 9 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and the academy decision.
 
-### Chapter 2 — The Web Within House Freth
-
-- **Section 1 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy. [`novel/section-1-a-normal-day.md`](chapter-2/novel/section-1-a-normal-day.md)
-- **Section 2 — The Small Corrections** — the nine-year bridge: the spider routine, the sanctioned education (weapons, birthright powers, secrecy craft), the phobia and the hallucinations, and the summons to the hearing. [`novel/section-2-the-small-corrections.md`](chapter-2/novel/section-2-the-small-corrections.md)
-- **Section 3 — The Hearing** — the hearing becomes a supernatural trial: the amplifier, the handicapped sisters, the spirit arena, the Matron Mother's intervention, and the academy decision. [`novel/section-3-the-hearing.md`](chapter-2/novel/section-3-the-hearing.md)
-
-### Chapter 3 — The Academy
+### Chapter 3 — The Academy/
 
 The academy is a 10-year course (canon, Homeland p.151); the four sections below span Layn's first four years (≈1315–1318 DR). Melee-Magthere's next opening falls in the year Layn turns 19. Drizzt Do'Urden enters in Layn's third year (≈1317 DR) — a name and a technique, never a friend.
 
@@ -90,4 +90,4 @@ The final prose should read naturally aloud: varied sentence length, clear parag
 
 ## Drafting Status
 
-**I.1 — Beneath the Spider's City**, **I.2.1 — A Normal Day**, **I.2.2 — The Small Corrections**, and **I.2.3 — The Hearing** are now drafted. I.2.2 has been revised against the final eight-scene plan while preserving the strongest material from the previous prose version; the current prose is the active version. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
+**Chapters 1–9** are now drafted. I.2.2 has been revised against the final eight-scene plan while preserving the strongest material from the previous prose version; the current prose is the active version. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
