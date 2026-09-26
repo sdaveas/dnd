@@ -1,4 +1,4 @@
-# Chapter 7 — The Long Quiet
+# Chapter 8 — The Long Quiet
 
 Concealment belonged to the same part of the day as weapons.
 
