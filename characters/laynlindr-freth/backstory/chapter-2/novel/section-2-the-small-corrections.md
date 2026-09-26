@@ -588,9 +588,9 @@ Dreydre frowned. “He used to reach.”
 
 “And now he doesn't,” Zilvrae said.
 
-The sisters exchanged a look before Greyanna broke the silence. “He is still having episodes.”
+The sisters exchanged a look.
 
-Zilvrae gave a small nod. “Then he is still not sleeping properly.”
+“I am more concerned about his training progression,” Zilvrae continued. “He is not resting properly.”
 
 Dreydre's mouth curved. “If a few spiders are enough to keep him awake, perhaps he deserves the exhaustion.”
 
