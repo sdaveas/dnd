@@ -82,11 +82,11 @@ Layn looked at her empty hands, then at the weapon rack. “What's your favorite
 
 Zilvrae stood in the center of the gallery with empty hands, but that did not make it ordinary.
 
-Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery's violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful sword in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
+Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery's violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful quarterstaff in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
 
 Layn watched her lift it.
 
-The sword moved as she stepped forward, turned it through one hand, caught the grip again, and changed her angle without breaking rhythm. It cut, redirected, swept low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
+The quarterstaff moved as she stepped forward, turned it through one hand, caught it again, and changed her angle without breaking rhythm. It swept, redirected, struck low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
 
 Layn had seen the sequence before, but he watched anyway.
 
@@ -94,7 +94,7 @@ Layn watched the weapon as though he might find the answer in its construction. 
 
 Zilvrae's mouth tightened almost imperceptibly. “Nothing you need to concern yourself with.”
 
-She lowered the sword slightly. “It has weight. It has reach. It breaks things when I tell it to.”
+She lowered the quarterstaff slightly. “It has weight. It has reach. It breaks things when I tell it to.”
 
 Layn looked at it again. “How long does it stay?” he asked, still watching the impossible blade.
 
@@ -122,7 +122,7 @@ There was a brief silence before Zilvrae said, in the same tone she might have u
 
 Layn pushed himself upright, red-faced.
 
-Zilvrae had already formed the sword again. “And now—again.”
+Zilvrae had already formed the quarterstaff again. “And now—again.”
 
 He got to his feet.
 
