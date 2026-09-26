@@ -12,23 +12,23 @@ Layn had little that came easily: he was neither the strongest nor the quickest,
 
 What he had was persistence; he listened, remembered, and, when Zilvrae corrected the same mistake for the fourth time, he made the correction a fifth time without complaint. When a movement refused to become natural, he repeated it until the awkwardness stopped feeling like an obstacle and became another thing his body knew how to do.
 
-Zilvrae did not care how many repetitions it took. “Again,” Zilvrae said.
+Zilvrae did not care how many repetitions it took. “Again.”
 
 Layn reset his feet. Zilvrae watched the tension in his left shoulder. “Relax it.”
 
 He loosened the shoulder.
 
-Zilvrae gave him no time to settle into the correction. “Again.” The staff came forward, and Layn watched the weapon as it changed direction and he followed, only for Zilvrae to step around his guard and touch his wrist with the end of her staff.
+Zilvrae gave him no time to settle into the correction. “Again.” The staff came forward. Layn followed the weapon as it changed direction, and Zilvrae stepped around his guard to touch his wrist with the end of her staff.
 
 “You are watching the weapon,” Zilvrae said, and tapped his wrist with the staff.
 
-“I am watching your hand.”
+Layn's eyes stayed on her hand. “I am watching your hand.”
 
 She stopped and lowered the staff, studying him rather than the weapon. “Then you are watching the wrong hand.”
 
 Layn frowned, unwilling to concede the point.
 
-“The weapon tells you what has already happened,” she said. “The body tells you what is about to happen.”
+She shifted her weight, barely enough for him to see it. “The weapon tells you what has already happened. The body tells you what is about to happen.”
 
 She demonstrated the movement slowly. The change was so slight that Layn almost missed it: a shift in weight, a turn of the shoulder, the smallest adjustment in the angle of her feet.
 
@@ -176,13 +176,13 @@ One evening, after the day's first two lessons were finished, Zilvrae placed an 
 
 Her finger rested on the first line.
 
-“Menzoberranzan contains fifty noble houses.”
+Her finger rested on the first line. “Menzoberranzan contains fifty noble houses.”
 
 Layn waited.
 
 She moved her finger down the page.
 
-“House Freth is nineteenth.”
+She moved her finger down the page. “House Freth is nineteenth.”
 
 She watched him for a reaction before continuing. “You will eventually understand what that means. Not merely that nineteenth is above some houses and beneath others, but what rank permits, what it demands, and what obligations follow from it.”
 
@@ -196,19 +196,17 @@ Zilvrae tapped the page once. “You are a noble male of House Freth. You have v
 
 Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. Then he looked back at her.
 
-“And if I don't?”
+Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. “And if I don't?”
 
-Zilvrae held his gaze.
-
-“Eventually someone will teach you by making you pay for the mistake.”
+Zilvrae held his gaze. “Eventually someone will teach you by making you pay for the mistake.”
 
 The room went quiet.
 
 She studied him for a moment, then closed the book.
 
-“Learn from me instead.”
+She studied him for a moment, then closed the book. “Learn from me instead.”
 
-There was nothing warm in the offer, yet somehow Layn felt that made it more valuable.
+There was nothing warm in the offer. That made it more valuable.
 
 Zilvrae moved the book a few inches aside and let her gaze settle somewhere beyond him.
 
@@ -244,11 +242,11 @@ She tapped the cover.
 
 She tapped her fingers against the hard cover.
 
-“Fallen houses are rarely discussed.”
+Zilvrae's fingers rested on the hard cover. “Fallen houses are rarely discussed.”
 
-“Why?”
+Layn frowned. “Why?”
 
-“Because there is little advantage in remembering them.”
+Zilvrae turned the page. “Because there is little advantage in remembering them.”
 
 Zilvrae's finger traced the scroll held by the female figure.
 
@@ -402,11 +400,11 @@ He looked around the corridor.
 
 Then he smiled despite himself.
 
-"Again."
+“Again.”
 
 Zilvrae's expression barely changed.
 
-"Good."
+“Good.”
 
 From that day forward, concealment became part of his physical education.
 
@@ -514,7 +512,7 @@ Her eyes narrowed slightly. “That is rarely a sufficient reason.”
 
 He expected the question to be dismissed. Instead she rose, crossed the room, and returned with a recently written House Freth volume.
 
-“I have no expertise in such things,” she said, setting the book before him. “But the house keeps records.”
+She set the book before him. “I have no expertise in such things. But the house keeps records.”
 
 She opened the book.
 
@@ -560,15 +558,15 @@ There was no warning beyond the observations, no moral judgment, only records.
 
 Layn looked from the page to the illustrations, then from one entry to the other. “So one raises what is already there.”
 
-“For a brief time,” Zilvrae said, watching his face.
+Zilvrae watched his face. “For a brief time.”
 
 “And the other lowers it.”
 
-“Yes.”
+Zilvrae nodded. “Yes.”
 
 “It doesn't create anything?”
 
-“No.”
+Zilvrae shook her head once. “No.”
 
 Layn returned to the black preparation entry. “Then the weaker the subject…”
 
@@ -626,11 +624,11 @@ Zilvrae's expression did not change as her gaze remained on Dreydre. “It has s
 
 “That has never stopped him from completing his lessons,” Dreydre replied.
 
-“It has slowed him.”
+Zilvrae kept her gaze on the sisters. “It has slowed him.”
 
 Greyanna crossed her arms. “Fear works.”
 
-“I have not said that it doesn't.”
+Zilvrae did not move. “I have not said that it doesn't.”
 
 “Then why are you arguing with us?”
 
@@ -672,7 +670,7 @@ Her voice remained level.
 
 Greyanna's expression tightened. “Discipline is not the same as fear.”
 
-“No.” Zilvrae's answer came without hesitation. She nodded once. “That is precisely my point.”
+Zilvrae did not hesitate. “No. That is precisely my point.”
 
 She stepped toward the table. “One can live with discipline.”
 
@@ -690,7 +688,7 @@ Zilvrae addressed the Matron Mother without lowering her eyes. “The boy's prog
 
 The Matron Mother considered her in silence. “And you believe that is more effective?”
 
-“In the long term.”
+Zilvrae met the Matron Mother's gaze. “In the long term.”
 
 A silence followed as the Matron Mother looked at Dreydre, then Greyanna.
 
@@ -708,7 +706,7 @@ Another drow from the household came with her, carrying a slate and speaking in 
 
 The other drow shifted the slate under one arm. “The shipment from the lower galleries is delayed.”
 
-“Then the stores will complain,” Zilvrae said, taking the slate from him.
+Zilvrae took the slate from him. “Then the stores will complain.”
 
 “They already have.”
 
@@ -726,7 +724,7 @@ He had been visible the entire time.
 
 His clothing blended with the dark stone and the hanging practice gear. He had chosen a position no one naturally looked at because nothing in it suggested that a person belonged there.
 
-Zilvrae regarded him. “Acceptable,” she said, examining his hiding place rather than him.
+Zilvrae regarded him. Her eyes remained on his hiding place. “Acceptable.”
 
 “I thought so,” Layn replied, letting a small smile escape.
 
@@ -800,7 +798,7 @@ One bright patch swept across the far wall.
 
 A smile touched one corner of her mouth.
 
-"Better."
+“Better.”
 
 The lights continued moving.
 
@@ -926,7 +924,7 @@ Layn turned to find Greyanna standing in the doorway. “The hearing is tonight.
 
 Layn looked at her, trying to read the answer before he asked for it. “Are you going to be there?”
 
-“No,” Greyanna said immediately. Her eyes moved briefly toward Zilvrae. “My work is finished. From here, you are in the hands of your family.”
+Greyanna's eyes moved briefly toward Zilvrae. “No. My work is finished. From here, you are in the hands of your family.”
 
 Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
 
