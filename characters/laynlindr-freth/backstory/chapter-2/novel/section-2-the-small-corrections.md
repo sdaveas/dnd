@@ -856,9 +856,9 @@ Zilvrae lowered the weapon and released him.
 
 Layn rubbed his jaw and gave her a crooked smile. “Nice trick.”
 
-Zilvrae lowered the sword. “The combat work is sufficient.”
+Zilvrae lowered the quarterstaff. “The combat work is sufficient.”
 
-Layn lowered his dagger.
+Layn relaxed his stance.
 
 Layn looked at her, rubbing the ache from his jaw. “Sufficient?”
 
