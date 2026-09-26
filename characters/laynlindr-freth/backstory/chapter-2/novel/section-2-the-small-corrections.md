@@ -832,13 +832,15 @@ He drove forward.
 
 Zilvrae let him.
 
-Then the quarterstaff disappeared.
+At the instant Layn's defensive dagger came up to intercept the strike, the quarterstaff vanished.
 
-Layn's defensive dagger cut through empty air where the weapon had been.
+Layn's dagger cut through empty air.
 
-The quarterstaff reappeared almost instantly in Zilvrae's hands.
+Then the quarterstaff reappeared on the other side of his guard, between the dagger and his jaw.
 
-The movement was so quick that Layn barely understood what had happened before the quarterstaff's end struck his jaw, snapping his head sideways and buckling his knees.
+The movement was so fast that, for an instant, it seemed to Layn that the quarterstaff had passed straight through his blade.
+
+The end of it struck his jaw, snapping his head sideways and buckling his knees.
 
 Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
