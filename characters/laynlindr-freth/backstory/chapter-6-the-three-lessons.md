@@ -1,4 +1,4 @@
-# Chapter 6 — The Three Lessons
+# Chapter 7 — The Three Lessons
 
 The middle of the day belonged to magic.
 
