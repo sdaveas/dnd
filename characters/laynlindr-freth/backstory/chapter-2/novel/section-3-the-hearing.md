@@ -44,7 +44,7 @@ Behind the priestess, at the chamber’s edge, two more priestesses had already 
 
 The black vessel smoked though nothing burned; the smoke did not rise, but crawled along the glass like something slow and alive, while the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the dungeons, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
 
-He recognized both elixirs from those basement experiments, and their appearance from Zilvrae's lessons. The knowledge was already in him. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
+He recognized both elixirs from those basement experiments, and their appearance from Zilvrae's lessons. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
 
 He took a step backward, then another, his eyes flicking desperately toward the guarded door. His face stayed still and his heart did not. He shook his head once, slowly.
 
