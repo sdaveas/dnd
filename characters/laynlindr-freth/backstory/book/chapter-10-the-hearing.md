@@ -170,7 +170,7 @@ The manifestations went out like lamps: the figures folded down into Dreydre and
 
 The chanting had stopped.
 
-* * *
+---
 
 A few moments later, Dreydre was on her knees, understanding that her legs had failed.
 

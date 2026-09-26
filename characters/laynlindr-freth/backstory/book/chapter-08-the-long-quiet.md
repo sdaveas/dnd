@@ -1,105 +1,5 @@
 # Chapter 8 — The Long Quiet
 
-Concealment belonged to the same part of the day as weapons.
-
-One morning, in an empty corridor, Zilvrae watched him study the length of the passage before speaking. “Fighting can make you powerful. It can make you feared. It can even make you admired.”
-
-She let the thought settle before adding, “It can also get you killed.”
-
-She stopped beneath one of the violet lamps and moved deliberately out of the center of the corridor. “Concealment offers something less impressive.”
-
-Layn waited.
-
-“Survival,” Zilvrae said.
-
-She stepped away from the center of the corridor.
-
-At first he could see her perfectly.
-
-Then servants passed.
-
-They moved around the place where she stood without looking directly at her.
-
-A priestess crossed the adjoining passage.
-
-Her eyes slid past Zilvrae.
-
-Layn frowned.
-
-He knew exactly where she was. He was looking straight at her.
-
-The priestess did not see her.
-
-Zilvrae had not vanished.
-
-She had simply become irrelevant to the attention passing through the corridor.
-
-A servant stopped and turned toward Layn.
-
-Instinctively, he looked away from Zilvrae.
-
-When he looked back, she was gone.
-
-He checked the corridor.
-
-Nothing.
-
-The doorway.
-
-Nothing.
-
-The pillar behind him.
-
-Nothing.
-
-Layn stared at the empty corridor. “Where—”
-
-“Do not ask,” Zilvrae said from close enough beside him to make him turn.
-
-She stood beside the same pillar he had already inspected.
-
-The trick had not been invisibility.
-
-It had been attention.
-
-"Again," she said.
-
-This time Layn understood before she explained.
-
-He looked around the corridor.
-
-Then he smiled despite himself.
-
-“Again.”
-
-Zilvrae's expression barely changed.
-
-“Good.”
-
-From that day forward, concealment became part of his physical education.
-
-She taught him where the eye naturally rested and where it tended to slide away, how to stand without presenting a shape that demanded attention, how to cross a room during the instant when someone else's attention was already occupied, how to move without letting the stone announce his weight.
-
-He learned the difference between hiding and being overlooked.
-
-The first required a place to hide. The second required understanding the person who might be looking.
-
-He practiced both.
-
-At first he was terrible.
-
-Then merely bad.
-
-Then tolerable.
-
-Years later, someone could walk past him at arm's length and fail to notice him if they had no reason to expect him there.
-
-The progress was not dramatic.
-
-It was earned one correction at a time.
-
----
-
 The first time Layn saw the lower laboratories was accidental.
 
 He had been avoiding his sisters.
@@ -252,7 +152,7 @@ She did not ask.
 
 ---
 
-Over the years, the three lessons gradually became one education: combat taught Layn what his body could do, magic taught him what his blood could do, and house law taught him what he was allowed to do.
+Over the years, the three lessons gradually became one uniform education: combat taught Layn what his body could do, magic taught him what his blood could do, and texts taught him what he was allowed to do.
 
 Some evenings, when the final lamp in his room had burned low, Layn would sit on the edge of his bed and consider how strange that distinction was.
 

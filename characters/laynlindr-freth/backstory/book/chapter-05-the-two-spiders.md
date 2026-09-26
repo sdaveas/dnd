@@ -14,7 +14,7 @@ The order had told them to wait for signs. The signs had come. Nothing in it had
 
 The boy’s mind could not be allowed to speak first.
 
-* * *
+---
 
 Layn walked back through the house knowing which stairs were watched, which servants repeated everything they heard, and which doors could be opened without making a sound. He had never been told any of it; the knowledge was simply where the house was, and he assumed the others knew their own ways as well.
 

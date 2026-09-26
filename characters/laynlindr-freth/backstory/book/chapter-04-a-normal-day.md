@@ -52,7 +52,7 @@ He had stopped trying.
 
 It was how a family was arranged. The house stood at the top, his mother carried the house, the daughters carried the name, and the males carried what was left. He had never thought to question the shape of it any more than he questioned the stone it was carved from. Being passed over was not a wound. It was a place, the way a stone in a wall is a place, and he had been born into his.
 
-* * *
+---
 
 The first lesson began after the meal, as it always did. House Freth educated its children inside the house until their twentieth year; the daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline, while the males learned enough of those matters to avoid interfering with them. The alliances lasted as long as they were useful.
 
@@ -106,7 +106,7 @@ The tutor had many ways of teaching a child what not to expect.
 
 Layn would soon discover that his sisters had more.
 
-* * *
+---
 
 Greyanna found him in the passage outside the records room. She planted herself in the middle of it and looked down at him, studying him for a moment before smiling as though she had found an opening.
 
@@ -204,7 +204,7 @@ Dreydre's fingers tightened around the pin. “You will not mention this.”
 
 Layn watched her face. “Mention what?”
 
-Her gaze hardened. “Tonight.”
+Her gaze hardened. “Our little game.”
 
 He understood the warning and tested it anyway. “It was only a guess.”
 

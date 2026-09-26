@@ -1,4 +1,56 @@
-# Chapter 7 — The Three Lessons
+# Chapter 6 — The Small Corrections
+
+By twelve, Layn had learned that the training gallery was the only room in House Freth where a mistake was allowed to have a reason.
+
+The floor had been worn smooth beneath generations of feet. The walls carried the shallow scars of practice weapons striking stone. Along one side of the chamber stood orderly racks of staves, swords, short blades, and heavier weapons meant for bodies stronger than his. Nothing in the gallery was decorative. Every object had a use, and Zilvrae expected that use to be understood.
+
+There were no other boys in House Freth for Layn to measure himself against. Noble houses did not produce children in such numbers. A child might be absent from one household for years before another was born, and Layn was the only young drow of his age under House Freth's roof.
+
+Zilvrae therefore measured him against older lessons. She had taught young drow who were powerful before they were disciplined, quick before they were precise, clever before they were patient. She had taught some who learned a movement in a morning and some who needed weeks to stop making the same mistake. She had watched students become arrogant when praised and careless when they discovered something came easily.
+
+Layn had little that came easily: he was neither the strongest nor the quickest. His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
+
+What he had was persistence; he listened, remembered, and, when Zilvrae corrected the same mistake for the fourth time, he made the correction a fifth time without complaint. When a movement refused to become natural, he repeated it until the awkwardness stopped feeling like an obstacle and became another thing his body knew how to do.
+
+Zilvrae did not care how many repetitions it took. “Again.”
+
+Layn reset his feet. Zilvrae watched the tension in his left shoulder. “Relax it.”
+
+He loosened the shoulder.
+
+Zilvrae gave him no time to settle into the correction. “Again.” The staff came forward. Layn followed the weapon as it changed direction, and Zilvrae stepped around his guard to touch his wrist with the end of her staff.
+
+“You are watching the weapon,” Zilvrae said, and tapped his wrist with the staff.
+
+Layn's eyes stayed on her hand. “I am watching your hand.”
+
+She stopped and lowered the staff, studying him rather than the weapon. “Then you are watching the wrong hand.”
+
+Layn frowned, unwilling to concede the point.
+
+She shifted her weight, barely enough for him to see it. “The weapon tells you what has already happened. The body tells you what is about to happen.”
+
+She demonstrated the movement slowly. The change was so slight that Layn almost missed it: a shift in weight, a turn of the shoulder, the smallest adjustment in the angle of her feet.
+
+“Again.” Zilvrae raised the staff once more.
+
+Layn tried and was wrong. Zilvrae corrected his stance. “Again.” The next attempt was closer.
+
+She struck his shoulder again, but this time the contact was lighter. “Better.”
+
+Layn swallowed his irritation, having already learned that it did not make the next attempt better, and tried again.
+
+This time he saw the movement sooner; he was still too slow to stop it, but he had seen it.
+
+Zilvrae lowered her staff. “Again.”
+
+That was how the days went: he did not become brilliant, but he became competent.
+
+The distinction mattered less to Zilvrae than it did to him. She had been assigned a boy to educate, and she took the assignment seriously. His future was not hers to choose. For several years the house would give him the foundations every young drow was expected to possess; at twenty, a young drow would be expected to leave that foundation behind and enter the academy appropriate to the path chosen for him, whether the way of the blade or the way of spellcraft.
+
+Her responsibility was narrower: whatever came next, he would not embarrass her work.
+
+---
 
 The middle of the day belonged to magic.
 
@@ -41,6 +93,8 @@ None of this made him exceptional. Every drow was expected to learn what came na
 “Again.” Layn obeyed, and by the end of the day his palms might ache from the weapons, his eyes might burn from studying magical traces, and his thoughts might feel heavy from memorizing law. For the first time in his life, exhaustion had a different shape: he was not tired because someone had frightened him, but because he had been taught.
 
 ---
+
+At the evenings, they studied.
 
 One evening, after the day's first two lessons were finished, Zilvrae placed an open book before him.
 
@@ -127,47 +181,3 @@ Layn waited.
 “There is no other name you need to know.”
 
 “Now, read.”
-
----
-
-The spiders continued—always two.
-
-At first they still appeared in his bed often enough that he could almost measure his fear by the calendar, then less often, and eventually not at all. The sisters did not become kinder; they simply stopped needing to come so close.
-
-The physical visits disappeared, but the fear did not.
-
-Layn would lie down and remember the last night in which two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it.
-
-Some nights he would wake convinced he had felt movement beside his leg.
-
-Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds before dawn deciding whether the room was real; once he woke certain that the carved spider above his doorway had turned to look at him, and he remained still, watching it until his breathing slowed and the carving became only stone again.
-
-He never decided whether it had moved at all.
-
-There were other episodes: the certainty that someone had entered a room before the door opened, a shape at the edge of his vision disappearing the instant he turned toward it, or the scrape of something against stone sending a pulse through his body so sudden that his hands were shaking before he understood why.
-
-At first he fought the sensation, which made it worse. Then he remembered Zilvrae: *Do not react to the first movement.* So he stopped, sat still, breathed slowly enough to feel each breath reach the bottom of his lungs, and looked at the room one object at a time—the bed, the table, the door, the carving, and nothing else.
-
-He waited for his heartbeat to stop trying to outrun him.
-
-Sometimes the panic faded in a few breaths, sometimes it took much longer, but he learned not to measure the victory by how quickly it disappeared. The victory was that it disappeared without making the decision for him.
-
-Years earlier, when his sisters had first put two spiders in his bed, fear had frozen him because he had nowhere to put it. Now he had somewhere to put it: he could stand still, breathe, wait, and let the body spend its first answer before choosing his own.
-
-During the day, something else changed as well.
-
-The strange pressure behind his eyes became less frequent, the certainty of movement weaker, and the moments in which something seemed to answer him brief and indistinct. Whatever had once reached outward had become smaller, quieter, harder to summon.
-
-Sometimes he noticed it, sometimes he thought he noticed it, but more often there was simply nothing.
-
-Layn stopped trying to call for it.
-
-He focused on what he could learn by ordinary means.
-
-The house had given him enough work without mysteries.
-
-The sisters remained watchful.
-
-The house remained itself.
-
-And the years passed.
