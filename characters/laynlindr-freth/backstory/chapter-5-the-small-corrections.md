@@ -1,6 +1,6 @@
-# Chapter 5 — The Small Corrections
+# Chapter 5 — The Order
 
-order had come down years ago with no reason attached: the boy was to be given room—no marks, no cruelty—and watched. If the gift showed itself, it was to be suppressed before it could speak. Their mother did not explain her commands, and the house did not ask for explanations.
+The order had come down years ago with no reason attached: the boy was to be given room—no marks, no cruelty—and watched. If the gift showed itself, it was to be suppressed before it could speak. Their mother did not explain her commands, and the house did not ask for explanations.
 
 Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, tested, and learned little until tonight.
 
