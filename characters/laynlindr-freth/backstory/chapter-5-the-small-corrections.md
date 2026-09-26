@@ -1,6 +1,6 @@
 # Chapter 5 — The Small Corrections
 
-# 2.2 — The Long Quiet
+# Chapter 5 — The Small Corrections
 
 By twelve, Layn had learned that the training gallery was the only room in House Freth where a mistake was allowed to have a reason.
 
