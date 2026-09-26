@@ -1,188 +1,131 @@
-# Reader's Guide
+# Glossary
 
-This section is a quick reference for the names, places, institutions, religious terms, and recurring concepts used throughout Layn's story. Explanations are intentionally brief so the guide can be used while reading without replacing the story itself.
+A quick reference to the names, places, institutions, people, objects, abilities, and concepts used throughout Layn's story. Entries are brief and descriptive; they do not assign motives, morality, or alignment to characters.
 
-## Characters
+## A
 
-### Laynlindr "Layn" Freth
-Male drow of House Freth and the central character of the book. Son of the Matron Mother of House Freth and younger brother of Dreydre and Greyanna.
+**Academy** — A drow educational institution for young drow. Melee-Magthere is the martial academy Layn is sent to attend.
 
-### Zilvrae Freth
-Drow of House Freth and Layn's instructor. She teaches him combat, magic, concealment, and House law. Her preferred weapon is a manifested quarterstaff.
+**Amplifier** — A substance or magical preparation that intensifies a capability already present in its subject.
 
-### Dreydre
-Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the later hearing.
+**Archmage** — The highest-ranking arcane authority associated with Menzoberranzan. The Archmage controls the daily heating of Narbondel.
 
-### Greyanna
-Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the later hearing.
+**Astux** — A spoken command Layn uses during training to break a magical effect.
 
-### The Matron Mother
-Ruler of House Freth and mother of Layn, Dreydre, and Greyanna.
+## B
 
-### Priestesses
-Female drow who serve Lolth. They perform religious rites and exercise religious authority in Menzoberranzan.
+**The Bazaar** — A major marketplace of Menzoberranzan where merchants, craftsmen, slaves, and travelers conduct business.
 
-### Archmage
-The highest-ranking arcane authority associated with Menzoberranzan. The Archmage controls the daily heating of Narbondel.
+**Black Preparation** — A dark preparation that amplifies an existing capability. Its effects can be physically destructive when used on an unsuitable subject.
 
-## Places
+**Blasphemy** — A religious offense against Lolth. In Menzoberranzan, accusations of blasphemy can be subject to religious judgment.
 
-### Menzoberranzan
-The great drow city beneath the surface world. It is built inside an enormous cavern and governed through a hierarchy of noble Houses, with Lolth's religion deeply embedded in its society and law.
+## D
 
-### Narbondel
-A huge natural stone pillar at the center of Menzoberranzan. The Archmage heats it each morning, and the movement and eventual fading of the heat serve as the city's clock.
+**Darkness** — A drow magical effect that creates an area of supernatural darkness. Layn learns to use it as part of his combat training.
 
-### The Bazaar
-A major marketplace of Menzoberranzan where merchants, craftsmen, servants, slaves, and travelers conduct business.
+**Dreydre** — Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the Hearing.
 
-### Duthcloim
-A crowded commercial district of Menzoberranzan associated with merchants, craftsmen, markets, and trade.
+**Drow** — The subterranean elves who inhabit Menzoberranzan and other parts of the Underdark. Drow society is organized through noble Houses and religious authority.
 
-### Narbondellyn
-A wealthy district containing elegant estates, fashionable shops, and prosperous noble and mercantile interests.
+**Duthcloim** — A commercial district of Menzoberranzan associated with merchants, craftsmen, markets, and trade.
 
-### Qu'ellarz'orl
-The secluded noble quarter of Menzoberranzan, where the greatest Houses occupy the heights.
+## F
 
-### House Freth
-The noble House to which Layn belongs. It is the nineteenth-ranked House of Menzoberranzan and the center of Layn's childhood.
+**Faerie Fire** — A drow magical effect that outlines a creature or object with colored light, making it easier to see in darkness.
 
-### House Baenre
-The First House of Menzoberranzan. Its rank gives it extraordinary political and religious authority.
+**First House** — The highest-ranked noble House in Menzoberranzan. During Layn's childhood, this position belongs to House Baenre.
 
-### House Teken'duis
-A noble House whose conflict with the religious hierarchy provides an early illustration of how House politics, law, and devotion to Lolth overlap.
+## G
 
-### House Do'Urden
-A noble House that rose in rank after another House ceased to exist. It is mentioned as an example of how the political order of Menzoberranzan can change.
+**Greyanna** — Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the Hearing.
 
-## Society and hierarchy
+## H
 
-### Drow
-The dark-skinned subterranean elves who inhabit Menzoberranzan and other parts of the Underdark. Their society is strongly hierarchical, with noble Houses, religious authority, and rigid expectations surrounding rank and gender.
+**House Baenre** — The First House of Menzoberranzan.
 
-### Noble Houses
-Powerful drow families that form the political structure of Menzoberranzan. A House's rank, wealth, military strength, reputation, and perceived favor with Lolth all affect its position.
+**House Do'Urden** — A noble House mentioned as having risen in rank after a higher-ranked House ceased to exist.
 
-### Matron Mother
-The ruling woman of a noble House. The title represents both familial and political authority.
+**House Emblem** — A symbol identifying a noble House. House emblems appear on clothing, weapons, buildings, banners, and other objects associated with a House.
 
-### First House
-The highest-ranked noble House in Menzoberranzan. In the book, this position belongs to House Baenre.
+**House Freth** — A noble House of Menzoberranzan. It is the nineteenth-ranked House and the House to which Layn belongs.
 
-### House Rank
-The formal position a noble House occupies relative to the other Houses. Rank determines expectations, privileges, obligations, and the amount of power a House can exert.
+**House Law** — The rules governing conduct, authority, obligations, and permitted action within a noble House.
 
-### House Law
-The rules governing conduct, authority, obligations, and survival within a noble House. Zilvrae teaches Layn to understand law as a structure rather than as kindness or cruelty.
+**House Rank** — The formal position a noble House occupies relative to the other Houses of Menzoberranzan.
 
-### The Hearing
-The formal assessment at which Layn's family determines what will happen to him after his childhood training. It marks the transition between his upbringing inside House Freth and the next stage of his life.
+**House Teken'duis** — A noble House involved in the religious proceedings shown at the beginning of Layn's story.
 
-### Melee-Magthere
-The martial academy of Menzoberranzan. It is the traditional institution for young drow who pursue the path of the warrior.
+**The Hearing** — The formal assessment of Layn by his family at the end of his childhood training.
 
-## Religion
+## L
 
-### Lolth
-The Spider Queen and principal deity of Menzoberranzan's drow society. Her worship shapes religion, politics, law, and the fortunes of noble Houses.
+**Laynlindr "Layn" Freth** — A male drow of House Freth and the central character of the book. He is the son of the Matron Mother of House Freth and the younger brother of Dreydre and Greyanna.
 
-### Spider Queen
-A title for Lolth, emphasizing her association with spiders, judgment, power, and the web that symbolizes drow society.
+**The Long Quiet** — The prolonged period of Layn's childhood in which his training continues while the visible signs of his unexplained manifestations become less frequent.
 
-### The Web
-A recurring image and concept associated with Lolth and with the interconnected power structures of Menzoberranzan. It also reflects the way individuals and Houses become trapped in relationships of power.
+**Lolth** — The principal deity of Menzoberranzan's drow society. She is associated with spiders and is worshipped as the Spider Queen.
 
-### Blasphemy
-A religious offense against Lolth. In Menzoberranzan, accusations of blasphemy can become matters of political and judicial importance rather than merely private religious disputes.
+## M
 
-### Priestess
-A female drow serving Lolth. Priestesses perform religious rites and can exercise substantial legal and political authority.
+**Magic** — Supernatural power used by drow for abilities including light, darkness, levitation, revealing hidden targets, and other magical effects.
 
-## Magic and abilities
+**Manifestation** — The appearance of a weapon or other form through supernatural power. Zilvrae can manifest weapons through magic; Layn later manifests forms through his psionic power.
 
-### Drow Magic
-The innate magical abilities associated with drow, including the ability to create light, darkness, levitate objects or bodies, and reveal or affect targets through magic.
+**Matron Mother** — The ruling woman of a noble House. In House Freth, the Matron Mother is Layn's mother and the ruler of the House.
 
-### Faerie Fire
-A drow magical effect that causes a target to become visibly outlined, making it easier to see and attack in darkness.
+**Melee-Magthere** — The martial academy of Menzoberranzan. Layn is sent there following the Hearing.
 
-### Levitation
-The ability to cause a creature or object to rise or remain suspended above the ground.
+**Menzoberranzan** — The great drow city beneath the surface world. It occupies a vast cavern and is organized around noble Houses, religious authority, and a formal hierarchy.
 
-### Darkness
-A magical effect that creates an area of supernatural darkness. In the book it is treated as a practical tool as much as a spell.
+## N
 
-### Manifestation
-The appearance of a weapon, entity, or other form through supernatural power. Zilvrae can manifest a weapon despite having no psionic gift; Layn's later manifestations arise from a very different source.
+**Narbondel** — A huge natural stone pillar at the center of Menzoberranzan. The Archmage heats it each morning, and the movement and fading of its heat serve as the city's clock.
 
-### Psionic Power
-Power originating from the mind rather than conventional spellcasting. Layn's unexplained ability gradually becomes the central mystery surrounding him.
+**Narbondellyn** — A wealthy district of Menzoberranzan containing estates, shops, artisans, and prosperous residents.
 
-### Amplifier
-A substance or magical preparation capable of intensifying an existing capability. The black preparation used in the hearing amplifies Layn's latent power dramatically.
+**Noble Houses** — The powerful drow families that form the political structure of Menzoberranzan. Houses possess different ranks and compete for power, wealth, influence, and the favor of Lolth.
 
-### White Preparation
-A pale preparation that interferes with the ability to channel supernatural power while leaving physical endurance comparatively intact. It is used to limit the sisters during the hearing.
+## P
 
-### Black Preparation
-A dark alchemical preparation that amplifies an existing capability. Its effects can be physically destructive when used on an unsuitable subject.
+**Priestess** — A female drow who serves Lolth. Priestesses perform religious rites and exercise religious authority in Menzoberranzan.
 
-### Spirit Arena
-The altered space created during the hearing in which the participants' inner or spiritual forms become physically represented and can confront one another.
+**Psionic Power** — Supernatural power originating from the mind rather than conventional drow spellcasting. Layn's unexplained manifestations are connected to this power.
 
-## Training and recurring concepts
+## Q
 
-### The Three Lessons
-The three foundations of Layn's education: combat teaches the body, magic teaches the blood, and House law teaches what actions are permitted.
+**Qu'ellarz'orl** — The secluded noble quarter of Menzoberranzan, where the greatest Houses occupy the heights.
 
-### Concealment
-More than simply hiding. Zilvrae teaches Layn to control attention, remain overlooked, and understand when being unnoticed is more useful than being invisible.
+## R
 
-### The Two Spiders
-The recurring image at the center of Layn's childhood fear. Two spiders repeatedly become associated with the punishment and psychological pressure used against him, eventually becoming inseparable from his understanding of fear.
+**Rothé** — A subterranean herd animal whose milk is consumed by drow. Layn is served rothé milk during a meal in House Freth.
 
-### The Long Quiet
-The prolonged period in which Layn's childhood training continues while the signs of his hidden ability become less obvious, not necessarily less important.
+## S
 
-### Survival and Submission
-A distinction Zilvrae teaches Layn: obeying a rule because survival requires it is not necessarily the same as accepting that the person imposing the rule is right.
+**The Small Corrections** — The period of Layn's training in physical combat during which Zilvrae repeatedly corrects his technique and teaches him to use his chosen weapons.
 
-### Power and Expectation
-One of Zilvrae's central lessons about House society: greater status brings greater power, but also greater obligations and more ways to be threatened.
+**The Spider Queen** — A title for Lolth.
 
-## Terms and cultural details
+**Surface** — The world above the Underdark.
 
-### Surface
-The world above the Underdark. To the drow, the surface is both the ancestral world of the elves and the domain of their historical enemies.
+**Surface Elves** — Elves who live above the Underdark. Drow history describes them as the people from whom the drow were separated during the ancient conflict among the elves.
 
-### Surface Elves
-The elves who live above the Underdark. Drow culture remembers them as enemies and as part of the ancient history that drove the drow beneath the world.
+## T
 
-### Underdark
-The vast subterranean world beneath the surface, including Menzoberranzan and the tunnels and caverns surrounding it.
+**The Three Lessons** — The three foundations of Layn's education: combat teaches the body, magic teaches the blood, and House law teaches what actions are permitted.
 
-### House Emblem
-A symbol identifying a noble House. Emblems communicate affiliation and rank before a drow even speaks.
+**The Two Spiders** — Two spiders that become associated with Layn's childhood fear and the repeated punishment imposed through that fear.
 
-### Faerie Fire, darkness, and heat
-The drow experience darkness differently from surface peoples. Magical light, supernatural darkness, and the warmth of living bodies all function as information within Menzoberranzan.
+## U
 
-### The Academy
-A general term for the institutions where young drow continue their education after their House training. For Layn, the relevant martial academy is Melee-Magthere.
+**Underdark** — The vast subterranean world beneath the surface, including Menzoberranzan and the surrounding tunnels and caverns.
 
-## Names worth remembering
+## W
 
-- **Layn / Laynlindr Freth** — the protagonist.
-- **Zilvrae Freth** — Layn's mentor.
-- **Dreydre** — Layn's elder sister.
-- **Greyanna** — Layn's elder sister.
-- **Matron Mother** — ruler of House Freth.
-- **Lolth / Spider Queen** — the central deity of drow society.
-- **House Freth** — Layn's House, nineteenth in rank.
-- **House Baenre** — the First House.
-- **House Teken'duis** — a noble House involved in the opening religious conflict.
-- **House Do'Urden** — a House referenced as an example of political ascent.
-- **Menzoberranzan** — the city in which Layn is raised.
-- **Melee-Magthere** — the martial academy.
+**The Web** — A religious and cultural concept associated with Lolth and the structure of drow society. The image of the web recurs throughout Menzoberranzan and House Freth.
+
+**White Preparation** — A pale preparation that interferes with a subject's ability to channel a relevant supernatural capability for a limited period while leaving physical endurance intact.
+
+**Z**
+
+**Zilvrae Freth** — A drow of House Freth and Layn's instructor. She teaches him combat, magic, concealment, and House law. Her preferred weapon is a manifested quarterstaff.
