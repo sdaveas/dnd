@@ -23,7 +23,7 @@ The backstory is organized by **character → backstory → chapter**. Each chap
 - **Chapter 9 — The Last Lesson** — the final assessment and spar with Zilvrae.
 - **Chapter 10 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and the academy decision.
 
-### Chapter 3 — The Academy/
+#### Chapter 3 — The Academy/
 
 The academy is a 10-year course (canon, Homeland p.151); the four sections below span Layn's first four years (≈1315–1318 DR). Melee-Magthere's next opening falls in the year Layn turns 19. Drizzt Do'Urden enters in Layn's third year (≈1317 DR) — a name and a technique, never a friend.
 

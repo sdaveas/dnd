@@ -1,4 +1,4 @@
-# Chapter 9 — The Last Lesson
+## Chapter 9 — The Last Lesson
 
 By nineteen, the last day of his instruction arrived without ceremony.
 

@@ -1,4 +1,4 @@
-# Chapter 7 — Concealment
+## Chapter 7 — Concealment
 
 The spiders continued—always two.
 

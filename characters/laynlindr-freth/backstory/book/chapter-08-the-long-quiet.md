@@ -1,4 +1,4 @@
-# Chapter 8 — The Long Quiet
+## Chapter 8 — The Long Quiet
 
 The first time Layn saw the lower laboratories was accidental.
 

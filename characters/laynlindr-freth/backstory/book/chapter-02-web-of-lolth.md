@@ -1,4 +1,4 @@
-# Chapter 2 — The Web
+## Chapter 2 — The Web
 
 Two male drow soldiers stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them. One wore the insignia of an armed spider, each of its eight legs gripping a different weapon; the other wore two spiders facing one another in a dark metal clasp at his shoulder. They had stopped to settle the delivery of a small alchemical consignment.
 

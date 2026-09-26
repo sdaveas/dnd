@@ -1,4 +1,4 @@
-# Chapter 4 — A Normal Day
+## Chapter 4 — A Normal Day
 
 At ten years old, Layn had learned that a day in House Freth did not begin with sunlight, for there was no sunlight beneath Menzoberranzan; it began when the house changed its lights.
 

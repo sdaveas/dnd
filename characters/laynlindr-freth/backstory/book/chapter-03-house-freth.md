@@ -1,4 +1,4 @@
-# Chapter 3 — House Freth
+## Chapter 3 — House Freth
 
 House Freth was one of the lower houses of Menzoberranzan, and it did not forget what that meant. A house was family and faction, fortress and store of knowledge, the name that opened a door—or closed one forever. A house that appeared weak invited enemies.
 

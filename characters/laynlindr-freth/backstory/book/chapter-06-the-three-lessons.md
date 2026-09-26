@@ -1,4 +1,4 @@
-# Chapter 6 — The Small Corrections
+## Chapter 6 — The Small Corrections
 
 By twelve, Layn had learned that the training gallery was the only room in House Freth where a mistake was allowed to have a reason.
 
