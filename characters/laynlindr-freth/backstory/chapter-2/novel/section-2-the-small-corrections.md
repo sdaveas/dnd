@@ -728,7 +728,7 @@ She followed as he changed levels, matched him, and watched him feint left and c
 
 He was neither stronger nor faster; what he had was ten years of preparation.
 
-He knew how far the staff could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
+He knew how far the sword could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
 
 So he worked around her until his foot slipped and the sword touched his ribs. “Again.”
 
@@ -800,7 +800,7 @@ He turned in the air and brought one dagger down toward the opening beside her s
 
 Zilvrae heard the whistle of the blade at the last possible second and quickly twisted aside.
 
-The blade struck the quarterstaff with a hard metallic crack.
+The blade struck the sword with a hard metallic crack.
 
 The impact turned Layn sideways.
 
@@ -852,7 +852,7 @@ The movement was so quick that Layn barely understood what had happened before t
 
 Zilvrae caught his wrist before he could fall, turned him, and brought the sword beneath his throat.
 
-Layn's mind raced. For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
+Layn's mind raced. For ten years he had watched Zilvrae use the sword in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
 
 The years were all there: the first clumsy footwork, the repeated corrections, the dagger choice, the understanding of reach, the use of darkness, the controlled lights, the ability to recognize the magic laid over him, the ability to undo it, and the discipline not to react simply because fear or surprise demanded it.
 
@@ -888,6 +888,38 @@ Layn stood quietly. Zilvrae studied him for a moment. “You learned.” The wor
 
 She looked toward the place where he had first emerged at the beginning of the lesson.
 
-Zilvrae lowered the quarterstaff. “The training is complete.”
+Zilvrae lowered the sword. “The training is complete.”
 
 She said nothing about the future; that was not hers to decide.
+
+The sound of the opening door interrupted the silence.
+
+Layn turned to find Greyanna standing in the doorway. “The hearing is tonight.”
+
+Layn looked at her, trying to read the answer before he asked for it. “Are you going to be there?”
+
+Greyanna's eyes moved briefly toward Zilvrae. “No. My work is finished. From here, you are in the hands of your family.”
+
+Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
+
+Zilvrae's expression softened by the smallest degree. “You are going to be decent.”
+
+“I always am,” Layn said with a faint smile.
+
+Greyanna stepped aside.
+
+Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years.
+
+The door closed behind them, and Zilvrae remained still in a room that suddenly seemed larger.
+
+For ten years there had always been another lesson waiting, another correction, another mistake, another reason to say the same word until the boy understood it. Again. Now there was no next attempt.
+
+Zilvrae turned toward the weapon racks.
+
+She began putting the room in order. These daggers would not be used again tomorrow; only the marks in the floor would remain.
+
+She adjusted one of the racks, then adjusted it again even though it had been straight the first time, before collecting the training pieces left near the wall.
+
+Her hands did not hurry, and when the room was finally in order, she stood alone in the center of it.
+
+For the first time in ten years, there was no student waiting for her instruction. Zilvrae looked toward the closed door. “Endure, Laynlindr Freth.”
