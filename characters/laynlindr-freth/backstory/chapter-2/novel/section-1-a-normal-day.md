@@ -2,39 +2,29 @@
 
 At ten years old, Layn had learned that a day in House Freth did not begin with sunlight.
 
-There was no sunlight beneath Menzoberranzan.
+There was no sunlight beneath Menzoberranzan. It began when the house changed its lights.
 
-It began when the house changed its lights.
+The dim violet glow in the sleeping corridors faded toward blue, and the magical lamps set into the walls brightened one by one. Servants moved through the passages carrying water, clothing, and messages. Somewhere above, a bell sounded once—not to mark morning, but to announce that the household had begun expecting things from its people.
 
-The dim violet glow in the sleeping corridors faded toward blue, and the magical lamps set into the walls brightened one by one. Servants moved through the passages carrying water, clothing, and messages. Somewhere above, a bell sounded once — not to mark morning, but to announce that the household had begun expecting things from its people.
+Layn woke before the second bell because he had learned that being woken by someone else usually meant that he was already late.
 
-Layn woke before the second bell.
-
-He had learned to do that because being woken by someone else usually meant that he was already late.
-
-His room was a narrow chamber set below the better apartments of the noble females. It was not a servant’s room. The walls were faced with smooth black stone, the bedding was clean, and a small carved spider watched from above the doorway. But the room was plain, and its plainness made the distinction clear. He was noble by blood. He was young, male, and unimportant by every other measure that mattered in House Freth.
+His room was a narrow chamber set below the better apartments of the noble females. It was not a servant’s room. The walls were faced with smooth black stone, the bedding was clean, and a small carved spider watched from above the doorway. But the room was plain, and its plainness made the distinction clear: he was noble by blood, yet young, male, and unimportant by every other measure that mattered in House Freth.
 
 He dressed in the clothes laid across the foot of his bed and folded the blanket before leaving.
 
-The corridor outside was empty except for a single female servant carrying a tray.
+The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall, eyes down, the tray trembling in her hands.
 
-She saw him and froze, pressing herself against the wall, eyes down, the tray trembling in her hands.
-
-Layn read where the morning had gone without being told.
-
-She had not spoken at all. Few people in the house did.
+Layn read where the morning had gone without being told. She had not spoken at all. Few people in the house did.
 
 Layn walked toward the lower hall.
 
-The first meal was not a family gathering in the way surface stories described such things. No one sat together because they wanted one another’s company. The household ate where rank and schedule placed them, and conversation moved toward whoever held the most authority in the room.
+The first meal was not a family gathering in the way surface stories described such things. No one sat together because they wanted one another’s company; the household ate where rank and schedule placed them, and conversation moved toward whoever held the most authority in the room.
 
 Layn took his usual place at the far end of the table, below the older males and behind the younger daughters. He kept his hands still while servants placed a cup of bitter rothé milk and a dish of spiced cave fungus before him.
 
-His elder sister, Dreydre, sat three places closer to the head of the table. She had lived a century — young, still, by the measure of the drow — and already carried herself as though the house had begun making room for her future. Her posture was perfect. Her voice was quiet. She never had to repeat an order.
+His elder sister, Dreydre, sat three places closer to the head of the table. She had lived a century—young, still, by the measure of the drow—and already carried herself as though the house had begun making room for her future. Her posture was perfect, her voice quiet, and she never had to repeat an order.
 
-Greyanna sat beside her.
-
-At sixty, Greyanna was younger still, and her manners were already as flawless as her sister’s. Her smiles arrived at exactly the right moments — someone else’s embarrassment, a small injury, a lesson landing on its target — and her eyes rested on such things a heartbeat longer than courtesy required.
+Greyanna sat beside her. At sixty, she was younger still, and her manners were already as flawless as her sister’s. Her smiles arrived at exactly the right moments—someone else’s embarrassment, a small injury, a lesson landing on its target—and her eyes rested on such things a heartbeat longer than courtesy required.
 
 Neither sister looked at Layn when the Matron Mother entered.
 
@@ -42,7 +32,7 @@ The room changed around her.
 
 Servants stepped away from the center aisle. The older males lowered their heads. The daughters straightened, each of them suddenly more attentive to the angle of her shoulders and the placement of her hands.
 
-The Matron Mother crossed the hall surrounded by two armed females of her guard. Her robes were the dark red of dried blood, embroidered with House Freth’s paired spiders, facing one another. She did not hurry. The household adjusted itself to her pace.
+The Matron Mother crossed the hall surrounded by two armed females of her guard. Her robes were the dark red of dried blood, embroidered with House Freth’s paired spiders facing one another. She did not hurry; the household adjusted itself to her pace.
 
 Layn rose with everyone else.
 
@@ -64,7 +54,7 @@ The Matron Mother never looked in his direction.
 
 That was normal.
 
-He did not know whether she remembered that he existed. He did not know whether she had ever heard his name. When he was younger, he had sometimes tried to catch her attention by sitting straighter, by arriving first, by being silent longer than was required. Each attempt had ended the same way. Her eyes passed over him as though he were part of the wall.
+He did not know whether she remembered that he existed or whether she had ever heard his name. When he was younger, he had sometimes tried to catch her attention by sitting straighter, arriving first, or being silent longer than was required. Each attempt had ended the same way: her eyes passed over him as though he were part of the wall.
 
 He had stopped trying.
 
@@ -74,25 +64,25 @@ It was how a family was arranged. The house stood at the top, his mother carried
 
 The first lesson began after the meal.
 
-House Freth educated its children inside the house until their 20th year. The daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline. The alliances lasted as long as they were useful. The males learned enough of those matters to avoid interfering with them.
+House Freth educated its children inside the house until their twentieth year. The daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline. The alliances lasted as long as they were useful. The males learned enough of those matters to avoid interfering with them.
 
 Mistress Zilvrae taught Layn in the house’s library, above the training galleries.
 
 She was a narrow-faced female with white hair braided tightly against her scalp. She had been born a daughter of a lesser house that House Freth had destroyed and absorbed. When a house fell, its surviving nobles were sometimes taken in rather than killed, and she had outlived her own name by serving the house that had ended it. Her rank was real. Her house was gone. That was why even the older daughters treated her corrections as something to be endured rather than challenged. Her lessons were called instruction, but her true subject was obedience.
 
-The lesson was not private. Dreydre sat at the far table with the house’s correspondence. Greyanna sat in the window seat, turning a silver pin between her fingers.
+The lesson was not private. Dreydre sat at the far table with the house’s correspondence, while Greyanna sat in the window seat, turning a silver pin between her fingers.
 
-Zilvrae set five emblems on the black table, in a line — five houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
+Zilvrae set five emblems on the black table, in a line—five houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
 
 Zilvrae tapped the first emblem with one finger and watched Layn's eyes settle on it. “This is the order. Look.”
 
-Layn studied the symbols. A silver blade. A broken chain. A spider above a crescent moon. A crown surrounded by nine points. All of them he knew from the household records he had been allowed to read.
+Layn studied the symbols: a silver blade, a broken chain, a spider above a crescent moon, and a crown surrounded by nine points. All of them he knew from the household records he had been allowed to read.
 
 She swept the emblems up, shuffled them, and set them out again. Without looking away from him, she said, “Now you.”
 
 He set them in the order of their houses’ power.
 
-The order was wrong. The broken chain lay where the silver blade belonged and vise versa.
+The order was wrong. The broken chain lay where the silver blade belonged and vice versa.
 
 Zilvrae touched the misplaced emblem with the end of one finger. “You looked,” she said, her voice patient but unsparing. “You did not see.”
 
@@ -110,17 +100,17 @@ The pin in Greyanna’s fingers stopped moving. She was unsure whether she would
 
 Layn ordered all ten emblems without a single mistake.
 
-The young priestesses saw the elder tutor’s eyes go to her, as if they all held the same thought.
+Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, flawless each time.
 
-Zilvrae shuffled the ten and added ten more. Then ten more. Twenty. Thirty. The order waited behind his eyes until his hands needed it. Layn set them in order every time, and he was flawless every time.
+When the thirty stood ranked on the black table, Zilvrae looked down at them, and despite herself something like approval escaped her, barely a whisper, almost an admission she had not meant to make aloud.
 
-When the thirty stood ranked on the black table, Zilvrae looked down at them, and despite herself something like approval escaped her. Barely a whisper, almost an admission she had not meant to make aloud: “Good memory.”
+“Good memory.”
 
 Layn looked up at her.
 
 Her expression closed again, the concession already withdrawn. “You remember what you have been shown. That is not the same as understanding it.”
 
-When the drill ended, she gathered the emblems and began the day’s house lessons — how the rank had held in the city so far, and what each house was known for. House Freth’s own craft was taught that day too: its substances. Venoms and alchemical preparations that drew out what a creature already carried, and did not care what it cost the vessel. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
+When the drill ended, she gathered the emblems and began the day’s house lessons: how the rank had held in the city so far, what each house was known for, and House Freth’s own craft, its substances. Venoms and alchemical preparations drew out what a creature already carried and did not care what they cost the vessel. Layn stood without shifting his weight, and he did not speak before he was spoken to. When he was correct, she said nothing. Her silence was her only verdict.
 
 The tutor had many ways of teaching a child what not to expect.
 
@@ -128,9 +118,9 @@ Layn would soon discover that his sisters had more.
 
 * * *
 
-Greyanna found him in the passage outside the records room. She planted herself in the middle of it and looked down at him.
+Greyanna found him in the passage outside the records room. She planted herself in the middle of it and looked down at him, studying him for a moment before smiling as though she had found an opening.
 
-Greyanna studied him for a moment, then smiled as though she had found an opening. “You remember too well.”
+“You remember too well.”
 
 Layn said nothing.
 
@@ -138,7 +128,9 @@ Her smile thinned. “It is not a rare talent. Do not look as though you expect 
 
 Layn knew there was no right answer.
 
-Greyanna let the silence stretch before adding, “My pin is gone.” The young male could not hide his confusion.
+Greyanna let the silence stretch before adding, “My pin is gone.”
+
+The young male could not hide his confusion.
 
 Layn answered quickly, anxious to keep the accusation from settling on him. “I have not seen your pin.”
 
@@ -152,17 +144,15 @@ Greyanna smiled and did not look at his hands.
 
 Greyanna's voice remained level, almost mild. “So you would have me believe your tutor stole it?”
 
-Greyanna lifted one shoulder, feigning disappointment. “It was in my fingers all morning. You were there the whole time.”
+She lifted one shoulder, feigning disappointment. “It was in my fingers all morning. You were there the whole time.”
 
 He had seen servants punished for theft. None of them had been guilty either.
 
 So Layn went still.
 
-The panic sank beneath the stillness like sediment in water left alone.
+The panic sank beneath the stillness like sediment in water left alone, and in the quiet it left, something pressed lightly behind his eyes.
 
-And in the quiet it left, something pressed lightly behind his eyes.
-
-It was not pain. He knew where the pin was. Not because he had seen it hidden, not because he had reasoned it out. The knowledge was simply there, finished and certain, like a thought that belonged to someone else.
+It was not pain. He knew where the pin was—not because he had seen it hidden, not because he had reasoned it out, but because the knowledge was simply there, finished and certain, like a thought that belonged to someone else.
 
 He said it partly to test whether the strange certainty was real. “In your right sleeve.”
 
@@ -178,8 +168,6 @@ Greyanna's surprise vanished behind a smile. She drew the pin free and held it b
 
 Layn watched her carefully. “Then you already knew what I would say.”
 
-Greyanna stepped close enough that Layn could smell the bitter oil in her hair.
-
 Greyanna stepped close enough that Layn could smell the bitter oil in her hair. “Do not become clever with me, boy.” Her voice was quiet, but the warning in it was unmistakable.
 
 Dreydre lifted one finger.
@@ -188,7 +176,7 @@ Greyanna fell silent.
 
 The older sister took the pin from Greyanna’s fingers and turned it once in the lamplight.
 
-Dreydre took the pin from Greyanna and studied Layn over its edge. “You saw where this one fell.”
+“You saw where this one fell,” Dreydre said, studying Layn over its edge.
 
 Layn shook his head. “I did not.”
 
@@ -198,7 +186,7 @@ She held the pin up between two fingers, where the whole passage could see it.
 
 Then she let go. The pin did not fall. It hung in the air, turning slowly in the lamplight.
 
-A small spell — the luth, the first trick a daughter learned. It cast a thing a short distance, and it chose the where itself. Larger workings borrowed that randomness, so that even a spell the enemy knew by heart could still cause some form of surprise.
+A small spell—the luth, the first trick a daughter learned. It cast a thing a short distance, and it chose the where itself. Larger workings borrowed that randomness, so that even a spell the enemy knew by heart could still cause some form of surprise.
 
 Dreydre raised both hands beside it, fingers spread, and spoke while it hung there. “When it leaves the air, it will be in one of my hands. You will say which before it goes. If you are wrong, she will have her thief.”
 
@@ -226,8 +214,6 @@ Dreydre cut her off with a single glance. She closed her fingers around the pin 
 
 Layn had not guessed, but he was wise enough not to say so.
 
-Dreydre closed her fingers around the pin.
-
 Dreydre's fingers tightened around the pin. “You will not mention this.”
 
 Layn watched her face. “Mention what?”
@@ -248,15 +234,15 @@ Greyanna's earlier confidence was gone. She nodded.
 
 * * *
 
-The order had come down years ago with no reason attached: the boy was to be given room — no marks, no cruelty — and watched. If the gift showed itself, it was to be suppressed before it could speak. Their mother did not explain her commands. The house did not ask for explanations.
+The order had come down years ago with no reason attached: the boy was to be given room—no marks, no cruelty—and watched. If the gift showed itself, it was to be suppressed before it could speak. Their mother did not explain her commands. The house did not ask for explanations.
 
-Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, and they had tested, and the tests had told them little until tonight.
+Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, tested, and learned little until tonight.
 
-The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead, and did not live to see another dusk.
+The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead and did not live to see another dusk.
 
-They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have, because a frightened mind hides its hand and a clear one shows it. And the hand had begun to show.
+They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have because a frightened mind hides its hand and a clear one shows it. And the hand had begun to show.
 
-If they waited longer and the gift surfaced on its own — in front of a priestess, in front of their mother — no one would ask how to contain it. They would ask who had let it grow. And the answer would have their names in it.
+If they waited longer and the gift surfaced on its own—in front of a priestess, in front of their mother—no one would ask how to contain it. They would ask who had let it grow, and the answer would have their names in it.
 
 The order had told them to wait for signs. The signs had come. Nothing in it had said how gently the remedy must be given.
 
@@ -264,7 +250,7 @@ The boy’s mind could not be allowed to speak first.
 
 * * *
 
-Layn walked back through the house knowing which stairs were watched, which servants repeated everything they heard, and which doors could be opened without making a sound. He had never been told any of it. The knowledge was simply where the house was. He assumed the others knew their own ways as well.
+Layn walked back through the house knowing which stairs were watched, which servants repeated everything they heard, and which doors could be opened without making a sound. He had never been told any of it. The knowledge was simply where the house was, and he assumed the others knew their own ways as well.
 
 He had learned only that the quickest route through the house was rarely the safest, and that being overlooked could be more useful than being noticed.
 
@@ -284,13 +270,11 @@ They were not the small creatures carved into the walls or the delicate things t
 
 Dreydre stood beside the bed.
 
-Greyanna sat on the windowsill, though there was no window beyond the dark opening — only a deep shaft crossed by a narrow bridge.
+Greyanna sat on the windowsill, though there was no window beyond the dark opening—only a deep shaft crossed by a narrow bridge.
 
 Layn’s throat tightened.
 
-Layn stared at the bed, fighting the urge to step backward. “Remove them,” he said.
-
-Greyanna smiled.
+He stared at the bed, fighting the urge to step backward. “Remove them,” he said.
 
 Greyanna smiled at his fear. “You know better than that.”
 
@@ -301,8 +285,6 @@ Greyanna glanced at the spiders, then back at him. “They are sacred animals of
 One of the spiders lifted its front legs and placed them on the folded blanket. Its body shifted with a faint, dry scrape.
 
 Layn did not move.
-
-Dreydre looked at him.
 
 Dreydre watched his hands rather than his face. “If you kill them, the Spider Queen will know.”
 
@@ -326,7 +308,7 @@ Layn glanced toward the upper galleries before asking the question, as though th
 
 Dreydre’s expression hardened.
 
-Dreydre's expression remained composed. “The Matron Mother does not concern herself with a male child's bedding.”
+“The Matron Mother does not concern herself with a male child's bedding,” Dreydre said, her composure returning.
 
 Layn studied her face. “Then why would she care if I moved them?”
 
@@ -364,7 +346,7 @@ He reached for the pressure behind his eyes, the way he had reached when he name
 
 Then the pressure returned on its own.
 
-For one instant the room seemed to draw inward. The spider on his chest stopped moving. Its legs folded against its body as though it had struck an invisible barrier.
+For one instant the room seemed to draw inward. The spider on his chest stopped moving, its legs folding against its body as though it had struck an invisible barrier.
 
 Dreydre saw it.
 
