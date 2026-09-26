@@ -176,29 +176,45 @@ None of this made him exceptional. Every drow was expected to learn what came na
 
 One evening, after the day's first two lessons were finished, Zilvrae placed an open book before him.
 
-Zilvrae's finger rested on the first line. “Menzoberranzan contains fifty noble houses.” Layn waited as she moved her finger down the page. “House Freth is nineteenth.”
+Her finger rested on the first line.
+
+“Menzoberranzan contains fifty noble houses.”
+
+Layn waited.
+
+She moved her finger down the page.
+
+“House Freth is nineteenth.”
 
 She watched him for a reaction before continuing. “You will eventually understand what that means. Not merely that nineteenth is above some houses and beneath others, but what rank permits, what it demands, and what obligations follow from it.”
 
 She spoke without drama, which was what made the lesson difficult to ignore.
 
-She explained how authority moved inside a house, how rank determined access and expectation, and how power could be legal without being equal. A noble male could command those beneath his station and still remain subordinate to almost every female above him. He could possess authority and still have very little freedom.
+She explained how authority moved within a house, how rank determined access and expectation, and how power could be legal without being equal. A noble male could command those beneath his station and still remain subordinate to almost every female above him. He could possess authority and still have very little freedom.
 
 She taught him the difference between an order and a request, between an obligation and a favor, between something a male could lawfully do and something he could do only because a superior chose to permit it.
 
 Zilvrae tapped the page once. “You are a noble male of House Freth. You have value. That does not mean the house will give you the same authority it gives a daughter. It means you are expected to understand where your authority begins and where it ends.”
 
-Layn looked down at the page, then back at her. “And if I don't?”
+Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. Then he looked back at her.
 
-Zilvrae held his gaze. “Eventually someone will teach you by making you pay for the mistake.”
+“And if I don't?”
 
-The room went quiet before she added, more quietly, “Learn from me instead.”
+Zilvrae held his gaze.
 
-There was nothing warm in the offer.
+“Eventually someone will teach you by making you pay for the mistake.”
 
-That made it more valuable.
+The room went quiet.
 
-Zilvrae studied him for a moment before closing the book halfway, keeping one finger between its pages. “There is another mistake young males make. They confuse survival with submission.”
+She studied him for a moment, then closed the book.
+
+“Learn from me instead.”
+
+There was nothing warm in the offer, yet somehow Layn felt that made it more valuable.
+
+Zilvrae moved the book a few inches aside and let her gaze settle somewhere beyond him.
+
+“There is a common mistake young males make. They confuse survival with submission.”
 
 Layn raised his eyes.
 
@@ -206,65 +222,73 @@ Layn raised his eyes.
 
 She watched him absorb the distinction.
 
-“Do not mistake a law for a kindness merely because you happen to benefit from obeying it.”
+“Do not mistake a law for a kindness merely because you happen to benefit from obeying it. Neither for cruelty because it opposes your beliefs. Laws are as strict and defined, as colourless and shapeless.”
 
-Layn said nothing.
+Layn looked confused. If he happened to offend one of her sisters, he thought, the only colourless and shapeless thing would be his corpse lying on the floor.
 
-Zilvrae rested one hand on the closed book and studied him for a moment. “Remember this as well. A weapon does not become less deadly because the hand holding it is considered lesser.”
+She watched him for a moment before continuing.
 
-Her gaze moved toward the practice gallery. “When a blade enters an opponent's heart, the heart has no interest in the sex of the hand that placed it there.”
+“You may often believe that your position is low and powerless. Remember this: power and expectation are two sides of the same coin. The higher one rises, the more there is expected of them—and the more there is to threaten.”
 
-She turned back to him. “Strong houses emerge from conscientious drow. Arrogant drow build houses that fall.”
+She paused.
 
-She left the book closed.
+“But threat is a fine whetstone for a drow blade.”
 
-“That is what rank means here. It is power, but it is also permission to remain.”
+Her gaze settled on him.
 
-Layn looked at the closed cover but did not touch it.
+“A blade does not become less deadly because the hand holding it is considered lesser.”
 
-Zilvrae opened the book again and pushed it toward him. “Now read.”
+She turned back to him.
 
-Layn bent over the page, and after a moment she tapped the margin. “Now we return to the record.” Her finger moved down the page, where Layn noticed that several numbers did not fit the sequence; he traced the crossed-out names with one finger. “What happened to the missing houses?”
+“Strong houses emerge from conscientious drow. Arrogant drow build houses that fall.”
 
-Zilvrae looked at him. “The ones that aren't there?”
+She tapped the cover.
 
-“Yes.”
+“Is this what happened in your house, too?” Layn asked, more quietly this time.
 
-She closed the book a fraction. “Fallen houses are rarely discussed.”
+She tapped her fingers against the hard cover.
 
-“Why?” Layn asked, more quietly this time.
+“Fallen houses are rarely discussed.”
+
+“Why?”
 
 “Because there is little advantage in remembering them.”
 
-She turned one page, her finger continuing down the column of names. “Houses turn against one another. It is not rare.”
+Zilvrae's finger traced the scroll held by the female figure.
 
-Layn frowned at the crossed-out names. “Why?”
+“Houses turn against one another. It is not rare.”
 
-“Power. Rank. Grievances. Opportunity.” She said each word without emphasis, as though giving him the categories mattered more than the examples.
+“Why?”
 
-Her finger moved to the next entry. “Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient.”
+Her finger moved to the figure's scepter.
 
-Layn glanced at the page.
+“Power. Rank. Grievances. Opportunity.”
+
+She said each word without emphasis, as though the categories mattered more than the examples.
+
+“Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient.”
+
+Layn glanced at the cover, which now looked more familiar.
 
 “The last major change occurred when you were very young,” Zilvrae said. “House Do'Urden rose because a house higher in rank ceased to exist.”
 
-Layn looked up sharply. “How?”
+She rested her hand on the book.
 
-Zilvrae met his eyes, then turned the page. “That is not a story the city tells.”
+“But that is not a story the city tells.”
 
-She turned another page and kept her finger on it. “Understand this carefully. A house does not need to announce that it intends to destroy another house. By the time such an announcement would be useful, the matter is usually already decided.”
+“What was your house name?” Layn insisted.
 
-Layn read the names again, several of them crossed out, then looked at her for a long moment. “What happened to your house?”
+Instead of reprimanding him, she opened the book and placed it in front of him again.
 
-Zilvrae did not answer immediately. Her fingers rested on the closed record.
+Her expression did not change.
 
 “My name is Zilvrae Freth.”
 
 Layn waited.
 
-Her expression did not change. “There is no other name you need to know.”
+“There is no other name you need to know.”
 
-He heard the boundary in it and did not cross it.
+“Now, read.”
 
 ---
 
@@ -322,8 +346,6 @@ She let the thought settle before adding, “It can also get you killed.”
 She stopped beneath one of the violet lamps and moved deliberately out of the center of the corridor. “Concealment offers something less impressive.”
 
 Layn waited.
-
-Layn waited for the rest.
 
 “Survival,” Zilvrae said.
 
