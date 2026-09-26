@@ -160,7 +160,7 @@ The first time his feet left the stone, his stomach tightened so sharply that th
 
 There was no object to anchor himself to and no reassuring pressure beneath his boots once the spell took hold, so he had to learn to move in three dimensions while his body insisted that falling was the only honest direction; eventually, he did.
 
-The last discipline was the hardest, because recognizing a magical working was one thing and undoing one another.
+The last discipline was the hardest, because recognizing a magical working was one thing and undoing one was another.
 
 Zilvrae explained it without dressing the problem in mystery. Seeing a blade and using it was not the same as forging the blade. In the same way, recognizing how magic behaved was much easier than understanding the structure beneath it well enough to dismantle that structure without tearing apart what surrounded it.
 
