@@ -722,17 +722,13 @@ Layn looked at the manifested sword. “Last time?” he asked, already knowing 
 
 They began, with Zilvrae moving first.
 
-The sword came across his guard hard enough to force him back. Layn angled away, stepped inside the reach, struck once, and withdrew before the sword could catch his wrist.
+The quarterstaff came across his guard hard enough to force him back. Layn angled away, stepped inside the reach, struck once, and withdrew before the quarterstaff could catch his wrist.
 
-She followed as he changed levels, matched him, and watched him feint left and cut right only for the sword to meet the attack before the dagger arrived.
+She followed as he changed levels, matched him, and watched him feint left and cut right only for the quarterstaff to meet the attack before the dagger arrived.
 
 He was neither stronger nor faster; what he had was ten years of preparation.
 
-He knew how far the sword could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
-
-So he worked around her until his foot slipped and the sword touched his ribs. “Again.”
-
-Layn did not reset; he moved, and the next exchange continued directly from the last.
+He knew how far the quarterstaff could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
 
 He stepped back, drew Zilvrae forward, changed direction, and threw one dagger.
 
@@ -742,7 +738,7 @@ His remaining hand drew the second dagger.
 
 He attacked again.
 
-The second throw came low, but Zilvrae knocked it away with the sword, leaving Layn unarmed.
+The second throw came low, but Zilvrae knocked it away with the quarterstaff, leaving Layn unarmed.
 
 For an instant he saw two knives lying several paces apart and a tutor standing between him and both.
 
@@ -752,7 +748,7 @@ Darkness swallowed the gallery.
 
 Zilvrae stopped, then broke the darkness with a dispelling gesture.
 
-By then, Layn had found both daggers by touch, and returned them to his hands.
+By then, Layn had found both daggers by touch and returned them to his hands.
 
 The gallery was visible again, but he had already moved from the position Zilvrae last saw him.
 
@@ -769,12 +765,6 @@ Then several small lights appeared.
 They drifted across the gallery, crossing and separating, each one controlled with enough precision to suggest bodies moving at different distances.
 
 One bright patch swept across the far wall.
-
-A smile touched one corner of her mouth.
-
-“Better.”
-
-The lights continued moving.
 
 Layn used the distraction to reposition.
 
@@ -800,7 +790,7 @@ He turned in the air and brought one dagger down toward the opening beside her s
 
 Zilvrae heard the whistle of the blade at the last possible second and quickly twisted aside.
 
-The blade struck the sword with a hard metallic crack.
+The blade struck the quarterstaff with a hard metallic crack.
 
 The impact turned Layn sideways.
 
@@ -816,7 +806,7 @@ He changed direction.
 
 She was waiting.
 
-Layn recognized the magical structure around the sword as he moved past it. He could feel the faint distinction between ordinary steel and a thing that existed only because Zilvrae continued to hold it in the world.
+Layn recognized the magical structure around the quarterstaff as he moved past it. He could feel the faint distinction between ordinary wood and a thing that existed only because Zilvrae continued to hold it in the world.
 
 He understood it.
 
@@ -842,17 +832,17 @@ He drove forward.
 
 Zilvrae let him.
 
-Then the sword disappeared.
+Then the quarterstaff disappeared.
 
 Layn's defensive dagger cut through empty air where the weapon had been.
 
-The sword reappeared almost instantly in Zilvrae's hands.
+The quarterstaff reappeared almost instantly in Zilvrae's hands.
 
-The movement was so quick that Layn barely understood what had happened before the sword's hilt struck his jaw, snapping his head sideways and buckling his knees.
+The movement was so quick that Layn barely understood what had happened before the quarterstaff's end struck his jaw, snapping his head sideways and buckling his knees.
 
-Zilvrae caught his wrist before he could fall, turned him, and brought the sword beneath his throat.
+Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
-Layn's mind raced. For ten years he had watched Zilvrae use the sword in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
+Layn's mind raced. For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
 
 The years were all there: the first clumsy footwork, the repeated corrections, the dagger choice, the understanding of reach, the use of darkness, the controlled lights, the ability to recognize the magic laid over him, the ability to undo it, and the discipline not to react simply because fear or surprise demanded it.
 
