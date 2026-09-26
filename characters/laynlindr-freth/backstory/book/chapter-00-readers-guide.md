@@ -1,6 +1,6 @@
 # Glossary
 
-**Academy** — A drow educational institution for young drow. Devided into 3 schoold: in Arach-Tinilith (clerical), Sorcere (magic), and Melee-Magthere (martial).
+**Academy** — A drow educational institution for young drow. Divided into three schools: in Arach-Tinilith (clerical), Sorcere (magic), and Melee-Magthere (martial).
 
 **Amplifier** — A substance or magical preparation that intensifies a capability already present in its subject.
 
@@ -44,4 +44,4 @@
 
 **Underdark** — The vast subterranean world beneath the surface, including Menzoberranzan and the surrounding tunnels and caverns.
 
-**Zilvrae Freth** — A female instructor drow. House Freth has aquired her from her fallen House.
+**Zilvrae Freth** — A female instructor drow. House Freth has acquired her from her fallen House.

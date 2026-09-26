@@ -148,7 +148,7 @@ Pale flames spread across Layn's body, clinging to his outline and making every 
 
 Zilvrae advanced.
 
-Layn concentrated to break the spell. "Astux!" he shouted from the bottom of his lungs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved of it.
+Layn concentrated to break the spell. “Astux!”[^1] he shouted from the bottom of his lungs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved of it.
 
 All Layn cared about that moment was that it worked. The pale fire vanished, and at the same instant he moved.
 
@@ -241,3 +241,4 @@ She adjusted one of the racks, then adjusted it again even though it had been st
 Her hands did not hurry, and when the room was finally in order, she stood alone in the center of it.
 
 For the first time in ten years, there was no student waiting for her instruction. Zilvrae looked toward the closed door. “Endure, Laynlindr Freth.”
+[^1]: *Astux* — drowish for “extinguish.”
