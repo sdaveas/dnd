@@ -16,7 +16,7 @@ The backstory is organized by **character → backstory → chapter**. Each chap
 - **Chapter 2 — The Web** — religion, rank, gender, and daily behavior.
 - **Chapter 3 — House Freth** — house law, hierarchy, and the boy's final reveal.
 - **Chapter 4 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, and Zilvrae's first lessons.
-- **Chapter 5 — The Order** — the sisters' decision, the hidden signs, and the first spider ordeal.
+- **Chapter 5 — The Two Spiders** — the sisters' decision, the hidden signs, and the first spider ordeal.
 - **Chapter 6 — The Small Corrections** — the nine-year bridge: the spider routine, sanctioned education, secrecy craft, phobia, hallucinations, and the path toward the hearing.
 - **Chapter 7 — The Three Lessons** — the house-law lessons and the discoveries that reshape Layn's understanding of his place.
 - **Chapter 8 — The Long Quiet** — the long middle period of training, fear, concealment, and change.
