@@ -690,7 +690,7 @@ They discussed a broken inventory marker, missing lamp oil, and the condition of
 
 The other drow left, the door closed, and the room was empty while Zilvrae waited.
 
-Zilvrae did not look toward the weapons rack. “You can come out now.”
+“You can come out now.”
 
 Nothing happened until Layn stepped away from the wall beside the weapons rack.
 
