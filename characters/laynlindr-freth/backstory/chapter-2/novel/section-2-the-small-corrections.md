@@ -8,7 +8,7 @@ There were no other boys in House Freth for Layn to measure himself against. Nob
 
 Zilvrae therefore measured him against older lessons. She had taught young drow who were powerful before they were disciplined, quick before they were precise, clever before they were patient. She had taught some who learned a movement in a morning and some who needed weeks to stop making the same mistake. She had watched students become arrogant when praised and careless when they discovered something came easily.
 
-Layn had little that came easily: he was neither the strongest nor the quickest, His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
+Layn had little that came easily: he was neither the strongest nor the quickest. His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
 
 What he had was persistence; he listened, remembered, and, when Zilvrae corrected the same mistake for the fourth time, he made the correction a fifth time without complaint. When a movement refused to become natural, he repeated it until the awkwardness stopped feeling like an obstacle and became another thing his body knew how to do.
 
@@ -82,11 +82,11 @@ Layn looked at her empty hands, then at the weapon rack. “What's your favorite
 
 Zilvrae stood in the center of the gallery with empty hands, but that did not make it ordinary.
 
-Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery's violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful quarterstaff in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
+Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery's violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful sword in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
 
 Layn watched her lift it.
 
-The staff moved as she stepped forward, turned it through one hand, caught it at the opposite point, and changed her grip without breaking rhythm. It struck, redirected, swept low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
+The sword moved as she stepped forward, turned it through one hand, caught the grip again, and changed her angle without breaking rhythm. It cut, redirected, swept low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
 
 Layn had seen the sequence before, but he watched anyway.
 
@@ -94,9 +94,9 @@ Layn watched the weapon as though he might find the answer in its construction. 
 
 Zilvrae's mouth tightened almost imperceptibly. “Nothing you need to concern yourself with.”
 
-She tapped the butt of the staff against the stone. “It has weight. It has reach. It breaks things when I tell it to.”
+She lowered the sword slightly. “It has weight. It has reach. It breaks things when I tell it to.”
 
-Layn looked at it again. “How long does it stay?” he asked, still watching the impossible weapon.
+Layn looked at it again. “How long does it stay?” he asked, still watching the impossible blade.
 
 “As long as I hold it,” Zilvrae replied.
 
@@ -112,7 +112,7 @@ Zilvrae looked at him long enough to make him reconsider the question. “Not us
 
 Layn was about to ask why when, instead, she formed a spear.
 
-The weapon appeared in her hands with the same terrible perfection as the quarterstaff. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
+The weapon appeared in her hands with the same terrible perfection as the sword. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
 
 His body decided before his mind did, and he ducked as the spear vanished a few inches beyond Zilvrae's hand.
 
@@ -122,7 +122,7 @@ There was a brief silence before Zilvrae said, in the same tone she might have u
 
 Layn pushed himself upright, red-faced.
 
-Zilvrae had already formed the quarterstaff again. “And now—again.”
+Zilvrae had already formed the sword again. “And now—again.”
 
 He got to his feet.
 
@@ -174,13 +174,9 @@ None of this made him exceptional. Every drow was expected to learn what came na
 
 One evening, after the day's first two lessons were finished, Zilvrae placed an open book before him.
 
-Her finger rested on the first line.
-
 Her finger rested on the first line. “Menzoberranzan contains fifty noble houses.”
 
 Layn waited.
-
-She moved her finger down the page.
 
 She moved her finger down the page. “House Freth is nineteenth.”
 
@@ -193,8 +189,6 @@ She explained how authority moved within a house, how rank determined access and
 She taught him the difference between an order and a request, between an obligation and a favor, between something a male could lawfully do and something he could do only because a superior chose to permit it.
 
 Zilvrae tapped the page once. “You are a noble male of House Freth. You have value. That does not mean the house will give you the same authority it gives a daughter. It means you are expected to understand where your authority begins and where it ends.”
-
-Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. Then he looked back at her.
 
 Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. “And if I don't?”
 
@@ -232,11 +226,11 @@ Layn frowned. “Why?”
 
 Zilvrae turned the page. “Because there is little advantage in remembering them.”
 
-Zilvrae's finger traced the scroll held by the female figure. Zilvrae's finger traced the scroll held by the female figure. “Houses turn against one another. It is not rare.”
+Zilvrae's finger traced the scroll held by the female figure. “Houses turn against one another. It is not rare.”
 
 Layn frowned. “Why?”
 
-Her finger moved to the figure's scepter. Her finger moved to the figure's scepter. “Power. Rank. Grievances. Opportunity.”
+Her finger moved to the figure's scepter. “Power. Rank. Grievances. Opportunity.”
 
 She said each word without emphasis.
 
@@ -718,25 +712,25 @@ They were real steel, physical weapons maintained with care despite being used f
 
 Zilvrae carried nothing, and when Layn looked at her empty hands, the familiar distortion appeared, sharpening his attention despite himself.
 
-A narrow line formed between her fingers, lengthened, thickened, and became the quarterstaff.
+A narrow line formed between her fingers, lengthened, thickened, and became the sword.
 
 He had seen the weapon appear more times than he could count, yet he still watched it.
 
-Layn looked at the manifested quarterstaff. “Last time?” he asked, already knowing the answer.
+Layn looked at the manifested sword. “Last time?” he asked, already knowing the answer.
 
 “Last time,” Zilvrae replied, adjusting her grip.
 
 They began, with Zilvrae moving first.
 
-The quarterstaff came across his guard hard enough to force him back. Layn angled away, stepped inside the reach, struck once, and withdrew before the staff could catch his wrist.
+The sword came across his guard hard enough to force him back. Layn angled away, stepped inside the reach, struck once, and withdrew before the sword could catch his wrist.
 
-She followed as he changed levels, matched him, and watched him feint left and cut right only for the staff to meet the attack before the dagger arrived.
+She followed as he changed levels, matched him, and watched him feint left and cut right only for the sword to meet the attack before the dagger arrived.
 
 He was neither stronger nor faster; what he had was ten years of preparation.
 
 He knew how far the staff could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
 
-So he worked around her until his foot slipped and the staff touched his ribs. “Again.”
+So he worked around her until his foot slipped and the sword touched his ribs. “Again.”
 
 Layn did not reset; he moved, and the next exchange continued directly from the last.
 
@@ -748,7 +742,7 @@ His remaining hand drew the second dagger.
 
 He attacked again.
 
-The second throw came low, but Zilvrae knocked it away with the quarterstaff, leaving Layn unarmed.
+The second throw came low, but Zilvrae knocked it away with the sword, leaving Layn unarmed.
 
 For an instant he saw two knives lying several paces apart and a tutor standing between him and both.
 
@@ -758,7 +752,7 @@ Darkness swallowed the gallery.
 
 Zilvrae stopped, then broke the darkness with a dispelling gesture.
 
-By then, Layn had found both daggers by touch, and returned them to his hands. 
+By then, Layn had found both daggers by touch, and returned them to his hands.
 
 The gallery was visible again, but he had already moved from the position Zilvrae last saw him.
 
@@ -822,7 +816,7 @@ He changed direction.
 
 She was waiting.
 
-Layn recognized the magical structure around the quarterstaff as he moved past it. He could feel the faint distinction between ordinary steel and a thing that existed only because Zilvrae continued to hold it in the world.
+Layn recognized the magical structure around the sword as he moved past it. He could feel the faint distinction between ordinary steel and a thing that existed only because Zilvrae continued to hold it in the world.
 
 He understood it.
 
@@ -848,15 +842,15 @@ He drove forward.
 
 Zilvrae let him.
 
-Then the quarterstaff disappeared.
+Then the sword disappeared.
 
 Layn's defensive dagger cut through empty air where the weapon had been.
 
-The staff reappeared almost instantly in Zilvrae's hands.
+The sword reappeared almost instantly in Zilvrae's hands.
 
-The movement was so quick that Layn barely understood what had happened before the staff struck his jaw, snapping his head sideways and buckling his knees.
+The movement was so quick that Layn barely understood what had happened before the sword's hilt struck his jaw, snapping his head sideways and buckling his knees.
 
-Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
+Zilvrae caught his wrist before he could fall, turned him, and brought the sword beneath his throat.
 
 Layn's mind raced. For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
 
@@ -864,7 +858,7 @@ The years were all there: the first clumsy footwork, the repeated corrections, t
 
 Layn's chest was rising and falling hard now while Zilvrae's breathing remained even. Layn made mistakes, Zilvrae punished them, he adapted, and she found another.
 
-At last she caught his wrist, and the quarterstaff stopped beneath his throat. Layn froze—not from fear, but by choice.
+At last she caught his wrist, and the sword stopped beneath his throat. Layn froze—not from fear, but by choice.
 
 They remained there for a moment.
 
@@ -872,7 +866,7 @@ Zilvrae lowered the weapon and released him.
 
 Layn rubbed his jaw and gave her a crooked smile. “Nice trick.”
 
-Zilvrae lowered the quarterstaff. “The combat work is sufficient.”
+Zilvrae lowered the sword. “The combat work is sufficient.”
 
 Layn lowered his dagger.
 
@@ -897,35 +891,3 @@ She looked toward the place where he had first emerged at the beginning of the l
 Zilvrae lowered the quarterstaff. “The training is complete.”
 
 She said nothing about the future; that was not hers to decide.
-
-The sound of the opening door interrupted the silence.
-
-Layn turned to find Greyanna standing in the doorway. “The hearing is tonight.”
-
-Layn looked at her, trying to read the answer before he asked for it. “Are you going to be there?”
-
-Greyanna's eyes moved briefly toward Zilvrae. “No. My work is finished. From here, you are in the hands of your family.”
-
-Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
-
-Zilvrae's expression softened by the smallest degree. “You are going to be decent.”
-
-“I always am,” Layn said with a faint smile.
-
-Greyanna stepped aside.
-
-Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years.
-
-The door closed behind them, and Zilvrae remained still in a room that suddenly seemed larger.
-
-For ten years there had always been another lesson waiting, another correction, another mistake, another reason to say the same word until the boy understood it. Again. Now there was no next attempt.
-
-Zilvrae turned toward the weapon racks.
-
-She began putting the room in order. These daggers would not be used again tomorrow; only the marks in the floor would remain.
-
-She adjusted one of the racks, then adjusted it again even though it had been straight the first time, before collecting the training pieces left near the wall.
-
-Her hands did not hurry, and when the room was finally in order, she stood alone in the center of it.
-
-For the first time in ten years, there was no student waiting for her instruction. Zilvrae looked toward the closed door. “Endure, Laynlindr Freth.”
