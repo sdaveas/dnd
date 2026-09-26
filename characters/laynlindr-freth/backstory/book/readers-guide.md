@@ -5,25 +5,25 @@ This section is a quick reference for the names, places, institutions, religious
 ## Characters
 
 ### Laynlindr "Layn" Freth
-A young male drow of House Freth and the central character of the book. He is raised inside House Freth and trained to survive within drow society while remaining largely isolated from it.
+Male drow of House Freth and the central character of the book. Son of the Matron Mother of House Freth and younger brother of Dreydre and Greyanna.
 
 ### Zilvrae Freth
-Layn's instructor and combat mentor. A disciplined warrior and teacher who values precision, fairness, and understanding over cruelty. Her favorite weapon is a manifested quarterstaff.
+Drow of House Freth and Layn's instructor. She teaches him combat, magic, concealment, and House law. Her preferred weapon is a manifested quarterstaff.
 
 ### Dreydre
-One of Layn's elder sisters. A senior member of House Freth who takes an active role in controlling and testing Layn.
+Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the later hearing.
 
 ### Greyanna
-One of Layn's elder sisters. More openly severe than Zilvrae and deeply involved in Layn's training and the suppression of what the family fears he may become.
+Daughter of the Matron Mother of House Freth and one of Layn's elder sisters. She participates in Layn's training and the later hearing.
 
 ### The Matron Mother
-The ruling woman of House Freth and Layn's mother. Her authority within the house is effectively absolute, and Layn grows up with almost no personal relationship with her.
+Ruler of House Freth and mother of Layn, Dreydre, and Greyanna.
 
 ### Priestesses
-Female drow devoted to Lolth. They occupy the highest religious and much of the highest political authority in Menzoberranzan.
+Female drow who serve Lolth. They perform religious rites and exercise religious authority in Menzoberranzan.
 
 ### Archmage
-The highest-ranking arcane authority associated with Menzoberranzan. The Archmage also controls the daily heating of Narbondel, the city's great timekeeper.
+The highest-ranking arcane authority associated with Menzoberranzan. The Archmage controls the daily heating of Narbondel.
 
 ## Places
 
