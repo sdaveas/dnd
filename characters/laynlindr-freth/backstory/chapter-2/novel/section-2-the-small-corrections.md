@@ -200,17 +200,11 @@ Layn looked down at the cover of the book, which displayed a female figure holdi
 
 Zilvrae held his gaze. “Eventually someone will teach you by making you pay for the mistake.”
 
-The room went quiet.
-
-She studied him for a moment, then closed the book.
-
-She studied him for a moment, then closed the book. “Learn from me instead.”
+The room went quiet. “Learn from me instead.”
 
 There was nothing warm in the offer. That made it more valuable.
 
-Zilvrae moved the book a few inches aside and let her gaze settle somewhere beyond him.
-
-“There is a common mistake young males make. They confuse survival with submission.”
+Zilvrae moved the book a few inches aside and kept her gaze on him. “There is a common mistake young males make. They confuse survival with submission.”
 
 Layn raised his eyes.
 
@@ -220,27 +214,17 @@ She watched him absorb the distinction. “Do not mistake a law for a kindness m
 
 Layn looked confused. If he happened to offend one of her sisters, he thought, the only colourless and shapeless thing would be his corpse lying on the floor.
 
-She watched him for a moment before continuing.
+She waited a moment, then continued. “You may often believe that your position is low and powerless. Remember this: power and expectation are two sides of the same coin. The higher one rises, the more there is expected of them—and the more there is to threaten.”
 
-“You may often believe that your position is low and powerless. Remember this: power and expectation are two sides of the same coin. The higher one rises, the more there is expected of them—and the more there is to threaten.”
+She let the silence hold for a moment. “But threat is a fine whetstone for a drow blade.”
 
-She paused.
+Her gaze remained on him. “A blade does not become less deadly because the hand holding it is considered lesser.”
 
-“But threat is a fine whetstone for a drow blade.”
-
-Her gaze settled on him.
-
-“A blade does not become less deadly because the hand holding it is considered lesser.”
-
-She turned back to him.
-
-“Strong houses emerge from conscientious drow. Arrogant drow build houses that fall.”
+She turned back to him. “Strong houses emerge from conscientious drow. Arrogant drow build houses that fall.”
 
 She tapped the cover.
 
-“Is this what happened in your house, too?” Layn asked, more quietly this time.
-
-She tapped her fingers against the hard cover.
+Layn touched the cover with one finger. “Is this what happened in your house, too?”
 
 Zilvrae's fingers rested on the hard cover. “Fallen houses are rarely discussed.”
 
@@ -248,17 +232,13 @@ Layn frowned. “Why?”
 
 Zilvrae turned the page. “Because there is little advantage in remembering them.”
 
-Zilvrae's finger traced the scroll held by the female figure.
+Zilvrae's finger traced the scroll held by the female figure. Zilvrae's finger traced the scroll held by the female figure. “Houses turn against one another. It is not rare.”
 
-“Houses turn against one another. It is not rare.”
+Layn frowned. “Why?”
 
-“Why?”
+Her finger moved to the figure's scepter. Her finger moved to the figure's scepter. “Power. Rank. Grievances. Opportunity.”
 
-Her finger moved to the figure's scepter.
-
-“Power. Rank. Grievances. Opportunity.”
-
-She said each word without emphasis, as though the categories mattered more than the examples.
+She said each word without emphasis.
 
 “Sometimes the reason matters. Sometimes it does not. Victory has a way of making the victor's reasons seem sufficient.”
 
