@@ -850,8 +850,6 @@ The years were all there: the first clumsy footwork, the repeated corrections, t
 
 Layn's chest was rising and falling hard now while Zilvrae's breathing remained even. Layn made mistakes, Zilvrae punished them, he adapted, and she found another.
 
-At last she caught his wrist, and the sword stopped beneath his throat. Layn froze—not from fear, but by choice.
-
 They remained there for a moment.
 
 Zilvrae lowered the weapon and released him.
