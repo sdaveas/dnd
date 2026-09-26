@@ -2,7 +2,7 @@
 
 > **Status:** DRAFT — awaits story-team approval before art prompts.
 >
-> Adapted from `characters/laynlindr-freth/backstory/chapter-1/novel/section-1-menzoberranzan.md`. Global visual rules in `style.md`. Page geometry per the skill: orthogonal panels, 30px gutters, 110px margins. One section script per novel section — this covers I.1.1 only.
+> Adapted from `characters/laynlindr-freth/backstory/chapter-1-menzoberranzan.md`. Global visual rules in `style.md`. Page geometry per the skill: orthogonal panels, 30px gutters, 110px margins. One section script per novel section — this covers I.1.1 only.
 
 ---
 
