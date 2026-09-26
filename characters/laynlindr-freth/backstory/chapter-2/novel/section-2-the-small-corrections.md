@@ -14,7 +14,7 @@ What he had was persistence; he listened, remembered, and, when Zilvrae correcte
 
 Zilvrae did not care how many repetitions it took. “Again,” Zilvrae said.
 
-Layn reset his feet while she watched the tension in his left shoulder before pointing it out. “Relax it.”
+Layn reset his feet. Zilvrae watched the tension in his left shoulder. “Relax it.”
 
 He loosened the shoulder.
 
@@ -34,7 +34,7 @@ She demonstrated the movement slowly. The change was so slight that Layn almost 
 
 “Again.” Zilvrae raised the staff once more.
 
-Layn tried and was wrong, so Zilvrae corrected his stance. “Again.” The next attempt was closer.
+Layn tried and was wrong. Zilvrae corrected his stance. “Again.” The next attempt was closer.
 
 She struck his shoulder again, but this time the contact was lighter. “Better.”
 
@@ -112,7 +112,7 @@ Zilvrae looked at him long enough to make him reconsider the question. “Not us
 
 Layn was about to ask why when, instead, she formed a spear.
 
-The weapon appeared in her hands with the same terrible perfection as the quarterstaff, and when she threw it, Layn saw the point coming straight for his chest for one brief instant.
+The weapon appeared in her hands with the same terrible perfection as the quarterstaff. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
 
 His body decided before his mind did, and he ducked as the spear vanished a few inches beyond Zilvrae's hand.
 
@@ -144,9 +144,7 @@ Then came the magic that wrapped a creature in harmless, colored fire.
 
 Its purpose became clear the first time Zilvrae used it on a training dummy hidden beyond the gallery's pillars. The glowing outline made the shape impossible to mistake, and when she attacked it the next instant, there was no uncertainty about where the target's body began or ended. Against something that depended on invisibility or concealment, the value was obvious.
 
-The working itself was less obvious.
-
-Layn could create the fire before he could control its boundaries; it sometimes spread wider than intended or settled a finger's breadth away from where he had meant it to cling, and Zilvrae corrected him again and again.
+The working itself was less obvious. Layn could create the fire before he could control its boundaries; it sometimes spread wider than intended or settled a finger's breadth away from where he had meant it to cling. Zilvrae corrected him again and again.
 
 Then came darkness, which was not difficult because it was complicated to imagine, but because it had to be placed.
 
@@ -160,7 +158,7 @@ The first time his feet left the stone, his stomach tightened so sharply that th
 
 There was no object to anchor himself to and no reassuring pressure beneath his boots once the spell took hold, so he had to learn to move in three dimensions while his body insisted that falling was the only honest direction; eventually, he did.
 
-The last discipline was the hardest, because recognizing a magical working was one thing and undoing one was another.
+The last discipline was the hardest. Recognizing a magical working was one thing; undoing one was another.
 
 Zilvrae explained it without dressing the problem in mystery. Seeing a blade and using it was not the same as forging the blade. In the same way, recognizing how magic behaved was much easier than understanding the structure beneath it well enough to dismantle that structure without tearing apart what surrounded it.
 
@@ -168,7 +166,7 @@ Layn never suggested that the task was impossible; he simply spent a very long t
 
 He practiced the abilities together rather than one at a time. A month after beginning, he could perceive magic reliably while the small lights still wandered. Several months later, the lights held steady while the colored fire remained imperfect. He could shape darkness with confidence while still struggling to unravel what Zilvrae had cast.
 
-None of this made him exceptional. Every drow was expected to learn what came naturally to drow blood, and Zilvrae did not congratulate him for being capable; she corrected him when he was not.
+None of this made him exceptional. Every drow was expected to learn what came naturally to drow blood. Zilvrae did not congratulate him for being capable; she corrected him when he was not.
 
 “Again.” Layn obeyed, and by the end of the day his palms might ache from the weapons, his eyes might burn from studying magical traces, and his thoughts might feel heavy from memorizing law. For the first time in his life, exhaustion had a different shape: he was not tired because someone had frightened him, but because he had been taught.
 
@@ -218,11 +216,9 @@ Zilvrae moved the book a few inches aside and let her gaze settle somewhere beyo
 
 Layn raised his eyes.
 
-“Submission is what happens when someone else controls you,” she said. “Survival is what happens when you understand enough to keep yourself alive.”
+Zilvrae kept her eyes on him. “Submission is what happens when someone else controls you. Survival is what happens when you understand enough to keep yourself alive.”
 
-She watched him absorb the distinction.
-
-“Do not mistake a law for a kindness merely because you happen to benefit from obeying it. Neither for cruelty because it opposes your beliefs. Laws are as strict and defined, as colourless and shapeless.”
+She watched him absorb the distinction. “Do not mistake a law for a kindness merely because you happen to benefit from obeying it. Neither for cruelty because it opposes your beliefs. Laws are as strict and defined, as colourless and shapeless.”
 
 Layn looked confused. If he happened to offend one of her sisters, he thought, the only colourless and shapeless thing would be his corpse lying on the floor.
 
@@ -336,7 +332,6 @@ And the years passed.
 
 ---
 
-
 Concealment belonged to the same part of the day as weapons.
 
 One morning, in an empty corridor, Zilvrae watched him study the length of the passage before speaking. “Fighting can make you powerful. It can make you feared. It can even make you admired.”
@@ -413,15 +408,13 @@ Zilvrae's expression barely changed.
 
 "Good."
 
-From that day forward, concealment became part of the physical education.
+From that day forward, concealment became part of his physical education.
 
 She taught him where the eye naturally rested and where it tended to slide away, how to stand without presenting a shape that demanded attention, how to cross a room during the instant when someone else's attention was already occupied, how to move without letting the stone announce his weight.
 
 He learned the difference between hiding and being overlooked.
 
-The first required a place to hide.
-
-The second required understanding the person who might be looking.
+The first required a place to hide. The second required understanding the person who might be looking.
 
 He practiced both.
 
@@ -469,7 +462,7 @@ Then he looked inside.
 
 He had never seen that part of House Freth.
 
-The laboratories lay deep beneath the inhabited halls. The stone there was darker and damp in places, marked by old stains that had been cleaned so often that the effort had left its own pattern. Metal tables stood beneath harsh violet lamps. Glass vessels lined the walls. Cages occupied several corners. Other tables held instruments constructed from metal, crystal, bone, and materials Layn could not name.
+The laboratories lay deep beneath the inhabited halls. The stone there was darker and damp in places, marked by old stains cleaned so often that the effort had left its own pattern. Metal tables stood beneath harsh violet lamps. Glass vessels lined the walls. Cages occupied several corners. Other tables held instruments constructed from metal, crystal, bone, and materials Layn could not name.
 
 Priestesses moved from station to station.
 
@@ -519,9 +512,7 @@ Layn hesitated. “I was wondering.”
 
 Her eyes narrowed slightly. “That is rarely a sufficient reason.”
 
-He expected the question to be dismissed.
-
-Instead she rose, crossed the room, and returned with a recently written House Freth volume.
+He expected the question to be dismissed. Instead she rose, crossed the room, and returned with a recently written House Freth volume.
 
 “I have no expertise in such things,” she said, setting the book before him. “But the house keeps records.”
 
@@ -579,7 +570,7 @@ Layn looked from the page to the illustrations, then from one entry to the other
 
 “No.”
 
-Layn returned to the black preparation entry, now understanding why the laboratory record had frightened him. “Then the weaker the subject…”
+Layn returned to the black preparation entry. “Then the weaker the subject…”
 
 Zilvrae held his gaze. “The longer you may observe the result.”
 
@@ -609,7 +600,7 @@ Still, he learned to lie down and to sleep, at least sometimes. He didn't rememb
 
 ---
 
-A few years earlier, the conversation that changed the method was held without him.
+A few years earlier, the conversation that changed the method took place without him.
 
 Dreydre and Greyanna stood with Zilvrae in one of the smaller chambers of House Freth.
 
@@ -649,7 +640,7 @@ The sisters bristled at the word.
 
 Zilvrae folded her hands behind her back. “A frightened boy will freeze when frightened. That is useful.”
 
-She let the silence that followed become uncomfortable before continuing. “But a disciplined boy can freeze when he chooses to.”
+She let the silence become uncomfortable. “But a disciplined boy can freeze when he chooses to.”
 
 Dreydre's expression hardened. “You want us to stop.”
 
@@ -921,7 +912,7 @@ She paused, allowing the final distinction to settle.
 
 “And you know when to move.”
 
-Layn stood quietly as Zilvrae studied him for a moment. “You learned.” The words landed differently from praise, perhaps because Zilvrae did not intend them as such.
+Layn stood quietly. Zilvrae studied him for a moment. “You learned.” The words landed differently from praise, perhaps because Zilvrae did not intend them as such.
 
 She looked toward the place where he had first emerged at the beginning of the lesson.
 
@@ -929,7 +920,7 @@ Zilvrae lowered the quarterstaff. “The training is complete.”
 
 She said nothing about the future; that was not hers to decide.
 
-The sound of the opening door interrupted her thoughts.
+The sound of the opening door interrupted the silence.
 
 Layn turned to find Greyanna standing in the doorway. “The hearing is tonight.”
 
