@@ -12,7 +12,7 @@ The intended separation is:
 - `companions/` — Baba and companion-specific mechanics.
 - `rules/` — generic combat and rules mechanics required by the simulator.
 - `characters/laynlindr-freth/backstory/` — story drafts, planning notes, and source material for Layn.
-- `characters/laynlindr-freth/backstory/chapter-1/novel/audio/` — Sonia voice renders, organized by chapter and section.
+- `characters/laynlindr-freth/backstory/` — the novel chapters; audio renders remain organized separately by chapter and section.
 - `labs/` — shared operating rules for the writing, audiobook, and comics teams.
 
 ## Authority and rule layers
