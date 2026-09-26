@@ -1,4 +1,4 @@
-# Chapter 9 — The Hearing
+# Chapter 10 — The Hearing
 
 The chamber was larger than it had ever seemed from the outer gallery — a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
