@@ -10,9 +10,7 @@ His room was a narrow chamber set below the better apartments of the noble femal
 
 He dressed in the clothes laid across the foot of his bed, folded the blanket, and left.
 
-The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands.
-
-Layn read where the morning had gone without being told. She had not spoken at all, and few people in the house did.
+The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands. Layn read where the morning had gone without being told; she had not spoken at all, and few people in the house did.
 
 He walked toward the lower hall.
 
@@ -44,9 +42,7 @@ Dreydre lowered her gaze, accepting the correction without testing its limits. �
 
 The Matron Mother moved on.
 
-Layn remained standing until the women had taken their places, then sat when the older male beside him lowered himself into his chair.
-
-The Matron Mother never looked in his direction.
+Layn remained standing until the women had taken their places, then sat when the older male beside him lowered himself into his chair. The Matron Mother never looked in his direction.
 
 That was normal.
 
@@ -76,7 +72,7 @@ She swept the emblems up, shuffled them, and set them out again. Without looking
 
 He set them in the order of their houses’ power.
 
-The order was wrong. The broken chain lay where the silver blade belonged and vice versa.
+The order was wrong: the broken chain lay where the silver blade belonged and vice versa.
 
 Zilvrae touched the misplaced emblem with the end of one finger. “You looked,” she said, her voice patient but unsparing. “You did not see.”
 
@@ -184,7 +180,7 @@ It came again, the pressure behind his eyes, and this time he knew it was not hi
 
 Layn's answer came without hesitation. “Right.”
 
-The pin still hung in the air. Neither hand had claimed it yet.
+The pin still hung in the air, neither hand having claimed it yet.
 
 And suddenly, the pin vanished.
 
@@ -290,9 +286,7 @@ She let the suggestion hang for a moment, then smiled wider.
 
 “When the house suffers for your blasphemy, we will tell the Matron Mother who caused it.”
 
-Layn looked toward the corridor.
-
-No servant had come. No priestess had passed. His sisters had chosen a time when the room belonged to them.
+Layn looked toward the corridor. No servant had come. No priestess had passed. His sisters had chosen a time when the room belonged to them.
 
 Layn glanced toward the upper galleries before asking the question, as though the walls themselves might carry the answer. “Does the Matron Mother know they are here?”
 
@@ -352,6 +346,4 @@ Layn remained still until the spiders had finished exploring the bed. He did not
 
 He lay beneath the sacred animals of Lolth and listened to the house move around him.
 
-He was ten years old.
-
-He did not sleep. The scraping stopped, and he did not move even then.
+He was ten years old, and he did not sleep. The scraping stopped, and he did not move even then.
