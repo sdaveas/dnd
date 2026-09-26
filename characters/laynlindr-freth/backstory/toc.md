@@ -15,12 +15,13 @@ The backstory is organized by **character → backstory → chapter**. Each chap
 - **Chapter 1 — Menzoberranzan** — the city and its living architecture; the origins and nature of the drow.
 - **Chapter 2 — The Web** — religion, rank, gender, and daily behavior.
 - **Chapter 3 — House Freth** — house law, hierarchy, and the boy's final reveal.
-- **Chapter 4 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, the instructor, and the hidden conspiracy.
-- **Chapter 5 — The Small Corrections** — the nine-year bridge: the spider routine, sanctioned education, secrecy craft, phobia, hallucinations, and the path toward the hearing.
-- **Chapter 6 — The Three Lessons** — the house-law lessons and the discoveries that reshape Layn's understanding of his place.
-- **Chapter 7 — The Long Quiet** — the long middle period of training, fear, concealment, and change.
-- **Chapter 8 — The Last Lesson** — the final assessment and spar with Zilvrae.
-- **Chapter 9 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and the academy decision.
+- **Chapter 4 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, and Zilvrae's first lessons.
+- **Chapter 5 — The Order** — the sisters' decision, the hidden signs, and the first spider ordeal.
+- **Chapter 6 — The Small Corrections** — the nine-year bridge: the spider routine, sanctioned education, secrecy craft, phobia, hallucinations, and the path toward the hearing.
+- **Chapter 7 — The Three Lessons** — the house-law lessons and the discoveries that reshape Layn's understanding of his place.
+- **Chapter 8 — The Long Quiet** — the long middle period of training, fear, concealment, and change.
+- **Chapter 9 — The Last Lesson** — the final assessment and spar with Zilvrae.
+- **Chapter 10 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and the academy decision.
 
 ### Chapter 3 — The Academy/
 
