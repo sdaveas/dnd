@@ -1,191 +1,243 @@
-# Chapter 10 — The Hearing
+# Chapter 9 — The Last Lesson
 
-The chamber was larger than it had ever seemed from the outer gallery — a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
+By nineteen, the last day of his instruction arrived without ceremony.
 
-He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty.
+The room was empty when Zilvrae entered.
 
-The Matron Mother was already seated on the raised platform at the far end, with Dreydre and Greyanna standing below the dais and two guard females watching the doors.
+Another drow from the household came with her, carrying a slate and speaking in the distracted tone of someone discussing a problem too small to deserve anyone's full attention.
 
-Layn stopped where the floor was worn pale and remained there.
+The other drow shifted the slate under one arm. “The shipment from the lower galleries is delayed.”
 
-They discussed him as though the chamber were empty except for themselves, weighing his memory, discipline, and judgment without once addressing him.
+Zilvrae took the slate from him. “Then the stores will complain.”
 
-a good memory, adequate discipline, judgment less reliable when he believed he had found a pattern. The daughters spoke of his training, of his obedience, of the ten years of it. Greyanna noted that he learned slower than he should.
+“They already have.”
 
-The Matron Mother listened without needing to dominate the conversation. The final decision belonged to her, and every female in the chamber spoke knowing it.
+She set it on the table. “Replace the damaged seal before they do.”
 
-Layn said nothing, and no one asked him anything. His future moved back and forth across the chamber above his head while he stood beneath it, hands empty, deciding nothing.
+They discussed a broken inventory marker, missing lamp oil, and the condition of the practice weapons. It was ordinary House Freth business, the sort of conversation that could happen in any room where the house's daily affairs were handled.
 
-In time the discussion reached the question that had hung over the house for years.
+The other drow left, the door closed, and the room was empty while Zilvrae waited.
 
-“Has he manifested anything?” The words came from the throne, and the chamber went still around them.
+“You can come out now.”
 
-Manifested what? The question made no sense to Layn. He searched the last ten years in his memory — the training, the lessons, the things he had been taught to do. There was nothing he could name as a manifestation.
+Nothing happened until Layn stepped away from the wall beside the weapons rack.
 
-Dreydre kept her eyes lowered. “There have been moments.” The Matron Mother let the answer hang for a breath before asking, “Moments?”
+He had been visible the entire time.
 
-Greyanna answered quickly, eager to contain what her sister had admitted. “Nothing that held. Nothing repeated on command.”
+His clothing blended with the dark stone and the hanging practice gear. He had chosen a position no one naturally looked at because nothing in it suggested that a person belonged there.
 
-She was not gathering information the way Zilvrae gathered it, one fact at a time. Each answer was being laid somewhere, and on the throne above them a conclusion was being assembled.
+Zilvrae regarded him. Her eyes remained on his hiding place. “Acceptable.”
 
-Somewhere behind Layn’s shoulder, while the chamber talked over him, the Matron Mother nodded once to a priestess standing at the platform’s edge, and she hurried out through the hall’s doors.
+“I thought so,” Layn replied, letting a small smile escape.
 
-Then the Matron Mother looked at Layn, and for the first time in his life, her eyes met his.
+Her expression remained unchanged. “That was not praise.”
 
-The chamber became quieter, and Layn did not mistake the look for warmth. She was examining him as the ruler of House Freth might examine a blade brought before her for inspection, turning it once in the light and deciding whether it was fit to be used.
+Layn allowed himself the smallest smile.
 
-Her gaze remained on him. “Show me.” Her first words to him were a command.
+He crossed to the weapon rack and picked up his daggers.
 
-Layn was still trying to understand what the drow who was his mother wanted from him when the doors opened again. The same priestess returned carrying two vessels, one filled with a white liquid and the other with black.
+They were real steel, physical weapons maintained with care despite being used for training. Years of practice had smoothed their grips and left tiny marks along the edges, but the blades were clean, balanced, and sharp enough to deserve respect.
 
-The sisters below the dais went still, Greyanna’s hand finding Dreydre’s sleeve while Dreydre’s eyes went to their mother and stayed there.
+Zilvrae carried nothing, and when Layn looked at her empty hands, the familiar distortion appeared, sharpening his attention despite himself.
 
-Behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Dreydre recognized the ritual. Greyanna did too. Along with the two vessels, it told them everything their mother intended: their heart rates quickened. Neither daughter had known the hearing would come to this.
+A narrow line formed between her fingers, lengthened, thickened, and became the sword.
 
-The black vessel smoked though nothing burned; the smoke did not rise, but crawled along the glass like something slow and alive, while the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later — hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the dungeons, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
+He had seen the weapon appear more times than he could count, yet he still watched it.
 
-He recognized both elixirs from those basement experiments, and their appearance from Zilvrae's lessons. Still, he did not understand until the priestess crossed the floor toward him with one arm extended, the black vessel in her hand.
+Layn looked at the manifested sword. “Last time?” he asked, already knowing the answer.
 
-He took a step backward, then another, his eyes flicking desperately toward the guarded door. His face stayed still and his heart did not. He shook his head once, slowly.
+“Last time,” Zilvrae replied, adjusting her grip.
 
-He did not want it. It was the nearest he had come to refusing anything in nineteen years.
+They began, with Zilvrae moving first.
 
-Dreydre's hand tightened around the edge of her sleeve. “Mother…” Her voice almost failed her. “No. Mother—are you certain?”
+The quarterstaff came across his guard hard enough to force him back. Layn angled away, stepped inside the reach, struck once, and withdrew before the quarterstaff could catch his wrist.
 
-The Matron Mother turned her eyes on her daughters, and Dreydre's next word died before it was spoken.
+She followed as he changed levels, matched him, and watched him feint left and cut right only for the quarterstaff to meet the attack before the dagger arrived.
 
-The corner of the Matron Mother's mouth lifted with the quiet pleasure of someone who already knew the answer; there was no haste in the expression.
+He was neither stronger nor faster; what he had was ten years of preparation.
 
-“My daughters,” she said. “You are not afraid, are you?”
+He knew how far the quarterstaff could reach. He knew how much room she needed before the weapon became dangerous. He knew that trying to overpower her would only shorten the fight.
 
-Her words were drowning in cruelty. There was amusement in them too. The vessel sat between the sisters and the throne, and she had placed it there herself.
+He stepped back, drew Zilvrae forward, changed direction, and threw one dagger.
 
-Then she looked back at Layn. Her lips never moved, but the command struck inside his skull, louder than a scream.
+She slipped aside, the blade striking stone, and Layn did not chase it.
 
-“Drink!”
+His remaining hand drew the second dagger.
 
-It did not ask. It arrived inside him the way the order to breathe arrives, and his will bent around it and broke. His hand rose. His fingers closed on the stopper. Somewhere far away, the part of him that was still Layn watched his own body obey, and hated it, and could do nothing — could not even tremble on purpose.
+He attacked again.
 
-He drank. The smoke went down like a swallowed coal, and for one breath, nothing happened.
+The second throw came low, but Zilvrae knocked it away with the quarterstaff, leaving Layn unarmed.
 
-Then the substance opened him, and the chanting became stronger.
+For an instant he saw two knives lying several paces apart and a tutor standing between him and both.
 
-His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes — and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences in the chamber, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it — form blades out of virtually nothing, thin enough to cut steel; raise shields out of dust that would turn a battering ram.
+He did not rush; instead, he changed the room.
 
-Was this the absolute power? A voice echoed faintly from somewhere very far away.
+Darkness swallowed the gallery.
 
-The Matron Mother turned to her daughters, watching them closely as though she expected resistance. “Two drops each.”
+Zilvrae stopped, then broke the darkness with a dispelling gesture.
 
-The white vessel breathed a thin, white smoke that had no smell and no taste.
+By then, Layn had found both daggers by touch and returned them to his hands.
 
-Dreydre looked at the pale vessel a moment longer than pride allowed before drinking her two drops; Greyanna drank hers as well. They remained what they were—elder priestesses of House Freth, trained and dangerous—but they were deliberately, measurably less.
+The gallery was visible again, but he had already moved from the position Zilvrae last saw him.
 
-The sisters had understood their mother’s plan by then, and it showed on their faces.
+Zilvrae looked toward the places where a fighter might naturally hide: behind the pillars, beneath the arches, near the weapon racks.
 
-The Matron Mother extended her hand. Greyanna carried the white vessel to the throne and gave it over. The Matron Mother shook it gently, once, and held it the way a person holds a drink.
+Nothing. Then a shadow crossed from the opposite side.
 
-As the chanting rose to a peak, a black disc opened beneath the center of the chamber—not a shadow, not a stain. A hole in the world. It spread outward, consuming the stone tile by tile, and where it passed, the floor ceased to be floor. The darkness followed the walls upward, folding them into a cylinder with no ceiling that Layn could find. The braziers went out. The doors vanished with it.
+Zilvrae watched for half a heartbeat, and then she saw the error.
 
-The Matron Mother’s throne did not move. The world changed around it, and she sat precisely where she had been, robes settled, hands quiet, in an arena alien and enormous — and she sat in it the way she had sat in her chamber.
+The shadow did not change with the shape of a body. For anyone less experienced, it would have looked like the moving shadow of a hiding threat.
 
-The chanting now came from outside the dark, distant yet still loud enough to feel.
+Then several small lights appeared.
 
-The cage was the ritual’s work. What it held was theirs.
+They drifted across the gallery, crossing and separating, each one controlled with enough precision to suggest bodies moving at different distances.
 
-Inside the dark, something reached into each of them, took hold of what was innermost, and made it stand.
+One bright patch swept across the far wall.
 
-Layn’s came first, rising out of him the way the pressure rose behind his eyes—a thin, upright silhouette, warrior-shaped in the way a half-remembered thing is. Now and then it lost its shape, running like liquid before reforming. When it stood, it made a sound that was not a battle cry of anything living: a long, scraping shriek, like nails drawn across hard rock.
+Layn used the distraction to reposition.
 
-The training he had received was of no use here. This was not a fight of staves, blades, or spells he had practiced. Whatever had been pulled out of him had its own instincts, and Layn had never been taught how to use them.
+He was already above her before she looked up.
 
-The sisters answered what they saw as Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
+Levitation held him against the ceiling, his back nearly touching the stone, one hand curled around each dagger. He had stopped his own movement completely.
 
-The sisters moved together.
+Zilvrae ignored the false motion below.
 
-The figures struck from opposite sides, not like fear but like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and the silhouette staggered with him. He swung at a figure and his fist passed through shadow, and the shadow’s counterstrike put him on one knee.
+Her eyes searched the room.
 
-They were experienced priestesses, coordinated by a discipline of spiritual combat drilled into them all their lives. The last ten years of watching Layn had only told them exactly where he would be weak.
+Layn waited.
 
-The amplifier roared inside him, and none of it was the same as knowing what to do.
+He had spent years learning where attention landed, how long it remained, and when it was safe to move.
 
-Then, on the floor of the dark, something changed. It was not thought; thought had nothing to do with it. The silhouette stopped reacting to the shades and began arriving where they were going to be — half a breath early, then a full breath early. Strikes that had been finding him began finding only air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal discovering it has claws.
+She looked toward the floor.
 
-He came up off the floor, and his spirit was larger than it had been.
+Layn released the spell.
 
-The sisters did not become fools; they saw the change and adapted with it. They stopped pressing and started provoking — and they had ten years of material. The figures wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, because it had always worked.
+The fall was immediate.
 
-Layn fought wild. The silhouette swung too hard and reached too far, and the figures punished every surge of feeling. For a while, it was enough, but not for long.
+He turned in the air and brought one dagger down toward the opening beside her shoulder.
 
-The figures bore him down again and again until the last blows put him on the floor and kept him there. He folded small — knees to his chest, arms over his head — and the two spider-shapes stood over him, bearing down, again, the way they had always borne down.
+Zilvrae heard the whistle of the blade at the last possible second and quickly twisted aside.
 
-In the middle of it, Layn saw himself.
+The blade struck the quarterstaff with a hard metallic crack.
 
-Countless nights. The same position in his bed — knees drawn up, blanket over his head, breathing small — and the two spiders slithering across the folds, slow and deliberate, waiting with him for the night to end.
+The impact turned Layn sideways.
 
-Through the pain, Layn gathered himself around the only certainty he could still control.
+He landed, rolled, and came up with his second dagger already in hand.
 
-“No more,” he whispered.
+Zilvrae pressed forward.
 
-The words were barely audible, but they belonged to him.
+Layn gave ground, then cut across her line and slipped toward the edge of the gallery. He found an opening and took it.
 
-The blast came out of him and out of the floor at once. It took the two spider-shapes and threw them to opposite ends of the arena, and for a moment the dark between the three of them stood empty.
+She closed it.
 
-Now Layn saw clearly, and the shapeless form that had fought for him became fine: a thin-limbed silhouette, upright and steady where everything else in the arena was noise.
+He changed direction.
 
- It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hands, two blades of pale force formed, one in each. They were thin and exact, quiet the way the pressure behind his eyes was quiet. They were not copies of the weapons he had trained with. They were the weapons his mind reached for first.
+She was waiting.
 
-They had been shaped to give the two spiders that had haunted him for ten years their final blow.
+Layn recognized the magical structure around the quarterstaff as he moved past it. He could feel the faint distinction between ordinary wood and a thing that existed only because Zilvrae continued to hold it in the world.
 
-The spiders regrouped, coming together at the center of the dark with legs coiling, weight settling, and the tension of a battery gathering in their limbs—a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known where the silver pin was, and the order of the thirty house emblems more than ten years ago.
+He understood it.
 
-His legs buckled, then he jumped, rising high and fast enough that the spiders thought he had vanished from the arena; by the time he landed, it was his turn.
+He did not need to dismantle it.
 
-The assault came at a speed nothing in the chamber had ever shown. The silhouette moved through both figures like a thrown blade, and around it, of its own will, a barrier of energy hardened — a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own — theirs cracking with explosive light where his was smooth.
+The thought lasted less than a heartbeat.
 
-For the first time in his life, his sisters were afraid of him, and Layn sensed it in the figures' faces—no longer smiling, no longer flawless, no longer superior.
+Then her free hand moved.
 
-All three siblings screamed—one cry out of three shapes, none of it made by living throats—and marched for the final clash.
+Pale flames spread across Layn's body, clinging to his outline and making every edge of him visible. There was nowhere to hide inside the glow.
 
-“Enough.” The Matron Mother stood.
+Zilvrae advanced.
 
-She had not moved until that instant. She had watched the arena, the figures, and the awakening without giving the others anything to read.
+Layn concentrated to break the spell. "Astux!" he shouted from the bottom of his lungs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved of it.
 
-The word struck through the darkness louder than the clashes.
+All Layn cared about that moment was that it worked. The pale fire vanished, and at the same instant he moved.
 
-The three siblings stopped where they stood—Layn mid-stride, his sisters frozen inside their charge. 
+He crossed the gallery, turned past her shoulder, and came in low.
 
-As the isolated dark cage turned transparent, Layn saw a silhouette levitating in a void, as if it were the only structure in the universe. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands — a cylinder the size of a hall, held like a stolen thing. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. The sisters’ spirits were two candle flames inside the cage. The silhouettes, which had been terrible a breath earlier, looked small. Looked young.
+For a heartbeat, he thought he had found the opening.
 
-Her power was not larger than theirs but of another kind entirely, the way the mountain is not larger than the stone at its foot.
+He drove forward.
 
-Layn resisted, but it did not matter.
+Zilvrae let him.
 
-One thought laid the silhouette flat against the black floor, and Layn felt it in his own body, in his own ribs, and in the floor of his mind; through it, he felt her pure cruelty.
+At the instant Layn's defensive dagger came up to intercept the strike, the quarterstaff vanished.
 
-The titanic creature shattered the cage as if it were glass, and the space around the three senseless siblings immediately altered into the familiar great halls of House Freth.
+Layn's dagger cut through empty air.
 
-The house’s mighty Matron Mother stood emotionless upon her throne.
+Then the quarterstaff reappeared on the other side of his guard, between the dagger and his jaw.
 
-The manifestations went out like lamps: the figures folded down into Dreydre and Greyanna, while the silhouette came apart into the pressure behind his eyes and vanished. The broken dark ran downward like water finding a drain, the black disc shrank beneath the stone, and the chamber of House Freth assembled itself around them piece by piece, brazier by brazier, as though nothing had happened except to the bodies standing in it.
+The movement was so fast that, for an instant, it seemed to Layn that the quarterstaff had passed straight through his blade.
 
-The chanting had stopped.
+The end of it struck his jaw, snapping his head sideways and buckling his knees.
 
-* * *
+Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
-A few moments later, Dreydre was on her knees, understanding that her legs had failed.
+Layn's mind raced. For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
 
-The other priestesses were already moving through the aftermath — tending Greyanna, whose hands would not stop shaking; steadying the two guard females, who had seen nothing from the doors and would be of no use to anyone while the battle of the Freth held.
+The years were all there: the first clumsy footwork, the repeated corrections, the dagger choice, the understanding of reach, the use of darkness, the controlled lights, the ability to recognize the magic laid over him, the ability to undo it, and the discipline not to react simply because fear or surprise demanded it.
 
-Layn was worse, lying where the ritual had dropped him on the pale, worn stones his feet had claimed at the beginning, breathing heavily. His eyes were completely white. Thin black smoke curled from the corners of his mouth with every breath, and the features of his face seemed drawn inward, as though something had sucked them toward the bone of his skull. He did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it.
+Layn's chest was rising and falling hard now while Zilvrae's breathing remained even. Layn made mistakes, Zilvrae punished them, he adapted, and she found another.
 
-From the floor, Dreydre watched him; she could not stand, and she could not look away. She had spent ten years making sure this power stayed small and had never once imagined it large. Now she had seen it, and her arms ached, and her ceiling was still shut, and she understood that the lid her mother had pressed over her had been a mercy — to her.
+They remained there for a moment.
 
-From her throne, the Matron Mother surveyed the aftermath.
+Zilvrae lowered the weapon and released him.
 
-She did not consult anyone or ask for an assessment. Her daughters lay defeated, and there was nothing in her face that suggested she needed confirmation.
+Layn rubbed his jaw and gave her a crooked smile. “Nice trick.”
 
-“Melee-Magthere,” she said, giving the decision its name. Layn did not hear it; he was past hearing.
+Zilvrae lowered the quarterstaff. “The combat work is sufficient.”
 
-She rose and walked to the doors at the pace the household adjusted itself to, then stopped without turning toward them.
+Layn relaxed his stance.
 
-“Keep him alive.” She offered no explanation and waited for no response before she was gone.
+Layn looked at her, rubbing the ache from his jaw. “Sufficient?”
+
+“You are not a great fighter,” Zilvrae said.
+
+He accepted the judgment without flinching.
+
+“But you are no longer an easy one.”
+
+Her gaze moved from the daggers to the place where the pale flames had vanished. “You know your weapons. You know the powers given to you. You know how to hide. You know when to wait.”
+
+She paused, allowing the final distinction to settle.
+
+“And you know when to move.”
+
+Layn stood quietly. Zilvrae studied him for a moment. “You learned.” The words landed differently from praise, perhaps because Zilvrae did not intend them as such.
+
+She looked toward the place where he had first emerged at the beginning of the lesson.
+
+Zilvrae lowered the sword. “The training is complete.”
+
+She said nothing about the future; that was not hers to decide.
+
+The sound of the opening door interrupted the silence.
+
+Layn turned to find Greyanna standing in the doorway. “The hearing is tonight.”
+
+Layn looked at her, trying to read the answer before he asked for it. “Are you going to be there?”
+
+Greyanna's eyes moved briefly toward Zilvrae. “No. My work is finished. From here, you are in the hands of your family.”
+
+Greyanna's eyes moved past him to Zilvrae. The glance lingered for a moment, measuring and superior, before returning to Layn.
+
+Zilvrae's expression softened by the smallest degree. “You are going to be decent.”
+
+“I always am,” Layn said with a faint smile.
+
+Greyanna stepped aside.
+
+Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years.
+
+The door closed behind them, and Zilvrae remained still in a room that suddenly seemed larger.
+
+For ten years there had always been another lesson waiting, another correction, another mistake, another reason to say the same word until the boy understood it. Again. Now there was no next attempt.
+
+Zilvrae turned toward the weapon racks.
+
+She began putting the room in order. These daggers would not be used again tomorrow; only the marks in the floor would remain.
+
+She adjusted one of the racks, then adjusted it again even though it had been straight the first time, before collecting the training pieces left near the wall.
+
+Her hands did not hurry, and when the room was finally in order, she stood alone in the center of it.
+
+For the first time in ten years, there was no student waiting for her instruction. Zilvrae looked toward the closed door. “Endure, Laynlindr Freth.”
