@@ -7,7 +7,7 @@ from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from docx.opc.part import Part
 from docx.opc.packuri import PackURI
 from docx.oxml import parse_xml
-from docx.oxml.ns import nsdecls
+from docx.oxml.ns import nsdecls, qn
 from docx.shared import Inches, Pt, RGBColor
 
 BOOK = Path.home() / "Projects/stelios/dnd/characters/laynlindr-freth/backstory/book"
@@ -86,7 +86,7 @@ def chapter(doc, num, title, paras):
         (title, 22 if num else 18, 60 if num else 80),
         (ORNAMENT, 12, 14),
     ]:
-        p = doc.add_paragraph()
+        p = doc.add_paragraph(style="Heading 1" if txt == title else None)
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         p.paragraph_format.first_line_indent = None
         p.paragraph_format.space_before = Pt(before)
@@ -167,6 +167,10 @@ for f in sorted(BOOK.glob("chapter-*.md")):
         glossary = (num, name, paras)
         continue
     chapters.append((num, name, paras))
+
+# contents page: just the header; ToC entries are added manually in Google Docs
+doc.add_page_break()
+centered(doc, [("CONTENTS", 16, 100)])
 
 for num, name, paras in chapters:
     chapter(doc, num, name, paras)
