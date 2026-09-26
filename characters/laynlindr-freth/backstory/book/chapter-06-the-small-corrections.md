@@ -88,8 +88,6 @@ Layn watched her lift it.
 
 The quarterstaff moved as she stepped forward, turned it through one hand, caught it again, and changed her angle without breaking rhythm. It swept, redirected, struck low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
 
-Layn had seen the sequence before, but he watched anyway.
-
 Layn watched the weapon as though he might find the answer in its construction. “What makes that different from a real weapon?”
 
 Zilvrae's mouth tightened almost imperceptibly. “Nothing you need to concern yourself with.”
@@ -112,7 +110,7 @@ Zilvrae looked at him long enough to make him reconsider the question. “Not us
 
 Layn was about to ask why when, instead, she formed a spear.
 
-The weapon appeared in her hands with the same terrible perfection as the sword. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
+The weapon appeared in her hands with the same terrible perfection as the staff. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
 
 His body decided before his mind did, and he ducked as the spear vanished a few inches beyond Zilvrae's hand.
 
