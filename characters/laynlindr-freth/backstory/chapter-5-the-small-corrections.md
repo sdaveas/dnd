@@ -1,131 +1,130 @@
 # Chapter 5 — The Small Corrections
 
-# Chapter 5 — The Small Corrections
+order had come down years ago with no reason attached: the boy was to be given room—no marks, no cruelty—and watched. If the gift showed itself, it was to be suppressed before it could speak. Their mother did not explain her commands, and the house did not ask for explanations.
 
-By twelve, Layn had learned that the training gallery was the only room in House Freth where a mistake was allowed to have a reason.
+Obedience had rankled. There was cruelty in the house that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, tested, and learned little until tonight.
 
-The floor had been worn smooth beneath generations of feet. The walls carried the shallow scars of practice weapons striking stone. Along one side of the chamber stood orderly racks of staves, swords, short blades, and heavier weapons meant for bodies stronger than his. Nothing in the gallery was decorative. Every object had a use, and Zilvrae expected that use to be understood.
+The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead and did not live to see another dusk.
 
-There were no other boys in House Freth for Layn to measure himself against. Noble houses did not produce children in such numbers. A child might be absent from one household for years before another was born, and Layn was the only young drow of his age under House Freth's roof.
+They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have because a frightened mind hides its hand and a clear one shows it, and the hand had begun to show.
 
-Zilvrae therefore measured him against older lessons. She had taught young drow who were powerful before they were disciplined, quick before they were precise, clever before they were patient. She had taught some who learned a movement in a morning and some who needed weeks to stop making the same mistake. She had watched students become arrogant when praised and careless when they discovered something came easily.
+If they waited longer and the gift surfaced on its own—in front of a priestess, in front of their mother—no one would ask how to contain it. They would ask who had let it grow, and the answer would have their names in it.
 
-Layn had little that came easily: he was neither the strongest nor the quickest. His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
+The order had told them to wait for signs. The signs had come. Nothing in it had said how gently the remedy must be given.
 
-What he had was persistence; he listened, remembered, and, when Zilvrae corrected the same mistake for the fourth time, he made the correction a fifth time without complaint. When a movement refused to become natural, he repeated it until the awkwardness stopped feeling like an obstacle and became another thing his body knew how to do.
+The boy’s mind could not be allowed to speak first.
 
-Zilvrae did not care how many repetitions it took. “Again.”
+* * *
 
-Layn reset his feet. Zilvrae watched the tension in his left shoulder. “Relax it.”
+Layn walked back through the house knowing which stairs were watched, which servants repeated everything they heard, and which doors could be opened without making a sound. He had never been told any of it; the knowledge was simply where the house was, and he assumed the others knew their own ways as well.
 
-He loosened the shoulder.
+He had learned only that the quickest route through the house was rarely the safest and that being overlooked could be more useful than being noticed.
 
-Zilvrae gave him no time to settle into the correction. “Again.” The staff came forward. Layn followed the weapon as it changed direction, and Zilvrae stepped around his guard to touch his wrist with the end of her staff.
+No one praised him for these discoveries.
 
-“You are watching the weapon,” Zilvrae said, and tapped his wrist with the staff.
+No one needed to.
 
-Layn's eyes stayed on her hand. “I am watching your hand.”
+When the house lamps dimmed toward the end of the household’s cycle, Layn returned to his room.
 
-She stopped and lowered the staff, studying him rather than the weapon. “Then you are watching the wrong hand.”
+The door was open.
 
-Layn frowned, unwilling to concede the point.
+He stopped before entering.
 
-She shifted her weight, barely enough for him to see it. “The weapon tells you what has already happened. The body tells you what is about to happen.”
+Two spiders rested on his bed.
 
-She demonstrated the movement slowly. The change was so slight that Layn almost missed it: a shift in weight, a turn of the shoulder, the smallest adjustment in the angle of her feet.
+They were not the small creatures carved into the walls or the delicate things that sometimes appeared in temple offerings. These were black and heavy-bodied, each with legs long enough to reach from the center of the blanket to its edge. Their movements were slow, deliberate, and disturbingly careful.
 
-“Again.” Zilvrae raised the staff once more.
+Dreydre stood beside the bed.
 
-Layn tried and was wrong. Zilvrae corrected his stance. “Again.” The next attempt was closer.
+Greyanna sat on the windowsill, though there was no window beyond the dark opening—only a deep shaft crossed by a narrow bridge.
 
-She struck his shoulder again, but this time the contact was lighter. “Better.”
+Layn’s throat tightened.
 
-Layn swallowed his irritation, having already learned that it did not make the next attempt better, and tried again.
+He stared at the bed, fighting the urge to step backward. “Remove them,” he said.
 
-This time he saw the movement sooner; he was still too slow to stop it, but he had seen it.
+Greyanna smiled at his fear. “You know better than that.”
 
-Zilvrae lowered her staff. “Again.”
+Layn kept his voice low, as though saying it too loudly might make the room worse. “They are in my bed.”
 
-That was how the days went: he did not become brilliant, but he became competent.
+Greyanna glanced at the spiders, then back at him. “They are sacred animals of Lolth.”
 
-The distinction mattered less to Zilvrae than it did to him. She had been assigned a boy to educate, and she took the assignment seriously. His future was not hers to choose. For several years the house would give him the foundations every young drow was expected to possess; at twenty, a young drow would be expected to leave that foundation behind and enter the academy appropriate to the path chosen for him, whether the way of the blade or the way of spellcraft.
+One of the spiders lifted its front legs and placed them on the folded blanket. Its body shifted with a faint, dry scrape.
 
-Her responsibility was narrower: whatever came next, he would not embarrass her work.
+Layn did not move.
 
----
+Dreydre watched his hands rather than his face. “If you kill them, the Spider Queen will know.”
 
-One afternoon she placed several practice weapons on the floor between them.
+Layn swallowed and forced himself to look at the spider nearest him. “They are not temple spiders.”
 
-Zilvrae stepped back from the weapons and gestured toward the rack. “Choose.”
+Greyanna's smile sharpened. “You would question what is sacred?”
 
-Layn looked over them and tried a sword first. The reach was useful, but he disliked the weight at the end of every movement. He took up a staff next. It felt more balanced, but the length seemed to announce every intention before he had finished making it. A heavier blade was worse.
+Layn's eyes stayed on the bed. “I only want them out.”
 
-He returned to the short weapons and eventually picked up two training daggers, which settled into his hands as though they belonged there.
+Greyanna leaned against the wall and watched him calculate the alternatives. “Drive them away, then. Put them in the corridor. Let them wander into the servants' quarters. Let them crawl into someone else's bed.”
 
-Zilvrae watched him turn one over, test its balance, then change his grip.
+She let the suggestion hang for a moment, then smiled wider.
 
-Zilvrae watched his hands settle around the daggers. “Why?”
+“When the house suffers for your blasphemy, we will tell the Matron Mother who caused it.”
 
-Layn tested the weight of the first blade and answered without embarrassment. “I'm not good with long or heavy weapons.”
+Layn looked toward the corridor. No servant had come. No priestess had passed. His sisters had chosen a time when the room belonged to them.
 
-He glanced toward the practice targets. “These are easier to handle.”
+Layn glanced toward the upper galleries before asking the question, as though the walls themselves might carry the answer. “Does the Matron Mother know they are here?”
 
-He rolled the second dagger between his fingers, considering what else it gave him. “And I can throw them.”
+Dreydre’s expression hardened.
 
-Zilvrae's eyes moved to the target rack. “Then learn to throw them properly.”
+“The Matron Mother does not concern herself with a male child's bedding,” Dreydre said, her composure returning.
 
-Layn nodded, accepting the correction without argument.
+Layn studied her face. “Then why would she care if I moved them?”
 
-The choice remained his. It was practical and modest, requiring no pretense that he possessed strength he did not have, and he liked it for that reason.
+The answer came too quickly. “Because she would care about the consequences.”
 
-Layn turned one of the daggers over, studying the practice blade before looking back at Zilvrae.
+Layn looked at his sisters. Neither of them looked toward the upper galleries where the Matron Mother’s chambers lay.
 
-Layn looked at her empty hands, then at the weapon rack. “What's your favorite weapon?”
+He understood only that he was being watched.
 
-Zilvrae stood in the center of the gallery with empty hands, but that did not make it ordinary.
+Dreydre opened the door wider and pointed toward the bed. “Lie down.”
 
-Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery's violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful sword in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
+Layn's voice tightened. “I do not want to.”
 
-Layn watched her lift it.
+Greyanna slid from the sill, her expression hardening as his refusal lasted. “You are a male in House Freth. Wanting is not a reason.”
 
-The sword moved as she stepped forward, turned it through one hand, caught the grip again, and changed her angle without breaking rhythm. It cut, redirected, swept low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
+Dreydre waited until he looked at her. “Lie down, boy.”
 
-Layn had seen the sequence before, but he watched anyway.
+Layn stepped into the room.
 
-Layn watched the weapon as though he might find the answer in its construction. “What makes that different from a real weapon?”
+He removed his boots and climbed onto the bed without taking his eyes from the spiders. The first moved when the mattress dipped beneath his weight. Its legs touched his wrist.
 
-Zilvrae's mouth tightened almost imperceptibly. “Nothing you need to concern yourself with.”
+He flinched.
 
-She lowered the sword slightly. “It has weight. It has reach. It breaks things when I tell it to.”
+Dreydre watched his trembling hands. “Still.”
 
-Layn looked at it again. “How long does it stay?” he asked, still watching the impossible blade.
+The word carried no anger. That made it worse.
 
-“As long as I hold it,” Zilvrae replied.
+Layn pressed his hands flat against the blanket. The spider climbed across his arm, its weight light enough to be almost gentle. The second followed, crossing his chest and pausing below his throat.
 
-She opened the fingers of one hand, waiting for him to notice what did not happen; the staff remained because her other hand still held it, and when she opened that hand as well, the weapon disappeared before it could fall.
+His heart beat so hard that he was certain his sisters could see it.
 
-Layn blinked, then studied the staff for another moment. “Can you make any weapon?”
+His eyes burned. Tears slid from the corners into his hair, and he did not move to stop them.
 
-“Most,” Zilvrae said.
+He reached for the pressure behind his eyes, the way he had reached when he named the sleeve. Nothing answered. The fear stood where the quiet had been, and the quiet would not come.
 
-He considered that answer, then glanced toward the targets. “Can you throw them?”
+Then the pressure returned on its own.
 
-Zilvrae looked at him long enough to make him reconsider the question. “Not usefully.”
+For one instant the room seemed to draw inward. The spider on his chest stopped moving, its legs folding against its body as though it had struck an invisible barrier.
 
-Layn was about to ask why when, instead, she formed a spear.
+Dreydre saw it.
 
-The weapon appeared in her hands with the same terrible perfection as the sword. When she threw it, Layn saw the point coming straight for his chest for one brief instant.
+Layn knew she saw it because her breathing changed.
 
-His body decided before his mind did, and he ducked as the spear vanished a few inches beyond Zilvrae's hand.
+Then the pressure vanished, and the spider continued toward his throat.
 
-Layn's momentum carried the rest of him onward. His foot caught the edge of a low practice stand. He pitched forward, struck the stone with his palms, and ended sprawled face-down with the back of his tunic high enough to expose far more dignity than he possessed.
+Neither sister spoke.
 
-There was a brief silence before Zilvrae said, in the same tone she might have used to correct his footwork, “Cunning disengagement, Master Laynlindr.” Her face remained perfectly composed.
+They left him there when the household lamps dimmed again, closing the door behind them.
 
-Layn pushed himself upright, red-faced.
+Layn remained still until the spiders had finished exploring the bed. He did not kill them. He did not drive them away. He did not call for a servant.
 
-Zilvrae had already formed the sword again. “And now—again.”
+He lay beneath the sacred animals of Lolth and listened to the house move around him.
 
-He got to his feet.
+He was ten years old, and he did not sleep. The scraping stopped, and he did not move even then.
 
-The lesson continued, and Layn looked down at his own daggers, embarrassingly inelegant beside the great staff. He lifted his shoulders slightly and thought, *At least I can throw them.*
