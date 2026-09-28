@@ -2,6 +2,15 @@
 
 This repository contains the rules, character data, inventory, companion data, combat conventions, and narrative working files for **Laynlindr Freth (Layn)**.
 
+## Read the book — *Soulknife*
+
+- **[Read the PDF in your browser](characters/laynlindr-freth/backstory/book/Soulknife.pdf)** — opens GitHub's built-in viewer
+- [Download the PDF](releases/download/book/Soulknife.pdf)
+- [Download the DOCX](releases/download/book/Soulknife.docx)
+- [Releases page](releases/tag/book)
+
+*(The PDF link always shows the latest render — a GitHub Action rebuilds it after every change to the book.)*
+
 ## Scope
 
 The battle simulator remains the authoritative home for combat data. The backstory and audio folders hold the separate narrative project and its generated media.
