@@ -7,3 +7,7 @@ dnd-project.zip
 # book build outputs (live as release assets + workflow artifacts)
 characters/laynlindr-freth/backstory/book/Soulknife.docx
 characters/laynlindr-freth/backstory/book/Soulknife.pdf
+
+# audiobook renders (built locally / as GitHub Actions artifacts)
+characters/laynlindr-freth/backstory/audiobook/*.mp3
+labs/audiobook/.venv/
