@@ -57,14 +57,15 @@ jobs:
         run: |
           mkdir -p /tmp/assets
           shopt -s nullglob
+          copy() { if [ $# -ge 1 ]; then cp "$@" /tmp/assets/; fi; }
           if [ "$FMT" = "audio" ] || [ "$FMT" = "all" ]; then
-            cp characters/laynlindr-freth/backstory/audiobook/*.mp3 /tmp/assets/
+            copy characters/laynlindr-freth/backstory/audiobook/*.mp3
           fi
           if [ "$FMT" = "docx" ] || [ "$FMT" = "all" ]; then
-            cp characters/laynlindr-freth/backstory/book/Soulknife.docx /tmp/assets/
+            copy characters/laynlindr-freth/backstory/book/Soulknife.docx
           fi
           if [ "$FMT" = "pdf" ] || [ "$FMT" = "all" ]; then
-            cp characters/laynlindr-freth/backstory/book/Soulknife.pdf /tmp/assets/
+            copy characters/laynlindr-freth/backstory/book/Soulknife.pdf
           fi
           files=(/tmp/assets/*)
           if [ ${#files[@]} -eq 0 ]; then
