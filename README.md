@@ -4,12 +4,12 @@ This repository contains the rules, character data, inventory, companion data, c
 
 ## Read the book — *Soulknife*
 
-- **[Read the PDF in your browser](characters/laynlindr-freth/backstory/book/Soulknife.pdf)** — opens GitHub's built-in viewer
-- [Download the PDF](releases/download/book/Soulknife.pdf)
+- **[Read online — Google Doc](https://docs.google.com/document/d/1-eY-EoK5sVwkyanDe9empN8pskeO9GNwwtRvuKu_AWQ/edit)** — opens in the browser (working copy)
+- [Download the PDF](releases/download/book/Soulknife.pdf) — from the latest release
 - [Download the DOCX](releases/download/book/Soulknife.docx)
 - [Releases page](releases/tag/book)
 
-*(The PDF link always shows the latest render — a GitHub Action rebuilds it after every change to the book.)*
+*(A GitHub Action rebuilds the docx/pdf after every change to the book and publishes them to the rolling release above.)*
 
 ## Scope
 

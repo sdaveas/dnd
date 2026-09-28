@@ -3,3 +3,7 @@
 *.af~lock~
 .DS_Store
 dnd-project.zip
+
+# book build outputs (live as release assets + workflow artifacts)
+characters/laynlindr-freth/backstory/book/Soulknife.docx
+characters/laynlindr-freth/backstory/book/Soulknife.pdf
