@@ -45,3 +45,14 @@ jobs:
           path: |
             characters/laynlindr-freth/backstory/book/Soulknife.docx
             characters/laynlindr-freth/backstory/book/Soulknife.pdf
+
+      - name: Update rolling release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: book
+          name: Soulknife — latest
+          body: Rendered automatically from main. Replaces the previous files.
+          files: |
+            characters/laynlindr-freth/backstory/book/Soulknife.docx
+            characters/laynlindr-freth/backstory/book/Soulknife.pdf
+          make_latest: true
