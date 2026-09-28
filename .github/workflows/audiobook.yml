@@ -38,7 +38,11 @@ jobs:
         if: env.FMT == 'audio' || env.FMT == 'all'
         run: |
           pip install kokoro-mlx
-          python3 labs/audiobook/tools/render_audiobook.py --base "${{ github.event.before }}"
+          if [ -n "${{ github.event.before }}" ]; then
+            python3 labs/audiobook/tools/render_audiobook.py --base "${{ github.event.before }}"
+          else
+            python3 labs/audiobook/tools/render_audiobook.py --all
+          fi
       - name: Build docx
         if: env.FMT == 'docx' || env.FMT == 'pdf' || env.FMT == 'all'
         run: |
