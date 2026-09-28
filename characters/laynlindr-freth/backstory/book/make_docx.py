@@ -10,7 +10,7 @@ from docx.oxml import parse_xml
 from docx.oxml.ns import nsdecls, qn
 from docx.shared import Inches, Pt, RGBColor
 
-BOOK = Path.home() / "Projects/stelios/dnd/characters/laynlindr-freth/backstory/book"
+BOOK = Path(__file__).parent
 OUT = BOOK / "Soulknife.docx"
 BODY = "Garamond"
 ORNAMENT = "\u2020  \u2020"  # paired daggers

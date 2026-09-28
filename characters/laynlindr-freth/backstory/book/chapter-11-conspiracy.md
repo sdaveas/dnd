@@ -1,4 +1,4 @@
-Chapter 11 — Conspiracy
+## Chapter 11 — Conspiracy
 
 “Psionic?” asked Dreydre.
 
