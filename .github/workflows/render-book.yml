@@ -41,6 +41,7 @@ jobs:
         run: soffice --headless --convert-to pdf --outdir . Soulknife.docx
 
       - name: Commit rendered book
+        working-directory: characters/laynlindr-freth/backstory/book
         run: |
           git config user.name "book-bot"
           git config user.email "actions@users.noreply.github.com"
