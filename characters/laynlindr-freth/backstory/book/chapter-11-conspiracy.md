@@ -58,7 +58,7 @@ The sisters stared at her.
 
 “Powerfully enough to cause permanent damage, or destroy him entirely. Enough to force his instincts to answer before his mind understands what is happening. At his age, instinct governs almost everything. If the power is present, he may manifest some form of barrier before his conscious mind even knows that it has done so. If the reaction is strong enough, the pressure may continue until the power breaks outward.”
 
-She looked around the chamber. “I would not recommend doing it in these chambers. If the manifestation is strong enough, you may have to rebuild it afterward. The safest would be House Oblodra.”
+She looked around the chamber. “I would not recommend doing it in these chambers. If the manifestation is strong enough, you may have to rebuild them afterward. The safest would be House Oblodra.”
 
 Silence followed.
 

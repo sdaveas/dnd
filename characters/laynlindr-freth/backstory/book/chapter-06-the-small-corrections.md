@@ -4,7 +4,7 @@ By twelve, Layn had learned that the training gallery was the only room in House
 
 The floor had been worn smooth beneath generations of feet. The walls carried the shallow scars of practice weapons striking stone. Along one side of the chamber stood orderly racks of staves, swords, short blades, and heavier weapons meant for bodies stronger than his. Nothing in the gallery was decorative. Every object had a use, and Zilvrae expected that use to be understood.
 
-There were no other boys in House Freth for Layn to measure himself against. Noble Houses did not produce children in such numbers. A child might be absent from one household for years before another was born, and Layn was the only young drow of his age under House Freth’s roof.
+There were no other boys in House Freth for Layn to measure himself against. Noble Houses did not produce children in such numbers. Years could pass in a household before another child was born, and Layn was the only young drow of his age under House Freth’s roof.
 
 Zilvrae therefore measured him against older lessons. She had taught young drow who were powerful before they were disciplined, quick before they were precise, clever before they were patient. She had taught some who learned a movement in a morning and some who needed weeks to stop making the same mistake. She had watched students become arrogant when praised and careless when they discovered something came easily.
 
@@ -56,7 +56,7 @@ There was no sense within House Freth that one kind of education mattered less t
 
 Zilvrae taught all three with the same patience.
 
-The first magical discipline took him roughly a month to master as she taught him to perceive magic rather than merely observe what magic did. At first she let him find obvious workings: a ward set into a door, an enchantment on a weapon, the residue left behind after another spell had been cast. Then she concealed weaker traces and made him search without touching anything.
+The first magical discipline took him roughly a month to master: she taught him to perceive magic rather than merely observe what magic did. At first she let him find obvious workings: a ward set into a door, an enchantment on a weapon, the residue left behind after another spell had been cast. Then she concealed weaker traces and made him search without touching anything.
 
 He learned to recognize the difference between ordinary stone and stone carrying a magical working. The next ability, small lights, took several months to master: at first they drifted, then merged, then brightened or dimmed without his permission. Zilvrae made him produce several at once and keep them in different positions, because light was not useful merely because it existed. In a world where darkness was a weapon, controlled illumination could expose what an enemy meant to hide, force a concealed creature into view, or make one part of a room appear safer than another.
 

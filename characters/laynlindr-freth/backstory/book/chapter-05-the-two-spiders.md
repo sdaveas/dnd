@@ -6,7 +6,7 @@ Obedience had rankled. There was cruelty in the House that would have been their
 
 The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty Houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead and did not live to see another dusk.
 
-They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have because a frightened mind hides its hand and a clear one shows it, and the hand had begun to show.
+They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have, because a frightened mind hides its hand and a clear one shows it. Now the hand had begun to show.
 
 If they waited longer and the gift surfaced on its own—in front of a priestess, in front of their mother—no one would ask how to contain it. They would ask who had let it grow, and the answer would have their names in it.
 

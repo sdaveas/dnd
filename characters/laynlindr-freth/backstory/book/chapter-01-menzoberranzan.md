@@ -34,7 +34,7 @@ The darkness was not empty. It was information.
 
 Every shadow could contain a threat, an opportunity, or nothing at all, and the drow had spent thousands of years learning the difference. The dark was where they lived, where they had buried themselves, and where they had learned how to kill.
 
-They were not always what they had become. The stories taught to drow children told of an older people, elves who had once lived beneath open skies before Lolth and the conflict among the elven gods led her followers away from the surface. Those stories changed depending on who told them. Priestesses spoke of betrayal and divine purpose; others remembered only that the drow had been driven down and that their enemies had stolen the world above.
+They were not always what they had become. The stories taught to drow children told of an older people, elves who had once lived beneath open skies, before Lolth and the conflict among the elven gods led her followers away from the surface. Those stories changed depending on who told them. Priestesses spoke of betrayal and divine purpose; others remembered only that the drow had been driven down and that their enemies had stolen the world above.
 
 Whatever the truth of those ancient days, the drow inherited the hatred.
 

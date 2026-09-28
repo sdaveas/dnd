@@ -6,7 +6,7 @@ At first they still appeared in his bed often enough that he could almost measur
 
 The physical visits disappeared, but the fear did not. Layn would lie down and remember the last night in which two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it. Some nights he would wake convinced he had felt movement beside his leg.
 
-Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds, before the lamps changed, deciding whether the room was real; once he woke certain that the carved spider above his doorway had turned to look at him, and he remained still, watching it until his breathing slowed and the carving became only stone again.
+Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds deciding, before the lamps changed, whether the room was real; once he woke certain that the carved spider above his doorway had turned to look at him, and he remained still, watching it until his breathing slowed and the carving became only stone again.
 
 He never decided whether it had moved at all.
 

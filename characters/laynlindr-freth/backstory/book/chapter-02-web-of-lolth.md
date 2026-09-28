@@ -2,19 +2,15 @@
 
 Two male drow soldiers stood beneath an arcade of black stone while the traffic of Menzoberranzan passed around them. One wore the insignia of an armed spider, each of its eight legs gripping a different weapon; the other wore two spiders facing one another in a dark metal clasp at his shoulder. They had stopped to settle the delivery of a small alchemical consignment.
 
-The soldier with the armed spider inspected the vessel before handing it back. “The third arrived with sediment. Four measures are due.”
+The soldier with the armed spider held up a small case of dark glass vials and let it catch the light. “Your House is busier than usual, I see.”
 
-The other soldier kept his gaze on the seal. “It left my stores intact. Three.”
+The soldier with the two spiders set a purse of gold in the other’s free hand before he took the case. “And yours wealthier.”
 
-The first soldier’s thumb paused against the vessel’s rim. “Then someone opened it between our stores.”
+He slipped the case into an inner pocket of his cloak, and his eyes passed once along the arcade to see who might be watching. “I trust it will grow less curious, too.”
 
-“Name the handler,” the second replied.
+The soldier with the armed spider weighed the purse without looking at it. The look he gave the other held nothing courteous at all. “As soon as you are more mindful of whom you address.”
 
-“We examined it before storage. Four.”
-
-The soldier with the two-spider insignia gave a slight nod. “Very well. Have the next consignment arrive clean.”
-
-They moved on, neither having raised his voice. There was no need. Each had tested the other’s claim, neither willing to absorb the cost, and the matter had ended only when one decided the argument was no longer worth continuing. Courtesy had served its purpose without becoming trust.
+Courtesy had served its purpose without becoming trust.
 
 The street was busy with the ordinary business of the city: merchants called to customers, slaves carried crates between stalls, and soldiers moved through the traffic in the colors of their Houses. Then, gradually, the noise began to change. A merchant lowered his voice, a servant stepped against a wall, and two soldiers cleared the center of the street.
 
@@ -40,7 +36,7 @@ The street understood.
 
 The procession continued into older passages beneath the noble quarter, where the markets thinned behind them, the walls narrowed, the light weakened, and spiders appeared more frequently in the stone. The two soldiers followed far enough behind that none of the priestesses needed to acknowledge them.
 
-“The charge?” the soldier with the armed spider asked.
+“The charge?” the soldier with the armed spider asked, without looking at him.
 
 The other soldier glanced once toward the Teken’duis banner. “Blasphemy.”
 
@@ -140,7 +136,7 @@ Priestesses of House Teken’duis gathered around the altar and began a longer p
 
 The high priestess of House Baenre had more important matters to attend to. She gave a final instruction to the priestesses and turned away from the altar, the Baenre banner following her from the chamber. She had done what the First House had been required to do.
 
-The soldier with the two-spider insignia remembered that he also had to hurry. He left without offering a word of farewell because there was nothing to say that mattered enough to delay him.
+The soldier with the two-spider insignia remembered that he also had to hurry. The case beneath his cloak was expected below. He left without offering a word of farewell because there was nothing to say that mattered enough to delay him.
 
 He moved quickly through the old tunnels, passed back into the busier streets, and hurried toward the district where his House stood.
 

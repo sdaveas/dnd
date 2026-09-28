@@ -10,7 +10,7 @@ His room was a narrow chamber set below the better apartments of the noble femal
 
 He dressed in the clothes laid across the foot of his bed, folded the blanket, and left.
 
-The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands. Layn read where the morning had gone without being told; she had not spoken at all, and few people in the House did.
+The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands. She did not speak. Few people in the House ever spoke to him at all.
 
 He walked toward the lower hall.
 
