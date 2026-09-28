@@ -10,29 +10,40 @@ The backstory is organized by **character → backstory → chapter**. Each chap
 
 ## Story Structure
 
-## Chapters 1–9
+The backstory has two parts. **Part One** covers Layn's life in House Freth up to the Hearing in his twentieth year. **Part Two** covers the Academy, his years back in House Freth, the Teken'duis attack, his flight through the Underdark, and ends when he steps onto the surface. Dates and the setup-and-payoff ledger are in [`notes.md` §24](notes.md#24-part-one-revision-decisions).
 
-- **Chapter 1 — Menzoberranzan** — the city and its living architecture; the origins and nature of the drow.
-- **Chapter 2 — The Web** — religion, rank, gender, and daily behavior.
-- **Chapter 3 — House Freth** — house law, hierarchy, and the boy's final reveal.
-- **Chapter 4 — A Normal Day** — Layn at ten, the Matron Mother, his older sisters, and Zilvrae's first lessons.
-- **Chapter 5 — The Two Spiders** — the sisters' decision, the hidden signs, and the first spider ordeal.
-- **Chapter 6 — The Small Corrections** — the nine-year bridge: the spider routine, sanctioned education, secrecy craft, phobia, hallucinations, and the path toward the hearing.
-- **Chapter 7 — The Three Lessons** — the house-law lessons and the discoveries that reshape Layn's understanding of his place.
-- **Chapter 8 — The Long Quiet** — the long middle period of training, fear, concealment, and change.
-- **Chapter 9 — The Last Lesson** — the final assessment and spar with Zilvrae.
-- **Chapter 10 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and the academy decision.
+### Part One — House Freth (drafted)
 
-#### Chapter 3 — The Academy/
+- **Chapter 1 — Menzoberranzan** — the city, its darkness, and its long memory; the introduction for readers new to *Homeland*.
+- **Chapter 2 — The Web** — Lolth's law through the Teken'duis sacrifice, watched by a Freth soldier.
+- **Chapter 3 — House Freth** — house law through a priestess's punishment; the boy's name.
+- **Chapter 4 — A Normal Day** — Layn at ten (1297 DR): the Matron Mother, his sisters, Zilvrae's emblem drill, and the silver pin.
+- **Chapter 5 — The Two Spiders** — the sisters act on the signs; the first spider ordeal.
+- **Chapter 6 — The Small Corrections** — weapons training, the six birthright spells, house law, and the witness rule through House DeVir's fall.
+- **Chapter 7 — Concealment** — the spider phobia, the dagger choice, Zilvrae's manifested weapons, and learning to be overlooked.
+- **Chapter 8 — The Long Quiet** — the laboratories and the two preparations; Zilvrae ends the spider routine.
+- **Chapter 9 — The Last Lesson** — the final spar with Zilvrae.
+- **Chapter 10 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and Melee-Magthere (1307 DR, age twenty).
+- **Chapter 11 — Conspiracy** — Layn's infancy: the first sign, the Matron Mother's orders, and Zilvrae's private resolve.
 
-The academy is a 10-year course (canon, Homeland p.151); the four sections below span Layn's first four years (≈1315–1318 DR). Melee-Magthere's next opening falls in the year Layn turns 19. Drizzt Do'Urden enters in Layn's third year (≈1317 DR) — a name and a technique, never a friend.
+### Part Two — outline (not drafted)
+
+Part Two runs from the Academy to the surface. The earlier outlines below are kept for reference and need revising against Part One and `notes.md` §24.
+
+#### The Academy (1307–1317 DR)
+
+Melee-Magthere is a 10-year course (canon, *Homeland* p.151). Layn enters at twenty in 1307 DR and graduates in 1317 DR. Drizzt Do'Urden enters in 1317, as Layn is leaving: a name and a technique, never a friend. Layn already knows his birthright spells from Chapter 6, so the Academy tests and hardens them rather than teaching them.
+
+Earlier section outline (to revise; it predates Chapter 6 and the new dates):
 
 - **Section 1 — First Year** — the drow birthright of Dancing Lights, Darkness, and Faerie Fire
 - **Section 2 — Second Year** — weapons, athletics, daggers, Sneak Attack, Savage Attacker, and Elven Accuracy
 - **Section 3 — Third Year** — stealth, tools, perception, betrayal, spider trauma, and the first signs of Detect Magic. Drizzt Do'Urden arrives in the entering class — Layn hears of his technique and is amazed
 - **Section 4 — Fourth Year** — Levitate, Dispel Magic, reliable Detect Magic, uncontrolled psionics — and the recall home: the shadow of Teken'duis reaches the academy, and House Freth summons its son
 
-### Part II — The House That Eats Its Own
+#### Back in House Freth and the attack (1317–1319 DR)
+
+Earlier outline (to revise; II.1–II.2 now largely overlap Part One):
 
 - **II.1 — Growing Up in Menzoberranzan**
   - II.1.1 — The City
@@ -51,7 +62,9 @@ The academy is a 10-year course (canon, Homeland p.151); the four sections below
   - II.4.2 — Something Is Wrong
   - II.4.3 — The Attack
 
-### Part III — The Choice
+#### The fall, the flight, and the surface (1319 DR)
+
+Earlier Part III outline (to revise):
 
 - **III.1 — The Fall of House Freth**
   - III.1.1 — Chaos
@@ -91,4 +104,4 @@ The final prose should read naturally aloud: varied sentence length, clear parag
 
 ## Drafting Status
 
-**Chapters 1–9** are now drafted. I.2.2 has been revised against the final eight-scene plan while preserving the strongest material from the previous prose version; the current prose is the active version. **I.3 — The Academy** is outlined for the next drafting pass (four sections spanning the first four years of the 10-year course); Part II and Part III remain unchanged.
+**Part One (Chapters 1–11)** is drafted and revised. **Part Two** is outlined only; its outline predates the Part One revision and must be updated before drafting.

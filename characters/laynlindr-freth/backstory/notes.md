@@ -19,11 +19,13 @@
 
 ## 2. Layn's family and childhood
 
+> The bullets below are a decision log. Where they conflict with [§24 — Part One revision decisions](#24-part-one-revision-decisions), §24 and the current prose win.
+
 - Layn is **Laynlindr Freth**, a male drow of House Freth.
 - I.2.1 begins when Layn is **ten years old**. He is still a child, well below the age at which a noble male would normally enter formal academy training.
 - **I.2.2 continues the age-ten spider incident through a nine-year bridge to Layn at nineteen.** The latest structure is the revised eight-scene plan in the revised eight-scene plan: Part I covers the training gallery, Zilvrae's manifested sword, the two halves of Layn's ordinary drow education, and the evening return to his spider-haunted room; Part II covers house law, a male's place, Zilvrae's fallen-house history, secrecy craft, the House Freth laboratory, the accumulated phobia/hallucinations, the sisters' meeting with Zilvrae and the Matron Mother, and the age-nineteen final assessment/spar. The section ends on Greyanna's summons to the hearing, which flows directly into I.2.3.
 - Layn's childhood was difficult and abusive within his family.
-- The direct relationship and ages of Layn's older female sisters are **OUR STORY** additions. The House Freth reference lists **Dreydre Freth** and **Greyanna Freth** as daughters of House Freth involved in its operations circa 1369 DR, but gives no ages or direct relationship to Layn. We use Dreydre as his elder sister at approximately **100** and Greyanna as his elder sister at approximately **60**. His female household instructor remains **Mistress Zilvrae**, and the Matron Mother remains identified by title rather than personal name. Source: <https://forgottenrealms.fandom.com/wiki/House_Freth>.
+- The direct relationship and ages of Layn's older female sisters are **OUR STORY** additions. The House Freth reference lists **Dreydre Freth** and **Greyanna Freth** as daughters of House Freth involved in its operations circa 1369 DR, but gives no ages or direct relationship to Layn. Both finished Arach-Tinilith before Layn was born: Dreydre is about **130** at his birth (about 140 in Chapter 4) and Greyanna about **75** (about 85 in Chapter 4). See §24. Source: <https://forgottenrealms.fandom.com/wiki/House_Freth>.
 - Canon places House Freth among the lower houses of Menzoberranzan. OUR STORY follows the wiki's official symbol image — two spiders facing one another (https://static.wikia.nocookie.net/forgottenrealms/images/7/7e/Frethsymbol.png) — over the page text's conflicting phoenix description. The distinction stands: Lolth's symbol is a single spider; House Freth's emblem is a paired one. Source: <https://forgottenrealms.fandom.com/wiki/House_Freth>.
 - His sisters deliberately tormented him.
 - They summoned or obtained **unnaturally large spiders** and placed them in Layn's bed.
@@ -37,7 +39,7 @@
 - **I.2.3 pass (author comments, applied):** the Matron Mother's questioning of the sisters is now spoken dialogue (with "Did fear help?" left unanswered); the nodded-to priestess hurries out through the doors and returns carrying both elixirs (black + white); the sisters recognize the ritual and, with the vessels, understand what is about to take place — chanting begins at the vessel arrival, no ten-minute mention; Layn recognizes the amplifier's smell from the house's basement laboratories (thin doors, screams never spoken of); Layn does NOT understand what is happening until the priestess approaches with the black vessel extended; the white vessel breathes scentless/tasteless thin white smoke (both substances explained once, in the lesson-reminder paragraph); "Whether she drank, the sisters were too concerned with the other matters unfolding in the room to see." — no joining/conducting statement, no duplicated taunt; the arena transition is simply the chant rising to a peak; the ritual generates the CAGE, the manifestation is separate; Layn's spirit comes FIRST (the sisters answer what they see, and become the spirits — "a drow beneath them would look like children at the feet of statues"); Layn's silhouette occasionally loses its shape like a liquid and reforms; the sisters' spiritual-combat training is lifelong, not just the nine years; "Enough" echoes in the chamber BEFORE the manifestation; the manifestation alters the whole space — the dark cage turns transparent, levitating in the void, with the Matron Mother's spirit so vast the entire cage rests in her palm; she stuns everyone, catches the blade between two fingers of that hand, lays the silhouette flat, then shatters the cage like glass; "She had not moved from the beginning."
 - The Matron Mother's order (reason deliberately UNKNOWN): years ago she ordered, without explanation, that the boy was not to be touched, marked, or tested. The sisters obeyed for years while privately watching for calm-mind manifestations and testing him occasionally. Their sadism was frustrated by obedience, and their fear was that the suspicion might be true. The pin night is the turning point: they are not certain, but they cannot risk waiting — an uncontrolled public manifestation would expose the watchers. The spiders begin as quiet disobedience of her order. Her ignoring Layn remains consistent with the order and with her established behavior.
 - I.2.1 structure (revised): Layn's false reality (being ignored is, to him, simply how a family is) is established in his POV; faint manifestations appear in his day as unremarked oddities (the water path, the counting, the watched stairs, a lamp that cracked after he passed). After the pin ritual, a marked interlude (---) shows the sisters' exchange ("Tonight.") and their ledger of signs, ending on the preemption logic; then the spiders scene closes the section in Layn's POV.
-- Mistress Zilvrae is an **absorbed noble** (OUR STORY): born a daughter of a lesser house that House Freth destroyed and absorbed. She outlived her own name by serving the house that ended it. Foreshadow: House Freth itself will fall, and its surviving nobles (two female, one male) will be absorbed by House Baenre.
+- Mistress Zilvrae is an **absorbed noble** (OUR STORY): born a daughter of a lesser house destroyed by **another house, not Freth**. She survived the attack as a noble witness, so the attacking house was destroyed under the witness rule, and she was given to House Freth. Her own house name stays unspoken. Foreshadow: House Freth itself will fall the same way, and its surviving nobles (two female, one male) will be absorbed by House Baenre.
 - They told young Layn that killing the spiders, driving them away, or interfering with them would be **blasphemy against Lolth**.
 - Layn therefore believed he had no choice but to lie still while spiders crawled over his skin.
 - This became a profound psychological trauma.
@@ -90,7 +92,8 @@ The relevant *Homeland* material establishes the canonical framework. Layn must 
 - Those three are taken under the protection of **House Baenre**.
 - **Layn is not one of the three canonical survivors.** They are other members of House Freth.
 - Layn instead survives by disappearing during the chaos and allowing himself to be believed dead.
-- **Corrected timeline (drives the whole backstory):** Layn born ~1296 DR; I.2.1 (age 10) ≈ 1306 DR; I.2.2 spans ≈ 1307–1315; I.2.3 hearing (age 19) ≈ 1315 DR — Melee-Magthere's next opening falls that year (intake normally at 20; a one-year variance is normal and unstated in prose); **Melee-Magthere is a 10-year course (canon, Homeland p.151: education begins at 20, lasts ten years)** — Layn enters 1315 and never graduates: the Teken'duis threat recalls him home in 1319 (his fifth year), and the canon attack catches him there. Academy overlap: **Drizzt Do'Urden enters Melee-Magthere in 1317** (Layn's Year 3); Layn is recalled before Drizzt's first Grand Melee victory (1319, Drizzt's third year). - **The three canon survivors (author decision):** **Dreydre and Greyanna are the two surviving females** — taken, with an unnamed male survivor (not Layn), into **House Baenre** in 1319 (canon mechanism: "combined into the house of Yvonnel Baenre"). Canon detail: the oldest female survivor "had just finished training at Arach-Tinilith" — metered in OUR STORY as Dreydre's deliberately extended formal education (the Matron Mother's favored daughter kept in schooling for decades; the detail survives, the implication of youth is softened). Canon afterward: Baenre later releases the sisters to reestablish House Freth (mechanism OUR STORY, unneeded on-page) before 1369 DR — D&G lead its operations (Cult of the Dragon alliance, House Kilsek betrayal) until the Veiled Ones kill them ~1368–9 in Myth Drannor, long after Layn has left the Underdark. House Freth is again the 19th house in 1372 (Dissolution).
+- **Timeline:** see §24. Layn is born about 1287 DR, is 10 in 1297 DR (House DeVir falls that year), has the Hearing and enters Melee-Magthere at 20 in 1307 DR, graduates in 1317 DR, and is about 32 at the 1319 DR attack. Melee-Magthere is a 10-year course (Homeland p.151: education begins at 20, lasts ten years).
+- **The three canon survivors (author decision):** **Dreydre and Greyanna are the two surviving females** — taken, with an unnamed male survivor (not Layn), into **House Baenre** in 1319 (canon mechanism: "combined into the house of Yvonnel Baenre"). Canon detail: the oldest female survivor "had just finished training at Arach-Tinilith" — in OUR STORY, Dreydre returns to Arach-Tinilith for advanced study while Layn is at the Academy and finishes just before the 1319 attack. Canon afterward: Baenre later releases the sisters to reestablish House Freth (mechanism OUR STORY, unneeded on-page) before 1369 DR — D&G lead its operations (Cult of the Dragon alliance, House Kilsek betrayal) until the Veiled Ones kill them ~1368–9 in Myth Drannor, long after Layn has left the Underdark. House Freth is again the 19th house in 1372 (Dissolution).
 - **Canon support for the house's alchemical specialty:** before their destruction the Freth bred **venom oozes** through experiments (Drow of the Underdark p.149) — the I.2.1 substances foreshadow sits next to documented house craft. Source: <https://forgottenrealms.fandom.com/wiki/House_Freth>.
 - - **Zilvrae's fighting style (Soulknife lineage, author decision):** she fights with a sword formed out of magic power (she has NO psionic gift — magic does what his mind will later do), and its wounds do not show — no cut, no blood, nothing to avenge (stealth above all). She demonstrates it once in I.2.2 as the pinnacle of the forms and does not teach it. **These lessons are part of the inspiration for the Soulknife fighting style Layn develops later** (his version from the mind, not magic — the I.2.3 arena's "blade of pale force" is the first spontaneous echo of it). Zilvrae's preferred weapon is the manifested sword, not daggers; Layn's own melee/throwing dagger choice is seeded in Chapter 3, and in I.2.2 he uses only regular physical training weapons.
 - **Zilvrae — characterization and fate (author decisions):** very strict but, in her own way, fair — corrections carry their reasons, standards never bend to mood, earned things given exactly and rarely; the sisters' cruelty is arbitrary, her discipline is lawful (the only predictable adult in Layn's childhood). Never warm; her fairness is the form her regard takes. **Mentor figure:** she owns Layn's development, not his destiny — and her relationship with the Matron Mother is **mutual respect, not mute obedience**: the MM understands what Zilvrae is, counts her value (a well that has never run dry), takes her assessments seriously, may disagree with her — and when they disagree, Zilvrae's view loses to the MM's decision, not to dismissal. **Neutral on Layn's fate — an automaton of craft:** no stake in what he becomes; when she sees potential she pushes past the curriculum (potential unpulled offends her more than cruelty does). **Progressive/almost-anarchist core, all IMPLICIT:** she does not believe females are better than males; she is above the religions and the city's ideology (open unbelief would get her executed); she believes only in the order of things — which is the engine of her fairness (rules apply to everyone), her gender-blind doctrine line (a blade stuck in a drow's heart does not care whose hand), and her final act. **She dies in the 1319 attack (Part III, OUR STORY): she sacrifices herself to save Layn** — I.2.2 plants one seed (a fairness moment exceeding the house's); the act itself belongs to the Part III plot. Her death also explains her absence from canon's reestablished-Freth member lists (Vuzlyn, Welverin, Erelal's line).
@@ -323,3 +326,71 @@ These are intentionally unresolved and should be decided only when needed:
 - Exact identities and dialogue of the servants in the post-ending scene.
 
 These questions are **implementation details**, not unresolved parts of the main scenario.
+
+## 24. Part One revision decisions
+
+These decisions come from the Part One revision pass. The current prose is the source of truth; this section records what the prose now establishes and what Part Two must honor.
+
+### Structure
+
+- The backstory has **two parts**. Part One: Layn's life in House Freth up to the Hearing. Part Two: the Academy, the years back in House Freth, the attack, the flight, and the Underdark journey. Part Two ends when Layn steps onto the surface, followed by the Lolth postscript.
+
+### Timeline (OUR STORY, fitted to canon)
+
+| Event | Year (DR) | Layn's age |
+|---|---|---|
+| Born | ~1287 | 0 |
+| Ch 4–5: the silver pin and the first spiders; House DeVir falls | 1297 | 10 |
+| Ch 6: Zilvrae's DeVir lesson ("two years ago") | ~1299 | ~12 |
+| Ch 9–10: last lesson and the Hearing | 1307 | 20 |
+| Enters Melee-Magthere | 1307 | 20 |
+| Graduates and returns to House Freth | 1317 | 30 |
+| Drizzt Do'Urden enters Melee-Magthere (canon) | 1317 | 30 |
+| Teken'duis attack; Layn flees and is declared dead (canon date) | 1319 | ~32 |
+
+- Zilvrae's training runs ten years, from age 10 to the Hearing at 20. The spider visits start at 10 and end years before the Hearing, when Zilvrae persuades the Matron Mother (Ch 7–8); the fear and nightmares last the full ten years ("haunted him for ten years," Ch 10).
+- Layn and Drizzt never share a class. Layn hears of him only as a name and a technique.
+
+### Family and household
+
+- **Layn is the youngest member of House Freth.** Older males exist; there are no younger daughters. Canon names no Freth of this era, so other relatives are OUR STORY when needed.
+- **Dreydre and Greyanna** had both finished Arach-Tinilith before Layn's birth, which is why they can watch him at home. Dreydre returns for advanced study during Part Two and is the canon survivor who "had just finished training at Arach-Tinilith" in 1319.
+- **The Matron Mother** wears a circlet of eight black metal legs meeting at the brow over two facing spiders (Ch 4). Her spirit at the Hearing wears the same circlet and dried-blood robe (Ch 10). The circlet can identify her, or prove her death, in Part Two.
+- **The Matron Mother's orders (Ch 11):** watch from a distance, do not provoke him, do not hurt him merely to produce evidence; if he reaches, suppress it. Once the silver pin proves he reaches (Ch 4), the sisters may suppress by any means. The spiders obey the order.
+- **Zilvrae's beliefs** are delivered through her Ch 6 lesson, disguised as house law, and confirmed by her closing thoughts in Ch 11 ("how much of it would this house spend keeping it small?"). "Cunning disengagement" (Ch 7) is the closest she comes to a joke.
+
+### Setting rules the prose now teaches
+
+- **The witness rule:** a house attack that leaves no noble survivor is not a crime, only a change in the rank (DeVir, 1297). One that leaves a noble witness has failed: the attacking house is destroyed and the survivors are given to another house (Zilvrae's house; Freth in 1319). Taught through Zilvrae in Ch 4 and Ch 6.
+- **Teach society through characters, not narration.** Prefer a character's history or a scene over an explanatory paragraph.
+
+### D&D mechanics
+
+- Layn learns **Detect Magic, Dancing Lights, Faerie Fire, Darkness, Levitate, and Dispel Magic** at home (Ch 6). The backstory may show him using them. At the table, he takes **High Drow Magic at level 8**; Levitate, Detect Magic, and Dispel Magic are used in play only from then on. No in-story explanation is required.
+
+### Setup and payoff (Chekhov's gun) — a hard rule
+
+Anything the story gives weight to must pay off, or be cut. Open threads are tracked here.
+
+**Paid off inside Part One:** the spiders (the Hearing), the pressure behind his eyes and the silver pin (foresight at the Hearing), the black and white preparations (the amplifier and the sisters' ceiling), the Matron Mother never looking at him ("Show me."), his stillness ("No more."), Zilvrae's manifested weapons (Layn's pale blades), the infant's spider stopped by an unseen wall (Ch 11, echoing Ch 5).
+
+**Open for Part Two:**
+
+1. "Keep him alive." — the Matron Mother's reason (**UNKNOWN**, deliberately).
+2. Why Melee-Magthere and not Sorcere is never stated on the page (§3 records the sisters' motive).
+3. Zilvrae's "lessons no drow would dare give a male" (Ch 11) — show or reveal what they were.
+4. Zilvrae's house name ("There is no other name you need to know.").
+5. **Zilvrae's death:** she sacrifices herself to save Layn in the 1319 attack (author decision, see §6). Zilvrae has no psionic gift; her weapons are magic.
+6. House Oblodra (Ch 11) knows how to read psionics; once named, they should matter.
+7. The tampered Freth consignment and the unnamed armed-spider house (Ch 2); a possible link to Teken'duis's motive.
+8. Teken'duis losing Lolth's favor (Ch 2) as the pressure behind its attack on a *lower* house (16th attacking 19th gains no rank; the amplifier is a candidate motive).
+9. Why the Freth soldier had to hurry home (Ch 2).
+10. The luth's randomness ("even a spell the enemy knew by heart could still cause some form of surprise," Ch 4).
+11. Layn shouting "Astux!" to dispel (Ch 9) — a habit that could give him away.
+12. Zilvrae's vanish-and-reappear staff trick (Ch 9) — psychic blades vanish too.
+13. Dreydre's fear of Layn (Ch 4, Ch 10) — she survives believing him dead.
+14. The house that destroyed Zilvrae's (Ch 4) — destroyed and unnamed; pays off only if named.
+
+**Must be planted in Part Two before the attack:** the canon male survivor (identity undecided).
+
+**Pays off at the end of Part Two:** "*Is this who I am?*" (Ch 10), Layn's first question about his real legacy, which leads into the identity question of §19; the spider phobia (Lolth's cocoon); the human slaves "too inclined to believe that defiance still meant something" (Ch 3) as a seed of the surface; "Nothing that demanded the attention of a goddess" (Ch 3) and "In this child lies the work of Lolth" (Ch 11) for the postscript; the Hearing as a preview of future levels (Psychic Whispers now, Psychic Teleportation at level 9; the force barrier matches no Soulknife feature).
