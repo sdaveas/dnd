@@ -62,8 +62,9 @@ jobs:
       - uses: actions/cache@v4
         if: steps.check.outputs.render == 'true'
         with:
-          path: ~/.cache/huggingface
-          key: kokoro-hf-82m
+          path: labs/audiobook/cache
+          key: frag-${{ matrix.chapter }}-${{ hashFiles(format('characters/laynlindr-freth/backstory/book/{0}', matrix.chapter)) }}
+          restore-keys: frag-${{ matrix.chapter }}-
       - name: Render chapter
         if: steps.check.outputs.render == 'true'
         run: |
