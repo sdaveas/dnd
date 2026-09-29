@@ -9,68 +9,119 @@ on:
       - ".github/workflows/audiobook.yml"
   workflow_dispatch:
     inputs:
-      format:
-        description: "What to build"
-        type: choice
-        options: [all, audio, docx, pdf]
-        default: all
+      force:
+        description: "Render even unchanged chapters"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  list-chapters:
+    runs-on: ubuntu-latest
+    outputs:
+      chapters: ${{ steps.set.outputs.chapters }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: set
+        run: |
+          echo "chapters=$(ls characters/laynlindr-freth/backstory/book/chapter-*.md \
+            | xargs -n1 basename | grep -v '^chapter-00' \
+            | jq -R -s -c 'split("\n") | map(select(length > 0))')" >> "$GITHUB_OUTPUT"
+
+  audio:
+    needs: list-chapters
     runs-on: macos-14
-    env:
-      FMT: ${{ inputs.format || 'audio' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        chapter: ${{ fromJSON(needs.list-chapters.outputs.chapters) }}
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - id: check
+        run: |
+          BASE="${{ github.event.before }}"
+          if [ -n "$BASE" ]; then
+            n=$(git diff --name-only --diff-filter=ACM "$BASE" \
+              -- "characters/laynlindr-freth/backstory/book/${{ matrix.chapter }}" | wc -l)
+          else
+            n=0
+          fi
+          if [ "${{ inputs.force }}" = "true" ] || [ "$n" -gt 0 ]; then
+            echo "render=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "chapter unchanged, nothing to do"
+          fi
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.render == 'true'
         with:
           python-version: "3.11"
       - uses: actions/cache@v4
+        if: steps.check.outputs.render == 'true'
         with:
           path: ~/.cache/huggingface
           key: kokoro-hf-82m
-      - name: Render audio
-        if: env.FMT == 'audio' || env.FMT == 'all'
+      - name: Render chapter
+        if: steps.check.outputs.render == 'true'
         run: |
           pip install kokoro-mlx
-          if [ -n "${{ github.event.before }}" ]; then
-            python3 labs/audiobook/tools/render_audiobook.py --base "${{ github.event.before }}"
-          else
-            python3 labs/audiobook/tools/render_audiobook.py --all
-          fi
-      - name: Build docx
-        if: env.FMT == 'docx' || env.FMT == 'pdf' || env.FMT == 'all'
-        run: |
-          pip install python-docx
-          python3 characters/laynlindr-freth/backstory/book/make_docx.py
-      - name: Build pdf
-        if: env.FMT == 'pdf' || env.FMT == 'all'
-        run: |
-          brew install --cask libreoffice
-          /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf \
-            --outdir characters/laynlindr-freth/backstory/book \
-            characters/laynlindr-freth/backstory/book/Soulknife.docx
-      - name: Upload release assets
-        env:
+          python3 labs/audiobook/tools/render_audiobook.py \
+            "characters/laynlindr-freth/backstory/book/${{ matrix.chapter }}" --force --jobs 1
+      - uses: actions/upload-artifact@v4
+        if: steps.check.outputs.render == 'true'
+        with:
+          name: audio-${{ matrix.chapter }}
+          path: characters/laynlindr-freth/backstory/audiobook/*.mp3
+          if-no-files-found: error
+
+  docx:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install python-docx && python3 characters/laynlindr-freth/backstory/book/make_docx.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: docx
+          path: characters/laynlindr-freth/backstory/book/Soulknife.docx
+          if-no-files-found: error
+
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q libreoffice-writer
+      - run: pip install python-docx && python3 characters/laynlindr-freth/backstory/book/make_docx.py
+      - run: soffice --headless --convert-to pdf \
+          --outdir characters/laynlindr-freth/backstory/book \
+          characters/laynlindr-freth/backstory/book/Soulknife.docx
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pdf
+          path: characters/laynlindr-freth/backstory/book/Soulknife.pdf
+          if-no-files-found: error
+
+  release:
+    needs: [audio, docx, pdf]
+    if: ${{ !cancelled() && needs.audio.result == 'success' && needs.docx.result == 'success' && needs.pdf.result == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: /tmp/assets
+          merge-multiple: true
+      - env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          mkdir -p /tmp/assets
           shopt -s nullglob
-          copy() { if [ $# -ge 1 ]; then cp "$@" /tmp/assets/; fi; }
-          if [ "$FMT" = "audio" ] || [ "$FMT" = "all" ]; then
-            copy characters/laynlindr-freth/backstory/audiobook/*.mp3
-          fi
-          if [ "$FMT" = "docx" ] || [ "$FMT" = "all" ]; then
-            copy characters/laynlindr-freth/backstory/book/Soulknife.docx
-          fi
-          if [ "$FMT" = "pdf" ] || [ "$FMT" = "all" ]; then
-            copy characters/laynlindr-freth/backstory/book/Soulknife.pdf
-          fi
           files=(/tmp/assets/*)
           if [ ${#files[@]} -eq 0 ]; then
             echo "nothing to upload"
@@ -79,4 +130,4 @@ jobs:
           gh release view book-builds >/dev/null 2>&1 || \
             gh release create book-builds --title "Soulknife builds" --notes "Automated builds: audio (kokoro), docx, pdf."
           gh release upload book-builds "${files[@]}" --clobber
-          gh release view book-builds
+          gh release view book-builds --json assets --jq '.assets[].name'
