@@ -12,6 +12,7 @@ Usage:
 Voice, speed, and pronunciation respellings are configured below.
 """
 import argparse
+import hashlib
 import os
 import re
 import subprocess
@@ -36,29 +37,27 @@ FRONT_MATTER = "chapter-00"
 
 VOICE = "af_bella"
 SPEED = 0.9
+SAMPLE_RATE = 24000
 PARAGRAPH_PAUSE = 0.4
 CHUNK_PAUSE = 0.15
 MAX_CHUNK_CHARS = 500
 
 PRONUNCIATION: dict[str, str] = {}
 
+CACHE = ROOT / "labs/audiobook/cache"
+
 _tts = None
 
 
 class MlxBackend:
-    SAMPLE_RATE = 24000
-
     def __init__(self):
         self._tts = KokoroTTS.from_pretrained()
 
     def generate(self, text, voice, speed):
-        r = self._tts.generate(text, voice=voice, speed=speed)
-        return r.audio, r.duration
+        return self._tts.generate(text, voice=voice, speed=speed).audio
 
 
 class CpuBackend:
-    SAMPLE_RATE = 24000
-
     def __init__(self):
         self._pipeline = KPipeline(lang_code="a")
 
@@ -67,13 +66,34 @@ class CpuBackend:
             np.asarray(a, dtype="float32")
             for _, _, a in self._pipeline(text, voice=voice, speed=speed)
         ]
-        audio = np.concatenate(audio)
-        return audio, len(audio) / self.SAMPLE_RATE
+        if not audio:
+            return np.zeros(int(0.3 * SAMPLE_RATE), dtype="float32")
+        return np.concatenate(audio)
 
 
-def _worker_init():
+def _backend():
     global _tts
-    _tts = MlxBackend() if BACKEND == "mlx" else CpuBackend()
+    if _tts is None:
+        _tts = MlxBackend() if BACKEND == "mlx" else CpuBackend()
+    return _tts
+
+
+def _fragment(text):
+    key = hashlib.sha256(f"{BACKEND}|{VOICE}|{SPEED}|{text}".encode()).hexdigest()[:16]
+    return CACHE / f"{key}.wav"
+
+
+def _get_or_render(text):
+    path = _fragment(text)
+    if path.exists():
+        audio, _ = sf.read(path, dtype="float32")
+        return audio
+    audio = _backend().generate(text, voice=VOICE, speed=SPEED)
+    CACHE.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    sf.write(tmp, audio, SAMPLE_RATE, format="WAV", subtype="PCM_16")
+    tmp.rename(path)
+    return audio
 
 
 def changed_chapters(base):
@@ -111,6 +131,8 @@ def plain_paragraphs(md):
         p = re.sub(r"\*([^*]+)\*", r"\1", p)
         for name, say in PRONUNCIATION.items():
             p = p.replace(name, say)
+        if not re.search(r"\w", p):  # scene breaks (---) and ornaments
+            continue
         out.extend(chunk_paragraph(p))
     return out
 
@@ -131,19 +153,19 @@ def chunk_paragraph(p, limit=MAX_CHUNK_CHARS):
     return chunks
 
 
-def render_chapter(tts, path):
+def render_chapter(path):
     paragraphs = plain_paragraphs(path.read_text())
     if not paragraphs:
         return None
-    para_silence = np.zeros(int(PARAGRAPH_PAUSE * tts.SAMPLE_RATE), dtype="float32")
-    chunk_silence = np.zeros(int(CHUNK_PAUSE * tts.SAMPLE_RATE), dtype="float32")
+    para_silence = np.zeros(int(PARAGRAPH_PAUSE * SAMPLE_RATE), dtype="float32")
+    chunk_silence = np.zeros(int(CHUNK_PAUSE * SAMPLE_RATE), dtype="float32")
     audio = []
     for i, p in enumerate(paragraphs):
-        chunk_audio, duration = tts.generate(p, voice=VOICE, speed=SPEED)
+        chunk_audio = _get_or_render(p)
         audio.append(chunk_audio)
         if i < len(paragraphs) - 1:
             audio.append(chunk_silence if len(p) > MAX_CHUNK_CHARS else para_silence)
-        print(f"  {path.stem}: paragraph {i + 1}/{len(paragraphs)} ({duration:.1f}s)")
+        print(f"  {path.stem}: paragraph {i + 1}/{len(paragraphs)} ({len(chunk_audio) / SAMPLE_RATE:.1f}s)")
     return np.concatenate(audio)
 
 
@@ -151,12 +173,12 @@ def _render_chapter(path_str):
     path = Path(path_str)
     out_path = OUT / f"{path.stem}.mp3"
     print(f"rendering {path.name} -> {out_path.name}")
-    audio = render_chapter(_tts, path)
+    audio = render_chapter(path)
     if audio is None:
         print(f"  {path.name}: skipped, no readable text (front matter or headings only)")
         return
-    sf.write(out_path, audio, _tts.SAMPLE_RATE, format="MP3")
-    print(f"  wrote {out_path} ({len(audio) / _tts.SAMPLE_RATE / 60:.1f} min)")
+    sf.write(out_path, audio, SAMPLE_RATE, format="MP3")
+    print(f"  wrote {out_path} ({len(audio) / SAMPLE_RATE / 60:.1f} min)")
 
 
 def main():
@@ -191,7 +213,7 @@ def main():
         sys.exit(f"missing chapter files: {[str(p) for p in missing]}")
 
     OUT.mkdir(parents=True, exist_ok=True)
-    with ProcessPoolExecutor(max_workers=args.jobs, initializer=_worker_init) as ex:
+    with ProcessPoolExecutor(max_workers=args.jobs) as ex:
         list(ex.map(_render_chapter, [str(p) for p in chapters]))
 
 
