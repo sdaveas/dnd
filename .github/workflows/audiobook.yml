@@ -100,11 +100,7 @@ jobs:
           python-version: "3.11"
       - run: sudo apt-get update -q && sudo apt-get install -y -q libreoffice-writer
       - run: pip install python-docx && python3 characters/laynlindr-freth/backstory/book/make_docx.py
-      - run: soffice --headless -env:UserInstallation=file:///tmp/lo \
-          --convert-to pdf \
-          --outdir "$(pwd)/characters/laynlindr-freth/backstory/book" \
-          "$(pwd)/characters/laynlindr-freth/backstory/book/Soulknife.docx" && \
-          ls -la characters/laynlindr-freth/backstory/book/Soulknife.pdf
+      - run: soffice --headless -env:UserInstallation=file:///tmp/lo --convert-to pdf --outdir characters/laynlindr-freth/backstory/book characters/laynlindr-freth/backstory/book/Soulknife.docx && test -f characters/laynlindr-freth/backstory/book/Soulknife.pdf
       - uses: actions/upload-artifact@v4
         with:
           name: pdf
