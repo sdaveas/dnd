@@ -21,7 +21,13 @@ from pathlib import Path
 
 import numpy as np
 import soundfile as sf
-from kokoro_mlx import KokoroTTS
+
+try:
+    from kokoro_mlx import KokoroTTS
+    BACKEND = "mlx"
+except ImportError:
+    from kokoro import KPipeline
+    BACKEND = "cpu"
 
 ROOT = Path(__file__).resolve().parents[3]
 BOOK = ROOT / "characters/laynlindr-freth/backstory/book"
@@ -37,6 +43,37 @@ MAX_CHUNK_CHARS = 500
 PRONUNCIATION: dict[str, str] = {}
 
 _tts = None
+
+
+class MlxBackend:
+    SAMPLE_RATE = 24000
+
+    def __init__(self):
+        self._tts = KokoroTTS.from_pretrained()
+
+    def generate(self, text, voice, speed):
+        r = self._tts.generate(text, voice=voice, speed=speed)
+        return r.audio, r.duration
+
+
+class CpuBackend:
+    SAMPLE_RATE = 24000
+
+    def __init__(self):
+        self._pipeline = KPipeline(lang_code="a")
+
+    def generate(self, text, voice, speed):
+        audio = [
+            np.asarray(a, dtype="float32")
+            for _, _, a in self._pipeline(text, voice=voice, speed=speed)
+        ]
+        audio = np.concatenate(audio)
+        return audio, len(audio) / self.SAMPLE_RATE
+
+
+def _worker_init():
+    global _tts
+    _tts = MlxBackend() if BACKEND == "mlx" else CpuBackend()
 
 
 def changed_chapters(base):
@@ -102,17 +139,12 @@ def render_chapter(tts, path):
     chunk_silence = np.zeros(int(CHUNK_PAUSE * tts.SAMPLE_RATE), dtype="float32")
     audio = []
     for i, p in enumerate(paragraphs):
-        result = tts.generate(p, voice=VOICE, speed=SPEED)
-        audio.append(result.audio)
+        chunk_audio, duration = tts.generate(p, voice=VOICE, speed=SPEED)
+        audio.append(chunk_audio)
         if i < len(paragraphs) - 1:
             audio.append(chunk_silence if len(p) > MAX_CHUNK_CHARS else para_silence)
-        print(f"  {path.stem}: paragraph {i + 1}/{len(paragraphs)} ({result.duration:.1f}s)")
+        print(f"  {path.stem}: paragraph {i + 1}/{len(paragraphs)} ({duration:.1f}s)")
     return np.concatenate(audio)
-
-
-def _worker_init():
-    global _tts
-    _tts = KokoroTTS.from_pretrained()
 
 
 def _render_chapter(path_str):
