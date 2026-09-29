@@ -130,6 +130,7 @@ jobs:
           shopt -s nullglob
           if compgen -G "/tmp/assets/*.mp3" >/dev/null; then
             zip -j /tmp/assets/soulknife-audiobook.zip /tmp/assets/*.mp3
+            rm /tmp/assets/*.mp3
           fi
           files=(/tmp/assets/*)
           if [ ${#files[@]} -eq 0 ]; then
