@@ -68,7 +68,7 @@ jobs:
         if: steps.check.outputs.render == 'true'
         run: |
           pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install kokoro
+          pip install soundfile kokoro
           python3 labs/audiobook/tools/render_audiobook.py \
             "characters/laynlindr-freth/backstory/book/${{ matrix.chapter }}" --force --jobs 1
       - uses: actions/upload-artifact@v4
