@@ -114,8 +114,13 @@ def all_chapters():
 
 def plain_paragraphs(md):
     paras, current = [], []
+    chapter_intro = None
     for line in md.splitlines():
         if line.lstrip().startswith("#"):
+            if chapter_intro is None:
+                m = re.match(r"#+\s*(Chapter \d+)\s*[—–-]+\s*(.+?)\s*$", line.lstrip())
+                if m:
+                    chapter_intro = f"{m.group(1)}. {m.group(2)}."
             continue
         if not line.strip():
             if current:
@@ -127,6 +132,8 @@ def plain_paragraphs(md):
         paras.append(" ".join(current))
 
     out = []
+    if chapter_intro:  # spoken "Chapter X. Title." opener
+        out.extend(chunk_paragraph(chapter_intro))
     for p in paras:
         p = re.sub(r"\*([^*]+)\*", r"\1", p)
         for name, say in PRONUNCIATION.items():

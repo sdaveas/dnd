@@ -19,7 +19,7 @@ The backstory has two parts. **Part One** covers Layn's life in House Freth up t
 - **Chapter 3 — House Freth** — house law through a priestess's punishment; the boy's name.
 - **Chapter 4 — A Normal Day** — Layn at ten (1297 DR): the Matron Mother, his sisters, Zilvrae's emblem drill, and the silver pin.
 - **Chapter 5 — The Two Spiders** — the sisters act on the signs; the first spider ordeal.
-- **Chapter 6 — The Small Corrections** — weapons training, the six birthright spells, house law, and the witness rule through House DeVir's fall.
+- **Chapter 6 — Three Lessons** — weapons training, the six birthright spells, house law, and the witness rule through House DeVir's fall.
 - **Chapter 7 — Concealment** — the spider phobia, the dagger choice, Zilvrae's manifested weapons, and learning to be overlooked.
 - **Chapter 8 — The Long Quiet** — the laboratories and the two preparations; Zilvrae ends the spider routine.
 - **Chapter 9 — The Last Lesson** — the final spar with Zilvrae.
