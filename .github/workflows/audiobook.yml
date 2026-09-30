@@ -145,3 +145,8 @@ jobs:
             gh release create book-builds --title "Soulknife builds" --notes "Automated builds: audio (kokoro), docx, pdf."
           gh release upload book-builds "${files[@]}" --clobber
           gh release view book-builds --json assets --jq '.assets[].name'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: soulknife-audiobook
+          path: /tmp/assets/soulknife-audiobook.zip
+          if-no-files-found: ignore
