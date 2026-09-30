@@ -127,6 +127,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: |
+          gh release download book-builds -p "soulknife-audiobook.zip" -O /tmp/prev.zip 2>/dev/null || true
+          if [ -f /tmp/prev.zip ]; then
+            unzip -o -j /tmp/prev.zip "*.mp3" -d /tmp/assets >/dev/null
+          fi
           shopt -s nullglob
           if compgen -G "/tmp/assets/*.mp3" >/dev/null; then
             zip -j /tmp/assets/soulknife-audiobook.zip /tmp/assets/*.mp3
