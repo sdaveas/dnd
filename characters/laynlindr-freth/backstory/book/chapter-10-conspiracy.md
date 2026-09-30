@@ -2,7 +2,7 @@
 
 Twenty years before the Hearing, in the Matron Mother’s chambers, the word was spoken aloud for the first time.
 
-“Psionic?” asked Dreydre.
+“Psionic?”[^1] asked Dreydre.
 
 “Possibly,” said Greyanna.
 
@@ -111,3 +111,5 @@ Dreydre’s expression hardened.
 Greyanna’s jaw tightened as though the Matron Mother’s words had slapped her.
 
 “If he reaches,” the Matron Mother said, “you will suppress the manifestation.”
+
+[^1]: *Psionic*—of powers drawn from the mind itself, not from spellcraft or the favor of a goddess.

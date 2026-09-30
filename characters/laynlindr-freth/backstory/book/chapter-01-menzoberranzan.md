@@ -16,7 +16,7 @@ And it was a city in every sense of the word.
 
 There were streets crowded with movement, districts with their own character, workshops glowing around furnaces, warehouses filled with goods brought up from deeper tunnels, and markets where nearly anything could be found if one possessed the coin, the connections, or the willingness to ask the right merchant.
 
-The Bazaar was a maze of voices and smells. In Duthcloim, merchants and craftsmen traded food, weapons, poisons, and stranger things whose origins were better left unasked, while a duergar haggled with a drow over a shipment and guards watched the crowd without seeming to watch it at all.
+The Bazaar was a maze of voices and smells. In Duthcloim, merchants and craftsmen traded food, weapons, poisons, and stranger things whose origins were better left unasked, while a duergar[^1] haggled with a drow over a shipment and guards watched the crowd without seeming to watch it at all.
 
 In Narbondellyn, the streets widened between elegant estates and fashionable shops, and a glance at a doorway might tell an experienced drow more about its owner than the House name ever would.
 
@@ -63,3 +63,5 @@ Its towers belonged to Houses. Its bridges carried traffic under the watch of wh
 Every path through Menzoberranzan passed through someone’s power.
 
 The city did not explain that power. It demonstrated it, and everyone who lived there learned to watch.
+
+[^1]: *Duergar*—the gray dwarves of the Underdark.

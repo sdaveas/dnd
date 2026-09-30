@@ -119,10 +119,6 @@ jobs:
     if: ${{ !cancelled() && needs.audio.result == 'success' && needs.docx.result == 'success' && needs.pdf.result == 'success' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/download-artifact@v4
-        with:
-          path: /tmp/assets
-          merge-multiple: true
       - env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
@@ -131,6 +127,14 @@ jobs:
           if [ -f /tmp/prev.zip ]; then
             unzip -o -j /tmp/prev.zip "*.mp3" -d /tmp/assets >/dev/null
           fi
+      - uses: actions/download-artifact@v4
+        with:
+          path: /tmp/assets
+          merge-multiple: true
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
           shopt -s nullglob
           if compgen -G "/tmp/assets/*.mp3" >/dev/null; then
             zip -j /tmp/assets/soulknife-audiobook.zip /tmp/assets/*.mp3

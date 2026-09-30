@@ -10,6 +10,8 @@
 
 **Dreydre** — Daughter of the Matron Mother of House Freth and one of Layn’s elder sisters.
 
+**House DeVir** — A noble House that once stood far above House Freth and ceased to exist in a single night. Its fall raised House Do’Urden in the rank.
+
 **Drow** — The subterranean elves who inhabit Menzoberranzan and other parts of the Underdark.
 
 **Duthcloim** — A commercial district of Menzoberranzan associated with merchants, craftsmen, markets, and trade.
@@ -21,6 +23,8 @@
 **House Do’Urden** — A noble House mentioned as having risen in rank after a higher-ranked House ceased to exist.
 
 **House Freth** — A noble House of Menzoberranzan. It is the nineteenth-ranked House and the House to which Layn belongs.
+
+**House Oblodra** — One of the most powerful Houses of Menzoberranzan, whose members possess knowledge of the rare art of psionics.
 
 **House Teken’duis** — A noble House involved in the religious proceedings shown at the beginning of Layn’s story.
 
@@ -35,6 +39,8 @@
 **Narbondel** — A huge natural stone pillar at the center of Menzoberranzan. The Archmage heats it each morning, and the movement and fading of its heat serve as the city’s clock.
 
 **Narbondellyn** — A wealthy district of Menzoberranzan containing estates, shops, artisans, and prosperous residents.
+
+**Psionics** — The rare art of drawing power directly from the mind, without spellcraft or divine favor.
 
 **Qu’ellarz’orl** — The secluded noble quarter of Menzoberranzan, where the greatest Houses occupy the heights.
 

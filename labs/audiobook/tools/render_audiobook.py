@@ -116,6 +116,8 @@ def plain_paragraphs(md):
     paras, current = [], []
     chapter_intro = None
     for line in md.splitlines():
+        if line.lstrip().startswith("[^"):  # footnote definitions are not read
+            continue
         if line.lstrip().startswith("#"):
             if chapter_intro is None:
                 m = re.match(r"#+\s*(Chapter \d+)\s*[—–-]+\s*(.+?)\s*$", line.lstrip())
@@ -135,6 +137,7 @@ def plain_paragraphs(md):
     if chapter_intro:  # spoken "Chapter X. Title." opener
         out.extend(chunk_paragraph(chapter_intro))
     for p in paras:
+        p = re.sub(r"\[\^\d+\]", "", p)  # inline footnote markers are not read
         p = re.sub(r"\*([^*]+)\*", r"\1", p)
         for name, say in PRONUNCIATION.items():
             p = p.replace(name, say)

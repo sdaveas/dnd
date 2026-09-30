@@ -33,19 +33,22 @@ def base(doc):
         sec.left_margin = sec.right_margin = Inches(0.75)
 
 
-FN_ID = 2
+FN_BASE = 2
 
 
-def add_footnote_part(doc, note_text):
+def add_footnote_part(doc, notes):
     W = nsdecls("w")
+    footnotes = "".join(
+        f'<w:footnote w:id="{fid}"><w:p><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/></w:pPr>'
+        f'<w:r><w:rPr><w:vertAlign w:val="superscript"/><w:sz w:val="18"/></w:rPr><w:footnoteRef/></w:r>'
+        f'<w:r><w:rPr><w:sz w:val="18"/></w:rPr><w:t xml:space="preserve"> {txt}</w:t></w:r></w:p></w:footnote>'
+        for fid, txt in notes
+    )
     xml = (
         f'<w:footnotes {W}>'
         f'<w:footnote w:type="separator" w:id="-1"><w:p><w:r><w:separator/></w:r></w:p></w:footnote>'
         f'<w:footnote w:type="continuationSeparator" w:id="0"><w:p><w:r><w:continuationSeparator/></w:r></w:p></w:footnote>'
-        f'<w:footnote w:id="{FN_ID}"><w:p><w:pPr><w:spacing w:after="0" w:line="240" w:lineRule="auto"/></w:pPr>'
-        f'<w:r><w:rPr><w:vertAlign w:val="superscript"/><w:sz w:val="18"/></w:rPr><w:footnoteRef/></w:r>'
-        f'<w:r><w:rPr><w:sz w:val="18"/></w:rPr><w:t xml:space="preserve"> {note_text}</w:t></w:r></w:p></w:footnote>'
-        f'</w:footnotes>'
+        f'{footnotes}</w:footnotes>'
     )
     part = Part(PackURI("/word/footnotes.xml"),
                 "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
@@ -53,21 +56,25 @@ def add_footnote_part(doc, note_text):
     doc.part.relate_to(part, RT.FOOTNOTES)
 
 
-def footnote_ref(p):
+def footnote_ref(p, fid):
     p._p.append(parse_xml(
         f'<w:r {nsdecls("w")}><w:rPr><w:vertAlign w:val="superscript"/></w:rPr>'
-        f'<w:footnoteReference w:id="{FN_ID}"/></w:r>'))
+        f'<w:footnoteReference w:id="{fid}"/></w:r>'))
 
 
 def curly(text):
     return re.sub(r'(\s|^)"', lambda m: m.group(1) + "\u201c", text).replace('"', "\u201d")
 
 
-def runs(p, text):
-    # inline **bold** / *italic* / [^1] footnote ref
-    for i, chunk in enumerate(re.split(r"\[\^1\]", curly(text))):
-        if i:
-            footnote_ref(p)
+def runs(p, text, refs):
+    # inline **bold** / *italic* / [^N] footnote ref
+    for i, chunk in enumerate(re.split(r"(\[\^\d+\])", curly(text))):
+        if i % 2:  # odd chunks are [^N] markers
+            fid = refs.get(chunk[2:-1])
+            if fid is None:
+                raise ValueError(f"footnote [^{chunk}] has no definition")
+            footnote_ref(p, fid)
+            continue
         for part in re.split(r"(\*\*.+?\*\*|\*.+?\*)", chunk):
             if not part:
                 continue
@@ -79,7 +86,7 @@ def runs(p, text):
                 p.add_run(part)
 
 
-def chapter(doc, num, title, paras):
+def chapter(doc, num, title, paras, refs):
     doc.add_page_break()
     for txt, size, before in [
         *([("Chapter " + num, 14, 60)] if num else []),
@@ -118,7 +125,7 @@ def chapter(doc, num, title, paras):
         if after_break:
             p.paragraph_format.first_line_indent = None
             after_break = False
-        runs(p, para)
+        runs(p, para, refs)
 
 
 def centered(doc, lines):
@@ -155,35 +162,45 @@ if (BOOK / "menzoberranzan-map.png").exists():
     r.italic = True
 
 chapters = []
+notes = []  # (footnote id, text) in document order
 for f in sorted(BOOK.glob("chapter-*.md")):
     if "title" in f.name:
         continue
     text = f.read_text()
     m = re.match(r"#+\s+(?:Chapter\s+(\d+))?\s*[—–-]?\s*(.+)", text)
     num, name = (m.group(1), m.group(2).strip()) if m and m.group(1) else (None, m.group(2).strip() if m else f.stem)
+    defs = dict(re.findall(r"^\[\^(\d+)\]:\s*(.+)$", text, re.M))
     paras = [ln.strip() for ln in text.splitlines()[1:]
-             if ln.strip() and not ln.strip().startswith("[^1]:")]
+             if ln.strip() and not ln.strip().startswith("[^")]
+    # assign footnote ids in reading order; markers are per-file, ids are global
+    refs = {}
+    for para in paras:
+        for marker in re.findall(r"\[\^(\d+)\]", para):
+            if marker not in refs:
+                fid = FN_BASE + len(notes)
+                refs[marker] = fid
+                notes.append((fid, curly(defs[marker].replace("*", ""))))
     if "readers-guide" in f.name:  # glossary goes at the end
-        glossary = (num, name, paras)
+        glossary = (num, name, paras, refs)
         continue
-    chapters.append((num, name, paras))
+    chapters.append((num, name, paras, refs))
 
 # contents page: just the header; ToC entries are added manually in Google Docs
 doc.add_page_break()
 centered(doc, [("CONTENTS", 16, 100)])
 
-for num, name, paras in chapters:
-    chapter(doc, num, name, paras)
+for num, name, paras, refs in chapters:
+    chapter(doc, num, name, paras, refs)
 
 # glossary as back matter, no first-line indent
-num, name, paras = glossary
-chapter(doc, num, name, paras)
-for p in doc.paragraphs[-len(glossary[2]):]:
+num, name, paras, refs = glossary
+chapter(doc, num, name, paras, refs)
+for p in doc.paragraphs[-len(paras):]:
     p.paragraph_format.first_line_indent = None
     p.paragraph_format.space_after = Pt(6)
 
-if any("[^1]" in p for _, _, ps in chapters + [glossary] for p in ps):
-    add_footnote_part(doc, "\u201cAstux\u201d is drowish for \u201cextinguish.\u201d")
+if notes:
+    add_footnote_part(doc, notes)
 
 doc.save(OUT)
 print(OUT)
