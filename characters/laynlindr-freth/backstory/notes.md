@@ -348,16 +348,16 @@ These decisions come from the Part One revision pass. The current prose is the s
 | Drizzt Do'Urden enters Melee-Magthere (canon) | 1317 | 30 |
 | Teken'duis attack; Layn flees and is declared dead (canon date) | 1319 | ~32 |
 
-- Zilvrae's training runs ten years, from age 10 to the Hearing at 20. The spider visits start at 10 and end years before the Hearing, when Zilvrae persuades the Matron Mother (Ch 7–8); the fear and nightmares last the full ten years ("haunted him for ten years," Ch 10).
+- Zilvrae's training runs ten years, from age 10 to the Hearing at 20. The spider visits start at 10 and end years before the Hearing, when Zilvrae persuades the Matron Mother (Ch 7–8); the fear and nightmares last the full ten years ("haunted him for ten years," Ch 11).
 - Layn and Drizzt never share a class. Layn hears of him only as a name and a technique.
 
 ### Family and household
 
 - **Layn is the youngest member of House Freth.** Older males exist; there are no younger daughters. Canon names no Freth of this era, so other relatives are OUR STORY when needed.
 - **Dreydre and Greyanna** had both finished Arach-Tinilith before Layn's birth, which is why they can watch him at home. Dreydre returns for advanced study during Part Two and is the canon survivor who "had just finished training at Arach-Tinilith" in 1319.
-- **The Matron Mother** wears a circlet of eight black metal legs meeting at the brow over two facing spiders (Ch 4). Her spirit at the Hearing wears the same circlet and dried-blood robe (Ch 10). The circlet can identify her, or prove her death, in Part Two.
-- **The Matron Mother's orders (Ch 11):** watch from a distance, do not provoke him, do not hurt him merely to produce evidence; if he reaches, suppress it. Once the silver pin proves he reaches (Ch 4), the sisters may suppress by any means. The spiders obey the order.
-- **Zilvrae's beliefs** are delivered through her Ch 6 lesson, disguised as house law, and confirmed by her closing thoughts in Ch 11 ("how much of it would this house spend keeping it small?"). "Cunning disengagement" (Ch 7) is the closest she comes to a joke.
+- **The Matron Mother** wears a circlet of eight black metal legs meeting at the brow over two facing spiders (Ch 4). Her spirit at the Hearing wears the same circlet and dried-blood robe (Ch 11). The circlet can identify her, or prove her death, in Part Two.
+- **The Matron Mother's orders (Ch 10):** watch from a distance, do not provoke him, do not hurt him merely to produce evidence; if he reaches, suppress it. Once the silver pin proves he reaches (Ch 4), the sisters may suppress by any means. The spiders obey the order.
+- **Zilvrae's beliefs** are delivered through her Ch 6 lesson, disguised as house law, and confirmed by her corridor thoughts in Ch 10 ("how much of it would this house spend keeping it small?"). "Cunning disengagement" (Ch 7) is the closest she comes to a joke.
 
 ### Setting rules the prose now teaches
 
@@ -372,25 +372,25 @@ These decisions come from the Part One revision pass. The current prose is the s
 
 Anything the story gives weight to must pay off, or be cut. Open threads are tracked here.
 
-**Paid off inside Part One:** the spiders (the Hearing), the pressure behind his eyes and the silver pin (foresight at the Hearing), the black and white preparations (the amplifier and the sisters' ceiling), the Matron Mother never looking at him ("Show me."), his stillness ("No more."), Zilvrae's manifested weapons (Layn's pale blades), the infant's spider stopped by an unseen wall (Ch 11, echoing Ch 5).
+**Paid off inside Part One:** the spiders (the Hearing), the pressure behind his eyes and the silver pin (foresight at the Hearing), the black and white preparations (the amplifier and the sisters' ceiling), the Matron Mother never looking at him ("Show me."), his stillness ("No more."), Zilvrae's manifested weapons (Layn's pale blades), the infant falling silent each time the servant decides to go to him (Ch 10, an early echo of the pin test).
 
 **Open for Part Two:**
 
 1. "Keep him alive." — the Matron Mother's reason (**UNKNOWN**, deliberately).
 2. Why Melee-Magthere and not Sorcere is never stated on the page (§3 records the sisters' motive).
-3. Zilvrae's "lessons no drow would dare give a male" (Ch 11) — show or reveal what they were.
+3. Zilvrae's "lessons no drow would dare give a male" (Ch 10) — show or reveal what they were.
 4. Zilvrae's house name ("There is no other name you need to know.").
 5. **Zilvrae's death:** she sacrifices herself to save Layn in the 1319 attack (author decision, see §6). Zilvrae has no psionic gift; her weapons are magic.
-6. House Oblodra (Ch 11) knows how to read psionics; once named, they should matter.
+6. House Oblodra (Ch 10) knows how to read psionics; once named, they should matter.
 7. The tampered Freth consignment and the unnamed armed-spider house (Ch 2); a possible link to Teken'duis's motive.
 8. Teken'duis losing Lolth's favor (Ch 2) as the pressure behind its attack on a *lower* house (16th attacking 19th gains no rank; the amplifier is a candidate motive).
 9. Why the Freth soldier had to hurry home (Ch 2).
 10. The luth's randomness ("even a spell the enemy knew by heart could still cause some form of surprise," Ch 4).
 11. Layn shouting "Astux!" to dispel (Ch 9) — a habit that could give him away.
 12. Zilvrae's vanish-and-reappear staff trick (Ch 9) — psychic blades vanish too.
-13. Dreydre's fear of Layn (Ch 4, Ch 10) — she survives believing him dead.
+13. Dreydre's fear of Layn (Ch 4, Ch 11) — she survives believing him dead.
 14. The house that destroyed Zilvrae's (Ch 4) — destroyed and unnamed; pays off only if named.
 
 **Must be planted in Part Two before the attack:** the canon male survivor (identity undecided).
 
-**Pays off at the end of Part Two:** "*Is this who I am?*" (Ch 10), Layn's first question about his real legacy, which leads into the identity question of §19; the spider phobia (Lolth's cocoon); the human slaves "too inclined to believe that defiance still meant something" (Ch 3) as a seed of the surface; "Nothing that demanded the attention of a goddess" (Ch 3) and "In this child lies the work of Lolth" (Ch 11) for the postscript; the Hearing as a preview of future levels (Psychic Whispers now, Psychic Teleportation at level 9; the force barrier matches no Soulknife feature).
+**Pays off at the end of Part Two:** "*Is this who I am?*" (Ch 11), Layn's first question about his real legacy, which leads into the identity question of §19; the spider phobia (Lolth's cocoon); the human slaves "too inclined to believe that defiance still meant something" (Ch 3) as a seed of the surface; "Nothing that demanded the attention of a goddess" (Ch 3) and "In this child lies the work of Lolth" (Ch 10) for the postscript; the Hearing as a preview of future levels (Psychic Whispers now, Psychic Teleportation at level 9; the force barrier matches no Soulknife feature).

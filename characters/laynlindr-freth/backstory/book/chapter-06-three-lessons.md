@@ -8,7 +8,7 @@ There were no other boys in House Freth for Layn to measure himself against. Nob
 
 Zilvrae therefore measured him against older lessons. She had taught young drow who were powerful before they were disciplined, quick before they were precise, clever before they were patient. She had taught some who learned a movement in a morning and some who needed weeks to stop making the same mistake. She had watched students become arrogant when praised and careless when they discovered something came easily.
 
-Layn had little that came easily: he was neither the strongest nor the quickest. His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
+Layn had little that came easily: he was not strong, and he was not quick. His balance was ordinary, his reach unremarkable, and when formal training had begun, his body often moved a heartbeat after his mind had decided what it wanted.
 
 What he had was persistence; he listened, remembered, and, when Zilvrae corrected the same mistake for the fourth time, he made the correction a fifth time without complaint. When a movement refused to become natural, he repeated it until the awkwardness stopped feeling like an obstacle and became another thing his body knew how to do.
 
@@ -22,11 +22,11 @@ Zilvrae gave him no time to settle into the correction. “Again.” The staff c
 
 “I am watching your hand.”
 
-She lowered the staff. “Then you are watching the wrong hand.”
+She lowered the staff. “Then you are still watching the weapon.”
 
 Layn frowned, unwilling to concede the point.
 
-She shifted her weight, barely enough for him to see it. “The weapon tells you what has already happened. The body tells you what is about to happen.”
+She shifted her weight, barely enough for him to see it. “The weapon tells you what has already happened. The body tells you what is about to happen. Do not let your enemy set the tempo.”
 
 She demonstrated the movement slowly. The change was so slight that Layn almost missed it: a shift in weight, a turn of the shoulder, the smallest adjustment in the angle of her feet.
 
@@ -34,7 +34,7 @@ She demonstrated the movement slowly. The change was so slight that Layn almost 
 
 Layn tried and was wrong. Zilvrae corrected his stance. “Again.” The next attempt was closer.
 
-She struck his shoulder, but this time the contact was lighter. “Better.”
+She struck his shoulder, but this time the contact was lighter.
 
 Layn swallowed his irritation, having already learned that it did not make the next attempt better, and tried again.
 
@@ -84,8 +84,6 @@ Zilvrae explained it without dressing the problem in mystery. Seeing a blade and
 
 Layn never suggested that the task was impossible; he simply spent a very long time discovering how difficult it was.
 
-He practiced the abilities together rather than one at a time. A month after beginning, he could perceive magic reliably while the small lights still wandered. Several months later, the lights held steady while the colored fire remained imperfect. He could shape darkness with confidence while still struggling to unravel what Zilvrae had cast.
-
 None of this made him exceptional. Every drow was expected to learn what came naturally to drow blood. Zilvrae did not congratulate him for being capable; she corrected him when he was not.
 
 “Again.” Layn obeyed, and by the end of the day his palms might ache from the weapons, his eyes might burn from studying magical traces, and his thoughts might feel heavy from memorizing law. For the first time in his life, exhaustion had a different shape: he was not tired because someone had frightened him, but because he had been taught.
@@ -96,11 +94,7 @@ In the evenings, they studied.
 
 One evening, after the day’s first two lessons were finished, Zilvrae placed an open book before him.
 
-Her finger rested on the first line. “Menzoberranzan contains fifty noble Houses.”
-
-Layn waited.
-
-She moved her finger down the page. “House Freth is nineteenth. You will eventually understand what that means. Not merely that nineteenth is above some Houses and beneath others, but what rank permits, what it demands, and what obligations follow from it.”
+Her finger rested on a line partway down the page. “House Freth is nineteenth. You will eventually understand what that means. Not merely that nineteenth is above some Houses and beneath others, but what rank permits, what it demands, and what obligations follow from it.”
 
 She explained how authority moved within a House, how rank determined access and expectation, and how power could be legal without being equal. A noble male could command those beneath his station and still remain subordinate to almost every female above him. He could possess authority and still have very little freedom.
 
@@ -108,11 +102,9 @@ She taught him the difference between an order and a request, between an obligat
 
 Zilvrae tapped the page once. “You are a noble male of House Freth. You have value. That does not mean the House will give you the same authority it gives a daughter. It means you are expected to understand where your authority begins and where it ends.”
 
-Layn looked down at the cover of the book, which displayed a female figure holding a scroll in one hand and a scepter in the other. “And if I don’t?”
+Layn looked down at the page, where an illustration showed a female figure holding a scroll in one hand and a scepter in the other. “And if I don’t?”
 
-“Eventually someone will teach you by making you pay for the mistake.”
-
-The room went quiet. “Learn from me instead.”
+“Eventually someone will teach you by making you pay for the mistake. Learn from me instead.”
 
 Zilvrae moved the book a few inches aside. “There is a common mistake young males make. They confuse survival with submission.”
 
@@ -120,15 +112,15 @@ Layn raised his eyes.
 
 “Submission is what happens when someone else controls you. Survival is what happens when you understand enough to keep yourself alive.”
 
-She let him absorb the distinction. “Do not mistake a law for a kindness merely because you benefit from obeying it, nor for a cruelty because it stands against you. Laws are neither kind nor cruel. They have no color and no shape of their own.”
+Zilvrae waited until he had taken that in. “Do not mistake a law for a kindness merely because you benefit from obeying it, nor for a cruelty because it stands against you. Laws are neither kind nor cruel. They have no color and no shape of their own.”
 
 Layn looked confused. If he happened to offend one of his sisters, he thought, the only shapeless thing would be what was left of him on the floor.
 
-“You may often believe that your position is low and powerless. Remember this: power and expectation are two sides of the same coin. The higher one rises, the more there is expected of them—and the more there is to threaten.”
+“You may often believe that your position is low and powerless. Remember this: power brings expectation, and expectation raises the stakes. The higher one climbs, the more there is to lose, and the more one fears to fail.”
 
-She let the silence hold for a moment. “But threat is a fine whetstone for a drow blade. A blade does not become less deadly because the hand holding it is considered lesser. Strong Houses emerge from conscientious drow. Arrogant drow build Houses that fall.”
+After a moment she went on. “But fear is a fine whetstone for a drow blade. A blade does not become less deadly because the hand holding it is considered lesser. Strong Houses emerge from disciplined drow. Arrogant drow build Houses that fall.”
 
-She tapped the cover, and her finger traced the scroll held by the female figure. “Houses turn against one another. It is not rare.”
+She tapped the page, and her finger traced the scroll held by the female figure. “Houses turn against one another. It is not rare.”
 
 Layn frowned. “Why?”
 
@@ -144,9 +136,9 @@ Layn considered it. “And if someone had lived?”
 
 “Then the attack would have failed. The Council would have destroyed the House that failed, and whatever remained of House DeVir would have been given to another House to keep.”
 
-Layn touched the cover with one finger. “Is that what happened to your House?”
+Layn touched the edge of the book with one finger. “Is that what happened to your House?”
 
-Zilvrae’s fingers rested on the hard cover. “Fallen Houses are rarely discussed.”
+Zilvrae closed the book and rested her fingers on its hard cover. “Fallen Houses are rarely discussed.”
 
 Layn frowned. “Why?”
 
@@ -154,7 +146,7 @@ Layn frowned. “Why?”
 
 “What was your House name?” Layn insisted.
 
-Instead of reprimanding him, she placed the book in front of him again. “My name is Zilvrae Freth.”
+Instead of reprimanding him, she opened the book and placed it in front of him again. “My name is Zilvrae Freth.”
 
 Layn waited.
 

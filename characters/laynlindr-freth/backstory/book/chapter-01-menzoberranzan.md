@@ -16,11 +16,11 @@ And it was a city in every sense of the word.
 
 There were streets crowded with movement, districts with their own character, workshops glowing around furnaces, warehouses filled with goods brought up from deeper tunnels, and markets where nearly anything could be found if one possessed the coin, the connections, or the willingness to ask the right merchant.
 
-The Bazaar was a maze of voices and smells. In Duthcloim, merchants and craftsmen crowded together, trading food, weapons, fungi, cloth, poisons, curiosities, and stranger things whose origins were better left unasked. Slaves carried crates and baskets through the press of bodies, while a duergar merchant might haggle with a drow over a shipment and a goblin servant waited behind him with the next load. Guards watched the crowds without seeming to watch them at all.
+The Bazaar was a maze of voices and smells. In Duthcloim, merchants and craftsmen traded food, weapons, poisons, and stranger things whose origins were better left unasked, while a duergar haggled with a drow over a shipment and guards watched the crowd without seeming to watch it at all.
 
-In Narbondellyn, the streets widened, giving way to elegant estates, fashionable shops, skilled artisans, and houses wealthy enough to make their status visible in stone and metal. It was a district where reputation could be displayed as easily as jewelry, and where a passing glance at a doorway might tell an experienced drow more about its owner than the House name ever would.
+In Narbondellyn, the streets widened between elegant estates and fashionable shops, and a glance at a doorway might tell an experienced drow more about its owner than the House name ever would.
 
-Beyond it stood Qu’ellarz’orl, screened from much of the city by enormous mushrooms and guarded by distance as much as by force. The greatest noble Houses occupied its heights, while commoners and outsiders did not wander there by accident.
+Beyond it, screened by enormous mushrooms and guarded by distance as much as by force, the greatest noble Houses held the heights of Qu’ellarz’orl, where no commoner wandered by accident.
 
 Menzoberranzan had places for nearly everyone. It simply did not give everyone the same place.
 
@@ -28,7 +28,7 @@ The city was not silent. Footsteps crossed the bridges, merchants called from sh
 
 The city had been built in darkness by people who had learned to live inside it so completely that they no longer thought of darkness as the absence of anything. It concealed, protected, and gave the unwary somewhere to disappear; it was as natural to the drow as the stone beneath their feet—and just as unforgiving when someone misjudged its weight.
 
-The darkness was also one of their oldest advantages. Drow eyes saw where surface eyes failed, heat marked the warm body hiding behind a cold wall, and a person standing still was still a person. Even a hand around a weapon gave off enough warmth to betray it.
+The darkness was also one of their oldest advantages. Drow eyes saw where surface eyes failed: heat marked a warm body pressed against a cold wall, and keeping still hid no one. Even a hand around a weapon gave off enough warmth to betray it.
 
 The darkness was not empty. It was information.
 

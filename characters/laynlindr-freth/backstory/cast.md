@@ -72,7 +72,7 @@ Laynlindr Freth (Layn)
 - **Name:** UNKNOWN. Use the title rather than inventing a personal name until the story requires one.
 - **Role:** Supreme authority within House Freth and the highest point in Layn's childhood hierarchy.
 - **Description:** Powerful, distant, and difficult to read. Her attention is dangerous; her indifference is its own form of punishment. She wears robes the dark red of dried blood and a circlet of eight black metal legs meeting at the brow over two facing spiders. Her spirit at the Hearing wears the same circlet and robe.
-- **Relationship to Layn:** She ignores him entirely until the Hearing, where she meets his eyes and speaks to him for the first time ("Show me."). She has known of his possible psionics since his infancy (Chapter 11). Her order: watch him from a distance, do not provoke or hurt him merely for evidence, and suppress any manifestation. Her reason for "Keep him alive." is **UNKNOWN**.
+- **Relationship to Layn:** She ignores him entirely until the Hearing, where she meets his eyes and speaks to him for the first time ("Show me."). She has known of his possible psionics since his infancy (Chapter 10). Her order: watch him from a distance, do not provoke or hurt him merely for evidence, and suppress any manifestation. Her reason for "Keep him alive." is **UNKNOWN**.
 - **Relationship to the sisters:** Her rage is a risk the sisters fear, but ordinary cruelty toward a male is not suspicious to her.
 - **Voice:** Rare, economical, and unquestionable. Silence and dismissal should do most of her work.
 

@@ -1,4 +1,4 @@
-## Chapter 11—Conspiracy
+## Chapter 10—Conspiracy
 
 Twenty years before the Hearing, in the Matron Mother’s chambers, the word was spoken aloud for the first time.
 
@@ -6,11 +6,11 @@ Twenty years before the Hearing, in the Matron Mother’s chambers, the word was
 
 “Possibly,” said Greyanna.
 
-The Matron Mother stood before them in perfect composure, though only a few weeks had passed since she had given birth to the youngest male of House Freth.
+The Matron Mother stood before them in perfect composure, though only a few days had passed since she had given birth to the youngest male of House Freth.
 
-Laynlindr Freth was still too young to speak. He slept in the chamber beyond the inner doors, watched by servants who had been instructed to report anything unusual.
+Laynlindr Freth slept in the chamber beyond the inner doors, watched by servants who had been instructed to report anything unusual.
 
-Two nights earlier, one of them had. A spider crossing the nursery floor had stopped a hand’s breadth from the cradle and folded its legs against its body, as though it had struck a wall no one could see. The servant had touched nothing. She had only watched, and then reported it, as she had been told.
+Two nights earlier, one of them had. The infant had been crying, and each time she decided to go to him, he fell silent—before she rose, before she took a step, as though he had heard her make up her mind. It happened three times. The servant had only watched, and then reported it, as she had been told.
 
 “If it is true, he could become dangerous,” Dreydre said.
 
@@ -26,41 +26,37 @@ The Matron Mother turned to them. “In this child lies the work of Lolth.”
 
 The sisters fell silent.
 
-“If she has placed such power within the boy, then we will not destroy it before understanding why. We will not act in haste and risk bringing Lolth’s displeasure upon us. We will welcome her gift. It is now our task to determine how we are to use it.”
-
-Dreydre’s eyes sparked. “Otherwise, we risk bringing her rage upon us by interfering in her divine work.”
-
-The Matron Mother gave her a brief look. “You should have understood that by now.”
+“If she has placed such power within the boy, we will not destroy it before we understand why. A House that kills a gift of Lolth answers to Lolth for it. We will learn how it is to be used.”
 
 Zilvrae entered, bowed once, and waited. “You have summoned me, Matron Mother.”
 
 Her eyes moved briefly between the Matron Mother and the two daughters. The sisters looked more annoyed than usual.
 
-“We require your knowledge,” the Matron Mother said. “What we are dealing with is within your domain, after all.”
+“We require your knowledge,” the Matron Mother said. “You have taught more of this House’s children than anyone living.”
 
-The final words carried just enough weight to make the remark something other than courtesy. Zilvrae did not react.
-
-“Training?” Zilvrae asked.
+Zilvrae did not react. “A new student?”
 
 “A youngling,” the Matron Mother said. “There are ambiguous signs that the youngest male may be psionic.”
 
 “I can recognize psionic manifestations, but I cannot look at an infant and tell you what his mind may become. What you seek requires a psionic scholar’s expertise.”
 
-All that was already clear to the Matron Mother. “Then tell me this. How would you determine whether the power is there? In your experience, you should have seen many children manifest their gifts.”
+The Matron Mother did not seem surprised. “Then how would you determine whether the power is there?”
 
-“I have never had a psionic student. But assuming my understanding of psionic powers is even remotely correct, then there is a direct way, and there is a safe way,” Zilvrae said. “However, these two do not align.”
+“I have never had a psionic student,” Zilvrae said. “But if I understand such powers at all, there are three ways to learn the truth, and none of them is both quick and safe.”
 
 Greyanna folded her arms. The Matron Mother waited.
 
-“The direct way is to attack him.”
+“The first is to attack him.”
 
 The sisters stared at her.
 
 “Powerfully enough to cause permanent damage, or destroy him entirely. Enough to force his instincts to answer before his mind understands what is happening. At his age, instinct governs almost everything. If the power is present, he may manifest some form of barrier before his conscious mind even knows that it has done so. If the reaction is strong enough, the pressure may continue until the power breaks outward.”
 
-She looked around the chamber. “I would not recommend doing it in these chambers. If the manifestation is strong enough, you may have to rebuild them afterward. The safest would be House Oblodra.”
+She looked around the chamber. “I would not recommend doing it in these chambers. If the manifestation is strong enough, you may have to rebuild them afterward.”
 
 Silence followed.
+
+“The second is to ask those who know. House Oblodra.”
 
 “You expect us to hand them a secret weapon?” Dreydre said.
 
@@ -74,7 +70,7 @@ Silence followed.
 
 House Oblodra was among the most powerful Houses in Menzoberranzan, and its members possessed knowledge of the rare art of psionics. There was little doubt that they would be able to identify the boy’s nature, its potential, perhaps even the limits of what he might become. But no drow House would open its secrets that way without revealing something valuable in return.
 
-“Then there is the middle ground.” Zilvrae waited until every eye in the room was on her. “Calmness.”
+“Then there is the third way.” Zilvrae waited until every eye in the room was on her. “Calmness.”
 
 Greyanna’s mouth tightened.
 
@@ -82,7 +78,7 @@ Greyanna’s mouth tightened.
 
 “Then what do you propose?” asked the Matron Mother.
 
-“Patience. If the power is there, it will emerge organically. To my knowledge, it is not uncommon even for children who show signs of such powers to lose them by the time they begin to understand the world around them. Being born with the power is one thing. Retaining it is another. And I am not familiar with methods to steer the child toward one outcome or the other.”
+“Patience. If the power is there, it will emerge on its own. To my knowledge, it is not uncommon even for children who show signs of such powers to lose them by the time they begin to understand the world around them. Being born with the power is one thing. Retaining it is another. And I am not familiar with methods to steer the child toward one outcome or the other.”
 
 The answer seemed almost deliberately simple, and Zilvrae continued before anyone could object.
 
@@ -110,10 +106,8 @@ In the corridor, Zilvrae paused. How far did the boy’s potential reach, and ho
 
 Dreydre’s expression hardened.
 
-“From a distance. You will observe. You will not provoke him. You will not hurt him merely to produce evidence.”
+“From a distance. You will observe. You will not provoke him. You will not mark him. You will not hurt him merely to produce evidence.”
 
 Greyanna’s jaw tightened as though the Matron Mother’s words had slapped her.
 
 “If he reaches,” the Matron Mother said, “you will suppress the manifestation.”
-
-“Yes, Matron Mother,” the sisters said simultaneously.

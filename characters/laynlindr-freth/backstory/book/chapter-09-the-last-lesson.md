@@ -1,8 +1,8 @@
 ## Chapter 9—The Last Lesson
 
-By twenty, the last day of his instruction arrived without ceremony.
+At twenty, the last day of Layn’s instruction arrived without ceremony.
 
-The room was empty when Zilvrae entered. Another drow from the household came with her, carrying a slate and speaking in the distracted tone of someone discussing a problem too small to deserve anyone’s full attention.
+Zilvrae walked into the empty room with another drow of the household, who carried a slate and spoke in the distracted tone of someone discussing a problem too small to deserve anyone’s full attention.
 
 The other drow shifted the slate under one arm. “The shipment from the lower galleries is delayed.”
 
@@ -66,11 +66,13 @@ The gallery was visible again, but he had already moved from the position Zilvra
 
 Zilvrae looked toward the places where a fighter might naturally hide: behind the pillars, beneath the arches, near the weapon racks. Nothing.
 
-Then several small lights appeared.
+Then a shadow moved.
 
-They drifted across the gallery, crossing and separating, each one controlled with enough precision to suggest bodies moving at different distances. One bright patch swept across the far wall, and a shadow crossed it from the opposite side.
+It slid along the far wall behind the pillars, low and quick, the way a crouching body moves when it believes itself unseen. A second shadow crossed it from the opposite side.
 
-Zilvrae watched it for half a heartbeat, then dismissed it. The shadow did not change with the shape of a body. For anyone less experienced, it would have looked like a hiding threat on the move.
+Zilvrae watched them for half a heartbeat. The shadows stretched and shrank, but they never changed shape the way a body does when it turns, and neither of them hesitated. Nothing living moved that evenly.
+
+She shifted a single step to the side, and the trick showed itself: small, dim lights drifting behind the hanging practice gear, each one steered with enough care to throw a shadow that could pass for a person. For anyone less experienced, the gallery would have been full of hidden threats.
 
 Layn used the distraction to reposition.
 
@@ -106,27 +108,25 @@ Pale flames spread across Layn’s body, clinging to his outline and making ever
 
 Zilvrae advanced.
 
-Layn concentrated to break the spell. “Astux!”[^1] he shouted at the top of his lungs. He had found it more effective to yell out the command to break a spell mid-fight, even though Zilvrae never approved of it.
+Layn concentrated to break the spell. “Astux!”[^1] he shouted. The word was unnecessary, and Zilvrae had never approved of it—a fighter who hid could not afford to shout—but in the middle of a fight the working came easier with it.
 
 All Layn cared about in that moment was that it worked. The pale fire vanished, and at the same instant he moved.
 
-He crossed the gallery, turned past her shoulder, and came in low. For a heartbeat, he thought he had found the opening. He drove forward.
+He crossed the gallery, turned past her shoulder, and came in low. It was then that he thought he had found the opening. He drove forward.
 
 Zilvrae let him.
 
-At the instant Layn’s defensive dagger came up to intercept the strike, the quarterstaff vanished. Layn’s dagger cut through empty air.
+Then the quarterstaff swept toward his head, and Layn’s second dagger came up to meet it. At the instant the two should have met, the quarterstaff vanished. Layn’s dagger cut through empty air.
 
-Then the quarterstaff reappeared on the other side of his guard, between the dagger and his jaw. The movement was so fast that, for an instant, it seemed to Layn that the quarterstaff had passed straight through his blade.
+It reappeared on the other side of his guard, between the dagger and his jaw. The movement was so fast that, for an instant, it seemed to Layn that the quarterstaff had passed straight through his blade.
 
-The end of it struck his jaw, snapping his head sideways and buckling his knees.
+The end of it struck his jaw, snapping his head sideways and buckling his knees. Both daggers slipped from his fingers and rang against the stone.
 
 Zilvrae caught his wrist before he could fall, turned him, and brought the quarterstaff beneath his throat.
 
-Layn’s mind raced. For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
+For ten years he had watched Zilvrae use the quarterstaff in almost every way a weapon could be used, and he had thought he knew every movement she could make with it; he had never anticipated that one.
 
-The years were all there: the first clumsy footwork, the repeated corrections, the dagger choice, the understanding of reach, the use of darkness, the controlled lights, the ability to recognize the magic laid over him, the ability to undo it, and the discipline not to react simply because fear or surprise demanded it.
-
-Layn’s chest was rising and falling hard now while Zilvrae’s breathing remained even. Layn made mistakes, Zilvrae punished them, he adapted, and she found another.
+Layn’s chest was rising and falling hard now while Zilvrae’s breathing remained even.
 
 They remained there for a moment. Then Zilvrae lowered the weapon and released him.
 
@@ -154,7 +154,7 @@ She said nothing about the future; that was not hers to decide.
 
 The sound of the opening door interrupted the silence.
 
-Layn turned to find Greyanna standing in the doorway. “The Hearing is tonight.”
+Layn turned to find Greyanna standing in the doorway. “The Hearing will be held tonight.”
 
 Layn looked past her to Zilvrae, trying to read the answer before he asked for it. “Are you going to be there?”
 
@@ -162,13 +162,13 @@ Layn looked past her to Zilvrae, trying to read the answer before he asked for i
 
 Greyanna’s eyes moved to Zilvrae and lingered there for a moment, measuring and superior.
 
-Zilvrae’s expression softened by the smallest degree. “You are going to be decent.”
+Zilvrae’s expression softened by the smallest degree. “You will do well.”
 
-“I always am,” Layn said with a faint smile.
+“I always do,” Layn said with a faint smile.
 
-Greyanna stepped aside.
+Greyanna did not move from the doorway.
 
-Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years.
+Layn glanced once at Zilvrae, then looked away before the gesture could become something he might have to explain. She gave him the same measured look she had given him for years. He stepped around his sister and out.
 
 ---
 

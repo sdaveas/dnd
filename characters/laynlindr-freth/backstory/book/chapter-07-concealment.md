@@ -2,9 +2,9 @@
 
 The spiders continued—always two.
 
-At first they still appeared in his bed often enough that he could almost measure his fear by the calendar, then less often, and eventually not at all. The sisters did not become kinder; they simply stopped needing to come so close.
+At first they still appeared in his bed often enough that he could almost measure his fear by the calendar, then less often, and then, one night, not at all. No one told him why. The sisters had not become kinder, so he could only guess that they no longer needed to come so close.
 
-The physical visits disappeared, but the fear did not. Layn would lie down and remember the last night in which two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it. Some nights he would wake convinced he had felt movement beside his leg.
+The physical visits disappeared, but the fear did not. Layn would lie down and remember the nights when two spiders had crawled across his bedding. He would inspect the corners before sleeping. He would check beneath the blanket even when he knew there was nothing beneath it. Some nights he would wake convinced he had felt movement beside his leg.
 
 Some mornings he would remember a dream in which two spiders waited at the foot of his bed and spend several seconds deciding, before the lamps changed, whether the room was real; once he woke certain that the carved spider above his doorway had turned to look at him, and he remained still, watching it until his breathing slowed and the carving became only stone again.
 
@@ -12,13 +12,15 @@ He never decided whether it had moved at all.
 
 There were other episodes: the certainty that someone had entered a room before the door opened, a shape at the edge of his vision disappearing the instant he turned toward it, or the scrape of something against stone sending a pulse through his body so sudden that his hands were shaking before he understood why.
 
-At first he fought the sensation, which made it worse. Then he remembered Zilvrae: *Do not react to the first movement.* So he stopped, sat still, breathed slowly enough to feel each breath reach the bottom of his lungs, and looked at the room one object at a time—the bed, the table, the door, the carving, and nothing else.
+At first he fought the sensation, which made it worse. Then he remembered Zilvrae: *Do not let your enemy set the tempo.* So he stopped, sat still, breathed slowly enough to feel each breath reach the bottom of his lungs, and looked at the room one object at a time—the bed, the table, the door, the carving, and nothing else.
 
 He waited for his heartbeat to stop trying to outrun him.
 
 Sometimes the panic faded in a few breaths, sometimes it took much longer, but he learned not to measure the victory by how quickly it disappeared. The victory was that it disappeared without making the decision for him.
 
 Years earlier, when his sisters had first put two spiders in his bed, fear had frozen him because he had nowhere to put it. Now he had somewhere to put it: he could stand still, breathe, wait, and let the body spend its first answer before choosing his own.
+
+It was not the same as being calm. The fear was still there beneath the stillness; he had only learned to stand on top of it.
 
 During the day, something else changed as well.
 
@@ -48,11 +50,11 @@ Layn nodded.
 
 The choice remained his. It was practical and modest, requiring no pretense that he possessed strength he did not have, and he liked it for that reason.
 
-Layn looked at her empty hands, then at the weapon rack. “What’s your favorite weapon?”
+Layn glanced at the weapon rack, then at her. “What’s your favorite weapon?”
 
 Zilvrae stood in the center of the gallery with empty hands. They did not stay empty.
 
-Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared between her fingers, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery’s violet lamps, perfectly straight, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a beautiful quarterstaff in her hands, not ornate but exact in its simplicity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact. The weight seemed to exist in precisely the places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
+Her fingers closed around nothing, and for a moment the air inside her grasp seemed tighter than the air around it. A narrow line appeared there, thin as a reflection. It lengthened smoothly, acquiring substance without ever looking assembled, until a dark, faintly lustrous shaft emerged beneath the gallery’s violet lamps, straight as a plumb line, smooth as polished wood yet without grain, knot, or flaw. The ends formed last, one after another, until there was nothing left to define; then there was a quarterstaff in her hands, plain to the point of severity. Zilvrae had no interest in ornament. Its beauty came from the absence of anything unnecessary. The balance was exact, the weight resting in the very places a skilled hand would want it. It looked less like a manufactured weapon than an idea of a weapon made solid.
 
 The quarterstaff moved as she stepped forward, turned it through one hand, caught it again, and changed her angle without breaking rhythm. It swept, redirected, struck low, and rose again, with no flourish or wasted motion; the weapon did not make her impressive so much as her control of it did.
 
@@ -72,7 +74,7 @@ Layn blinked. “Can you make any weapon?”
 
 He glanced toward the targets. “Can you throw them?”
 
-Zilvrae looked at him long enough to make him reconsider the question. “Not usefully.”
+Zilvrae considered the question as though it deserved an exact answer. “Not usefully.”
 
 Layn was about to ask why when, instead, she formed a spear.
 
@@ -80,7 +82,7 @@ The weapon appeared in her hands with the same terrible perfection as the staff.
 
 His body decided before his mind did, and he ducked as the spear vanished a few inches beyond Zilvrae’s hand.
 
-Layn’s momentum carried the rest of him onward. His foot caught the edge of a low practice stand. He pitched forward, struck the stone with his palms, and ended sprawled face-down with the back of his tunic high enough to expose far more dignity than he possessed.
+Layn’s momentum carried the rest of him onward. His foot caught the edge of a low practice stand. He pitched forward, struck the stone with his palms, and ended sprawled face-down, his tunic ridden up far enough to cost him whatever dignity he had left.
 
 There was a brief silence before Zilvrae said, in the same tone she might have used to correct his footwork, “Cunning disengagement, Master Laynlindr.” Her face remained perfectly composed.
 
@@ -120,13 +122,13 @@ Layn stared at the empty corridor. “Where—”
 
 She stood beside the same pillar he had already inspected.
 
-“Again,” she said.
-
-This time Layn understood before she explained. He looked around the corridor and smiled despite himself.
+Layn looked around the corridor, and this time he understood before she explained. He smiled despite himself.
 
 “Again,” Layn said.
 
-Zilvrae’s expression barely changed. “Good.”
+It was her word. He had heard it from her more times than he could count and had never once thought to say it himself, and now he said it the way she did: not as a request, but as the next step.
+
+Zilvrae’s expression barely changed. She nodded once.
 
 From that day forward, concealment became part of his physical education.
 

@@ -10,7 +10,7 @@ His room was a narrow chamber set below the better apartments of the noble femal
 
 He dressed in the clothes laid across the foot of his bed, folded the blanket, and left.
 
-The corridor outside was empty except for a single female servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands. She did not speak. Few people in the House ever spoke to him at all.
+The corridor outside was empty except for a servant carrying a tray. She saw him and froze, pressing herself against the wall with her eyes down and the tray trembling in her hands. She did not speak. Few people in the House ever spoke to him at all.
 
 He walked toward the lower hall.
 
@@ -26,19 +26,19 @@ Neither sister looked at Layn when the Matron Mother entered.
 
 The room changed around her. Servants stepped away from the center aisle, the older males lowered their heads, and the daughters straightened, each of them suddenly more attentive to the angle of her shoulders and the placement of her hands.
 
-The Matron Mother crossed the hall surrounded by two armed females of her guard. Her robes were the dark red of dried blood, embroidered with House Freth’s paired spiders facing one another. A circlet of eight black metal legs curved about her brow, and where they met, two small spiders faced one another above her eyes. She did not hurry; the household adjusted itself to her pace.
+The Matron Mother crossed the hall surrounded by two armed females of her guard. Her robes were the dark red of dried blood, embroidered with the House’s paired spiders. A circlet of eight black metal legs curved about her brow, and where they met, two small spiders faced one another above her eyes. She did not hurry; the household adjusted itself to her pace.
 
 Layn rose with everyone else.
 
-The Matron Mother stopped beside Dreydre, her gaze settling on her elder daughter with the calm expectation of someone who had already decided what would happen.
+The Matron Mother stopped beside Greyanna, her gaze settling on her younger daughter with the calm expectation of someone who had already decided what would happen.
 
 “The eastern gallery will receive the visitors,” she said. “You will be present.”
 
-Dreydre inclined her head. “Yes, Matron Mother.”
+Greyanna inclined her head. “Yes, Matron Mother.”
 
 “And you will not let your sister speak for you.”
 
-Dreydre lowered her gaze, accepting the correction without testing its limits. “Of course.”
+Greyanna lowered her gaze, accepting the correction without testing its limits. “Of course.”
 
 The Matron Mother moved on.
 
@@ -54,7 +54,7 @@ It was how a family was arranged. The House stood at the top, his mother carried
 
 ---
 
-The first lesson began after the meal, as it always did. House Freth educated its children inside the House until their twentieth year; the daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline, while the males learned enough of those matters to avoid interfering with them. The alliances lasted as long as they were useful.
+The first lesson began after the meal, as it always did. House Freth educated its children inside the House until their twentieth year; the daughters were taught the relationships between noble families, the moods of priestesses, and which alliances strengthened a bloodline, while the males learned enough of those matters to avoid interfering with them.
 
 Mistress Zilvrae taught Layn in the House’s library, above the training galleries.
 
@@ -62,7 +62,7 @@ She was a narrow-faced female with white hair braided tightly against her scalp.
 
 The lesson was not private. Dreydre sat at the far table with the House’s correspondence, while Greyanna sat in the window seat, turning a silver pin between her fingers.
 
-Zilvrae set five emblems on the black table, in a line—five Houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of Houses, fifty of them counting the lesser ones, and House Freth stood nineteenth on it.
+Zilvrae set five emblems on the black table, in a line—five Houses of Menzoberranzan, arranged in the order of their power. The city kept a rank of fifty Houses, counting the lesser ones.
 
 Zilvrae tapped the first emblem. “This is the order. Look.”
 
@@ -70,9 +70,9 @@ Layn studied the symbols: a silver blade, a broken chain, a spider above a cresc
 
 She swept the emblems up, shuffled them, and set them out again. “Now you.”
 
-He set them in the order of their Houses’ power. The order was wrong: the broken chain lay where the silver blade belonged and vice versa.
+He set them in the order of their Houses’ power and got two of them wrong: he had swapped the silver blade and the broken chain.
 
-Zilvrae touched the misplaced emblem with the end of one finger. “You looked. You did not see.”
+Zilvrae touched the silver blade with the end of one finger. “You looked. You did not see.”
 
 She gathered the five and laid them out in their order once more, one by one.
 
@@ -80,27 +80,31 @@ This time Layn did not watch the emblems. He watched the order itself. When she 
 
 She shuffled them without further explanation. “Again.”
 
-He set the five without a mistake. She shuffled them and added five more.
+He set the five without a mistake.
 
-The pin in Greyanna’s fingers stopped moving, and the muscle beside her mouth tightened.
+Then she added five more and shuffled them in among the others. These Layn had never seen—not in the records, not above any doorway he knew—and she did not show him their order. He understood the lesson before she gave it: these were Houses he had not been taught, and he was meant to fail.
 
-Layn ordered all ten emblems without a single mistake.
+He reached for the first of them anyway and found that he knew where it belonged. The order was there behind his eyes, the way it had been for the five, as though someone had already laid it out and he had only to look.
 
-Zilvrae shuffled the ten and added ten more, then ten more: twenty, thirty. The order waited behind his eyes until his hands needed it, and Layn set them in order every time.
+Layn set all ten without a mistake.
 
-When the thirty stood ranked on the black table, Zilvrae looked down at them, and something escaped her, barely a whisper.
+Zilvrae shuffled the ten and added ten more without a word. Layn set the twenty, and the pin in Greyanna’s fingers stopped moving. The muscle beside her mouth tightened.
 
-“Good memory.”
+Then ten more: thirty. The order waited behind his eyes until his hands needed it, and he set every one.
+
+When the thirty stood ranked on the black table, Zilvrae looked down at them, and her silence went on longer than her silences usually did.
 
 Layn looked up at her.
 
-Her expression closed again. “You remember what you have been shown. That is not the same as understanding it.”
+Her expression closed. “You have seen them in the records. You remember what you have seen. That is not the same as understanding it.”
 
-When the drill ended, she gathered the emblems and began the day’s House lessons: how the rank had held in the city so far, what each House was known for, and House Freth’s own craft, its substances. Venoms and alchemical preparations drew out what a creature already carried and did not care what they cost the vessel. Layn stood without shifting his weight and did not speak before he was spoken to; when he was correct, she said nothing. Her silence was her only verdict.
+Layn was almost certain he had never seen them. He lowered his eyes anyway.
 
-The tutor had many ways of teaching a child what not to expect.
+When the drill ended, she gathered the emblems and began the day’s House lessons: how the rank had held in the city so far, what each House was known for, and House Freth’s own craft, its substances. Venoms and alchemical preparations drew out what a creature already carried and did not care what they cost the vessel. Layn stood without shifting his weight and did not speak before he was spoken to; when he was correct, she said nothing. Her silence was her only verdict, and he had learned to take it as praise.
 
-Layn would soon discover that his sisters had more.
+The tutor’s methods were strict, but rewarding.
+
+Layn would soon discover that his sisters’ were not.
 
 ---
 
@@ -126,7 +130,7 @@ Layn opened them. They were empty.
 
 She lifted one shoulder, feigning disappointment. “It was in my fingers all morning. You were there the whole time.”
 
-He had seen servants punished for theft. None of them had been guilty either, so Layn went still.
+He had seen servants punished for theft. None of them had been guilty either. Layn went still.
 
 The panic sank beneath the stillness like sediment in water left alone, and in the quiet it left, something pressed lightly behind his eyes.
 
@@ -138,11 +142,11 @@ Greyanna wore the look of someone about to be proven right. It lasted until he f
 
 Her right hand drifted to her sleeve, the way a hand drifts when it has nowhere else to go. She drew out the silver pin and held it where he could see it.
 
-Dreydre stood behind her, half-hidden by the archway. For a moment, her expression held something Layn could not name. It was not anger. It was not surprise. It looked almost like fear. Then it was gone.
+Dreydre stood behind her, half-hidden by the archway. For a moment, her expression held something Layn could not name. It was not anger. It was not surprise. It looked almost like worry. Then it was gone.
 
-Greyanna’s surprise vanished behind a smile. She turned the pin between her fingers. “I put it there myself. To see what you would say.”
+Greyanna’s surprise vanished behind a smile. She turned the pin between her fingers. “I put it there myself. I wanted to hear what a thief would say.”
 
-“Then you already knew what I would say.”
+“Then you did not hear one.”
 
 Greyanna stepped close enough that Layn could smell the bitter oil in her hair. “Do not become clever with me, boy.”
 
@@ -150,7 +154,7 @@ Dreydre lifted one finger, and Greyanna fell silent.
 
 The older sister took the pin from Greyanna’s fingers.
 
-“You saw where this one fell,” Dreydre said, studying Layn over its edge.
+“You saw where she put it,” Dreydre said, studying Layn over its edge.
 
 Layn shook his head. “I did not.”
 
@@ -158,21 +162,19 @@ Layn shook his head. “I did not.”
 
 She held the pin up between two fingers, where the whole passage could see it, then let go. The pin did not fall; it hung in the air, turning slowly in the lamplight.
 
-A small spell—the luth, the first trick a daughter learned. It cast a thing a short distance, and it chose the where itself. Larger workings borrowed that randomness, so that even a spell the enemy knew by heart could still cause some form of surprise.
+Dreydre raised both hands beside it, fingers spread, and spoke while it hung there. “I have chosen a hand. When the pin leaves the air, it will be in that one. You will say which before it goes. If you are wrong, she will have her thief.”
 
-Dreydre raised both hands beside it, fingers spread, and spoke while it hung there. “When it leaves the air, it will be in one of my hands. You will say which before it goes. If you are wrong, she will have her thief.”
-
-It came again, the pressure behind his eyes, and this time he knew it was not his. The thought arrived finished, the way it had when he named the sleeve. It moved from the pin to Dreydre, then toward him. He felt the direction of her attention before she spoke.
+It came again, the pressure behind his eyes, and this time he knew it was not his. The thought arrived finished, the way it had when he named the sleeve, but now he could feel where it came from. It came from Dreydre.
 
 Layn’s answer came without hesitation. “Right.”
 
 The pin still hung in the air, neither hand having claimed it yet.
 
-And suddenly, the pin vanished.
+Then the pin vanished.
 
 Layn pointed at her right hand.
 
-Dreydre looked at him and slowly opened her right, revealing the shiny silver pin.
+Dreydre looked at him and slowly opened her right, revealing the silver pin.
 
 Neither sister spoke. The pressure behind Layn’s eyes faded. He looked from the pin to Dreydre’s face.
 

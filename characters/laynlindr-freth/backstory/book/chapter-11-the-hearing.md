@@ -1,6 +1,6 @@
-## Chapter 10—The Hearing
+## Chapter 11—The Hearing
 
-The chamber was larger than it had ever seemed from the outer gallery—a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched his every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
+The chamber was larger than it had ever seemed from the outer gallery—a vault of black stone, warm with the breath of braziers below the dais. The spider-wrought floor watched Layn’s every step. The priestesses on the platform held themselves still, and their silence made rank into architecture.
 
 He wore the plain black clothing assigned to a male awaiting judgment. No weapon hung at his belt. His hands were empty.
 
@@ -42,7 +42,7 @@ Layn was still trying to understand what the drow who was his mother wanted from
 
 The sisters below the dais went still, Greyanna’s hand finding Dreydre’s sleeve while Dreydre’s eyes went to their mother and stayed there.
 
-Behind the priestess, at the chamber’s edge, two more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Layn did not know the ritual. His sisters did; he could see it in how still they had become.
+Behind the priestess, at the chamber’s edge, four more priestesses had already begun to chant, their hands turning through the first signs of a longer working. Layn did not know the ritual. His sisters did; he could see it in how still they had become.
 
 The black vessel smoked though nothing burned; the smoke did not rise, but crawled along the glass like something slow and alive, while the air above the stopper bent the way air bends above a forge. The smell reached Layn a breath later—hot iron, old wounds, and underneath them a sweetness that was worse than either. He knew it from the experiment he had witnessed in the laboratories, where he had seen the black preparation take hold of a living creature before the effect burned itself out.
 
@@ -60,17 +60,19 @@ The corner of the Matron Mother’s mouth lifted with the quiet pleasure of some
 
 “My daughters,” she said. “You are not afraid, are you?”
 
-Then she looked back at Layn. Her lips never moved, but the command struck inside his skull, louder than a scream.
+Then she looked back at Layn and spoke a single word.
 
 “Drink!”
 
+The word struck inside his skull louder than a scream.
+
 It did not ask. It arrived inside him the way the order to breathe arrives, and his will bent around it and broke. His hand rose. His fingers closed on the stopper. Somewhere far away, the part of him that was still Layn watched his own body obey, and hated it, and could do nothing—could not even tremble on purpose.
 
-He drank. The smoke went down like a swallowed coal, and for one breath, nothing happened.
+He drank. It went down like a swallowed coal, and for one breath, nothing happened.
 
 Then the substance opened him, and the chanting became stronger.
 
-His temples pumped. His vision blurred and began to darken at the edges, and his hearing ran away into echoes—and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences that mattered, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it—form blades out of virtually nothing, thin enough to cut steel; raise shields out of dust that would turn a battering ram.
+His temples pounded. His vision blurred and began to darken at the edges, and his hearing ran away into echoes—and in the darkening, the room came closer than his eyes had ever brought it. He perceived them without looking: the three presences that mattered, and not their robes or their faces but their essences, each one a shape his mind could read like a page. He felt that he could speak to them if he wished, without moving his lips or his tongue. His body felt weightless. Every part of it answered him the way a limb answers. He felt that he could take the matter of the chamber apart and remake it—form blades out of almost nothing, thin enough to cut steel; raise shields out of dust that would turn a battering ram.
 
 *Is this who I am?* The thought came from somewhere very far away.
 
@@ -80,7 +82,7 @@ The white vessel breathed a thin, white smoke that had no smell and no taste.
 
 Dreydre looked at the pale vessel a moment longer than pride allowed before drinking her two drops; Greyanna drank hers as well. They remained what they were—elder priestesses of House Freth, trained and dangerous—but they were deliberately, measurably less.
 
-The sisters had understood their mother’s plan by then, and it showed on their faces.
+The sisters understood their mother’s plan by then: the first of the tutor’s three ways, twenty years late.
 
 The Matron Mother extended her hand. Greyanna carried the white vessel to the throne and gave it over. The Matron Mother shook it gently, once, and held it the way a person holds a drink.
 
@@ -92,35 +94,35 @@ The chanting now came from outside the dark, distant yet still loud enough to fe
 
 The cage was the ritual’s work. What it held was theirs.
 
-Inside the dark, something reached into each of them, took hold of what was innermost, and made it stand.
+Inside the dark, the black preparation reached into Layn, took hold of what was innermost, and made it stand.
 
-Layn’s came first, rising out of him the way the pressure rose behind his eyes—a thin, upright silhouette, warrior-shaped in the way a half-remembered thing is. Now and then it lost its shape, running like liquid before reforming. When it stood, it made a sound that was not a battle cry of anything living: a long, scraping shriek, like nails drawn across hard rock.
+It rose out of him the way the pressure rose behind his eyes—a thin, upright figure, warrior-shaped in the way a half-remembered thing is. Now and then it lost its shape, running like liquid before reforming. When it stood, it made a sound that was not a battle cry of anything living: a long, scraping shriek, like nails drawn across hard rock.
 
 The training he had received was of no use here. This was not a fight of staves, blades, or spells he had practiced. Whatever had been pulled out of him had its own instincts, and Layn had never been taught how to use them.
 
-The sisters answered what they saw. Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were large enough that drow beneath them would look like children at the feet of statues.
+The sisters answered what they saw. Dreydre and Greyanna changed where they stood, their forms rising tall and robed, crowned with eyes, their robes running down into columns of shadow that ended in spider legs. They were spider-shapes now, large enough that drow beneath them would look like children at the feet of statues.
 
 The sisters moved together.
 
-The figures struck from opposite sides, not like fear but like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and the silhouette staggered with him. He swung at a figure and his fist passed through shadow, and the shadow’s counterstrike put him on one knee.
+The spider-shapes struck from opposite sides, not wildly, but like drills Layn had never been given. One herded him; the other punished the opening. He caught a blow meant for his head and took the follow-up in the ribs, and his figure staggered with him. He swung at one of them and his fist passed through shadow, and the shadow’s counterstrike put him on one knee. The next blow threw him across the arena and into the wall of the cage. It was harder than any rock he had ever felt, and it did not give at all.
 
-They were experienced priestesses, coordinated by a discipline of spiritual combat drilled into them all their lives. The last ten years of watching Layn had only told them exactly where he would be weak.
+They were experienced priestesses, coordinated by a discipline of spiritual combat drilled into them all their lives. Twenty years of watching Layn had told them exactly where he would be weak.
 
 The amplifier roared inside him, and none of it was the same as knowing what to do.
 
-Then, on the floor of the dark, something changed. It was not thought; thought had nothing to do with it. The silhouette stopped reacting to the shades and began arriving where they were going to be—half a breath early, then a full breath early. Strikes that had been finding him began finding only air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal learns it has claws.
+Then, on the floor of the dark, something changed. It was not thought; thought had nothing to do with it. The figure stopped reacting to the spider-shapes and began arriving where they were going to be—half a breath early, then a full breath early. Strikes that had been finding him began finding only air. Somewhere inside him, the thing the amplifier had torn loose was learning, and it learned the way a starving animal learns it has claws.
 
-He came up off the floor, and his spirit was larger than it had been.
+He came up off the floor, and his figure was larger than it had been.
 
-The sisters did not become fools; they saw the change and adapted with it. They stopped pressing and started provoking—and they had ten years of material. The figures wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, because it had always worked.
+The sisters did not become fools; they saw the change and adapted with it. They stopped pressing and started provoking—and they had ten years of material. The spider-shapes wove his own history out of shadow: the scrape of legs on cloth, the weight of a spider crossing his chest, a door standing open. The things they had used to bury his gift became the things they turned against him now, and it worked, as it had always worked.
 
-Layn fought wild. The silhouette swung too hard and reached too far, and the figures punished every surge of feeling. For a while, it was enough, but not for long.
+Layn fought wild. His figure swung too hard and reached too far, and the spiders punished every surge of feeling. For a while, it was enough, but not for long.
 
-The figures bore him down again and again until the last blows put him on the floor and kept him there. He folded small—knees to his chest, arms over his head—and the two spider-shapes stood over him, bearing down, again, the way they had always borne down.
+The spiders bore him down again and again until the last blows put him on his back and kept him there. He lay flat, arms pressed to his sides, and the two spider-shapes stood over him, bearing down, again, the way they had always borne down.
 
 In the middle of it, Layn saw himself.
 
-Countless nights. The same position in his bed—knees drawn up, blanket over his head, breathing small—and the two spiders slithering across the folds, slow and deliberate, waiting with him for the night to end.
+Countless nights. The same position in his bed—flat on his back, hands pressed to the blanket, breathing small—and the two spiders crawling over him, slow and deliberate, waiting with him for the night to end.
 
 Through the pain, Layn gathered himself around the only certainty he could still control.
 
@@ -130,7 +132,7 @@ The words were barely audible, but they belonged to him.
 
 The blast came out of him and out of the floor at once. It took the two spider-shapes and threw them to opposite ends of the arena, and for a moment the dark between the three of them stood empty.
 
-Now Layn saw clearly, and the shapeless form that had fought for him took a clear shape: a thin-limbed silhouette, upright and steady where everything else in the arena was noise.
+Now Layn saw clearly, and the shapeless form that had fought for him took a clear shape: a thin-limbed figure, upright and steady where everything else in the arena was noise.
 
 It stood the way Layn stood at the foot of the dais: still, and waiting, and impossible to read. In its hands, two blades of pale force formed, one in each. They were thin and exact, quiet the way the pressure behind his eyes was quiet. They were not copies of the weapons he had trained with. They were the weapons his mind reached for first.
 
@@ -138,35 +140,35 @@ They had been shaped to give the two spiders that had haunted him for ten years 
 
 The spiders regrouped, coming together at the center of the dark with legs coiling, weight settling, and the tension of a drawn bow gathering in their limbs—a coordinated attack. Layn knew where they would hit before they started. He knew it without thinking, the way he had known where the silver pin was, and the order of the thirty House emblems ten years ago.
 
-His legs buckled, then he jumped, rising high and fast enough that the spiders lost him; by the time he landed, it was his turn.
+He sank low, then jumped, rising high and fast enough that the spiders lost him; by the time he landed, it was his turn.
 
-The assault came at a speed nothing in the chamber had ever shown. The silhouette moved through both figures like a thrown blade, and around it, of its own will, a barrier of energy hardened—a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own—theirs cracking with explosive light where his was smooth.
+The assault came at a speed nothing in the chamber had ever shown. His figure moved through both spiders like a thrown blade, and around it, of its own will, a barrier of energy hardened—a sphere of pale force, seamless. The spiders mimicked him, each raising a barrier of its own—theirs cracking with explosive light where his was smooth.
 
-For the first time in his life, his sisters were afraid of him, and Layn sensed it in the figures’ faces—no longer smiling, no longer flawless, no longer superior.
+For the first time, Layn could feel his sisters’ fear of him. He sensed it in the spiders’ faces—no longer smiling, no longer flawless, no longer superior.
 
-All three siblings screamed—one cry out of three shapes, none of it made by living throats—and marched for the final clash.
+All three siblings screamed—one cry out of three shapes, none of it made by living throats—and flung themselves at one another.
 
-“Enough.” The Matron Mother stood.
+“Enough.”
 
-She had not moved until that instant. She had watched the arena, the figures, and the awakening without giving the others anything to read.
+The Matron Mother stood. She had not moved until that instant. She had watched the arena, the silhouettes, and the awakening without giving the others anything to read.
 
 The word struck through the darkness louder than the clashes.
 
 The three siblings stopped where they stood—Layn mid-stride, his sisters frozen inside their charge.
 
-As the isolated dark cage turned transparent, Layn saw what held it. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands—a cylinder the size of a hall, held like a stolen thing. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. Its robes, the color of dried blood, fell away into the dark. About its brow, vast as the arches of a temple, eight black legs curved to where two spiders faced one another. It did not hurry. The void seemed to adjust itself to its pace. The sisters’ spirits were two candle flames inside the cage. The silhouettes, which had been terrible a breath earlier, looked small. Looked young.
+As the isolated dark cage turned transparent, Layn saw something holding it. A spirit stood in the void, so vast that the whole cage rested in the palm of one of its hands—a cylinder the size of a hall, held as lightly as a cup. It was a spider, and it was a woman, and it was neither, and every part of it was more than the mind could hold. Its robes, the color of dried blood, fell away into the dark. About its brow, vast as the arches of a temple, eight black legs curved to where two spiders faced one another. It did not hurry. The void seemed to adjust itself to its pace. Inside the cage, the three silhouettes that had been terrible a breath earlier looked small. Looked young.
 
-Its power was not larger than theirs but of another kind entirely, the way the mountain is not larger than the stone at its foot.
+Its power was not larger than theirs but of another kind entirely, the way the dark of the deep tunnels is not a larger shadow.
 
 Layn resisted, but it did not matter.
 
-One thought laid the silhouette flat against the black floor, and Layn felt it in his own body, in his own ribs, and in the floor of his mind.
+One thought laid his figure flat against the black floor, and Layn felt it in his own body, in his own ribs, and in the floor of his mind.
 
-The titanic creature shattered the cage as if it were glass.
+The vast spirit closed its hand, and the cage that had not given beneath him shattered as if it were glass.
 
 The Matron Mother stood before her throne, emotionless, exactly where she had been.
 
-The manifestations went out like lamps: the figures folded down into Dreydre and Greyanna, while the silhouette came apart into the pressure behind his eyes and vanished. The broken dark ran downward like water finding a drain, the black disc shrank beneath the stone, and the chamber of House Freth assembled itself around them piece by piece, brazier by brazier, as though nothing had happened except to the bodies standing in it.
+The manifestations went out like lamps: the spider-shapes folded down into Dreydre and Greyanna, while his figure came apart into the pressure behind his eyes and vanished. The broken dark ran downward like water finding a drain, the black disc shrank beneath the stone, and the chamber of House Freth assembled itself around them piece by piece, brazier by brazier, as though nothing had happened except to the bodies standing in it.
 
 The chanting had stopped.
 
@@ -174,11 +176,11 @@ The chanting had stopped.
 
 A few moments later, Dreydre found herself on her knees. Her legs had failed her.
 
-The other priestesses were already moving through the aftermath—tending Greyanna, whose hands would not stop shaking; steadying the two guard females, who had seen nothing from the doors.
+The other priestesses were already moving through the aftermath—tending Greyanna, whose hands would not stop shaking; steadying the two guard females, who had stood at the doors and seen only the dark.
 
 Layn was worse, lying where the ritual had dropped him on the pale, worn stones his feet had claimed at the beginning, breathing heavily. His eyes were completely white. Thin black smoke curled from the corners of his mouth with every breath, and the features of his face seemed drawn inward, as though something had sucked them toward the bone of his skull. He did not move. The amplifier had torn his gift open and pushed it through a body that had never been built to hold it.
 
-From the floor, Dreydre watched him; she could not stand, and she could not look away. She had spent ten years making sure this power stayed small and had never once imagined it large. Now she had seen it, and her arms ached, and the ceiling the white drops had set over her power still held, and she understood that the lid her mother had pressed over her had been a mercy—to her.
+From the floor, Dreydre watched him; she could not stand, and she could not look away. She had spent ten years making sure this power stayed small and had never once imagined it this large. Now she had seen it, and her arms ached, and the ceiling the white drops had set over her power still held. She understood then that the drops had been a mercy, to her and to Greyanna both. Two priestesses of Lolth beaten in their own domain by a male would have been a shame no House forgot. Two priestesses weakened by their mother’s preparation had only lost a contest they were never meant to win.
 
 From the dais, the Matron Mother surveyed the aftermath.
 
@@ -186,6 +188,6 @@ She did not consult anyone or ask for an assessment. Her daughters lay defeated,
 
 “Melee-Magthere,” she said, giving the decision its name. Layn did not hear it; he was past hearing.
 
-She walked to the doors at the pace the household adjusted itself to, then stopped without turning toward them.
+She walked to the doors at the pace the household adjusted itself to, then stopped at the threshold without looking back.
 
 “Keep him alive.” She offered no explanation and waited for no response before she was gone.

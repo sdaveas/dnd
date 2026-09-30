@@ -1,16 +1,16 @@
 ## Chapter 5—The Two Spiders
 
-The order had come down years ago: the boy was to be given room—no marks, no cruelty—and watched. If the gift showed itself, it was to be suppressed before it could speak. What the gift might be, and why their mother feared it, the sisters no longer said aloud, not even to each other.
+The order had come down years ago: the boy was to be given room and watched from a distance—no provocation, no marks, no cruelty, nothing done to him merely to prove what he was. If the power showed itself, it was to be suppressed before it could speak. What the power might be, and what their mother meant to make of it, the sisters no longer said aloud, not even to each other.
 
-Obedience had rankled. There was cruelty in the House that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, tested, and learned little until tonight.
+Obedience had rankled. There was cruelty in the House that would have been theirs to take, and the order had taken it from them. So they had done what the order asked. They had watched, tested him in small ways the order did not quite forbid, and learned little until today.
 
-The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty Houses in order without hesitation, at an age when his instructor could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a servant reported that a lamp had cracked above a corridor after the young drow had passed beneath it. The servant was accused in the boy’s stead and did not live to see another dusk.
+The years had left them a ledger, and this day had added to it. That morning, the boy had stood through four hours of instruction without once shifting his weight, and his answers had come as though the questions had been asked of him before. He had set thirty Houses in order without hesitation—twenty-five of them Houses he had never been shown—at an age when his sisters could not have done it. No one had shown him the watched stairs; he avoided them anyway. One evening, a lamp had cracked above a corridor just after he passed beneath it.
 
 They were not certain. Perhaps the boy was only quick, only lucky, only strange. But they had given him years of a calm they had never wanted him to have, because a frightened mind hides its hand and a clear one shows it. Now the hand had begun to show.
 
-If they waited longer and the gift surfaced on its own—in front of a priestess, in front of their mother—no one would ask how to contain it. They would ask who had let it grow, and the answer would have their names in it.
+If they waited longer and the power surfaced on its own—in front of a priestess, in front of their mother—no one would ask how to contain it. They would ask who had let it grow, and the answer would have their names in it.
 
-The order had told them to wait for signs. The signs had come. Nothing in it had said how gently the remedy must be given.
+The order had bound them only until the signs came. The signs had come, and nothing in it said how gently the remedy must be given.
 
 The boy’s mind could not be allowed to speak first.
 
@@ -28,13 +28,13 @@ The door was open. He stopped before entering.
 
 Two spiders rested on his bed.
 
-They were not the small creatures carved into the walls or the delicate things that sometimes appeared in temple offerings. These were black and heavy-bodied, each with legs long enough to reach from the center of the blanket to its edge. Their movements were slow, deliberate, and disturbingly careful.
+They were not the small creatures carved into the walls or the delicate things that sometimes appeared in temple offerings. These were black and glossy, each with legs long enough to reach from the center of the blanket to its edge. Their movements were slow, deliberate, and disturbingly careful.
 
 Dreydre stood beside the bed. Greyanna sat on the windowsill, though there was no window beyond the dark opening—only a deep shaft crossed by a narrow bridge.
 
 Layn’s throat tightened.
 
-He stared at the bed, fighting the urge to step backward. “Remove them,” he said.
+He stared at the bed, fighting the urge to step backward. “Remove them.” He had meant it as an order. It came out sounding like please.
 
 Greyanna smiled at his fear. “You know better than that.”
 
@@ -68,7 +68,7 @@ Dreydre’s expression hardened, then smoothed. “The Matron Mother does not co
 
 The answer came too quickly. “Because she would care about the consequences.”
 
-Layn looked at his sisters. Neither of them looked toward the upper galleries where the Matron Mother’s chambers lay. He understood only that he was being watched.
+Layn looked at his sisters. Neither of them glanced toward the upper galleries where the Matron Mother’s chambers lay. He did not know why that mattered; he knew only that they were watching him, not the spiders.
 
 Dreydre pointed toward the bed. “Lie down.”
 
@@ -94,7 +94,7 @@ His heart beat so hard that he was certain his sisters could see it.
 
 His eyes burned. Tears slid from the corners into his hair, and he did not move to stop them.
 
-He reached for the pressure behind his eyes, the way he had reached when he named the sleeve. Nothing answered. The fear stood where the quiet had been, and the quiet would not come.
+He reached for the pressure behind his eyes, the thing that had let him name the correct hand. Nothing answered. The fear stood where the quiet had been, and the quiet would not come.
 
 Then the pressure returned on its own.
 

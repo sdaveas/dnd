@@ -23,8 +23,8 @@ The backstory has two parts. **Part One** covers Layn's life in House Freth up t
 - **Chapter 7 — Concealment** — the spider phobia, the dagger choice, Zilvrae's manifested weapons, and learning to be overlooked.
 - **Chapter 8 — The Long Quiet** — the laboratories and the two preparations; Zilvrae ends the spider routine.
 - **Chapter 9 — The Last Lesson** — the final spar with Zilvrae.
-- **Chapter 10 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and Melee-Magthere (1307 DR, age twenty).
-- **Chapter 11 — Conspiracy** — Layn's infancy: the first sign, the Matron Mother's orders, and Zilvrae's private resolve.
+- **Chapter 10 — Conspiracy** — Layn's infancy: the first sign, the Matron Mother's orders, and Zilvrae's private resolve.
+- **Chapter 11 — The Hearing** — the amplifier, the spirit arena, the Matron Mother's intervention, and Melee-Magthere (1307 DR, age twenty).
 
 ### Part Two — outline (not drafted)
 

@@ -1,20 +1,18 @@
 ## Chapter 3—House Freth
 
-House Freth was one of the lower Houses of Menzoberranzan, and it did not forget what that meant. A House was family and faction, fortress and store of knowledge, the name that opened a door—or closed one forever. A House that appeared weak invited enemies.
+House Freth was one of the lower Houses of Menzoberranzan, and it did not forget what that meant. A House was family and faction, fortress and store of knowledge, the name that opened a door—or closed one forever. And every House ranked beneath it was watching for the moment it looked weak.
 
-House Freth had carved its halls into a broad rise of dark stone. Sweeping arches opened onto narrow balconies. Weapons hung where visitors could see them. The House insignia appeared on warriors’ chests and bracers, worked into metal, and set above doorways: two spiders facing one another.
+House Freth had carved its halls into a broad rise of dark stone. Sweeping arches opened onto narrow balconies. Weapons hung where visitors could see them. The House insignia appeared on warriors’ chests and bracers, worked into metal and set above doorways.
 
 Carved spiders occupied every place where a reminder of Lolth seemed appropriate. The goddess took one spider for her symbol. House Freth had taken two, facing one another, and no one within the House confused the one with the two.
 
 The House was alive with movement.
 
-Warriors trained behind closed doors. Priestesses came and went according to duties the young could only guess at. Noble daughters learned the customs of their station and the names of families whose fortunes might someday matter.
+Warriors trained behind closed doors. Priestesses came and went according to duties the young could only guess at. Young noble drow learned the customs of their station and the names of families whose fortunes might someday matter.
 
 The House never truly slept.
 
-One of its rules was demonstrated in a long central hall.
-
-A boy sat in the shadow of a doorway, his feet not quite reaching the floor. He had been sent there to wait. He had learned that being told to wait was not an invitation to ask why.
+In a long central hall, a boy sat on a stone ledge in the shadow of a doorway, his feet not quite reaching the floor. He had been sent there to wait. He had learned that being told to wait was not an invitation to ask why.
 
 A human servant knelt in the middle of the hall. He had made some mistake.
 
@@ -46,15 +44,13 @@ For one heartbeat, the hall was silent.
 
 Then the household resumed its work: a servant carrying a tray stepped around the remains without spilling a drop, another fetched a cloth, and a passing warrior glanced once toward the floor before continuing on his way.
 
-No one looked surprised.
-
 The boy watched them, trying to understand what had happened in the only way he knew how: by memorizing it.
 
 The priestess had not needed to explain the punishment. The servant had looked where he should not have looked.
 
 That was enough.
 
-The remains were cleaned away while the priestess casually continued on her way, her silence a command for the hall to settle back into its usual rhythm as though nothing worth remembering had happened there.
+The remains were cleaned away, and the priestess walked on.
 
 The boy remained in the doorway for another few moments before climbing down from the ledge.
 
@@ -78,17 +74,7 @@ The architecture of House Freth unfolded around him as he walked: smooth arches 
 
 The boy absorbed these lessons without resistance. He had not yet learned to want anything else.
 
-Somewhere beyond the halls, the city continued its endless life. Merchants argued over the price of shipments. Priestesses delivered commands. Noble Houses exchanged polite words whose meaning mattered far more than their tone.
-
-Somewhere, a child was being taught to pray to Lolth.
-
-Somewhere else, another child was learning how to kill.
-
-Menzoberranzan had existed long before the boy was born, with its own rhythms, grudges, traditions, and memory. Houses rose and fell. Names disappeared, and new names took their places.
-
-The city did not care which child watched it endure.
-
-For now, the boy was only one more child within House Freth. One more male among thousands, a small piece in a city built from larger pieces.
+For now, the boy was only one more child of a lower House. One more male among thousands, a small piece in a city built from larger pieces.
 
 There was nothing remarkable about him. Nothing that demanded the attention of a goddess.
 

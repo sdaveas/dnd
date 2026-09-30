@@ -10,31 +10,33 @@ She stopped at a heavy iron door, glanced down the passage, saw nothing worth no
 
 She never saw him.
 
-The door began to swing shut. Layn caught it, waited several breaths, and looked inside.
+The door began to swing shut. Layn caught it, waited several breaths, and followed. A narrow stair wound down through the rock and ended at a railed landing high above a wide chamber.
 
 He had never seen that part of House Freth. The laboratories lay deep beneath the inhabited halls. The stone there was darker and damp in places, marked by old stains cleaned so often that the effort had left its own pattern. Metal tables stood beneath harsh violet lamps. Glass vessels lined the walls. Cages occupied several corners. Other tables held instruments constructed from metal, crystal, bone, and materials Layn could not name.
 
-Priestesses moved from station to station. Nobody spoke loudly. Nobody wasted movement. The room smelled of heated glass, bitter herbs, metal, old blood, and something chemical that burned faintly at the back of his throat.
+Priestesses moved from station to station. Nobody spoke loudly. Nobody wasted movement. The room smelled of heated glass, bitter herbs, and something chemical that burned faintly at the back of his throat.
 
-He should have left. Instead he remained beside the door.
+He should have left. Instead he stayed on the landing, pressed into the shadow of the rail.
 
-A tiny creature, small enough to fit in one priestess’s hand, was placed inside a glass enclosure. Another priestess arrived carrying a dark vessel and measured out a precise amount. Nothing happened until the creature convulsed.
+A tiny creature, small enough to fit in one priestess’s hand, was placed inside a glass enclosure. Another priestess arrived carrying a dark vessel and drew the stopper. A thread of smoke crept along the glass instead of rising, and even from the landing, Layn caught the smell: hot iron, old wounds, and beneath them a sweetness that was worse than either. She measured out a precise amount. Nothing happened until the creature convulsed.
 
 Its body expanded with a violence that made Layn’s stomach tighten; its limbs lengthened, its torso thickened, and flesh pushed outward with impossible speed until the tiny animal became a swollen, distorted thing battering the enclosure hard enough to make the metal frame shudder.
 
-The priestesses reacted immediately: one raised a barrier, another shouted an instruction, and two more moved into position as the creature struck again. The glass fractured, but the containment field held, barely.
+The priestesses reacted immediately: one raised a barrier, another shouted an instruction, and two more moved into position as the creature struck again. The glass fractured, but the barrier held, barely.
 
 Layn could not move.
 
-The monster screamed, and then the transformation began to fail. Its body shrank, its limbs twisting inward as the enormous shape convulsed once, then again, until the enclosure filled with a wet, violent sound and the creature collapsed into itself.
+It went on for a long time—longer than Layn could hold his breath, longer than he should have stayed. The thing threw itself at the glass again and again, and each time the barrier held, and each time it seemed larger.
+
+At last the monster screamed, and the transformation began to fail. Its body shrank, its limbs twisting inward as the enormous shape convulsed once, then again, until the enclosure filled with a wet, violent sound and the creature collapsed into itself.
 
 Silence followed. No one hurried to mourn it; one priestess began repairing the damaged apparatus, another gathered the remains, and a third picked up a writing instrument and began recording what had happened.
 
-Layn backed away, closed the iron door without making a sound, and returned to the upper halls. He told no one—not his sisters, not Zilvrae, not anyone.
+Layn backed up the stair, closed the iron door without making a sound, and returned to the upper halls. He told no one—not his sisters, not Zilvrae, not anyone.
 
 ---
 
-Weeks later, during the theory portion of the day, Layn asked a question he had been carrying since the laboratory. He kept his eyes on the page. “Can a substance amplify something that is already present?”
+Weeks later, during the theory portion of the day, Layn asked a question he had been carrying since the laboratory. He kept his eyes on the page. “You once taught me that the House’s preparations draw out what a creature already carries. How far can they draw it?”
 
 Zilvrae’s pen stopped. “Why?”
 
@@ -42,7 +44,7 @@ Layn hesitated. “I was wondering.”
 
 “That is rarely a sufficient reason.”
 
-He expected the question to be dismissed. Instead she rose, crossed the room, and returned with a recently written House Freth volume. She set it before him. “I have no expertise in such things. But the House keeps records.”
+He expected the question to be dismissed. Instead she rose, crossed the room, and returned with a House Freth volume. Its binding was new, and the ink on its pages was still dark and sharp, not yet faded toward brown. She set it before him. “I have no expertise in such things. But the House keeps records.”
 
 The illustrations were worse than Layn expected. They showed bodies enlarged beyond ordinary proportion, limbs changed into unfamiliar shapes, mouths opened too widely, muscles swollen until anatomy became difficult to recognize. Some drawings were clinical and precise. Others looked almost like diagrams made from nightmares.
 
@@ -96,7 +98,7 @@ Some evenings, when the final lamp in his room had burned low, Layn would sit on
 
 He checked the room and the bedding before lying down, then listened. Nothing. The quiet did not reassure him, not completely; he had learned too young that silence could simply mean that something had not started yet.
 
-Still, he learned to lie down and to sleep, at least sometimes. He didn’t remember when the last spider incident had been; only the nightmares remained.
+Still, he learned to lie down and to sleep, at least sometimes. He did not remember when the last spider incident had been; only the nightmares remained.
 
 ---
 
@@ -114,7 +116,7 @@ Dreydre and Greyanna stood with Zilvrae in one of the smaller chambers of House 
 
 Dreydre frowned. “He used to reach.”
 
-“And now he doesn’t,” Zilvrae said.
+“And now he does not,” Zilvrae said.
 
 The sisters exchanged a look.
 
@@ -130,7 +132,7 @@ Dreydre did not look at her. “It has never stopped him completing a lesson.”
 
 Greyanna crossed her arms. “Fear works.”
 
-“I have not said that it doesn’t.”
+“I have not said that it does not.”
 
 “Then why are you arguing with us?” Greyanna’s voice sharpened on the last word.
 
@@ -152,9 +154,9 @@ Neither sister answered.
 
 “He will stop being a boy. You cannot frighten childhood out of him forever. Eventually the fear you use to control him will be carried into adulthood, where it will become exhaustion, distraction, poor judgment.”
 
-Greyanna’s mouth tightened. “Discipline is not the same as fear.”
+Greyanna’s mouth tightened. “Fear holds better than discipline.”
 
-“No. That is precisely my point. One can live with discipline. One cannot live indefinitely in expectation of pain without the expectation changing the person.”
+“For a time. Discipline is not the same as fear, and that is precisely my point. One can live with discipline. One cannot live in fear and still hope to be a worthy drow.”
 
 Zilvrae drew a slow breath. “I have better uses for my time than spending a decade training a drow whose first instinct is fear. How long do you expect him to survive beyond these walls like this? At this point, you might as well kill the boy and save me the—”
 
